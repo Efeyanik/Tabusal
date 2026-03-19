@@ -1,0 +1,6591 @@
+fileFormatVersion: 2
+guid: af05760ee71f3df46870dd3e4f7179f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7598334622453271700
+    second: dust_leftcopty_0
+  - first:
+      213: 7477985191484363919
+    second: dust_leftcopty_1
+  - first:
+      213: -2319966128405433114
+    second: dust_leftcopty_2
+  - first:
+      213: 6948300334980384304
+    second: dust_leftcopty_3
+  - first:
+      213: -5015463382577547399
+    second: dust_leftcopty_4
+  - first:
+      213: 1881477717875446769
+    second: dust_leftcopty_5
+  - first:
+      213: -1213857958257385849
+    second: dust_leftcopty_6
+  - first:
+      213: 3412218784039484597
+    second: dust_leftcopty_7
+  - first:
+      213: -2923426043234900711
+    second: dust_leftcopty_8
+  - first:
+      213: 726751590714624879
+    second: dust_leftcopty_9
+  - first:
+      213: -8128664507008854032
+    second: dust_leftcopty_10
+  - first:
+      213: 7630642634091281303
+    second: dust_leftcopty_11
+  - first:
+      213: 6170738332273353070
+    second: dust_leftcopty_12
+  - first:
+      213: -2715696161707237384
+    second: dust_leftcopty_13
+  - first:
+      213: -2136705985895661488
+    second: dust_leftcopty_14
+  - first:
+      213: -7406288772385273861
+    second: dust_leftcopty_15
+  - first:
+      213: 1736380876376415860
+    second: dust_leftcopty_16
+  - first:
+      213: 8602067286479592112
+    second: dust_leftcopty_17
+  - first:
+      213: 2743252830913273154
+    second: dust_leftcopty_18
+  - first:
+      213: 8846559866625172690
+    second: dust_leftcopty_19
+  - first:
+      213: 453393568904012767
+    second: dust_leftcopty_20
+  - first:
+      213: -6150275488796888520
+    second: dust_leftcopty_21
+  - first:
+      213: -1186303062098525181
+    second: dust_leftcopty_22
+  - first:
+      213: -4130085038228182003
+    second: dust_leftcopty_23
+  - first:
+      213: -3141243418342879034
+    second: dust_leftcopty_24
+  - first:
+      213: 3565396071611541624
+    second: dust_leftcopty_25
+  - first:
+      213: -4420587206255622968
+    second: dust_leftcopty_26
+  - first:
+      213: 8782090447156879068
+    second: dust_leftcopty_27
+  - first:
+      213: 1694409061795907414
+    second: dust_leftcopty_28
+  - first:
+      213: 3234040944724986512
+    second: dust_leftcopty_29
+  - first:
+      213: 229922270166351460
+    second: dust_leftcopty_30
+  - first:
+      213: 5519730565615741254
+    second: dust_leftcopty_31
+  - first:
+      213: -5468350775707663863
+    second: dust_leftcopty_32
+  - first:
+      213: 8217513950839922617
+    second: dust_leftcopty_33
+  - first:
+      213: 3667051973946042079
+    second: dust_leftcopty_34
+  - first:
+      213: 4337520096048595927
+    second: dust_leftcopty_35
+  - first:
+      213: -3592244193958074644
+    second: dust_leftcopty_36
+  - first:
+      213: -2196669653832165901
+    second: dust_leftcopty_37
+  - first:
+      213: 7910996476110564467
+    second: dust_leftcopty_38
+  - first:
+      213: -6264390082820335462
+    second: dust_leftcopty_39
+  - first:
+      213: 1643003618897405631
+    second: dust_leftcopty_40
+  - first:
+      213: -3384352271436021370
+    second: dust_leftcopty_41
+  - first:
+      213: 7492508653812167734
+    second: dust_leftcopty_42
+  - first:
+      213: -6451788356948574764
+    second: dust_leftcopty_43
+  - first:
+      213: 2246110547874277070
+    second: dust_leftcopty_44
+  - first:
+      213: 1737436126627579648
+    second: dust_leftcopty_45
+  - first:
+      213: 5589372837625667851
+    second: dust_leftcopty_46
+  - first:
+      213: -7118112330558202903
+    second: dust_leftcopty_47
+  - first:
+      213: 4538744634838752284
+    second: dust_leftcopty_48
+  - first:
+      213: 8712617216783344798
+    second: dust_leftcopty_49
+  - first:
+      213: 711766107032646696
+    second: dust_leftcopty_50
+  - first:
+      213: -5738366112750888865
+    second: dust_leftcopty_51
+  - first:
+      213: -7084293965138598764
+    second: dust_leftcopty_52
+  - first:
+      213: -5794871141335719392
+    second: dust_leftcopty_53
+  - first:
+      213: 318795090462366715
+    second: dust_leftcopty_54
+  - first:
+      213: -1312285621608356520
+    second: dust_leftcopty_55
+  - first:
+      213: 4974208611647826305
+    second: dust_leftcopty_56
+  - first:
+      213: 6165443028089690756
+    second: dust_leftcopty_57
+  - first:
+      213: -4367956526704241338
+    second: dust_leftcopty_58
+  - first:
+      213: -4356357026053638277
+    second: dust_leftcopty_59
+  - first:
+      213: -5723800571391654822
+    second: dust_leftcopty_60
+  - first:
+      213: -7265486854499500774
+    second: dust_leftcopty_61
+  - first:
+      213: 6812976930450414831
+    second: dust_leftcopty_62
+  - first:
+      213: -5442538022193130234
+    second: dust_leftcopty_63
+  - first:
+      213: -5874640212429992130
+    second: dust_leftcopty_64
+  - first:
+      213: -8190480897996245795
+    second: dust_leftcopty_65
+  - first:
+      213: -2243854196044380340
+    second: dust_leftcopty_66
+  - first:
+      213: -545410177252652532
+    second: dust_leftcopty_67
+  - first:
+      213: 5946051739391677610
+    second: dust_leftcopty_68
+  - first:
+      213: 6307226430557056940
+    second: dust_leftcopty_69
+  - first:
+      213: 4350258837665077285
+    second: dust_leftcopty_70
+  - first:
+      213: 5775730119652674117
+    second: dust_leftcopty_71
+  - first:
+      213: -3368856819236183180
+    second: dust_leftcopty_72
+  - first:
+      213: -7694545900806082446
+    second: dust_leftcopty_73
+  - first:
+      213: -7631027098896716888
+    second: dust_leftcopty_74
+  - first:
+      213: 3750210989780137318
+    second: dust_leftcopty_75
+  - first:
+      213: -3654916200642990589
+    second: dust_leftcopty_76
+  - first:
+      213: -4042582138564804869
+    second: dust_leftcopty_77
+  - first:
+      213: -6663038204553445560
+    second: dust_leftcopty_78
+  - first:
+      213: -2831897922620653125
+    second: dust_leftcopty_79
+  - first:
+      213: -2604338214057450606
+    second: dust_leftcopty_80
+  - first:
+      213: 9083316867522357236
+    second: dust_leftcopty_81
+  - first:
+      213: 3960511731039574328
+    second: dust_leftcopty_82
+  - first:
+      213: -6068003443277433098
+    second: dust_leftcopty_83
+  - first:
+      213: 1245726988031078985
+    second: dust_leftcopty_84
+  - first:
+      213: -6406382078223794546
+    second: dust_leftcopty_85
+  - first:
+      213: -7488801587297093919
+    second: dust_leftcopty_86
+  - first:
+      213: -3819363366659016357
+    second: dust_leftcopty_87
+  - first:
+      213: 2393844258627483396
+    second: dust_leftcopty_88
+  - first:
+      213: 8075199863566593469
+    second: dust_leftcopty_89
+  - first:
+      213: -1418870489549564025
+    second: dust_leftcopty_90
+  - first:
+      213: 357002846176471342
+    second: dust_leftcopty_91
+  - first:
+      213: 6565380437630153153
+    second: dust_leftcopty_92
+  - first:
+      213: 5828548106845998705
+    second: dust_leftcopty_93
+  - first:
+      213: 5137993681927804700
+    second: dust_leftcopty_94
+  - first:
+      213: 1834663238643256940
+    second: dust_leftcopty_95
+  - first:
+      213: 952810327260700417
+    second: dust_leftcopty_96
+  - first:
+      213: -3281640454958226969
+    second: dust_leftcopty_97
+  - first:
+      213: 21039846645902723
+    second: dust_leftcopty_98
+  - first:
+      213: 7798476683609951873
+    second: dust_leftcopty_99
+  - first:
+      213: -3658495769444242397
+    second: dust_leftcopty_100
+  - first:
+      213: -622192567598193240
+    second: dust_leftcopty_101
+  - first:
+      213: 8980953777029545829
+    second: dust_leftcopty_102
+  - first:
+      213: 727223718526085937
+    second: dust_leftcopty_103
+  - first:
+      213: 8713539733022014454
+    second: dust_leftcopty_104
+  - first:
+      213: -3082140562206375797
+    second: dust_leftcopty_105
+  - first:
+      213: 1672954160106241060
+    second: dust_leftcopty_106
+  - first:
+      213: 5087953308018495092
+    second: dust_leftcopty_107
+  - first:
+      213: 9142020993578965606
+    second: dust_leftcopty_108
+  - first:
+      213: 6844028120626496330
+    second: dust_leftcopty_109
+  - first:
+      213: -4791148251990061504
+    second: dust_leftcopty_110
+  - first:
+      213: -4440920428896559066
+    second: dust_leftcopty_111
+  - first:
+      213: -8389034678505081906
+    second: dust_leftcopty_112
+  - first:
+      213: 1572391911993154634
+    second: dust_leftcopty_113
+  - first:
+      213: 3471445813584338413
+    second: dust_leftcopty_114
+  - first:
+      213: 4286202061911841200
+    second: dust_leftcopty_115
+  - first:
+      213: -3542720836583320998
+    second: dust_leftcopty_116
+  - first:
+      213: 371322409276716618
+    second: dust_leftcopty_117
+  - first:
+      213: 1998268302593344284
+    second: dust_leftcopty_118
+  - first:
+      213: 3437980508728304443
+    second: dust_leftcopty_119
+  - first:
+      213: -7094379289935911989
+    second: dust_leftcopty_120
+  - first:
+      213: -7528139259022702485
+    second: dust_leftcopty_121
+  - first:
+      213: -5630767944036283660
+    second: dust_leftcopty_122
+  - first:
+      213: -1702695009110064975
+    second: dust_leftcopty_123
+  - first:
+      213: 5410516574975233353
+    second: dust_leftcopty_124
+  - first:
+      213: 4632671510117503903
+    second: dust_leftcopty_125
+  - first:
+      213: -3469798191656724840
+    second: dust_leftcopty_126
+  - first:
+      213: -7739245778103980639
+    second: dust_leftcopty_127
+  - first:
+      213: -3546757103661322656
+    second: dust_leftcopty_128
+  - first:
+      213: 7582704599285210761
+    second: dust_leftcopty_129
+  - first:
+      213: 1460360903040858030
+    second: dust_leftcopty_130
+  - first:
+      213: 4274415350366726046
+    second: dust_leftcopty_131
+  - first:
+      213: 873538322361435801
+    second: dust_leftcopty_132
+  - first:
+      213: 1494048606882806320
+    second: dust_leftcopty_133
+  - first:
+      213: -8896510512508865562
+    second: dust_leftcopty_134
+  - first:
+      213: -3874819543510326181
+    second: dust_leftcopty_135
+  - first:
+      213: 7732392109904776076
+    second: dust_leftcopty_136
+  - first:
+      213: -8518358431387376048
+    second: dust_leftcopty_137
+  - first:
+      213: -5824868289787129668
+    second: dust_leftcopty_138
+  - first:
+      213: 980388337432854356
+    second: dust_leftcopty_139
+  - first:
+      213: 7529649678946472358
+    second: dust_leftcopty_140
+  - first:
+      213: -3864545812265880495
+    second: dust_leftcopty_141
+  - first:
+      213: -685211513227665720
+    second: dust_leftcopty_142
+  - first:
+      213: 5860722196672244242
+    second: dust_leftcopty_143
+  - first:
+      213: 4855482686419990422
+    second: dust_leftcopty_144
+  - first:
+      213: -236728077448544299
+    second: dust_leftcopty_145
+  - first:
+      213: 4211493094140421908
+    second: dust_leftcopty_146
+  - first:
+      213: 7492018952464058304
+    second: dust_leftcopty_147
+  - first:
+      213: 6928955087253600492
+    second: dust_leftcopty_148
+  - first:
+      213: 442574685577607065
+    second: dust_leftcopty_149
+  - first:
+      213: 2586956400718308234
+    second: dust_leftcopty_150
+  - first:
+      213: -3241061061927471595
+    second: dust_leftcopty_151
+  - first:
+      213: -6742816526455295730
+    second: dust_leftcopty_152
+  - first:
+      213: -7474250954243982078
+    second: dust_leftcopty_153
+  - first:
+      213: 1299861035170183815
+    second: dust_leftcopty_154
+  - first:
+      213: -3139570854210228390
+    second: dust_leftcopty_155
+  - first:
+      213: 6060458820077989097
+    second: dust_leftcopty_156
+  - first:
+      213: -740993781965629814
+    second: dust_leftcopty_157
+  - first:
+      213: 5636765915986617774
+    second: dust_leftcopty_158
+  - first:
+      213: 502918089143722736
+    second: dust_leftcopty_159
+  - first:
+      213: 7415007008810486256
+    second: dust_leftcopty_160
+  - first:
+      213: 3400869378798580656
+    second: dust_leftcopty_161
+  - first:
+      213: 2632090294022079049
+    second: dust_leftcopty_162
+  - first:
+      213: -781712788080777927
+    second: dust_leftcopty_163
+  - first:
+      213: 3527982823315307739
+    second: dust_leftcopty_164
+  - first:
+      213: -3774657092158213985
+    second: dust_leftcopty_165
+  - first:
+      213: 3211988928241189024
+    second: dust_leftcopty_166
+  - first:
+      213: -7139244620547505214
+    second: dust_leftcopty_167
+  - first:
+      213: 105551459933770476
+    second: dust_leftcopty_168
+  - first:
+      213: 2345211711134437335
+    second: dust_leftcopty_169
+  - first:
+      213: 460256736429915383
+    second: dust_leftcopty_170
+  - first:
+      213: 7969155217055511
+    second: dust_leftcopty_171
+  - first:
+      213: 8302492638977320575
+    second: dust_leftcopty_172
+  - first:
+      213: 7671735832430565717
+    second: dust_leftcopty_173
+  - first:
+      213: -405021594779891593
+    second: dust_leftcopty_174
+  - first:
+      213: 6204102257669323213
+    second: dust_leftcopty_175
+  - first:
+      213: -6779239541523306944
+    second: dust_leftcopty_176
+  - first:
+      213: 1760511374931485208
+    second: dust_leftcopty_177
+  - first:
+      213: -6118959265410465755
+    second: dust_leftcopty_178
+  - first:
+      213: 2749455984700520281
+    second: dust_leftcopty_179
+  - first:
+      213: -1611423216987158046
+    second: dust_leftcopty_180
+  - first:
+      213: 5699985790312655394
+    second: dust_leftcopty_181
+  - first:
+      213: -8741175815743873540
+    second: dust_leftcopty_182
+  - first:
+      213: -6809592071856060831
+    second: dust_leftcopty_183
+  - first:
+      213: 5640847332784360633
+    second: dust_leftcopty_184
+  - first:
+      213: 7867905660659260665
+    second: dust_leftcopty_185
+  - first:
+      213: 5404851600826810701
+    second: dust_leftcopty_186
+  - first:
+      213: 2493402438308566158
+    second: dust_leftcopty_187
+  - first:
+      213: 7301757593248868979
+    second: dust_leftcopty_188
+  - first:
+      213: -3289594210828266957
+    second: dust_leftcopty_189
+  - first:
+      213: -8557204914052672164
+    second: dust_leftcopty_190
+  - first:
+      213: -1348388154625549951
+    second: dust_leftcopty_191
+  - first:
+      213: -6850836149433250588
+    second: dust_leftcopty_192
+  - first:
+      213: 8735420638111996479
+    second: dust_leftcopty_193
+  - first:
+      213: 5069623608107788629
+    second: dust_leftcopty_194
+  - first:
+      213: 3102141363631435336
+    second: dust_leftcopty_195
+  - first:
+      213: -6782024205791113734
+    second: dust_leftcopty_196
+  - first:
+      213: -8249392013856624402
+    second: dust_leftcopty_197
+  - first:
+      213: 5499353639638500809
+    second: dust_leftcopty_198
+  - first:
+      213: 4590898885737775457
+    second: dust_leftcopty_199
+  - first:
+      213: -1675576882846061157
+    second: dust_leftcopty_200
+  - first:
+      213: 3461503486940769245
+    second: dust_leftcopty_201
+  - first:
+      213: 3729298370584249065
+    second: dust_leftcopty_202
+  - first:
+      213: 6402986909537434280
+    second: dust_leftcopty_203
+  - first:
+      213: -4564051156971822627
+    second: dust_leftcopty_204
+  - first:
+      213: 4737806279325485474
+    second: dust_leftcopty_205
+  - first:
+      213: -6736177602134496562
+    second: dust_leftcopty_206
+  - first:
+      213: -4047667927957653736
+    second: dust_leftcopty_207
+  - first:
+      213: 131276096643414112
+    second: dust_leftcopty_208
+  - first:
+      213: -4314994505633286507
+    second: dust_leftcopty_209
+  - first:
+      213: -6325882705069400510
+    second: dust_leftcopty_210
+  - first:
+      213: -9191313078926165586
+    second: dust_leftcopty_211
+  - first:
+      213: -7676329809031974356
+    second: dust_leftcopty_212
+  - first:
+      213: 5138282832975807562
+    second: dust_leftcopty_213
+  - first:
+      213: 2292691311978877118
+    second: dust_leftcopty_214
+  - first:
+      213: 8957132044347579719
+    second: dust_leftcopty_215
+  - first:
+      213: 8647455358756581976
+    second: dust_leftcopty_216
+  - first:
+      213: -5214089440221680833
+    second: dust_leftcopty_217
+  - first:
+      213: -5159711692423971317
+    second: dust_leftcopty_218
+  - first:
+      213: 5556205263471641652
+    second: dust_leftcopty_219
+  - first:
+      213: 6087907248731219577
+    second: dust_leftcopty_220
+  - first:
+      213: 3756030985626132868
+    second: dust_leftcopty_221
+  - first:
+      213: -1434855434565308572
+    second: dust_leftcopty_222
+  - first:
+      213: 4524878100419663267
+    second: dust_leftcopty_223
+  - first:
+      213: 6489420252124205209
+    second: dust_leftcopty_224
+  - first:
+      213: 3721587125620210545
+    second: dust_leftcopty_225
+  - first:
+      213: -7601685069142886092
+    second: dust_leftcopty_226
+  - first:
+      213: 332540136375987845
+    second: dust_leftcopty_227
+  - first:
+      213: -5597459913130391301
+    second: dust_leftcopty_228
+  - first:
+      213: 2151652412014591564
+    second: dust_leftcopty_229
+  - first:
+      213: -7772396492410554051
+    second: dust_leftcopty_230
+  - first:
+      213: 7989048830976817938
+    second: dust_leftcopty_231
+  - first:
+      213: -5033225064234193423
+    second: dust_leftcopty_232
+  - first:
+      213: 1495894838516788315
+    second: dust_leftcopty_233
+  - first:
+      213: 1974018718101064674
+    second: dust_leftcopty_234
+  - first:
+      213: 3181844795564405512
+    second: dust_leftcopty_235
+  - first:
+      213: 833472547831539752
+    second: dust_leftcopty_236
+  - first:
+      213: 3810557461368446856
+    second: dust_leftcopty_237
+  - first:
+      213: -4796187104807354005
+    second: dust_leftcopty_238
+  - first:
+      213: -9073269691503896941
+    second: dust_leftcopty_239
+  - first:
+      213: 792860892849112635
+    second: dust_leftcopty_240
+  - first:
+      213: 7037370587498084835
+    second: dust_leftcopty_241
+  - first:
+      213: 2698119349941750082
+    second: dust_leftcopty_242
+  - first:
+      213: -5664605421735793336
+    second: dust_leftcopty_243
+  - first:
+      213: -3127490057494610981
+    second: dust_leftcopty_244
+  - first:
+      213: 6353055377442583256
+    second: dust_leftcopty_245
+  - first:
+      213: 966993044966785219
+    second: dust_leftcopty_246
+  - first:
+      213: -211863062637591569
+    second: dust_leftcopty_247
+  - first:
+      213: 5899770985579365197
+    second: dust_leftcopty_248
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dust_leftcopty_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 990
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c01e7d415b27960800000000000000
+      internalID: 7598334622453271700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 955
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f849e0e59e327c760800000000000000
+      internalID: 7477985191484363919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 839
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4b4711913ddcfd0800000000000000
+      internalID: -2319966128405433114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 352
+        width: 237
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036cb3b47525d6060800000000000000
+      internalID: 6948300334980384304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 744
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9777c7960ae756ab0800000000000000
+      internalID: -5015463382577547399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 721
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f357c2140a5c1a10800000000000000
+      internalID: 1881477717875446769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 758
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e99464e92872fe0800000000000000
+      internalID: -1213857958257385849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 866
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb696c7e2aa5f20800000000000000
+      internalID: 3412218784039484597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 741
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915abdda087ed67d0800000000000000
+      internalID: -2923426043234900711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 738
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bce74a8b0f51a00800000000000000
+      internalID: 726751590714624879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 773
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f75969c2be213f80800000000000000
+      internalID: -8128664507008854032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 760
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b36fcfb0d75e960800000000000000
+      internalID: 7630642634091281303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 677
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e612a09b1ddd2a550800000000000000
+      internalID: 6170738332273353070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 604
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff5c83bab8ef4ad0800000000000000
+      internalID: -2715696161707237384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 914
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0500d310a35e852e0800000000000000
+      internalID: -2136705985895661488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7030a0a93973990800000000000000
+      internalID: -7406288772385273861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 782
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9233153dd81810800000000000000
+      internalID: 1736380876376415860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 697
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0badf901f9ea06770800000000000000
+      internalID: 8602067286479592112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 854
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d9ba35aedf11620800000000000000
+      internalID: 2743252830913273154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 572
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ab6ed35b45ca70800000000000000
+      internalID: 8846559866625172690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 880
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd368f97c07ca4600800000000000000
+      internalID: 453393568904012767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 766
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832387b4705d5aaa0800000000000000
+      internalID: -6150275488796888520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 457
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c8ab76a7698fe0800000000000000
+      internalID: -1186303062098525181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 740
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ce0443a8dfea6c0800000000000000
+      internalID: -4130085038228182003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 779
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c093a801cf0864d0800000000000000
+      internalID: -3141243418342879034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 873
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878aafb36d4da7130800000000000000
+      internalID: 3565396071611541624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 614
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c44f707b5be6a2c0800000000000000
+      internalID: -4420587206255622968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 712
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde13207bb040e970800000000000000
+      internalID: 8782090447156879068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 693
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574c887010c38710800000000000000
+      internalID: 1694409061795907414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 722
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac663ca1f91ec20800000000000000
+      internalID: 3234040944724986512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 851
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e77372619d03300800000000000000
+      internalID: 229922270166351460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 621
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649646364b50a9c40800000000000000
+      internalID: 5519730565615741254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 855
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90286ba21f38c14b0800000000000000
+      internalID: -5468350775707663863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 752
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf51a866697a0270800000000000000
+      internalID: 8217513950839922617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 683
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6e2f7675cf3e230800000000000000
+      internalID: 3667051973946042079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 880
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d34813db87f13c30800000000000000
+      internalID: 4337520096048595927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 769
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66ba820f8c52ec0800000000000000
+      internalID: -3592244193958074644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 676
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5147a969cd381e0800000000000000
+      internalID: -2196669653832165901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 859
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cefe9716189cd60800000000000000
+      internalID: 7910996476110564467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 733
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98930be86a6019a0800000000000000
+      internalID: -6264390082820335462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 790
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6af0d161f1dc610800000000000000
+      internalID: 1643003618897405631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 834
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681054a4a8d5801d0800000000000000
+      internalID: -3384352271436021370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 708
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634b3037cecbaf760800000000000000
+      internalID: 7492508653812167734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 724
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd34122ca4a676a0800000000000000
+      internalID: -6451788356948574764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 474
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6ed4494a9cb2f10800000000000000
+      internalID: 2246110547874277070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 844
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007419ba3fc9c1810800000000000000
+      internalID: 1737436126627579648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 744
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0125e76bf0719d40800000000000000
+      internalID: 5589372837625667851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 582
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb10c97c82673d90800000000000000
+      internalID: -7118112330558202903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 698
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c16c5b23cdcfe30800000000000000
+      internalID: 4538744634838752284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 804
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94e25e723f69e870800000000000000
+      internalID: 8712617216783344798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 661
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824f7d4d083b0e900800000000000000
+      internalID: 711766107032646696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 739
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5818527c6a3d50b0800000000000000
+      internalID: -5738366112750888865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 677
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49468734c288fad90800000000000000
+      internalID: -7084293965138598764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_53
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 745
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a585466b749fa0800000000000000
+      internalID: -5794871141335719392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_54
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 713
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd52b12769c6400800000000000000
+      internalID: 318795090462366715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 682
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8556e201e23d9cde0800000000000000
+      internalID: -1312285621608356520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 433
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18925f7b060f70540800000000000000
+      internalID: 4974208611647826305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_57
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 891
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad134a4cd009550800000000000000
+      internalID: 6165443028089690756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 846
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645d17f6ea6e163c0800000000000000
+      internalID: -4367956526704241338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 823
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77bb43ad5c1b83c0800000000000000
+      internalID: -4356357026053638277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_60
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 859
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54c501d4b9f090b0800000000000000
+      internalID: -5723800571391654822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 756
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7945333ecb2b90800000000000000
+      internalID: -7265486854499500774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_62
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 598
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec9d6aeb6e8c8e50800000000000000
+      internalID: 6812976930450414831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_63
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 705
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6051f9e21883874b0800000000000000
+      internalID: -5442538022193130234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f82ea1ad5197ea0800000000000000
+      internalID: -5874640212429992130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 752
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4bf4fa401955e80800000000000000
+      internalID: -8190480897996245795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_66
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4741054f7a3cd0e0800000000000000
+      internalID: -2243854196044380340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 858
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a09ff55505e68f0800000000000000
+      internalID: -545410177252652532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_68
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 793
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4d88ead8e948250800000000000000
+      internalID: 5946051739391677610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_69
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 419
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafee4f7505c78750800000000000000
+      internalID: 6307226430557056940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 484
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528d70c3d593f5c30800000000000000
+      internalID: 4350258837665077285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_71
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 762
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a0c6451f3872050800000000000000
+      internalID: 5775730119652674117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_72
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 729
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4736646629a6f31d0800000000000000
+      internalID: -3368856819236183180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 635
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f38a454b773590800000000000000
+      internalID: -7694545900806082446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 746
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba1e2d845291690800000000000000
+      internalID: -7631027098896716888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_75
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 660
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6657c96960d6b0430800000000000000
+      internalID: 3750210989780137318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_76
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 573
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eaad08411274dc0800000000000000
+      internalID: -3654916200642990589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 778
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7187a6fcd5e7c0800000000000000
+      internalID: -4042582138564804869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 612
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f3cb42e022883a0800000000000000
+      internalID: -6663038204553445560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_79
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 557
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1870ae7d313b8d0800000000000000
+      internalID: -2831897922620653125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_80
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 821
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293612451388bdbd0800000000000000
+      internalID: -2604338214057450606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_81
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 852
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7ebf6c09c6e0e70800000000000000
+      internalID: 9083316867522357236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_82
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 706
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83991698f6096f630800000000000000
+      internalID: 3960511731039574328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_83
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 595
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6f99b940f1acba0800000000000000
+      internalID: -6068003443277433098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_84
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 688
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b5b07816b94110800000000000000
+      internalID: 1245726988031078985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_85
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 682
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eba0c3175f717a0800000000000000
+      internalID: -6406382078223794546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_86
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 644
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e676cb32ae621890800000000000000
+      internalID: -7488801587297093919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 729
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59362ef045eefac0800000000000000
+      internalID: -3819363366659016357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_88
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 537
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407791b8ba4a83120800000000000000
+      internalID: 2393844258627483396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 608
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6b2edd7fd01070800000000000000
+      internalID: 8075199863566593469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_90
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 796
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7871d18aec82f4ce0800000000000000
+      internalID: -1418870489549564025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_91
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 604
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29e626723454f400800000000000000
+      internalID: 357002846176471342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_92
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 691
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c17e3029baec1b50800000000000000
+      internalID: 6565380437630153153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_93
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ec4d84f9923e050800000000000000
+      internalID: 5828548106845998705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_94
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 713
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17128d0802dd4740800000000000000
+      internalID: 5137993681927804700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_95
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 475
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e8ccdbe78067910800000000000000
+      internalID: 1834663238643256940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_96
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 847
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f92b6c1ff093d00800000000000000
+      internalID: 952810327260700417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 662
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e9a1a4654572d0800000000000000
+      internalID: -3281640454958226969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_98
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 591
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d257901afba4000800000000000000
+      internalID: 21039846645902723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_99
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 801
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eccb3c931c93c60800000000000000
+      internalID: 7798476683609951873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_100
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 766
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ca1023b796a3dc0800000000000000
+      internalID: -3658495769444242397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_101
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5eb6208278d57f0800000000000000
+      internalID: -622192567598193240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_102
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 697
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f7c0880e1c2ac70800000000000000
+      internalID: 8980953777029545829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_103
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 530
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b6cf67e1e971a00800000000000000
+      internalID: 727223718526085937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 742
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb770b8836bce870800000000000000
+      internalID: 8713539733022014454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 634
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80cdd11d790a35d0800000000000000
+      internalID: -3082140562206375797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf4a6e1f6873710800000000000000
+      internalID: 1672954160106241060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 712
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e4736939a0c9640800000000000000
+      internalID: 5087953308018495092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_108
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 877
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a107b38abfede70800000000000000
+      internalID: 9142020993578965606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_109
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 723
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430ab2805fdafe50800000000000000
+      internalID: 6844028120626496330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 333
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e06e5ac0c628db0800000000000000
+      internalID: -4791148251990061504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_111
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 691
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62068df166eae52c0800000000000000
+      internalID: -4440920428896559066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_112
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 372
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3754b2869249b80800000000000000
+      internalID: -8389034678505081906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 677
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c9c02fc1242d510800000000000000
+      internalID: 1572391911993154634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_114
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 716
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded16bf239d0d2030800000000000000
+      internalID: 3471445813584338413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_115
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 796
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95dc7e016ab7b30800000000000000
+      internalID: 4286202061911841200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 661
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5293155b2ab5dec0800000000000000
+      internalID: -3542720836583320998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_117
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 440
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b41e83c3372500800000000000000
+      internalID: 371322409276716618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_118
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 365
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13cff51f664bbb10800000000000000
+      internalID: 1998268302593344284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_119
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 754
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33a777be0926bf20800000000000000
+      internalID: 3437980508728304443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_120
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 737
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc36b799f93bb8d90800000000000000
+      internalID: -7094379289935911989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_121
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 672
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68874eca3da68790800000000000000
+      internalID: -7528139259022702485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_122
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 643
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa8f03536e7bd1b0800000000000000
+      internalID: -5630767944036283660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_123
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 700
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b00a2519efce58e0800000000000000
+      internalID: -1702695009110064975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_124
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 347
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d03c6a824061b40800000000000000
+      internalID: 5410516574975233353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_125
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 710
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9350a9813e8a4040800000000000000
+      internalID: 4632671510117503903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_126
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 684
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961200bdecc8dfc0800000000000000
+      internalID: -3469798191656724840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_127
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 580
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adaba618fca89490800000000000000
+      internalID: -7739245778103980639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_128
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 645
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e6caba43367cec0800000000000000
+      internalID: -3546757103661322656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_129
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 588
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e9d1d78ad2b3960800000000000000
+      internalID: 7582704599285210761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_130
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 390
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea77e95018e344410800000000000000
+      internalID: 1460360903040858030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 727
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e5154d16c15b30800000000000000
+      internalID: 4274415350366726046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 636
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9964b0ad97e6f1c00800000000000000
+      internalID: 873538322361435801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_133
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 334
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aba6aca4debb410800000000000000
+      internalID: 1494048606882806320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_134
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 352
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3716913de398480800000000000000
+      internalID: -8896510512508865562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_135
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 759
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b546354a720e93ac0800000000000000
+      internalID: -3874819543510326181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_136
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 698
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b48eee7a9fe4b60800000000000000
+      internalID: 7732392109904776076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_137
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 670
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a3bb8326b8c980800000000000000
+      internalID: -8518358431387376048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_138
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 420
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb01dc3e629e92fa0800000000000000
+      internalID: -5824868289787129668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_139
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 638
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ffe92aff90b9d00800000000000000
+      internalID: 980388337432854356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_140
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 556
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a11dbc3d70be7860800000000000000
+      internalID: 7529649678946472358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_141
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 401
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1543ba91f006e5ac0800000000000000
+      internalID: -3864545812265880495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_142
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 773
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce9e0652c3ad76f0800000000000000
+      internalID: -685211513227665720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_143
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a65e359c7755150800000000000000
+      internalID: 5860722196672244242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_144
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 498
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977f1127c3226340800000000000000
+      internalID: 4855482686419990422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_145
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 633
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df715b5119f6bcf0800000000000000
+      internalID: -236728077448544299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_146
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 296
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417204ad7aa327a30800000000000000
+      internalID: 4211493094140421908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_147
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 816
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c74d18fa8ff8f760800000000000000
+      internalID: 7492018952464058304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_148
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 768
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8f260d0f7982060800000000000000
+      internalID: 6928955087253600492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_149
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 371
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997fe68e457542600800000000000000
+      internalID: 442574685577607065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_150
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 755
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83ec32e327b6e320800000000000000
+      internalID: 2586956400718308234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_151
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 510
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5167674d2207503d0800000000000000
+      internalID: -3241061061927471595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_152
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 601
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01bffa1814bc62a0800000000000000
+      internalID: -6742816526455295730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_153
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 395
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20db92e7b50264890800000000000000
+      internalID: -7474250954243982078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 387
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab0ba79b80a0210800000000000000
+      internalID: 1299861035170183815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_155
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 730
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f21a731f00e64d0800000000000000
+      internalID: -3139570854210228390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_156
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 694
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca1aaef231b1450800000000000000
+      internalID: 6060458820077989097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_157
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 472
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a865a2dc41677b5f0800000000000000
+      internalID: -740993781965629814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 593
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea569685cb0d93e40800000000000000
+      internalID: 5636765915986617774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_159
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 720
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a7866659baf600800000000000000
+      internalID: 502918089143722736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_160
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 496
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f94e2f869567e660800000000000000
+      internalID: 7415007008810486256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_161
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 749
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3fac27ea0523f20800000000000000
+      internalID: 3400869378798580656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_162
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94280ff4d20178420800000000000000
+      internalID: 2632090294022079049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_163
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 400
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a0166c5cc625f0800000000000000
+      internalID: -781712788080777927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_164
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 670
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc736d8fa9e5f030800000000000000
+      internalID: 3527982823315307739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_165
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f903009af59bd9bc0800000000000000
+      internalID: -3774657092158213985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_166
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 778
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0cd4299e6439c20800000000000000
+      internalID: 3211988928241189024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_167
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 715
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c5abc7de4cec90800000000000000
+      internalID: -7139244620547505214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_168
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce250ea5e7ef67100800000000000000
+      internalID: 105551459933770476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_169
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 380
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df014530addb8020800000000000000
+      internalID: 2345211711134437335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_170
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 724
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcb2603019236600800000000000000
+      internalID: 460256736429915383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_171
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 703
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f5fd987ef4c1000800000000000000
+      internalID: 7969155217055511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_172
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 621
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76e9801111683370800000000000000
+      internalID: 8302492638977320575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_173
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 645
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559d8aec71b777a60800000000000000
+      internalID: 7671735832430565717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_174
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 635
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77848c46103116af0800000000000000
+      internalID: -405021594779891593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_175
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 581
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc93492f126691650800000000000000
+      internalID: 6204102257669323213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_176
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 655
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a8301e8d4be1a0800000000000000
+      internalID: -6779239541523306944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_177
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 735
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81263d594c79e6810800000000000000
+      internalID: 1760511374931485208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_178
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 522
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520cf1eb7f6151ba0800000000000000
+      internalID: -6118959265410465755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_179
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 773
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95775ad96a7082620800000000000000
+      internalID: 2749455984700520281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 642
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9c9a03f1313a9e0800000000000000
+      internalID: -1611423216987158046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_181
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 565
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a2c5060ea6a1f40800000000000000
+      internalID: 5699985790312655394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_182
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 403
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd95788ea11b680800000000000000
+      internalID: -8741175815743873540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_183
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 758
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16604b3e6187f71a0800000000000000
+      internalID: -6809592071856060831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_184
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 723
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc42de33c0584e40800000000000000
+      internalID: 5640847332784360633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_185
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 370
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc51ed238a603d60800000000000000
+      internalID: 7867905660659260665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_186
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 708
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41cbf215e3e10b40800000000000000
+      internalID: 5404851600826810701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_187
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 673
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8499799e485a9220800000000000000
+      internalID: 2493402438308566158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_188
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 569
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a2c9d38dd055560800000000000000
+      internalID: 7301757593248868979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_189
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 688
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33256688e730952d0800000000000000
+      internalID: -3289594210828266957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_190
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 748
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d9abf773be3980800000000000000
+      internalID: -8557204914052672164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_191
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 755
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18913301e10994de0800000000000000
+      internalID: -1348388154625549951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 424
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec40a2c1d0fce0a0800000000000000
+      internalID: -6850836149433250588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_193
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 718
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1842c9c27a3970800000000000000
+      internalID: 8735420638111996479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_194
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 186
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559e232cfcbea5640800000000000000
+      internalID: 5069623608107788629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_195
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 314
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2c4662250d0b20800000000000000
+      internalID: 3102141363631435336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_196
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 323
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd48b3eae861e1a0800000000000000
+      internalID: -6782024205791113734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_197
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0b129aba5448d80800000000000000
+      internalID: -8249392013856624402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_198
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 323
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c587e89ff0a15c40800000000000000
+      internalID: 5499353639638500809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_199
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 292
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1610324863626bf30800000000000000
+      internalID: 4590898885737775457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_200
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 306
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9daa10e3b72fb8e0800000000000000
+      internalID: -1675576882846061157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_201
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb61efd41bb90030800000000000000
+      internalID: 3461503486940769245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_202
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e20e100c1121c330800000000000000
+      internalID: 3729298370584249065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_203
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 290
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa74747baafbd850800000000000000
+      internalID: 6402986909537434280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_204
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 287
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ebf377ab39a0c0800000000000000
+      internalID: -4564051156971822627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_205
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 286
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a98fc585b110c140800000000000000
+      internalID: 4737806279325485474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_206
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 277
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa4d0292a4482a0800000000000000
+      internalID: -6736177602134496562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_207
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 280
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b759077bc3d7c0800000000000000
+      internalID: -4047667927957653736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_208
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 260
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0683ee31ae262d100800000000000000
+      internalID: 131276096643414112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_209
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 257
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59637f3eb5f0e14c0800000000000000
+      internalID: -4314994505633286507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_210
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 269
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e1d891233f538a0800000000000000
+      internalID: -6325882705069400510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_211
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9343fc375e17080800000000000000
+      internalID: -9191313078926165586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_212
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 254
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2238e9a5b2387590800000000000000
+      internalID: -7676329809031974356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_213
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 259
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44c2074309de4740800000000000000
+      internalID: 5138282832975807562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_214
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0102ed99641df10800000000000000
+      internalID: 2292691311978877118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_215
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 243
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1b9d23202e4c70800000000000000
+      internalID: 8957132044347579719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_216
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 244
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852fbb525dee10870800000000000000
+      internalID: 8647455358756581976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_217
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 230
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba8709745d3a7b0800000000000000
+      internalID: -5214089440221680833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_218
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 235
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eb3a59d850568b0800000000000000
+      internalID: -5159711692423971317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_219
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 215
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340264cf3b9b1d40800000000000000
+      internalID: 5556205263471641652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_220
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 206
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976662a33679c7450800000000000000
+      internalID: 6087907248731219577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_221
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 223
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4812b97f74a102430800000000000000
+      internalID: 3756030985626132868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_222
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f22be959e561ce0800000000000000
+      internalID: -1434855434565308572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 206
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5557398a89bce30800000000000000
+      internalID: 4524878100419663267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_224
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 209
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d61e365d0f0a50800000000000000
+      internalID: 6489420252124205209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_225
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 167
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b724fd5cbb5a330800000000000000
+      internalID: 3721587125620210545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_226
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 198
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f85f74b3618690800000000000000
+      internalID: -7601685069142886092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_227
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 195
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e204efd7b6d9400800000000000000
+      internalID: 332540136375987845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_228
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 173
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8cf599dd3d152b0800000000000000
+      internalID: -5597459913130391301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_229
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4efd3208743cdd10800000000000000
+      internalID: 2151652412014591564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_230
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 140
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d397060f196e22490800000000000000
+      internalID: -7772396492410554051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_231
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 70
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7f9f759dcede60800000000000000
+      internalID: 7989048830976817938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_232
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 157
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd6ab3a874662ab0800000000000000
+      internalID: -5033225064234193423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_233
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 138
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c22271e6c72c410800000000000000
+      internalID: 1495894838516788315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_234
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebc268b09f156b10800000000000000
+      internalID: 1974018718101064674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_235
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 117
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803ba02cbfe282c20800000000000000
+      internalID: 3181844795564405512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_236
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 119
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828e987cdd6119b00800000000000000
+      internalID: 833472547831539752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_237
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 102
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f941962d1d1e430800000000000000
+      internalID: 3810557461368446856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_238
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 112
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6106ad4d35807db0800000000000000
+      internalID: -4796187104807354005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_239
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 91
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396979ea945451280800000000000000
+      internalID: -9073269691503896941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_240
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 91
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36029208cec00b00800000000000000
+      internalID: 792860892849112635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_241
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 84
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9fa948343c9a160800000000000000
+      internalID: 7037370587498084835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_242
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 61
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c2e6e045a17520800000000000000
+      internalID: 2698119349941750082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_243
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 69
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dafac91674361b0800000000000000
+      internalID: -5664605421735793336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_244
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbb774ec5ce894d0800000000000000
+      internalID: -3127490057494610981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_245
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b9d2b4369a2850800000000000000
+      internalID: 6353055377442583256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_246
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 57
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0c4811d037b6d00800000000000000
+      internalID: 966993044966785219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_247
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 48
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c572caaf4f0df0800000000000000
+      internalID: -211863062637591569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_leftcopty_248
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d434d9bf37230e150800000000000000
+      internalID: 5899770985579365197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dust_leftcopty_0: 7598334622453271700
+      dust_leftcopty_1: 7477985191484363919
+      dust_leftcopty_10: -8128664507008854032
+      dust_leftcopty_100: -3658495769444242397
+      dust_leftcopty_101: -622192567598193240
+      dust_leftcopty_102: 8980953777029545829
+      dust_leftcopty_103: 727223718526085937
+      dust_leftcopty_104: 8713539733022014454
+      dust_leftcopty_105: -3082140562206375797
+      dust_leftcopty_106: 1672954160106241060
+      dust_leftcopty_107: 5087953308018495092
+      dust_leftcopty_108: 9142020993578965606
+      dust_leftcopty_109: 6844028120626496330
+      dust_leftcopty_11: 7630642634091281303
+      dust_leftcopty_110: -4791148251990061504
+      dust_leftcopty_111: -4440920428896559066
+      dust_leftcopty_112: -8389034678505081906
+      dust_leftcopty_113: 1572391911993154634
+      dust_leftcopty_114: 3471445813584338413
+      dust_leftcopty_115: 4286202061911841200
+      dust_leftcopty_116: -3542720836583320998
+      dust_leftcopty_117: 371322409276716618
+      dust_leftcopty_118: 1998268302593344284
+      dust_leftcopty_119: 3437980508728304443
+      dust_leftcopty_12: 6170738332273353070
+      dust_leftcopty_120: -7094379289935911989
+      dust_leftcopty_121: -7528139259022702485
+      dust_leftcopty_122: -5630767944036283660
+      dust_leftcopty_123: -1702695009110064975
+      dust_leftcopty_124: 5410516574975233353
+      dust_leftcopty_125: 4632671510117503903
+      dust_leftcopty_126: -3469798191656724840
+      dust_leftcopty_127: -7739245778103980639
+      dust_leftcopty_128: -3546757103661322656
+      dust_leftcopty_129: 7582704599285210761
+      dust_leftcopty_13: -2715696161707237384
+      dust_leftcopty_130: 1460360903040858030
+      dust_leftcopty_131: 4274415350366726046
+      dust_leftcopty_132: 873538322361435801
+      dust_leftcopty_133: 1494048606882806320
+      dust_leftcopty_134: -8896510512508865562
+      dust_leftcopty_135: -3874819543510326181
+      dust_leftcopty_136: 7732392109904776076
+      dust_leftcopty_137: -8518358431387376048
+      dust_leftcopty_138: -5824868289787129668
+      dust_leftcopty_139: 980388337432854356
+      dust_leftcopty_14: -2136705985895661488
+      dust_leftcopty_140: 7529649678946472358
+      dust_leftcopty_141: -3864545812265880495
+      dust_leftcopty_142: -685211513227665720
+      dust_leftcopty_143: 5860722196672244242
+      dust_leftcopty_144: 4855482686419990422
+      dust_leftcopty_145: -236728077448544299
+      dust_leftcopty_146: 4211493094140421908
+      dust_leftcopty_147: 7492018952464058304
+      dust_leftcopty_148: 6928955087253600492
+      dust_leftcopty_149: 442574685577607065
+      dust_leftcopty_15: -7406288772385273861
+      dust_leftcopty_150: 2586956400718308234
+      dust_leftcopty_151: -3241061061927471595
+      dust_leftcopty_152: -6742816526455295730
+      dust_leftcopty_153: -7474250954243982078
+      dust_leftcopty_154: 1299861035170183815
+      dust_leftcopty_155: -3139570854210228390
+      dust_leftcopty_156: 6060458820077989097
+      dust_leftcopty_157: -740993781965629814
+      dust_leftcopty_158: 5636765915986617774
+      dust_leftcopty_159: 502918089143722736
+      dust_leftcopty_16: 1736380876376415860
+      dust_leftcopty_160: 7415007008810486256
+      dust_leftcopty_161: 3400869378798580656
+      dust_leftcopty_162: 2632090294022079049
+      dust_leftcopty_163: -781712788080777927
+      dust_leftcopty_164: 3527982823315307739
+      dust_leftcopty_165: -3774657092158213985
+      dust_leftcopty_166: 3211988928241189024
+      dust_leftcopty_167: -7139244620547505214
+      dust_leftcopty_168: 105551459933770476
+      dust_leftcopty_169: 2345211711134437335
+      dust_leftcopty_17: 8602067286479592112
+      dust_leftcopty_170: 460256736429915383
+      dust_leftcopty_171: 7969155217055511
+      dust_leftcopty_172: 8302492638977320575
+      dust_leftcopty_173: 7671735832430565717
+      dust_leftcopty_174: -405021594779891593
+      dust_leftcopty_175: 6204102257669323213
+      dust_leftcopty_176: -6779239541523306944
+      dust_leftcopty_177: 1760511374931485208
+      dust_leftcopty_178: -6118959265410465755
+      dust_leftcopty_179: 2749455984700520281
+      dust_leftcopty_18: 2743252830913273154
+      dust_leftcopty_180: -1611423216987158046
+      dust_leftcopty_181: 5699985790312655394
+      dust_leftcopty_182: -8741175815743873540
+      dust_leftcopty_183: -6809592071856060831
+      dust_leftcopty_184: 5640847332784360633
+      dust_leftcopty_185: 7867905660659260665
+      dust_leftcopty_186: 5404851600826810701
+      dust_leftcopty_187: 2493402438308566158
+      dust_leftcopty_188: 7301757593248868979
+      dust_leftcopty_189: -3289594210828266957
+      dust_leftcopty_19: 8846559866625172690
+      dust_leftcopty_190: -8557204914052672164
+      dust_leftcopty_191: -1348388154625549951
+      dust_leftcopty_192: -6850836149433250588
+      dust_leftcopty_193: 8735420638111996479
+      dust_leftcopty_194: 5069623608107788629
+      dust_leftcopty_195: 3102141363631435336
+      dust_leftcopty_196: -6782024205791113734
+      dust_leftcopty_197: -8249392013856624402
+      dust_leftcopty_198: 5499353639638500809
+      dust_leftcopty_199: 4590898885737775457
+      dust_leftcopty_2: -2319966128405433114
+      dust_leftcopty_20: 453393568904012767
+      dust_leftcopty_200: -1675576882846061157
+      dust_leftcopty_201: 3461503486940769245
+      dust_leftcopty_202: 3729298370584249065
+      dust_leftcopty_203: 6402986909537434280
+      dust_leftcopty_204: -4564051156971822627
+      dust_leftcopty_205: 4737806279325485474
+      dust_leftcopty_206: -6736177602134496562
+      dust_leftcopty_207: -4047667927957653736
+      dust_leftcopty_208: 131276096643414112
+      dust_leftcopty_209: -4314994505633286507
+      dust_leftcopty_21: -6150275488796888520
+      dust_leftcopty_210: -6325882705069400510
+      dust_leftcopty_211: -9191313078926165586
+      dust_leftcopty_212: -7676329809031974356
+      dust_leftcopty_213: 5138282832975807562
+      dust_leftcopty_214: 2292691311978877118
+      dust_leftcopty_215: 8957132044347579719
+      dust_leftcopty_216: 8647455358756581976
+      dust_leftcopty_217: -5214089440221680833
+      dust_leftcopty_218: -5159711692423971317
+      dust_leftcopty_219: 5556205263471641652
+      dust_leftcopty_22: -1186303062098525181
+      dust_leftcopty_220: 6087907248731219577
+      dust_leftcopty_221: 3756030985626132868
+      dust_leftcopty_222: -1434855434565308572
+      dust_leftcopty_223: 4524878100419663267
+      dust_leftcopty_224: 6489420252124205209
+      dust_leftcopty_225: 3721587125620210545
+      dust_leftcopty_226: -7601685069142886092
+      dust_leftcopty_227: 332540136375987845
+      dust_leftcopty_228: -5597459913130391301
+      dust_leftcopty_229: 2151652412014591564
+      dust_leftcopty_23: -4130085038228182003
+      dust_leftcopty_230: -7772396492410554051
+      dust_leftcopty_231: 7989048830976817938
+      dust_leftcopty_232: -5033225064234193423
+      dust_leftcopty_233: 1495894838516788315
+      dust_leftcopty_234: 1974018718101064674
+      dust_leftcopty_235: 3181844795564405512
+      dust_leftcopty_236: 833472547831539752
+      dust_leftcopty_237: 3810557461368446856
+      dust_leftcopty_238: -4796187104807354005
+      dust_leftcopty_239: -9073269691503896941
+      dust_leftcopty_24: -3141243418342879034
+      dust_leftcopty_240: 792860892849112635
+      dust_leftcopty_241: 7037370587498084835
+      dust_leftcopty_242: 2698119349941750082
+      dust_leftcopty_243: -5664605421735793336
+      dust_leftcopty_244: -3127490057494610981
+      dust_leftcopty_245: 6353055377442583256
+      dust_leftcopty_246: 966993044966785219
+      dust_leftcopty_247: -211863062637591569
+      dust_leftcopty_248: 5899770985579365197
+      dust_leftcopty_25: 3565396071611541624
+      dust_leftcopty_26: -4420587206255622968
+      dust_leftcopty_27: 8782090447156879068
+      dust_leftcopty_28: 1694409061795907414
+      dust_leftcopty_29: 3234040944724986512
+      dust_leftcopty_3: 6948300334980384304
+      dust_leftcopty_30: 229922270166351460
+      dust_leftcopty_31: 5519730565615741254
+      dust_leftcopty_32: -5468350775707663863
+      dust_leftcopty_33: 8217513950839922617
+      dust_leftcopty_34: 3667051973946042079
+      dust_leftcopty_35: 4337520096048595927
+      dust_leftcopty_36: -3592244193958074644
+      dust_leftcopty_37: -2196669653832165901
+      dust_leftcopty_38: 7910996476110564467
+      dust_leftcopty_39: -6264390082820335462
+      dust_leftcopty_4: -5015463382577547399
+      dust_leftcopty_40: 1643003618897405631
+      dust_leftcopty_41: -3384352271436021370
+      dust_leftcopty_42: 7492508653812167734
+      dust_leftcopty_43: -6451788356948574764
+      dust_leftcopty_44: 2246110547874277070
+      dust_leftcopty_45: 1737436126627579648
+      dust_leftcopty_46: 5589372837625667851
+      dust_leftcopty_47: -7118112330558202903
+      dust_leftcopty_48: 4538744634838752284
+      dust_leftcopty_49: 8712617216783344798
+      dust_leftcopty_5: 1881477717875446769
+      dust_leftcopty_50: 711766107032646696
+      dust_leftcopty_51: -5738366112750888865
+      dust_leftcopty_52: -7084293965138598764
+      dust_leftcopty_53: -5794871141335719392
+      dust_leftcopty_54: 318795090462366715
+      dust_leftcopty_55: -1312285621608356520
+      dust_leftcopty_56: 4974208611647826305
+      dust_leftcopty_57: 6165443028089690756
+      dust_leftcopty_58: -4367956526704241338
+      dust_leftcopty_59: -4356357026053638277
+      dust_leftcopty_6: -1213857958257385849
+      dust_leftcopty_60: -5723800571391654822
+      dust_leftcopty_61: -7265486854499500774
+      dust_leftcopty_62: 6812976930450414831
+      dust_leftcopty_63: -5442538022193130234
+      dust_leftcopty_64: -5874640212429992130
+      dust_leftcopty_65: -8190480897996245795
+      dust_leftcopty_66: -2243854196044380340
+      dust_leftcopty_67: -545410177252652532
+      dust_leftcopty_68: 5946051739391677610
+      dust_leftcopty_69: 6307226430557056940
+      dust_leftcopty_7: 3412218784039484597
+      dust_leftcopty_70: 4350258837665077285
+      dust_leftcopty_71: 5775730119652674117
+      dust_leftcopty_72: -3368856819236183180
+      dust_leftcopty_73: -7694545900806082446
+      dust_leftcopty_74: -7631027098896716888
+      dust_leftcopty_75: 3750210989780137318
+      dust_leftcopty_76: -3654916200642990589
+      dust_leftcopty_77: -4042582138564804869
+      dust_leftcopty_78: -6663038204553445560
+      dust_leftcopty_79: -2831897922620653125
+      dust_leftcopty_8: -2923426043234900711
+      dust_leftcopty_80: -2604338214057450606
+      dust_leftcopty_81: 9083316867522357236
+      dust_leftcopty_82: 3960511731039574328
+      dust_leftcopty_83: -6068003443277433098
+      dust_leftcopty_84: 1245726988031078985
+      dust_leftcopty_85: -6406382078223794546
+      dust_leftcopty_86: -7488801587297093919
+      dust_leftcopty_87: -3819363366659016357
+      dust_leftcopty_88: 2393844258627483396
+      dust_leftcopty_89: 8075199863566593469
+      dust_leftcopty_9: 726751590714624879
+      dust_leftcopty_90: -1418870489549564025
+      dust_leftcopty_91: 357002846176471342
+      dust_leftcopty_92: 6565380437630153153
+      dust_leftcopty_93: 5828548106845998705
+      dust_leftcopty_94: 5137993681927804700
+      dust_leftcopty_95: 1834663238643256940
+      dust_leftcopty_96: 952810327260700417
+      dust_leftcopty_97: -3281640454958226969
+      dust_leftcopty_98: 21039846645902723
+      dust_leftcopty_99: 7798476683609951873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

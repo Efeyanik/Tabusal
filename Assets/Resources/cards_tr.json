@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "word": "Elma",
+      "forbidden": [
+        "Kırmızı",
+        "Meyve",
+        "Ağaç",
+        "Newton",
+        "Kurt"
+      ]
+    },
+    {
+      "word": "Okul",
+      "forbidden": [
+        "Öğrenci",
+        "Öğretmen",
+        "Ders",
+        "Sınıf",
+        "Teneffüs"
+      ]
+    }
+  ]
+}

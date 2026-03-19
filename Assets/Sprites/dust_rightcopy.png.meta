@@ -1,0 +1,7059 @@
+fileFormatVersion: 2
+guid: badc737a26431544b830c3057bff86a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 297111014971095791
+    second: dust_rightcopy_0
+  - first:
+      213: 4454916792706771694
+    second: dust_rightcopy_1
+  - first:
+      213: 187520638306187734
+    second: dust_rightcopy_2
+  - first:
+      213: 8823876866539437976
+    second: dust_rightcopy_3
+  - first:
+      213: -3737461105177251972
+    second: dust_rightcopy_4
+  - first:
+      213: -7295373247485160977
+    second: dust_rightcopy_5
+  - first:
+      213: 66259123256917578
+    second: dust_rightcopy_6
+  - first:
+      213: -3851533735857206444
+    second: dust_rightcopy_7
+  - first:
+      213: 2213933428870606554
+    second: dust_rightcopy_8
+  - first:
+      213: 6519292190802584593
+    second: dust_rightcopy_9
+  - first:
+      213: 4984766927515033381
+    second: dust_rightcopy_10
+  - first:
+      213: 6180453429511568589
+    second: dust_rightcopy_11
+  - first:
+      213: -1503170867160194979
+    second: dust_rightcopy_12
+  - first:
+      213: -2590670757654457432
+    second: dust_rightcopy_13
+  - first:
+      213: -26432040607118562
+    second: dust_rightcopy_14
+  - first:
+      213: 3393425786670790682
+    second: dust_rightcopy_15
+  - first:
+      213: 1031780391061006495
+    second: dust_rightcopy_16
+  - first:
+      213: -1397654125971442556
+    second: dust_rightcopy_17
+  - first:
+      213: 5475988662721748034
+    second: dust_rightcopy_18
+  - first:
+      213: -5185057976729689056
+    second: dust_rightcopy_19
+  - first:
+      213: 8481097861465136262
+    second: dust_rightcopy_20
+  - first:
+      213: -831049452538861530
+    second: dust_rightcopy_21
+  - first:
+      213: -85842351990396474
+    second: dust_rightcopy_22
+  - first:
+      213: 5185075900455279908
+    second: dust_rightcopy_23
+  - first:
+      213: -4994879220702349683
+    second: dust_rightcopy_24
+  - first:
+      213: -237137516074127235
+    second: dust_rightcopy_25
+  - first:
+      213: -9216890744331960270
+    second: dust_rightcopy_26
+  - first:
+      213: -8318012291820595420
+    second: dust_rightcopy_27
+  - first:
+      213: 8994443062801657835
+    second: dust_rightcopy_28
+  - first:
+      213: 2643713824979466248
+    second: dust_rightcopy_29
+  - first:
+      213: 251655507404315033
+    second: dust_rightcopy_30
+  - first:
+      213: 5595590966720827516
+    second: dust_rightcopy_31
+  - first:
+      213: 3863102750317760382
+    second: dust_rightcopy_32
+  - first:
+      213: 4576353007628850781
+    second: dust_rightcopy_33
+  - first:
+      213: -3402065861108445964
+    second: dust_rightcopy_34
+  - first:
+      213: -8960276258485276781
+    second: dust_rightcopy_35
+  - first:
+      213: -6243314057689292620
+    second: dust_rightcopy_36
+  - first:
+      213: 1006931262110820543
+    second: dust_rightcopy_37
+  - first:
+      213: -4302900668902737612
+    second: dust_rightcopy_38
+  - first:
+      213: 2162449383584651296
+    second: dust_rightcopy_39
+  - first:
+      213: 8759974827817056461
+    second: dust_rightcopy_40
+  - first:
+      213: 3613033619690166159
+    second: dust_rightcopy_41
+  - first:
+      213: 1989480307766735125
+    second: dust_rightcopy_42
+  - first:
+      213: 9005454407581375993
+    second: dust_rightcopy_43
+  - first:
+      213: -9181882458372006808
+    second: dust_rightcopy_44
+  - first:
+      213: -6494519920891418384
+    second: dust_rightcopy_45
+  - first:
+      213: -5680677712512932369
+    second: dust_rightcopy_46
+  - first:
+      213: -9143079717643858004
+    second: dust_rightcopy_47
+  - first:
+      213: 6952517825653776430
+    second: dust_rightcopy_48
+  - first:
+      213: 9135241269249590075
+    second: dust_rightcopy_49
+  - first:
+      213: 5848277992111987860
+    second: dust_rightcopy_50
+  - first:
+      213: 6283943475052875764
+    second: dust_rightcopy_51
+  - first:
+      213: 6165255930214135351
+    second: dust_rightcopy_52
+  - first:
+      213: 7522371544267108874
+    second: dust_rightcopy_53
+  - first:
+      213: 3850121423593269736
+    second: dust_rightcopy_54
+  - first:
+      213: -8616519025309425739
+    second: dust_rightcopy_55
+  - first:
+      213: -3183202270609239232
+    second: dust_rightcopy_56
+  - first:
+      213: -4236469723255584269
+    second: dust_rightcopy_57
+  - first:
+      213: 4815997754586620311
+    second: dust_rightcopy_58
+  - first:
+      213: 2387015737540716453
+    second: dust_rightcopy_59
+  - first:
+      213: -5046988321428821723
+    second: dust_rightcopy_60
+  - first:
+      213: 96462429170634017
+    second: dust_rightcopy_61
+  - first:
+      213: 8578748154458681082
+    second: dust_rightcopy_62
+  - first:
+      213: 8324620589081776574
+    second: dust_rightcopy_63
+  - first:
+      213: 2321023239084899326
+    second: dust_rightcopy_64
+  - first:
+      213: 8293383785263344978
+    second: dust_rightcopy_65
+  - first:
+      213: -3594313592300083973
+    second: dust_rightcopy_66
+  - first:
+      213: -7874697637419252845
+    second: dust_rightcopy_67
+  - first:
+      213: 4331219296414098672
+    second: dust_rightcopy_68
+  - first:
+      213: 9202760529596111133
+    second: dust_rightcopy_69
+  - first:
+      213: -3395188341440090745
+    second: dust_rightcopy_70
+  - first:
+      213: 2046451004534671507
+    second: dust_rightcopy_71
+  - first:
+      213: -5662696054530128666
+    second: dust_rightcopy_72
+  - first:
+      213: -1065772872933073536
+    second: dust_rightcopy_73
+  - first:
+      213: 3118026029513466314
+    second: dust_rightcopy_74
+  - first:
+      213: 6764124841188395892
+    second: dust_rightcopy_75
+  - first:
+      213: -4541989635945763767
+    second: dust_rightcopy_76
+  - first:
+      213: -318956365171137949
+    second: dust_rightcopy_77
+  - first:
+      213: 7733027506912715169
+    second: dust_rightcopy_78
+  - first:
+      213: 5283776828965495424
+    second: dust_rightcopy_79
+  - first:
+      213: 7124543962409854472
+    second: dust_rightcopy_80
+  - first:
+      213: -957423592452209883
+    second: dust_rightcopy_81
+  - first:
+      213: 5676131755924072103
+    second: dust_rightcopy_82
+  - first:
+      213: 8990522881104098607
+    second: dust_rightcopy_83
+  - first:
+      213: 6231064541038163103
+    second: dust_rightcopy_84
+  - first:
+      213: -6578295351826407140
+    second: dust_rightcopy_85
+  - first:
+      213: -4133400095383190208
+    second: dust_rightcopy_86
+  - first:
+      213: 7539157057050430752
+    second: dust_rightcopy_87
+  - first:
+      213: 8034881978284119642
+    second: dust_rightcopy_88
+  - first:
+      213: 1378566419065699930
+    second: dust_rightcopy_89
+  - first:
+      213: 4081152736224605348
+    second: dust_rightcopy_90
+  - first:
+      213: -5680938628751426050
+    second: dust_rightcopy_91
+  - first:
+      213: -1013390281876417247
+    second: dust_rightcopy_92
+  - first:
+      213: -6313046392742657245
+    second: dust_rightcopy_93
+  - first:
+      213: 5656623657261207301
+    second: dust_rightcopy_94
+  - first:
+      213: 3545069112749491990
+    second: dust_rightcopy_95
+  - first:
+      213: 3530976861724346645
+    second: dust_rightcopy_96
+  - first:
+      213: 2552691979002824313
+    second: dust_rightcopy_97
+  - first:
+      213: 6714289808251225240
+    second: dust_rightcopy_98
+  - first:
+      213: -1801883304289178402
+    second: dust_rightcopy_99
+  - first:
+      213: -2754070871939120438
+    second: dust_rightcopy_100
+  - first:
+      213: -6324752393460629174
+    second: dust_rightcopy_101
+  - first:
+      213: -1485313241918710846
+    second: dust_rightcopy_102
+  - first:
+      213: -4351037272176590312
+    second: dust_rightcopy_103
+  - first:
+      213: -1394313071022365087
+    second: dust_rightcopy_104
+  - first:
+      213: 8533683672393167137
+    second: dust_rightcopy_105
+  - first:
+      213: 1816941413615147978
+    second: dust_rightcopy_106
+  - first:
+      213: 4490479058461449862
+    second: dust_rightcopy_107
+  - first:
+      213: 9196701474949848572
+    second: dust_rightcopy_108
+  - first:
+      213: -5690062735958459536
+    second: dust_rightcopy_109
+  - first:
+      213: 1339702539854908129
+    second: dust_rightcopy_110
+  - first:
+      213: -3315666065076869552
+    second: dust_rightcopy_111
+  - first:
+      213: 5055539538604834427
+    second: dust_rightcopy_112
+  - first:
+      213: -4154806156353671605
+    second: dust_rightcopy_113
+  - first:
+      213: -5940517213967049432
+    second: dust_rightcopy_114
+  - first:
+      213: -3095248745966267182
+    second: dust_rightcopy_115
+  - first:
+      213: -468213828787090663
+    second: dust_rightcopy_116
+  - first:
+      213: 1452088701253487654
+    second: dust_rightcopy_117
+  - first:
+      213: 2968035686122054750
+    second: dust_rightcopy_118
+  - first:
+      213: 2031633782905964889
+    second: dust_rightcopy_119
+  - first:
+      213: 1337566061551526611
+    second: dust_rightcopy_120
+  - first:
+      213: -9018798469427819050
+    second: dust_rightcopy_121
+  - first:
+      213: -2355783801120258074
+    second: dust_rightcopy_122
+  - first:
+      213: -5247325694120259441
+    second: dust_rightcopy_123
+  - first:
+      213: -7519060423776538254
+    second: dust_rightcopy_124
+  - first:
+      213: -1934235196548464773
+    second: dust_rightcopy_125
+  - first:
+      213: -8073726884071447424
+    second: dust_rightcopy_126
+  - first:
+      213: -7821558420045550900
+    second: dust_rightcopy_127
+  - first:
+      213: 1021613336070718985
+    second: dust_rightcopy_128
+  - first:
+      213: -4925842080774202493
+    second: dust_rightcopy_129
+  - first:
+      213: -7564414793605554158
+    second: dust_rightcopy_130
+  - first:
+      213: 6789914609648066245
+    second: dust_rightcopy_131
+  - first:
+      213: -4111761162176436495
+    second: dust_rightcopy_132
+  - first:
+      213: 531415464199519334
+    second: dust_rightcopy_133
+  - first:
+      213: 223177286211841099
+    second: dust_rightcopy_134
+  - first:
+      213: 6643825139196684946
+    second: dust_rightcopy_135
+  - first:
+      213: 5521544692473934869
+    second: dust_rightcopy_136
+  - first:
+      213: -138027680753340187
+    second: dust_rightcopy_137
+  - first:
+      213: 2603426543918891204
+    second: dust_rightcopy_138
+  - first:
+      213: -7455045148624927562
+    second: dust_rightcopy_139
+  - first:
+      213: -1304320398084598610
+    second: dust_rightcopy_140
+  - first:
+      213: -3379630863038932862
+    second: dust_rightcopy_141
+  - first:
+      213: 1925692385976870162
+    second: dust_rightcopy_142
+  - first:
+      213: 5702704007676812817
+    second: dust_rightcopy_143
+  - first:
+      213: -8333748775560290975
+    second: dust_rightcopy_144
+  - first:
+      213: -7767759188893167298
+    second: dust_rightcopy_145
+  - first:
+      213: 5916118829536151278
+    second: dust_rightcopy_146
+  - first:
+      213: 2045529186441867898
+    second: dust_rightcopy_147
+  - first:
+      213: 4700723574578057132
+    second: dust_rightcopy_148
+  - first:
+      213: -9117481770091616551
+    second: dust_rightcopy_149
+  - first:
+      213: -5028721112034882363
+    second: dust_rightcopy_150
+  - first:
+      213: -6367916095397024194
+    second: dust_rightcopy_151
+  - first:
+      213: -645966405763887586
+    second: dust_rightcopy_152
+  - first:
+      213: 5659124647791350499
+    second: dust_rightcopy_153
+  - first:
+      213: 8609917281766829972
+    second: dust_rightcopy_154
+  - first:
+      213: -6024732287566969143
+    second: dust_rightcopy_155
+  - first:
+      213: 3581613576545253108
+    second: dust_rightcopy_156
+  - first:
+      213: -7947301422755563970
+    second: dust_rightcopy_157
+  - first:
+      213: 8074056016406596800
+    second: dust_rightcopy_158
+  - first:
+      213: -6047932649741328087
+    second: dust_rightcopy_159
+  - first:
+      213: -1139100101879808186
+    second: dust_rightcopy_160
+  - first:
+      213: -4832740861200749128
+    second: dust_rightcopy_161
+  - first:
+      213: -1693031686499089530
+    second: dust_rightcopy_162
+  - first:
+      213: -8863075067429514229
+    second: dust_rightcopy_163
+  - first:
+      213: -6056485940573366940
+    second: dust_rightcopy_164
+  - first:
+      213: -6105177536219761446
+    second: dust_rightcopy_165
+  - first:
+      213: -5281321477911906216
+    second: dust_rightcopy_166
+  - first:
+      213: 8803404195198145502
+    second: dust_rightcopy_167
+  - first:
+      213: 7879542456261507997
+    second: dust_rightcopy_168
+  - first:
+      213: 635665156646835785
+    second: dust_rightcopy_169
+  - first:
+      213: -5551852660514446851
+    second: dust_rightcopy_170
+  - first:
+      213: 2734934511089516425
+    second: dust_rightcopy_171
+  - first:
+      213: 9089221744562823962
+    second: dust_rightcopy_172
+  - first:
+      213: 1473001642513175672
+    second: dust_rightcopy_173
+  - first:
+      213: -4635176854287406035
+    second: dust_rightcopy_174
+  - first:
+      213: 542255738942743243
+    second: dust_rightcopy_175
+  - first:
+      213: 675645983141428285
+    second: dust_rightcopy_176
+  - first:
+      213: -6509484735686724590
+    second: dust_rightcopy_177
+  - first:
+      213: 6640895343697938619
+    second: dust_rightcopy_178
+  - first:
+      213: -2456674901130507708
+    second: dust_rightcopy_179
+  - first:
+      213: -4574182504140152947
+    second: dust_rightcopy_180
+  - first:
+      213: -383413562479599941
+    second: dust_rightcopy_181
+  - first:
+      213: -8538601692266187770
+    second: dust_rightcopy_182
+  - first:
+      213: -4073120609277049790
+    second: dust_rightcopy_183
+  - first:
+      213: 4691270244317743409
+    second: dust_rightcopy_184
+  - first:
+      213: 2460099879945377658
+    second: dust_rightcopy_185
+  - first:
+      213: 3693971760089136249
+    second: dust_rightcopy_186
+  - first:
+      213: -3546548663484958479
+    second: dust_rightcopy_187
+  - first:
+      213: -180620663791413242
+    second: dust_rightcopy_188
+  - first:
+      213: 8255246226077902111
+    second: dust_rightcopy_189
+  - first:
+      213: 5904799293798920267
+    second: dust_rightcopy_190
+  - first:
+      213: -7111404833387694620
+    second: dust_rightcopy_191
+  - first:
+      213: 8751591100733290757
+    second: dust_rightcopy_192
+  - first:
+      213: 5266538517224186599
+    second: dust_rightcopy_193
+  - first:
+      213: -4887771344965088131
+    second: dust_rightcopy_194
+  - first:
+      213: 3218130795259657650
+    second: dust_rightcopy_195
+  - first:
+      213: -4211002035261325975
+    second: dust_rightcopy_196
+  - first:
+      213: 8543663498193857619
+    second: dust_rightcopy_197
+  - first:
+      213: -2533654556888192135
+    second: dust_rightcopy_198
+  - first:
+      213: -2167712118107037470
+    second: dust_rightcopy_199
+  - first:
+      213: -6616383421825051704
+    second: dust_rightcopy_200
+  - first:
+      213: 2464492529097220104
+    second: dust_rightcopy_201
+  - first:
+      213: 3441887830478358430
+    second: dust_rightcopy_202
+  - first:
+      213: -8236271580301385939
+    second: dust_rightcopy_203
+  - first:
+      213: 6947773066376713680
+    second: dust_rightcopy_204
+  - first:
+      213: 6778443373293957355
+    second: dust_rightcopy_205
+  - first:
+      213: 2573085138406108009
+    second: dust_rightcopy_206
+  - first:
+      213: 6347566471605927528
+    second: dust_rightcopy_207
+  - first:
+      213: -3057839265069483883
+    second: dust_rightcopy_208
+  - first:
+      213: 7036495402481249753
+    second: dust_rightcopy_209
+  - first:
+      213: -8024784645396533606
+    second: dust_rightcopy_210
+  - first:
+      213: 3693461790883218950
+    second: dust_rightcopy_211
+  - first:
+      213: 4891706951287960744
+    second: dust_rightcopy_212
+  - first:
+      213: -8093019241011274154
+    second: dust_rightcopy_213
+  - first:
+      213: -925150401396449812
+    second: dust_rightcopy_214
+  - first:
+      213: -3468283990613524945
+    second: dust_rightcopy_215
+  - first:
+      213: 2704711771677049837
+    second: dust_rightcopy_216
+  - first:
+      213: -873309301994381842
+    second: dust_rightcopy_217
+  - first:
+      213: -5140229117110902048
+    second: dust_rightcopy_218
+  - first:
+      213: -4819665873224679918
+    second: dust_rightcopy_219
+  - first:
+      213: -3498078425592347989
+    second: dust_rightcopy_220
+  - first:
+      213: 6154035300274809555
+    second: dust_rightcopy_221
+  - first:
+      213: -658124167368014388
+    second: dust_rightcopy_222
+  - first:
+      213: 1331231766667235349
+    second: dust_rightcopy_223
+  - first:
+      213: -3692500727554518943
+    second: dust_rightcopy_224
+  - first:
+      213: -3868184197849312437
+    second: dust_rightcopy_225
+  - first:
+      213: -8204315630483152836
+    second: dust_rightcopy_226
+  - first:
+      213: 5832075176708908284
+    second: dust_rightcopy_227
+  - first:
+      213: -3864302891735235844
+    second: dust_rightcopy_228
+  - first:
+      213: -2389178764284420274
+    second: dust_rightcopy_229
+  - first:
+      213: -3055639332277840492
+    second: dust_rightcopy_230
+  - first:
+      213: -7501778382842088951
+    second: dust_rightcopy_231
+  - first:
+      213: 856999790951318589
+    second: dust_rightcopy_232
+  - first:
+      213: -8183888380948716444
+    second: dust_rightcopy_233
+  - first:
+      213: -4544326707049055004
+    second: dust_rightcopy_234
+  - first:
+      213: 8089878160524764681
+    second: dust_rightcopy_235
+  - first:
+      213: -9161090123734607754
+    second: dust_rightcopy_236
+  - first:
+      213: 3617390664054607273
+    second: dust_rightcopy_237
+  - first:
+      213: 8332144158061673225
+    second: dust_rightcopy_238
+  - first:
+      213: -5559496219442809607
+    second: dust_rightcopy_239
+  - first:
+      213: -2857869092717993136
+    second: dust_rightcopy_240
+  - first:
+      213: -476110282858126466
+    second: dust_rightcopy_241
+  - first:
+      213: -9215295874750480719
+    second: dust_rightcopy_242
+  - first:
+      213: 4755561389691631195
+    second: dust_rightcopy_243
+  - first:
+      213: 8258261455168717869
+    second: dust_rightcopy_244
+  - first:
+      213: 5090295441733199981
+    second: dust_rightcopy_245
+  - first:
+      213: -3949156850104141986
+    second: dust_rightcopy_246
+  - first:
+      213: -8824860553610542955
+    second: dust_rightcopy_247
+  - first:
+      213: 2607740012541544410
+    second: dust_rightcopy_248
+  - first:
+      213: 1046092761995541765
+    second: dust_rightcopy_249
+  - first:
+      213: 6086219485052551095
+    second: dust_rightcopy_250
+  - first:
+      213: -8476501137695290655
+    second: dust_rightcopy_251
+  - first:
+      213: 7249987522057568039
+    second: dust_rightcopy_252
+  - first:
+      213: 7773757710120263012
+    second: dust_rightcopy_253
+  - first:
+      213: -3910837859525574468
+    second: dust_rightcopy_254
+  - first:
+      213: -9019401626706816762
+    second: dust_rightcopy_255
+  - first:
+      213: -931942766620795473
+    second: dust_rightcopy_256
+  - first:
+      213: -1445969061623278353
+    second: dust_rightcopy_257
+  - first:
+      213: -392903302151473988
+    second: dust_rightcopy_258
+  - first:
+      213: -8563011995838185862
+    second: dust_rightcopy_259
+  - first:
+      213: -48171100017793356
+    second: dust_rightcopy_260
+  - first:
+      213: -7394228067420516511
+    second: dust_rightcopy_261
+  - first:
+      213: -2111012707534194936
+    second: dust_rightcopy_262
+  - first:
+      213: 42048121192929256
+    second: dust_rightcopy_263
+  - first:
+      213: 8822463850463007677
+    second: dust_rightcopy_264
+  - first:
+      213: 1053775995997859926
+    second: dust_rightcopy_265
+  - first:
+      213: 3735050217484169968
+    second: dust_rightcopy_266
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dust_rightcopy_0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 771
+        width: 1170
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea353ad4ec8f1400800000000000000
+      internalID: 297111014971095791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_1
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 884
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa535483b03dd30800000000000000
+      internalID: 4454916792706771694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_2
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 931
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d97b4ae6053a9200800000000000000
+      internalID: 187520638306187734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 947
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fbedb5245b47a70800000000000000
+      internalID: 8823876866539437976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_4
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 923
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f22104deed12cc0800000000000000
+      internalID: -3737461105177251972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_5
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 957
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe152c71fa0a1ca90800000000000000
+      internalID: -7295373247485160977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_6
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 868
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e7bd052566be000800000000000000
+      internalID: 66259123256917578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 891
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4cc9397a9c8ac0800000000000000
+      internalID: -3851533735857206444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_8
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 824
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adee13049b879be10800000000000000
+      internalID: 2213933428870606554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_9
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 842
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11424c3f4bd297a50800000000000000
+      internalID: 6519292190802584593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_10
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 796
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f16a23c137d2540800000000000000
+      internalID: 4984766927515033381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_11
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 877
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccb1e016a165c550800000000000000
+      internalID: 6180453429511568589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_12
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 833
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50633a7f0aa32be0800000000000000
+      internalID: -1503170867160194979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_13
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 868
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a393000ca61c0cd0800000000000000
+      internalID: -2590670757654457432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_14
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 850
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b8ce8f23812aff0800000000000000
+      internalID: -26432040607118562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_15
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 843
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18b92a16ced71f20800000000000000
+      internalID: 3393425786670790682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_16
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 859
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a76f8cce915e00800000000000000
+      internalID: 1031780391061006495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_17
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 848
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484fc9e3af88a9ce0800000000000000
+      internalID: -1397654125971442556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_18
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 841
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c989bfcae9efb40800000000000000
+      internalID: 5475988662721748034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_19
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 819
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024a835ed39fa08b0800000000000000
+      internalID: -5185057976729689056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_20
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 804
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c54f9f199e2b570800000000000000
+      internalID: 8481097861465136262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_21
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 804
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62863ae0de48774f0800000000000000
+      internalID: -831049452538861530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_22
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 817
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9adeee5d60fcef0800000000000000
+      internalID: -85842351990396474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_23
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 813
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d531c4f0715f740800000000000000
+      internalID: 5185075900455279908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_24
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 813
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867e0210df9eaab0800000000000000
+      internalID: -4994879220702349683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_25
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 814
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70bb7f7fa485bcf0800000000000000
+      internalID: -237137516074127235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_26
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 728
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230028283b6071080800000000000000
+      internalID: -9216890744331960270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_27
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 811
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42753bc24eb709c80800000000000000
+      internalID: -8318012291820595420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_28
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 799
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe4ce9f4ea2dc70800000000000000
+      internalID: 8994443062801657835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_29
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 791
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b0b187bb50b420800000000000000
+      internalID: 2643713824979466248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_30
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 793
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999da94c95f0e7300800000000000000
+      internalID: 251655507404315033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_31
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 780
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7097c7665887ad40800000000000000
+      internalID: 5595590966720827516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_32
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 802
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f468bdb7f7c9530800000000000000
+      internalID: 3863102750317760382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_33
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 792
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56128a50d8728f30800000000000000
+      internalID: 4576353007628850781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_34
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 793
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcc52ecf1f69c0d0800000000000000
+      internalID: -3402065861108445964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_35
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 793
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f6e9b6734b6a380800000000000000
+      internalID: -8960276258485276781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_36
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 793
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b02a3a61fa4b59a0800000000000000
+      internalID: -6243314057689292620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_37
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 778
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e95fd5a659fd00800000000000000
+      internalID: 1006931262110820543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_38
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 785
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439f24ea3a60944c0800000000000000
+      internalID: -4302900668902737612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_39
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 794
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0285359d140920e10800000000000000
+      internalID: 2162449383584651296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_40
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 770
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8366d81bea19970800000000000000
+      internalID: 8759974827817056461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_41
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 768
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f871d273fe2142230800000000000000
+      internalID: 3613033619690166159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_42
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 787
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51132189ccd0c9b10800000000000000
+      internalID: 1989480307766735125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_43
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 774
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd1ddc121dc9fc70800000000000000
+      internalID: 9005454407581375993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_44
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 780
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c98534d86639080800000000000000
+      internalID: -9181882458372006808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_45
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 775
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8a1989a84ded5a0800000000000000
+      internalID: -6494519920891418384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_46
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 767
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5203ec7bd2a21b0800000000000000
+      internalID: -5680677712512932369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_47
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 734
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf42cc50714d1180800000000000000
+      internalID: -9143079717643858004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_48
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 765
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e202aac502e4c7060800000000000000
+      internalID: 6952517825653776430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_49
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 754
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334c17a885e6ce70800000000000000
+      internalID: 9135241269249590075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_50
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 760
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cd19b29d1492150800000000000000
+      internalID: 5848277992111987860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_51
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 755
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff092bfb4d053750800000000000000
+      internalID: 6283943475052875764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_52
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 767
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736b8c58a936f8550800000000000000
+      internalID: 6165255930214135351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_53
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 718
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a023c847015d46860800000000000000
+      internalID: 7522371544267108874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_54
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 697
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9e56339016e6530800000000000000
+      internalID: 3850121423593269736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_55
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 756
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf59084999fb6880800000000000000
+      internalID: -8616519025309425739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_56
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 734
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0439e14766ef2d3d0800000000000000
+      internalID: -3183202270609239232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_57
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 733
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f947a38b390535c0800000000000000
+      internalID: -4236469723255584269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_58
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 725
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791e639017cd5d240800000000000000
+      internalID: 4815997754586620311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_59
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 527
+        width: 94
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7a1659a22602120800000000000000
+      internalID: 2387015737540716453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_60
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 751
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a0bb9cde75f9b0800000000000000
+      internalID: -5046988321428821723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_61
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 716
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d03e87114b65100800000000000000
+      internalID: 96462429170634017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_62
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 733
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe2c0c8ef5dd0770800000000000000
+      internalID: 8578748154458681082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_63
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 730
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb15f1ee15ef68370800000000000000
+      internalID: 8324620589081776574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_64
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 738
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf411b65ee53020800000000000000
+      internalID: 2321023239084899326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_65
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 740
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d2b9acc94081370800000000000000
+      internalID: 8293383785263344978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_66
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 730
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4689fc4de6e1ec0800000000000000
+      internalID: -3594313592300083973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_67
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 732
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3938400883477b290800000000000000
+      internalID: -7874697637419252845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_68
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 719
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4641790059b1c30800000000000000
+      internalID: 4331219296414098672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_69
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 719
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19df8f71f5c6bf70800000000000000
+      internalID: 9202760529596111133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_70
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 715
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d6ae2213ed1e0d0800000000000000
+      internalID: -3395188341440090745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_71
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 722
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398c7879854766c10800000000000000
+      internalID: 2046451004534671507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_72
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 715
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4c9bec0ff0a61b0800000000000000
+      internalID: -5662696054530128666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_73
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 706
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d9391083d9531f0800000000000000
+      internalID: -1065772872933073536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_74
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 717
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac162916724754b20800000000000000
+      internalID: 3118026029513466314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_75
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 715
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b0e6784bffedd50800000000000000
+      internalID: 6764124841188395892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_76
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 671
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c62f79d7c97f0c0800000000000000
+      internalID: -4541989635945763767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_77
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 702
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ef1330e6d29bf0800000000000000
+      internalID: -318956365171137949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_78
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 680
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a16bd3db8b315b60800000000000000
+      internalID: 7733027506912715169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_79
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 705
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082ade2080fb35940800000000000000
+      internalID: 5283776828965495424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_80
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 708
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806e7128cf67fd260800000000000000
+      internalID: 7124543962409854472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_81
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 703
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523ce48b05c86b2f0800000000000000
+      internalID: -957423592452209883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_82
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a62b2232cba5ce40800000000000000
+      internalID: 5676131755924072103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_83
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 687
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f253b313de0c4cc70800000000000000
+      internalID: 8990522881104098607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_84
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 694
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94bc1dbf20397650800000000000000
+      internalID: 6231064541038163103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_85
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 685
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a8c61b3335b4a0800000000000000
+      internalID: -6578295351826407140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_86
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 687
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0458e10538633a6c0800000000000000
+      internalID: -4133400095383190208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_87
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 691
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dce53366770a860800000000000000
+      internalID: 7539157057050430752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_88
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 677
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5610dfa692a18f60800000000000000
+      internalID: 8034881978284119642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_89
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 660
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e71bbaad6a12310800000000000000
+      internalID: 1378566419065699930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_90
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 681
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f7cc6aca23a830800000000000000
+      internalID: 4081152736224605348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_91
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 676
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdf9728a604921b0800000000000000
+      internalID: -5680938628751426050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_92
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 649
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255ce568e6bfe1f0800000000000000
+      internalID: -1013390281876417247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_93
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 665
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3234306f0cd8368a0800000000000000
+      internalID: -6313046392742657245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_94
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 673
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f00270f3d508e40800000000000000
+      internalID: 5656623657261207301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_95
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 660
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61784a1539d923130800000000000000
+      internalID: 3545069112749491990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_96
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 634
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51904317fbc800130800000000000000
+      internalID: 3530976861724346645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_97
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 650
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c37584dbfc6320800000000000000
+      internalID: 2552691979002824313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_98
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 651
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89407dbb103fd2d50800000000000000
+      internalID: 6714289808251225240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_99
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 653
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edce2297eac6ef6e0800000000000000
+      internalID: -1801883304289178402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_100
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 654
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac281d7322397c9d0800000000000000
+      internalID: -2754070871939120438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_101
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 651
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a414a774537f938a0800000000000000
+      internalID: -6324752393460629174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_102
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb504bd97b136be0800000000000000
+      internalID: -1485313241918710846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_103
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 623
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8120e6b57a20e93c0800000000000000
+      internalID: -4351037272176590312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_104
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 614
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166270836a766ace0800000000000000
+      internalID: -1394313071022365087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_105
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 642
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121bb8e261cbd6670800000000000000
+      internalID: 8533683672393167137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_106
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 641
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb1a30d692173910800000000000000
+      internalID: 1816941413615147978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_107
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 638
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68edcee79e2615e30800000000000000
+      internalID: 4490479058461449862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_108
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 562
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd52b7e34f31af70800000000000000
+      internalID: 9196701474949848572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_109
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 607
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b3281c616d801b0800000000000000
+      internalID: -5690062735958459536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_110
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 619
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea8db8ac54979210800000000000000
+      internalID: 1339702539854908129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_111
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 612
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a64de7436cf1d0800000000000000
+      internalID: -3315666065076869552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_112
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 609
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ebb7acc62e82640800000000000000
+      internalID: 5055539538604834427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_113
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 594
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eeeeb50d92756c0800000000000000
+      internalID: -4154806156353671605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_114
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 614
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d966f611b0f8da0800000000000000
+      internalID: -5940517213967049432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_115
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 570
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d415353aa77b05d0800000000000000
+      internalID: -3095248745966267182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_116
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b4830e0029089f0800000000000000
+      internalID: -468213828787090663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_117
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 586
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c8294fafad62410800000000000000
+      internalID: 1452088701253487654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_118
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 575
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ecff2bb4903920800000000000000
+      internalID: 2968035686122054750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_119
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 594
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9590bc75920d13c10800000000000000
+      internalID: 2031633782905964889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_120
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 583
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2a56a0f3dff8210800000000000000
+      internalID: 1337566061551526611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_121
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 595
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd0be0639ac6d280800000000000000
+      internalID: -9018798469427819050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_122
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 597
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e78b964d139e4fd0800000000000000
+      internalID: -2355783801120258074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_123
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 589
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f809e2d2511cd27b0800000000000000
+      internalID: -5247325694120259441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_124
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 587
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f91cd16ee6a790800000000000000
+      internalID: -7519060423776538254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_125
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 529
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fbba536573825e0800000000000000
+      internalID: -1934235196548464773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_126
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 578
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846665ec2c54ff80800000000000000
+      internalID: -8073726884071447424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_127
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 572
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca283fae0e347390800000000000000
+      internalID: -7821558420045550900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_128
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 574
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9060c4a9aef7d2e00800000000000000
+      internalID: 1021613336070718985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_129
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 575
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b58cbc9b4e3abb0800000000000000
+      internalID: -4925842080774202493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_130
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 545
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2106e6db2dcc50790800000000000000
+      internalID: -7564414793605554158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_131
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 562
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cede4bec5f9a3e50800000000000000
+      internalID: 6789914609648066245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_132
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 567
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6e93f020710f6c0800000000000000
+      internalID: -4111761162176436495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_133
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 566
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cf2c39c87ff5700800000000000000
+      internalID: 531415464199519334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_134
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 555
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca7923f82e81300800000000000000
+      internalID: 223177286211841099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_135
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 543
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae0ab73cb933c50800000000000000
+      internalID: 6643825139196684946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_136
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 544
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143a56b4a770ac40800000000000000
+      internalID: 5521544692473934869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_137
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0b68f3e80a51ef0800000000000000
+      internalID: -138027680753340187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_138
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 531
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0cb1de5aa312420800000000000000
+      internalID: 2603426543918891204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_139
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 534
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b446b39feb5a8890800000000000000
+      internalID: -7455045148624927562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_140
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 542
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea41fde228f16ede0800000000000000
+      internalID: -1304320398084598610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_141
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 544
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2881e98d2a32911d0800000000000000
+      internalID: -3379630863038932862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_142
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 522
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21563d4b50f69ba10800000000000000
+      internalID: 1925692385976870162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_143
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 525
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed5cca413142f40800000000000000
+      internalID: 5702704007676812817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_144
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 523
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd16984a3985c80800000000000000
+      internalID: -8333748775560290975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_145
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 528
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311f3d4c20633490800000000000000
+      internalID: -7767759188893167298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_146
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 520
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee680830bb64a1250800000000000000
+      internalID: 5916118829536151278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_147
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 523
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72bf8715fd236c10800000000000000
+      internalID: 2045529186441867898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_148
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf87028f235c3140800000000000000
+      internalID: 4700723574578057132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_149
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 487
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e697f2a2387180800000000000000
+      internalID: -9117481770091616551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_150
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 491
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc47aabac4663ab0800000000000000
+      internalID: -5028721112034882363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_151
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 494
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e2e56cc0e90a7a0800000000000000
+      internalID: -6367916095397024194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_152
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 491
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e8b97f9f01907f0800000000000000
+      internalID: -645966405763887586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_153
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 520
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2d24342ef398e40800000000000000
+      internalID: 5659124647791350499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_154
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 514
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f653586229c7770800000000000000
+      internalID: 8609917281766829972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_155
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 486
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c68eb4a7e9d36ca0800000000000000
+      internalID: -6024732287566969143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_156
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 497
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f632b8529274b130800000000000000
+      internalID: 3581613576545253108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_157
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 504
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36b2bd667385b190800000000000000
+      internalID: -7947301422755563970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_158
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 498
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc45823b2fcc0070800000000000000
+      internalID: 8074056016406596800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_159
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 491
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9216ea26c4d611ca0800000000000000
+      internalID: -6047932649741328087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_160
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 511
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fb7d71e7a1130f0800000000000000
+      internalID: -1139100101879808186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_161
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 503
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd2d9caac7aeecb0800000000000000
+      internalID: -4832740861200749128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_162
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 504
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683cdb4b6a42188e0800000000000000
+      internalID: -1693031686499089530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_163
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 467
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b041e3c4f28000580800000000000000
+      internalID: -8863075067429514229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_164
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 483
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4651afc202a03fba0800000000000000
+      internalID: -6056485940573366940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_165
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 490
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad43dee906d064ba0800000000000000
+      internalID: -6105177536219761446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_166
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 475
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8587b64f81af4b6b0800000000000000
+      internalID: -5281321477911906216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_167
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 462
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed318fc1979fb2a70800000000000000
+      internalID: 8803404195198145502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_168
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 485
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b731acd12c95d60800000000000000
+      internalID: 7879542456261507997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_169
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 490
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9461702971652d800800000000000000
+      internalID: 635665156646835785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_170
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 457
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1aab49b6bd3f2b0800000000000000
+      internalID: -5551852660514446851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_171
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 460
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f7271927074f520800000000000000
+      internalID: 2734934511089516425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_172
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 444
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a136c691507632e70800000000000000
+      internalID: 9089221744562823962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_173
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 473
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87490978037217410800000000000000
+      internalID: 1473001642513175672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_174
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 454
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c2611953b8cafb0800000000000000
+      internalID: -4635176854287406035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_175
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 468
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc26919b8ba768700800000000000000
+      internalID: 542255738942743243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_176
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 451
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c70132170606900800000000000000
+      internalID: 675645983141428285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_177
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 448
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b0922f1aa9a5a0800000000000000
+      internalID: -6509484735686724590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_178
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 451
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb849af4123392c50800000000000000
+      internalID: 6640895343697938619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_179
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 469
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a8f75813328edd0800000000000000
+      internalID: -2456674901130507708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_180
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 471
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f5bee5f3d3580c0800000000000000
+      internalID: -4574182504140152947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_181
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 441
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe16567567ddaaf0800000000000000
+      internalID: -383413562479599941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_182
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 465
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604bce5100bc08980800000000000000
+      internalID: -8538601692266187770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_183
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 448
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24408bcd26e5977c0800000000000000
+      internalID: -4073120609277049790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_184
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 452
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1394be98e6dba1140800000000000000
+      internalID: 4691270244317743409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_185
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 448
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7710208ec7042220800000000000000
+      internalID: 2460099879945377658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_186
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 456
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cff6a8ebf934330800000000000000
+      internalID: 3693971760089136249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_187
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 442
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8b75ee7c028cec0800000000000000
+      internalID: -3546548663484958479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_188
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 280
+        width: 87
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081e97967e4e7df0800000000000000
+      internalID: -180620663791413242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_189
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 432
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15e1c654b6809270800000000000000
+      internalID: 8255246226077902111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_190
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 407
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40bcd83caf02f150800000000000000
+      internalID: 5904799293798920267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_191
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 429
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53eeb5bf63f4d90800000000000000
+      internalID: -7111404833387694620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_192
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 442
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5097daafcb5e37970800000000000000
+      internalID: 8751591100733290757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_193
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 435
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e26f0bc0e0861940800000000000000
+      internalID: 5266538517224186599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_194
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 411
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc508bbd52b2cb0800000000000000
+      internalID: -4887771344965088131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_195
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 436
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd723c68e819ac20800000000000000
+      internalID: 3218130795259657650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_196
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 433
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3dc3b5f38f85c0800000000000000
+      internalID: -4211002035261325975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_197
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ce0527fa0319670800000000000000
+      internalID: 8543663498193857619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_198
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 421
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b2129ba96a6dcd0800000000000000
+      internalID: -2533654556888192135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_199
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 421
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0abe8405dbae1e0800000000000000
+      internalID: -2167712118107037470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_200
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 396
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3955c3552ed24a0800000000000000
+      internalID: -6616383421825051704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_201
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 405
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a174d5e2a33220800000000000000
+      internalID: 2464492529097220104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_202
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 411
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e970764feba04cf20800000000000000
+      internalID: 3441887830478358430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_203
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 403
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f9d76a2a2e2bd80800000000000000
+      internalID: -8236271580301385939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_204
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 394
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d519610bc27b6060800000000000000
+      internalID: 6947773066376713680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_205
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 381
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07943955ed11e50800000000000000
+      internalID: 6778443373293957355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_206
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 401
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6883fc4f65b320800000000000000
+      internalID: 2573085138406108009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_207
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 355
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e30483316171850800000000000000
+      internalID: 6347566471605927528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_208
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 340
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598ba49b36f5095d0800000000000000
+      internalID: -3057839265069483883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_209
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 345
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd6090a947a6a160800000000000000
+      internalID: 7036495402481249753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_210
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 371
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e6124d1ec32a090800000000000000
+      internalID: -8024784645396533606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_211
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 340
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60682151eefc14330800000000000000
+      internalID: 3693461790883218950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_212
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 380
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4f3d80e85d2e340800000000000000
+      internalID: 4891706951287960744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_213
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 365
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e1f1301e1dfaf80800000000000000
+      internalID: -8093019241011274154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_214
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 344
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced54f09c943923f0800000000000000
+      internalID: -925150401396449812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_215
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 321
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e7e47161e2edfc0800000000000000
+      internalID: -3468283990613524945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_216
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 305
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3c0a2b601198520800000000000000
+      internalID: 2704711771677049837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_217
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 309
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed949b11d161e3f0800000000000000
+      internalID: -873309301994381842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_218
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 318
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e22c722adc3aa8b0800000000000000
+      internalID: -5140229117110902048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_219
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 313
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ebe5a8c6b1d1db0800000000000000
+      internalID: -4819665873224679918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_220
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 318
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24c1e9434547fc0800000000000000
+      internalID: -3498078425592347989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_221
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 298
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da28180086876550800000000000000
+      internalID: 6154035300274809555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_222
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 322
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc50ee18e8fddd6f0800000000000000
+      internalID: -658124167368014388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_223
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 321
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5109ae51d3c797210800000000000000
+      internalID: 1331231766667235349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_224
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 313
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160dd39e62a91ccc0800000000000000
+      internalID: -3692500727554518943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_225
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 309
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43996177f2715ac0800000000000000
+      internalID: -3868184197849312437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_226
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30edd3076a642e80800000000000000
+      internalID: -8204315630483152836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_227
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 292
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4ab1b3971bfe050800000000000000
+      internalID: 5832075176708908284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_228
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 276
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf24b917efc3f5ac0800000000000000
+      internalID: -3864302891735235844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_229
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 281
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f9be1829ee7ded0800000000000000
+      internalID: -2389178764284420274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_230
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 279
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4951edd77303895d0800000000000000
+      internalID: -3055639332277840492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_231
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023ef29e4454e790800000000000000
+      internalID: -7501778382842088951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_232
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 280
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34cc30f4cca4eb00800000000000000
+      internalID: 856999790951318589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_233
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 290
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464ea1ca0ecfc6e80800000000000000
+      internalID: -8183888380948716444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_234
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 273
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec3503dfee4fe0c0800000000000000
+      internalID: -4544326707049055004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_235
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e4423355054070800000000000000
+      internalID: 8089878160524764681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_236
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 269
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678957be1154dd080800000000000000
+      internalID: -9161090123734607754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_237
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 207
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad0ac8a4ad833230800000000000000
+      internalID: 3617390664054607273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_238
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 263
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bbc9657f8b1a370800000000000000
+      internalID: 8332144158061673225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_239
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 244
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4fbf5d4a3b8d2b0800000000000000
+      internalID: -5559496219442809607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_240
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 263
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e9f9a33fc658d0800000000000000
+      internalID: -2857869092717993136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_241
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 255
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73a45468348469f0800000000000000
+      internalID: -476110282858126466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_242
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 250
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beff550a31bc1080800000000000000
+      internalID: -9215295874750480719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_243
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 257
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56f12c43e52ff140800000000000000
+      internalID: 4755561389691631195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_244
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 242
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24c1a11a0d3b9270800000000000000
+      internalID: 8258261455168717869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_245
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 244
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d682c461cbc54a640800000000000000
+      internalID: 5090295441733199981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_246
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 238
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57fd33b4c6c139c0800000000000000
+      internalID: -3949156850104141986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_247
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 246
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590cfa5251cc78580800000000000000
+      internalID: -8824860553610542955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_248
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 235
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78c1a99bd803420800000000000000
+      internalID: 2607740012541544410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_249
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 230
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df9d813d7748e00800000000000000
+      internalID: 1046092761995541765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_250
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 230
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf3e9f1068967450800000000000000
+      internalID: 6086219485052551095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_251
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 198
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea4a7d202b6d5a80800000000000000
+      internalID: -8476501137695290655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_252
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 223
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f714e3d312d9460800000000000000
+      internalID: 7249987522057568039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_253
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 214
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d1ca1437fe1eb60800000000000000
+      internalID: 7773757710120263012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_254
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 208
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb044d0ffa9e9b9c0800000000000000
+      internalID: -3910837859525574468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_255
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 205
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6015f81e106a4d280800000000000000
+      internalID: -9019401626706816762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_256
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 202
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad929ccdf21113f0800000000000000
+      internalID: -931942766620795473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_257
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 193
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe45dbdacc2eeebe0800000000000000
+      internalID: -1445969061623278353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_258
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 154
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4fe2447802c8af0800000000000000
+      internalID: -392903302151473988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_259
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 140
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef7a465f11a2980800000000000000
+      internalID: -8563011995838185862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_260
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 163
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6eff6c3acd45ff0800000000000000
+      internalID: -48171100017793356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_261
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 7
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f4d2dbfbc626990800000000000000
+      internalID: -7394228067420516511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_262
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807b61b802d24b2e0800000000000000
+      internalID: -2111012707534194936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_263
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 7
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e75d2f1b82659000800000000000000
+      internalID: 42048121192929256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_264
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3929ae020bf6a70800000000000000
+      internalID: 8822463850463007677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_265
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 13
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650394a6fa3cf9e00800000000000000
+      internalID: 1053775995997859926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_rightcopy_266
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2b367326095d330800000000000000
+      internalID: 3735050217484169968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dust_rightcopy_0: 297111014971095791
+      dust_rightcopy_1: 4454916792706771694
+      dust_rightcopy_10: 4984766927515033381
+      dust_rightcopy_100: -2754070871939120438
+      dust_rightcopy_101: -6324752393460629174
+      dust_rightcopy_102: -1485313241918710846
+      dust_rightcopy_103: -4351037272176590312
+      dust_rightcopy_104: -1394313071022365087
+      dust_rightcopy_105: 8533683672393167137
+      dust_rightcopy_106: 1816941413615147978
+      dust_rightcopy_107: 4490479058461449862
+      dust_rightcopy_108: 9196701474949848572
+      dust_rightcopy_109: -5690062735958459536
+      dust_rightcopy_11: 6180453429511568589
+      dust_rightcopy_110: 1339702539854908129
+      dust_rightcopy_111: -3315666065076869552
+      dust_rightcopy_112: 5055539538604834427
+      dust_rightcopy_113: -4154806156353671605
+      dust_rightcopy_114: -5940517213967049432
+      dust_rightcopy_115: -3095248745966267182
+      dust_rightcopy_116: -468213828787090663
+      dust_rightcopy_117: 1452088701253487654
+      dust_rightcopy_118: 2968035686122054750
+      dust_rightcopy_119: 2031633782905964889
+      dust_rightcopy_12: -1503170867160194979
+      dust_rightcopy_120: 1337566061551526611
+      dust_rightcopy_121: -9018798469427819050
+      dust_rightcopy_122: -2355783801120258074
+      dust_rightcopy_123: -5247325694120259441
+      dust_rightcopy_124: -7519060423776538254
+      dust_rightcopy_125: -1934235196548464773
+      dust_rightcopy_126: -8073726884071447424
+      dust_rightcopy_127: -7821558420045550900
+      dust_rightcopy_128: 1021613336070718985
+      dust_rightcopy_129: -4925842080774202493
+      dust_rightcopy_13: -2590670757654457432
+      dust_rightcopy_130: -7564414793605554158
+      dust_rightcopy_131: 6789914609648066245
+      dust_rightcopy_132: -4111761162176436495
+      dust_rightcopy_133: 531415464199519334
+      dust_rightcopy_134: 223177286211841099
+      dust_rightcopy_135: 6643825139196684946
+      dust_rightcopy_136: 5521544692473934869
+      dust_rightcopy_137: -138027680753340187
+      dust_rightcopy_138: 2603426543918891204
+      dust_rightcopy_139: -7455045148624927562
+      dust_rightcopy_14: -26432040607118562
+      dust_rightcopy_140: -1304320398084598610
+      dust_rightcopy_141: -3379630863038932862
+      dust_rightcopy_142: 1925692385976870162
+      dust_rightcopy_143: 5702704007676812817
+      dust_rightcopy_144: -8333748775560290975
+      dust_rightcopy_145: -7767759188893167298
+      dust_rightcopy_146: 5916118829536151278
+      dust_rightcopy_147: 2045529186441867898
+      dust_rightcopy_148: 4700723574578057132
+      dust_rightcopy_149: -9117481770091616551
+      dust_rightcopy_15: 3393425786670790682
+      dust_rightcopy_150: -5028721112034882363
+      dust_rightcopy_151: -6367916095397024194
+      dust_rightcopy_152: -645966405763887586
+      dust_rightcopy_153: 5659124647791350499
+      dust_rightcopy_154: 8609917281766829972
+      dust_rightcopy_155: -6024732287566969143
+      dust_rightcopy_156: 3581613576545253108
+      dust_rightcopy_157: -7947301422755563970
+      dust_rightcopy_158: 8074056016406596800
+      dust_rightcopy_159: -6047932649741328087
+      dust_rightcopy_16: 1031780391061006495
+      dust_rightcopy_160: -1139100101879808186
+      dust_rightcopy_161: -4832740861200749128
+      dust_rightcopy_162: -1693031686499089530
+      dust_rightcopy_163: -8863075067429514229
+      dust_rightcopy_164: -6056485940573366940
+      dust_rightcopy_165: -6105177536219761446
+      dust_rightcopy_166: -5281321477911906216
+      dust_rightcopy_167: 8803404195198145502
+      dust_rightcopy_168: 7879542456261507997
+      dust_rightcopy_169: 635665156646835785
+      dust_rightcopy_17: -1397654125971442556
+      dust_rightcopy_170: -5551852660514446851
+      dust_rightcopy_171: 2734934511089516425
+      dust_rightcopy_172: 9089221744562823962
+      dust_rightcopy_173: 1473001642513175672
+      dust_rightcopy_174: -4635176854287406035
+      dust_rightcopy_175: 542255738942743243
+      dust_rightcopy_176: 675645983141428285
+      dust_rightcopy_177: -6509484735686724590
+      dust_rightcopy_178: 6640895343697938619
+      dust_rightcopy_179: -2456674901130507708
+      dust_rightcopy_18: 5475988662721748034
+      dust_rightcopy_180: -4574182504140152947
+      dust_rightcopy_181: -383413562479599941
+      dust_rightcopy_182: -8538601692266187770
+      dust_rightcopy_183: -4073120609277049790
+      dust_rightcopy_184: 4691270244317743409
+      dust_rightcopy_185: 2460099879945377658
+      dust_rightcopy_186: 3693971760089136249
+      dust_rightcopy_187: -3546548663484958479
+      dust_rightcopy_188: -180620663791413242
+      dust_rightcopy_189: 8255246226077902111
+      dust_rightcopy_19: -5185057976729689056
+      dust_rightcopy_190: 5904799293798920267
+      dust_rightcopy_191: -7111404833387694620
+      dust_rightcopy_192: 8751591100733290757
+      dust_rightcopy_193: 5266538517224186599
+      dust_rightcopy_194: -4887771344965088131
+      dust_rightcopy_195: 3218130795259657650
+      dust_rightcopy_196: -4211002035261325975
+      dust_rightcopy_197: 8543663498193857619
+      dust_rightcopy_198: -2533654556888192135
+      dust_rightcopy_199: -2167712118107037470
+      dust_rightcopy_2: 187520638306187734
+      dust_rightcopy_20: 8481097861465136262
+      dust_rightcopy_200: -6616383421825051704
+      dust_rightcopy_201: 2464492529097220104
+      dust_rightcopy_202: 3441887830478358430
+      dust_rightcopy_203: -8236271580301385939
+      dust_rightcopy_204: 6947773066376713680
+      dust_rightcopy_205: 6778443373293957355
+      dust_rightcopy_206: 2573085138406108009
+      dust_rightcopy_207: 6347566471605927528
+      dust_rightcopy_208: -3057839265069483883
+      dust_rightcopy_209: 7036495402481249753
+      dust_rightcopy_21: -831049452538861530
+      dust_rightcopy_210: -8024784645396533606
+      dust_rightcopy_211: 3693461790883218950
+      dust_rightcopy_212: 4891706951287960744
+      dust_rightcopy_213: -8093019241011274154
+      dust_rightcopy_214: -925150401396449812
+      dust_rightcopy_215: -3468283990613524945
+      dust_rightcopy_216: 2704711771677049837
+      dust_rightcopy_217: -873309301994381842
+      dust_rightcopy_218: -5140229117110902048
+      dust_rightcopy_219: -4819665873224679918
+      dust_rightcopy_22: -85842351990396474
+      dust_rightcopy_220: -3498078425592347989
+      dust_rightcopy_221: 6154035300274809555
+      dust_rightcopy_222: -658124167368014388
+      dust_rightcopy_223: 1331231766667235349
+      dust_rightcopy_224: -3692500727554518943
+      dust_rightcopy_225: -3868184197849312437
+      dust_rightcopy_226: -8204315630483152836
+      dust_rightcopy_227: 5832075176708908284
+      dust_rightcopy_228: -3864302891735235844
+      dust_rightcopy_229: -2389178764284420274
+      dust_rightcopy_23: 5185075900455279908
+      dust_rightcopy_230: -3055639332277840492
+      dust_rightcopy_231: -7501778382842088951
+      dust_rightcopy_232: 856999790951318589
+      dust_rightcopy_233: -8183888380948716444
+      dust_rightcopy_234: -4544326707049055004
+      dust_rightcopy_235: 8089878160524764681
+      dust_rightcopy_236: -9161090123734607754
+      dust_rightcopy_237: 3617390664054607273
+      dust_rightcopy_238: 8332144158061673225
+      dust_rightcopy_239: -5559496219442809607
+      dust_rightcopy_24: -4994879220702349683
+      dust_rightcopy_240: -2857869092717993136
+      dust_rightcopy_241: -476110282858126466
+      dust_rightcopy_242: -9215295874750480719
+      dust_rightcopy_243: 4755561389691631195
+      dust_rightcopy_244: 8258261455168717869
+      dust_rightcopy_245: 5090295441733199981
+      dust_rightcopy_246: -3949156850104141986
+      dust_rightcopy_247: -8824860553610542955
+      dust_rightcopy_248: 2607740012541544410
+      dust_rightcopy_249: 1046092761995541765
+      dust_rightcopy_25: -237137516074127235
+      dust_rightcopy_250: 6086219485052551095
+      dust_rightcopy_251: -8476501137695290655
+      dust_rightcopy_252: 7249987522057568039
+      dust_rightcopy_253: 7773757710120263012
+      dust_rightcopy_254: -3910837859525574468
+      dust_rightcopy_255: -9019401626706816762
+      dust_rightcopy_256: -931942766620795473
+      dust_rightcopy_257: -1445969061623278353
+      dust_rightcopy_258: -392903302151473988
+      dust_rightcopy_259: -8563011995838185862
+      dust_rightcopy_26: -9216890744331960270
+      dust_rightcopy_260: -48171100017793356
+      dust_rightcopy_261: -7394228067420516511
+      dust_rightcopy_262: -2111012707534194936
+      dust_rightcopy_263: 42048121192929256
+      dust_rightcopy_264: 8822463850463007677
+      dust_rightcopy_265: 1053775995997859926
+      dust_rightcopy_266: 3735050217484169968
+      dust_rightcopy_27: -8318012291820595420
+      dust_rightcopy_28: 8994443062801657835
+      dust_rightcopy_29: 2643713824979466248
+      dust_rightcopy_3: 8823876866539437976
+      dust_rightcopy_30: 251655507404315033
+      dust_rightcopy_31: 5595590966720827516
+      dust_rightcopy_32: 3863102750317760382
+      dust_rightcopy_33: 4576353007628850781
+      dust_rightcopy_34: -3402065861108445964
+      dust_rightcopy_35: -8960276258485276781
+      dust_rightcopy_36: -6243314057689292620
+      dust_rightcopy_37: 1006931262110820543
+      dust_rightcopy_38: -4302900668902737612
+      dust_rightcopy_39: 2162449383584651296
+      dust_rightcopy_4: -3737461105177251972
+      dust_rightcopy_40: 8759974827817056461
+      dust_rightcopy_41: 3613033619690166159
+      dust_rightcopy_42: 1989480307766735125
+      dust_rightcopy_43: 9005454407581375993
+      dust_rightcopy_44: -9181882458372006808
+      dust_rightcopy_45: -6494519920891418384
+      dust_rightcopy_46: -5680677712512932369
+      dust_rightcopy_47: -9143079717643858004
+      dust_rightcopy_48: 6952517825653776430
+      dust_rightcopy_49: 9135241269249590075
+      dust_rightcopy_5: -7295373247485160977
+      dust_rightcopy_50: 5848277992111987860
+      dust_rightcopy_51: 6283943475052875764
+      dust_rightcopy_52: 6165255930214135351
+      dust_rightcopy_53: 7522371544267108874
+      dust_rightcopy_54: 3850121423593269736
+      dust_rightcopy_55: -8616519025309425739
+      dust_rightcopy_56: -3183202270609239232
+      dust_rightcopy_57: -4236469723255584269
+      dust_rightcopy_58: 4815997754586620311
+      dust_rightcopy_59: 2387015737540716453
+      dust_rightcopy_6: 66259123256917578
+      dust_rightcopy_60: -5046988321428821723
+      dust_rightcopy_61: 96462429170634017
+      dust_rightcopy_62: 8578748154458681082
+      dust_rightcopy_63: 8324620589081776574
+      dust_rightcopy_64: 2321023239084899326
+      dust_rightcopy_65: 8293383785263344978
+      dust_rightcopy_66: -3594313592300083973
+      dust_rightcopy_67: -7874697637419252845
+      dust_rightcopy_68: 4331219296414098672
+      dust_rightcopy_69: 9202760529596111133
+      dust_rightcopy_7: -3851533735857206444
+      dust_rightcopy_70: -3395188341440090745
+      dust_rightcopy_71: 2046451004534671507
+      dust_rightcopy_72: -5662696054530128666
+      dust_rightcopy_73: -1065772872933073536
+      dust_rightcopy_74: 3118026029513466314
+      dust_rightcopy_75: 6764124841188395892
+      dust_rightcopy_76: -4541989635945763767
+      dust_rightcopy_77: -318956365171137949
+      dust_rightcopy_78: 7733027506912715169
+      dust_rightcopy_79: 5283776828965495424
+      dust_rightcopy_8: 2213933428870606554
+      dust_rightcopy_80: 7124543962409854472
+      dust_rightcopy_81: -957423592452209883
+      dust_rightcopy_82: 5676131755924072103
+      dust_rightcopy_83: 8990522881104098607
+      dust_rightcopy_84: 6231064541038163103
+      dust_rightcopy_85: -6578295351826407140
+      dust_rightcopy_86: -4133400095383190208
+      dust_rightcopy_87: 7539157057050430752
+      dust_rightcopy_88: 8034881978284119642
+      dust_rightcopy_89: 1378566419065699930
+      dust_rightcopy_9: 6519292190802584593
+      dust_rightcopy_90: 4081152736224605348
+      dust_rightcopy_91: -5680938628751426050
+      dust_rightcopy_92: -1013390281876417247
+      dust_rightcopy_93: -6313046392742657245
+      dust_rightcopy_94: 5656623657261207301
+      dust_rightcopy_95: 3545069112749491990
+      dust_rightcopy_96: 3530976861724346645
+      dust_rightcopy_97: 2552691979002824313
+      dust_rightcopy_98: 6714289808251225240
+      dust_rightcopy_99: -1801883304289178402
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

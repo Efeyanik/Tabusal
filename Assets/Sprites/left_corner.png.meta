@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 579ee1d359020ab43b367a2e0e1d9557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1825815783777573897
+    second: left_corner_0
+  - first:
+      213: 2218994698912765925
+    second: left_corner_1
+  - first:
+      213: 3142168048277690021
+    second: left_corner_2
+  - first:
+      213: -7869751670721935910
+    second: left_corner_3
+  - first:
+      213: 2788554210601542859
+    second: left_corner_4
+  - first:
+      213: -8902521995664695207
+    second: left_corner_5
+  - first:
+      213: -5376093006242006170
+    second: left_corner_6
+  - first:
+      213: -1404017141763746689
+    second: left_corner_7
+  - first:
+      213: 3755847305697269208
+    second: left_corner_8
+  - first:
+      213: -5972866226930181149
+    second: left_corner_9
+  - first:
+      213: 121614512161243660
+    second: left_corner_10
+  - first:
+      213: 6193565879511093685
+    second: left_corner_11
+  - first:
+      213: 8675563668653225094
+    second: left_corner_12
+  - first:
+      213: 7640420606135026481
+    second: left_corner_13
+  - first:
+      213: -81623828961287675
+    second: left_corner_14
+  - first:
+      213: -2317968583972899482
+    second: left_corner_15
+  - first:
+      213: 191457102447956378
+    second: left_corner_16
+  - first:
+      213: 2498730333587192150
+    second: left_corner_17
+  - first:
+      213: 3472603970061081727
+    second: left_corner_18
+  - first:
+      213: -5988577891596086770
+    second: left_corner_19
+  - first:
+      213: 2847878833925535513
+    second: left_corner_20
+  - first:
+      213: 2448165934122178671
+    second: left_corner_21
+  - first:
+      213: 2836206223128774713
+    second: left_corner_22
+  - first:
+      213: 3723518752193178004
+    second: left_corner_23
+  - first:
+      213: 6673004825302162246
+    second: left_corner_24
+  - first:
+      213: 4828073285093128325
+    second: left_corner_25
+  - first:
+      213: 7813013137747690123
+    second: left_corner_26
+  - first:
+      213: 1194480636170933398
+    second: left_corner_27
+  - first:
+      213: 7913348902939556924
+    second: left_corner_28
+  - first:
+      213: 4783895434440156215
+    second: left_corner_29
+  - first:
+      213: -6587333549178978965
+    second: left_corner_30
+  - first:
+      213: -2363550425406993156
+    second: left_corner_31
+  - first:
+      213: -6402440195454309844
+    second: left_corner_32
+  - first:
+      213: 8432532212987340390
+    second: left_corner_33
+  - first:
+      213: 4777503763528508768
+    second: left_corner_34
+  - first:
+      213: -10476011282345100
+    second: left_corner_35
+  - first:
+      213: -3252433137371814674
+    second: left_corner_36
+  - first:
+      213: 7982283920066300179
+    second: left_corner_37
+  - first:
+      213: 2316941590126932203
+    second: left_corner_38
+  - first:
+      213: 7698406429556369550
+    second: left_corner_39
+  - first:
+      213: -5052600052597891679
+    second: left_corner_40
+  - first:
+      213: 6217754076300446104
+    second: left_corner_41
+  - first:
+      213: 129130802683335651
+    second: left_corner_42
+  - first:
+      213: 1131714457172645924
+    second: left_corner_43
+  - first:
+      213: -2066214327331402514
+    second: left_corner_44
+  - first:
+      213: 4902575136974048861
+    second: left_corner_45
+  - first:
+      213: -2882246215658862704
+    second: left_corner_46
+  - first:
+      213: -2577580633091576839
+    second: left_corner_47
+  - first:
+      213: 2938039784282361504
+    second: left_corner_48
+  - first:
+      213: -3859607730568835921
+    second: left_corner_49
+  - first:
+      213: 1704174781156093986
+    second: left_corner_50
+  - first:
+      213: 1558645970877725035
+    second: left_corner_51
+  - first:
+      213: -3565745894242154069
+    second: left_corner_52
+  - first:
+      213: -4075053029295655938
+    second: left_corner_53
+  - first:
+      213: -4644444810321863854
+    second: left_corner_54
+  - first:
+      213: 546813994118844299
+    second: left_corner_55
+  - first:
+      213: -108319088991056690
+    second: left_corner_56
+  - first:
+      213: 8043370071039176511
+    second: left_corner_57
+  - first:
+      213: -385150303676504581
+    second: left_corner_58
+  - first:
+      213: 221632202893682356
+    second: left_corner_59
+  - first:
+      213: -662065613050119581
+    second: left_corner_60
+  - first:
+      213: 5627073308929475460
+    second: left_corner_61
+  - first:
+      213: 4150860797202365458
+    second: left_corner_62
+  - first:
+      213: -296315353121545221
+    second: left_corner_63
+  - first:
+      213: -7212649872932152741
+    second: left_corner_64
+  - first:
+      213: 6140857689498618147
+    second: left_corner_65
+  - first:
+      213: -2645172874903944346
+    second: left_corner_66
+  - first:
+      213: 1712428305469013087
+    second: left_corner_67
+  - first:
+      213: 3874162111549373368
+    second: left_corner_68
+  - first:
+      213: -6643054233548616428
+    second: left_corner_69
+  - first:
+      213: 17189420530983287
+    second: left_corner_70
+  - first:
+      213: 8201130938812699845
+    second: left_corner_71
+  - first:
+      213: 6459778543736352781
+    second: left_corner_72
+  - first:
+      213: -6346325278424016362
+    second: left_corner_73
+  - first:
+      213: 9111164268734872429
+    second: left_corner_74
+  - first:
+      213: -7319547959433624664
+    second: left_corner_75
+  - first:
+      213: -5208290342515951204
+    second: left_corner_76
+  - first:
+      213: -7540387730737052359
+    second: left_corner_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: left_corner_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 441
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e2aed73669a6e0800000000000000
+      internalID: -1825815783777573897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 442
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e79b230ce37bce10800000000000000
+      internalID: 2218994698912765925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 442
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a69c2621393b9b20800000000000000
+      internalID: 3142168048277690021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 448
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5051c1d8609c290800000000000000
+      internalID: -7869751670721935910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 440
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc423d7b74fe2b620800000000000000
+      internalID: 2788554210601542859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 438
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950ed4b9963e37480800000000000000
+      internalID: -8902521995664695207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 431
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bbb7305e74465b0800000000000000
+      internalID: -5376093006242006170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 379
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74dc9e29dde38ce0800000000000000
+      internalID: -1404017141763746689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 356
+        width: 208
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d591b6a9337f1430800000000000000
+      internalID: 3755847305697269208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 436
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb16ecefcd1c1da0800000000000000
+      internalID: -5972866226930181149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 439
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0247e421cf00b100800000000000000
+      internalID: 121614512161243660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 432
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b11d3d3a57f3f550800000000000000
+      internalID: 6193565879511093685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 431
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843c58013bc56870800000000000000
+      internalID: 8675563668653225094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c0438f0a380a60800000000000000
+      internalID: 7640420606135026481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 435
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5022e8d5f830edef0800000000000000
+      internalID: -81623828961287675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 426
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665b7cf9adbe4dfd0800000000000000
+      internalID: -2317968583972899482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 414
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d225683138a200800000000000000
+      internalID: 191457102447956378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 420
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65935f2eff54da220800000000000000
+      internalID: 2498730333587192150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 418
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c1a1189ea213030800000000000000
+      internalID: 3472603970061081727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 401
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0258ade22c44eca0800000000000000
+      internalID: -5988577891596086770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 421
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9173c73f5b2b58720800000000000000
+      internalID: 2847878833925535513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68909632f1a9f120800000000000000
+      internalID: 2448165934122178671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 410
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938c757788a3c5720800000000000000
+      internalID: 2836206223128774713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 403
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499eafab3989ca330800000000000000
+      internalID: 3723518752193178004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 375
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b5a9498864b9c50800000000000000
+      internalID: 6673004825302162246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58877839213c00340800000000000000
+      internalID: 4828073285093128325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8249ecbd066d6c60800000000000000
+      internalID: 7813013137747690123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 366
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6941d0a5fc5a39010800000000000000
+      internalID: 1194480636170933398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 380
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c707786ecd1dd60800000000000000
+      internalID: 7913348902939556924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 390
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7342b6c2d8fc36240800000000000000
+      internalID: 4783895434440156215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 358
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7c28c9071594a0800000000000000
+      internalID: -6587333549178978965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 373
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc84e4296bf23fd0800000000000000
+      internalID: -2363550425406993156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a63465096f527a0800000000000000
+      internalID: -6402440195454309844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 352
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6662628ce5f560570800000000000000
+      internalID: 8432532212987340390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06565325c5a1d4240800000000000000
+      internalID: 4777503763528508768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 366
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4735adc8f18cadff0800000000000000
+      internalID: -10476011282345100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 363
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46e3f2b490dd2d0800000000000000
+      internalID: -3252433137371814674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 369
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194ddfeee4c6ce60800000000000000
+      internalID: 7982283920066300179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be038dcb91e672020800000000000000
+      internalID: 2316941590126932203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 377
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886a4a1cdb36da60800000000000000
+      internalID: 7698406429556369550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 336
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad58c0a50f81e9b0800000000000000
+      internalID: -5052600052597891679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 356
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89900aaa366e94650800000000000000
+      internalID: 6217754076300446104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 356
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35087e7c3cac100800000000000000
+      internalID: 129130802683335651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 363
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42813fe7d48a4bf00800000000000000
+      internalID: 1131714457172645924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 226
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecc69d34055353e0800000000000000
+      internalID: -2066214327331402514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 349
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e0004bc12790440800000000000000
+      internalID: 4902575136974048861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 341
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097807076543008d0800000000000000
+      internalID: -2882246215658862704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 354
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb66a022189a3cd0800000000000000
+      internalID: -2577580633091576839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae8d1e0e9306c820800000000000000
+      internalID: 2938039784282361504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_49
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 312
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc717d73bef6ac0800000000000000
+      internalID: -3859607730568835921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 286
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220fcf13fe176a710800000000000000
+      internalID: 1704174781156093986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 260
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69b2c0a04c61a510800000000000000
+      internalID: 1558645970877725035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 257
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba98366500de38ec0800000000000000
+      internalID: -3565745894242154069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 241
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3f3f34cd08277c0800000000000000
+      internalID: -4075053029295655938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 237
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bdbd56d0e9b8fb0800000000000000
+      internalID: -4644444810321863854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 219
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f8aa53e6ca69700800000000000000
+      internalID: 546813994118844299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 180
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc4b4acc5c2f7ef0800000000000000
+      internalID: -108319088991056690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f6c49c67acf9f60800000000000000
+      internalID: 8043370071039176511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 146
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf56a34e6dba7aaf0800000000000000
+      internalID: -385150303676504581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_59
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 134
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e3447055631300800000000000000
+      internalID: 221632202893682356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_60
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a752c25dedfc6f0800000000000000
+      internalID: -662065613050119581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_61
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483c2d76c51671e40800000000000000
+      internalID: 5627073308929475460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 98
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c775127e1da9930800000000000000
+      internalID: 4150860797202365458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_63
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 113
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf322bb91c643ebf0800000000000000
+      internalID: -296315353121545221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_64
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5adc92a72587eb90800000000000000
+      internalID: -7212649872932152741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_65
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298ace6885b83550800000000000000
+      internalID: 6140857689498618147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_66
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 84
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6630ad5f8457a4bd0800000000000000
+      internalID: -2645172874903944346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_67
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 79
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cfdc29874c3c710800000000000000
+      internalID: 1712428305469013087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_68
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb7d2d0ae9c3c530800000000000000
+      internalID: 3874162111549373368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_69
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d0ea9fe512fc3a0800000000000000
+      internalID: -6643054233548616428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771e4a8dfa11d3000800000000000000
+      internalID: 17189420530983287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_71
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 55
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4956c232540d170800000000000000
+      internalID: 8201130938812699845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 61
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0078133c5eb5a950800000000000000
+      internalID: 6459778543736352781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_73
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a547698c25de7a0800000000000000
+      internalID: -6346325278424016362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b7c2021ab517e70800000000000000
+      internalID: 9111164268734872429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3068959edbb6a90800000000000000
+      internalID: -7319547959433624664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_76
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 51
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c993d37378f68b7b0800000000000000
+      internalID: -5208290342515951204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left_corner_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93544b04f492b5790800000000000000
+      internalID: -7540387730737052359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      left_corner_0: -1825815783777573897
+      left_corner_1: 2218994698912765925
+      left_corner_10: 121614512161243660
+      left_corner_11: 6193565879511093685
+      left_corner_12: 8675563668653225094
+      left_corner_13: 7640420606135026481
+      left_corner_14: -81623828961287675
+      left_corner_15: -2317968583972899482
+      left_corner_16: 191457102447956378
+      left_corner_17: 2498730333587192150
+      left_corner_18: 3472603970061081727
+      left_corner_19: -5988577891596086770
+      left_corner_2: 3142168048277690021
+      left_corner_20: 2847878833925535513
+      left_corner_21: 2448165934122178671
+      left_corner_22: 2836206223128774713
+      left_corner_23: 3723518752193178004
+      left_corner_24: 6673004825302162246
+      left_corner_25: 4828073285093128325
+      left_corner_26: 7813013137747690123
+      left_corner_27: 1194480636170933398
+      left_corner_28: 7913348902939556924
+      left_corner_29: 4783895434440156215
+      left_corner_3: -7869751670721935910
+      left_corner_30: -6587333549178978965
+      left_corner_31: -2363550425406993156
+      left_corner_32: -6402440195454309844
+      left_corner_33: 8432532212987340390
+      left_corner_34: 4777503763528508768
+      left_corner_35: -10476011282345100
+      left_corner_36: -3252433137371814674
+      left_corner_37: 7982283920066300179
+      left_corner_38: 2316941590126932203
+      left_corner_39: 7698406429556369550
+      left_corner_4: 2788554210601542859
+      left_corner_40: -5052600052597891679
+      left_corner_41: 6217754076300446104
+      left_corner_42: 129130802683335651
+      left_corner_43: 1131714457172645924
+      left_corner_44: -2066214327331402514
+      left_corner_45: 4902575136974048861
+      left_corner_46: -2882246215658862704
+      left_corner_47: -2577580633091576839
+      left_corner_48: 2938039784282361504
+      left_corner_49: -3859607730568835921
+      left_corner_5: -8902521995664695207
+      left_corner_50: 1704174781156093986
+      left_corner_51: 1558645970877725035
+      left_corner_52: -3565745894242154069
+      left_corner_53: -4075053029295655938
+      left_corner_54: -4644444810321863854
+      left_corner_55: 546813994118844299
+      left_corner_56: -108319088991056690
+      left_corner_57: 8043370071039176511
+      left_corner_58: -385150303676504581
+      left_corner_59: 221632202893682356
+      left_corner_6: -5376093006242006170
+      left_corner_60: -662065613050119581
+      left_corner_61: 5627073308929475460
+      left_corner_62: 4150860797202365458
+      left_corner_63: -296315353121545221
+      left_corner_64: -7212649872932152741
+      left_corner_65: 6140857689498618147
+      left_corner_66: -2645172874903944346
+      left_corner_67: 1712428305469013087
+      left_corner_68: 3874162111549373368
+      left_corner_69: -6643054233548616428
+      left_corner_7: -1404017141763746689
+      left_corner_70: 17189420530983287
+      left_corner_71: 8201130938812699845
+      left_corner_72: 6459778543736352781
+      left_corner_73: -6346325278424016362
+      left_corner_74: 9111164268734872429
+      left_corner_75: -7319547959433624664
+      left_corner_76: -5208290342515951204
+      left_corner_77: -7540387730737052359
+      left_corner_8: 3755847305697269208
+      left_corner_9: -5972866226930181149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

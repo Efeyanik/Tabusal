@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 11bfbb8e2a3c9d847b83a51d49e89267
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8993286280145007778
+    second: right_corner_0
+  - first:
+      213: 2065312972907700248
+    second: right_corner_1
+  - first:
+      213: 8255380540635535095
+    second: right_corner_2
+  - first:
+      213: -1954254583388606262
+    second: right_corner_3
+  - first:
+      213: -5711653735520270531
+    second: right_corner_4
+  - first:
+      213: 3768264774767486471
+    second: right_corner_5
+  - first:
+      213: -1316049205079368402
+    second: right_corner_6
+  - first:
+      213: -422057467003905180
+    second: right_corner_7
+  - first:
+      213: 533606101863051407
+    second: right_corner_8
+  - first:
+      213: 5774802226972180370
+    second: right_corner_9
+  - first:
+      213: -53363180053831970
+    second: right_corner_10
+  - first:
+      213: 8202181445804355145
+    second: right_corner_11
+  - first:
+      213: -2590749790311748670
+    second: right_corner_12
+  - first:
+      213: -1591103958017002643
+    second: right_corner_13
+  - first:
+      213: 7178201743378509283
+    second: right_corner_14
+  - first:
+      213: 7775993107708586640
+    second: right_corner_15
+  - first:
+      213: 5886609766064709499
+    second: right_corner_16
+  - first:
+      213: 8120359414225915178
+    second: right_corner_17
+  - first:
+      213: -8675038418290515174
+    second: right_corner_18
+  - first:
+      213: -4825905926764125392
+    second: right_corner_19
+  - first:
+      213: -1572082779925425180
+    second: right_corner_20
+  - first:
+      213: 5734005629723490306
+    second: right_corner_21
+  - first:
+      213: -3818130279415782839
+    second: right_corner_22
+  - first:
+      213: 6037411844342749434
+    second: right_corner_23
+  - first:
+      213: 6126043012361858016
+    second: right_corner_24
+  - first:
+      213: 3523881946073796799
+    second: right_corner_25
+  - first:
+      213: -5432437805220680447
+    second: right_corner_26
+  - first:
+      213: 8048061323836798510
+    second: right_corner_27
+  - first:
+      213: 6314954962529284960
+    second: right_corner_28
+  - first:
+      213: -800278748389637024
+    second: right_corner_29
+  - first:
+      213: -7711448194354320985
+    second: right_corner_30
+  - first:
+      213: 6474433728008784653
+    second: right_corner_31
+  - first:
+      213: -3494573015788183810
+    second: right_corner_32
+  - first:
+      213: 4952322283621311453
+    second: right_corner_33
+  - first:
+      213: -3341851994174726184
+    second: right_corner_34
+  - first:
+      213: 7003341637655769751
+    second: right_corner_35
+  - first:
+      213: 8634461994283470645
+    second: right_corner_36
+  - first:
+      213: 2437696253119849348
+    second: right_corner_37
+  - first:
+      213: -7548252620583428352
+    second: right_corner_38
+  - first:
+      213: 7337526962538996041
+    second: right_corner_39
+  - first:
+      213: -8594413934206461205
+    second: right_corner_40
+  - first:
+      213: -1744565235911042800
+    second: right_corner_41
+  - first:
+      213: 51909273771766545
+    second: right_corner_42
+  - first:
+      213: -1093939816463708862
+    second: right_corner_43
+  - first:
+      213: 2358369075166420223
+    second: right_corner_44
+  - first:
+      213: 5238116739559357338
+    second: right_corner_45
+  - first:
+      213: 2981788661201418476
+    second: right_corner_46
+  - first:
+      213: -6487007250578688720
+    second: right_corner_47
+  - first:
+      213: 9064648275532695349
+    second: right_corner_48
+  - first:
+      213: -2666672042266148352
+    second: right_corner_49
+  - first:
+      213: -818976876196134969
+    second: right_corner_50
+  - first:
+      213: -3940457687184012826
+    second: right_corner_51
+  - first:
+      213: 1626827050482581622
+    second: right_corner_52
+  - first:
+      213: 5424407266910661236
+    second: right_corner_53
+  - first:
+      213: -6174354580237259233
+    second: right_corner_54
+  - first:
+      213: -434216387507361601
+    second: right_corner_55
+  - first:
+      213: 6532707006285318543
+    second: right_corner_56
+  - first:
+      213: 7623262454238232515
+    second: right_corner_57
+  - first:
+      213: 2341492508429368319
+    second: right_corner_58
+  - first:
+      213: -1934319371281402055
+    second: right_corner_59
+  - first:
+      213: -8905275234961261619
+    second: right_corner_60
+  - first:
+      213: -797164298638333189
+    second: right_corner_61
+  - first:
+      213: -5236690893804771638
+    second: right_corner_62
+  - first:
+      213: 5858946947227772076
+    second: right_corner_63
+  - first:
+      213: 5781654125338255226
+    second: right_corner_64
+  - first:
+      213: -7687398268644760699
+    second: right_corner_65
+  - first:
+      213: -5595380796192436533
+    second: right_corner_66
+  - first:
+      213: -8995002746191423277
+    second: right_corner_67
+  - first:
+      213: -1165291338830560158
+    second: right_corner_68
+  - first:
+      213: 3360140638575299541
+    second: right_corner_69
+  - first:
+      213: 7479284299960648777
+    second: right_corner_70
+  - first:
+      213: 8820170663059287162
+    second: right_corner_71
+  - first:
+      213: -3926112260343953339
+    second: right_corner_72
+  - first:
+      213: 556717726401162679
+    second: right_corner_73
+  - first:
+      213: 2713808621060614967
+    second: right_corner_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: right_corner_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 459
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b0094d6cd613380800000000000000
+      internalID: -8993286280145007778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 470
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106b24d43779ac10800000000000000
+      internalID: 2065312972907700248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 448
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d042ecd0019270800000000000000
+      internalID: 8255380540635535095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 455
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0717c7fc711e4e0800000000000000
+      internalID: -1954254583388606262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 453
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37084e60312cb0b0800000000000000
+      internalID: -5711653735520270531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 445
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70622a7f8d09b4430800000000000000
+      internalID: 3768264774767486471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 455
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1f4088347cbde0800000000000000
+      internalID: -1316049205079368402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 451
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b5e6c48fc842af0800000000000000
+      internalID: -422057467003905180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 219
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8037872cefb76700800000000000000
+      internalID: 533606101863051407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 441
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fbfca7708342050800000000000000
+      internalID: 5774802226972180370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 440
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede5ec0787a624ff0800000000000000
+      internalID: -53363180053831970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 437
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ee774619004d170800000000000000
+      internalID: 8202181445804355145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 443
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbec86cacecb0cd0800000000000000
+      internalID: -2590749790311748670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 441
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bda551634be9e0800000000000000
+      internalID: -1591103958017002643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 376
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6a2034781e9360800000000000000
+      internalID: 7178201743378509283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 425
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2bd05880e9eb60800000000000000
+      internalID: 7775993107708586640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 433
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fd1a5c46071b150800000000000000
+      internalID: 5886609766064709499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 434
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4f6d1ddf41b070800000000000000
+      internalID: 8120359414225915178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 432
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a136de855821c9780800000000000000
+      internalID: -8675038418290515174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 397
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033a5cbd020f60db0800000000000000
+      internalID: -4825905926764125392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 415
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e359097a07de2ae0800000000000000
+      internalID: -1572082779925425180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 403
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20832cb7db7439f40800000000000000
+      internalID: 5734005629723490306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 384
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942624d7db6430bc0800000000000000
+      internalID: -3818130279415782839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 388
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af819c8b51239c350800000000000000
+      internalID: 6037411844342749434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 382
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eba79e99a3140550800000000000000
+      internalID: 6126043012361858016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0142aa5f757e030800000000000000
+      internalID: 3523881946073796799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 263
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d2b63399a1c94b0800000000000000
+      internalID: -5432437805220680447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 239
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e263ad1322570bf60800000000000000
+      internalID: 8048061323836798510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 258
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063f522941a33a750800000000000000
+      internalID: 6314954962529284960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 247
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06401f8e7b6d4e4f0800000000000000
+      internalID: -800278748389637024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 236
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9eea769be6bf490800000000000000
+      internalID: -7711448194354320985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 253
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b85cf2c2fc9d950800000000000000
+      internalID: 6474433728008784653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 241
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe97407b58c08fc0800000000000000
+      internalID: -3494573015788183810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 202
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3ef70e0ee2ab440800000000000000
+      internalID: 4952322283621311453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 219
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfd843315b5f91d0800000000000000
+      internalID: -3341851994174726184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 178
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792bc293d1ed03160800000000000000
+      internalID: 7003341637655769751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 150
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f80ebbf65c3d770800000000000000
+      internalID: 8634461994283470645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4836285a3df64d120800000000000000
+      internalID: 2437696253119849348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f9633eb383f3790800000000000000
+      internalID: -7548252620583428352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 148
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941ecf385e124d560800000000000000
+      internalID: 7337526962538996041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead4fedf028ab880800000000000000
+      internalID: -8594413934206461205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d60a392f0ac7e0800000000000000
+      internalID: -1744565235911042800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f6bf953b68b000800000000000000
+      internalID: 51909273771766545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d460a688b81d0f0800000000000000
+      internalID: -1093939816463708862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 129
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9f8ebd2c9ab020800000000000000
+      internalID: 2358369075166420223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b76710c6781b840800000000000000
+      internalID: 5238116739559357338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 116
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8b23a3df0716920800000000000000
+      internalID: 2981788661201418476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035bfd5764589f5a0800000000000000
+      internalID: -6487007250578688720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 95
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537cbfc74991ccd70800000000000000
+      internalID: 9064648275532695349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002c24cf7e31efad0800000000000000
+      internalID: -2666672042266148352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cff117ced862a4f0800000000000000
+      internalID: -818976876196134969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e980f66c9ea059c0800000000000000
+      internalID: -3940457687184012826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 65
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670c2074596a39610800000000000000
+      internalID: 1626827050482581622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 67
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae1456bad574b40800000000000000
+      internalID: 5424407266910661236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ee6afe839405aa0800000000000000
+      internalID: -6174354580237259233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 62
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb868f20f7a59f9f0800000000000000
+      internalID: -434216387507361601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8987531966d8aa50800000000000000
+      internalID: 6532707006285318543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 66
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf3176ffc44bc960800000000000000
+      internalID: 7623262454238232515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_58
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbbb29d707ae7020800000000000000
+      internalID: 2341492508429368319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9377d90c7cae725e0800000000000000
+      internalID: -1934319371281402055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 51
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbfc012b5b1a6480800000000000000
+      internalID: -8905275234961261619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 59
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfae9004b47efe4f0800000000000000
+      internalID: -797164298638333189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_62
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66e3490698357b0800000000000000
+      internalID: -5236690893804771638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 58
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4ee5bd4392f4150800000000000000
+      internalID: 5858946947227772076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f55f26bcf8c3050800000000000000
+      internalID: 5781654125338255226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583e9761100e05590800000000000000
+      internalID: -7687398268644760699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 45
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce48ebbfc63952b0800000000000000
+      internalID: -5595380796192436533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d89fe8a45b2380800000000000000
+      internalID: -8995002746191423277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_68
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 39
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644a2983bd04dfe0800000000000000
+      internalID: -1165291338830560158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db82a5ab1e91ae20800000000000000
+      internalID: 3360140638575299541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_70
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9448f41a171cbc760800000000000000
+      internalID: 7479284299960648777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c68fd9c7a876a70800000000000000
+      internalID: 8820170663059287162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54884ed53b5a389c0800000000000000
+      internalID: -3926112260343953339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bded4292dbd9b700800000000000000
+      internalID: 556717726401162679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right_corner_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73be5beff8269a520800000000000000
+      internalID: 2713808621060614967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      right_corner_0: -8993286280145007778
+      right_corner_1: 2065312972907700248
+      right_corner_10: -53363180053831970
+      right_corner_11: 8202181445804355145
+      right_corner_12: -2590749790311748670
+      right_corner_13: -1591103958017002643
+      right_corner_14: 7178201743378509283
+      right_corner_15: 7775993107708586640
+      right_corner_16: 5886609766064709499
+      right_corner_17: 8120359414225915178
+      right_corner_18: -8675038418290515174
+      right_corner_19: -4825905926764125392
+      right_corner_2: 8255380540635535095
+      right_corner_20: -1572082779925425180
+      right_corner_21: 5734005629723490306
+      right_corner_22: -3818130279415782839
+      right_corner_23: 6037411844342749434
+      right_corner_24: 6126043012361858016
+      right_corner_25: 3523881946073796799
+      right_corner_26: -5432437805220680447
+      right_corner_27: 8048061323836798510
+      right_corner_28: 6314954962529284960
+      right_corner_29: -800278748389637024
+      right_corner_3: -1954254583388606262
+      right_corner_30: -7711448194354320985
+      right_corner_31: 6474433728008784653
+      right_corner_32: -3494573015788183810
+      right_corner_33: 4952322283621311453
+      right_corner_34: -3341851994174726184
+      right_corner_35: 7003341637655769751
+      right_corner_36: 8634461994283470645
+      right_corner_37: 2437696253119849348
+      right_corner_38: -7548252620583428352
+      right_corner_39: 7337526962538996041
+      right_corner_4: -5711653735520270531
+      right_corner_40: -8594413934206461205
+      right_corner_41: -1744565235911042800
+      right_corner_42: 51909273771766545
+      right_corner_43: -1093939816463708862
+      right_corner_44: 2358369075166420223
+      right_corner_45: 5238116739559357338
+      right_corner_46: 2981788661201418476
+      right_corner_47: -6487007250578688720
+      right_corner_48: 9064648275532695349
+      right_corner_49: -2666672042266148352
+      right_corner_5: 3768264774767486471
+      right_corner_50: -818976876196134969
+      right_corner_51: -3940457687184012826
+      right_corner_52: 1626827050482581622
+      right_corner_53: 5424407266910661236
+      right_corner_54: -6174354580237259233
+      right_corner_55: -434216387507361601
+      right_corner_56: 6532707006285318543
+      right_corner_57: 7623262454238232515
+      right_corner_58: 2341492508429368319
+      right_corner_59: -1934319371281402055
+      right_corner_6: -1316049205079368402
+      right_corner_60: -8905275234961261619
+      right_corner_61: -797164298638333189
+      right_corner_62: -5236690893804771638
+      right_corner_63: 5858946947227772076
+      right_corner_64: 5781654125338255226
+      right_corner_65: -7687398268644760699
+      right_corner_66: -5595380796192436533
+      right_corner_67: -8995002746191423277
+      right_corner_68: -1165291338830560158
+      right_corner_69: 3360140638575299541
+      right_corner_7: -422057467003905180
+      right_corner_70: 7479284299960648777
+      right_corner_71: 8820170663059287162
+      right_corner_72: -3926112260343953339
+      right_corner_73: 556717726401162679
+      right_corner_74: 2713808621060614967
+      right_corner_8: 533606101863051407
+      right_corner_9: 5774802226972180370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

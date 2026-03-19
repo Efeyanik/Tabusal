@@ -1,0 +1,6175 @@
+fileFormatVersion: 2
+guid: 19e5ba4dcaf2286448802d56393371e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7258296445931829889
+    second: dust_corners_0
+  - first:
+      213: 5179608482679378540
+    second: dust_corners_1
+  - first:
+      213: -6339489192192075275
+    second: dust_corners_2
+  - first:
+      213: -9119673458661960363
+    second: dust_corners_3
+  - first:
+      213: 3965656055134302859
+    second: dust_corners_4
+  - first:
+      213: 7389799351451321851
+    second: dust_corners_5
+  - first:
+      213: 7322113780814818902
+    second: dust_corners_6
+  - first:
+      213: -2392631771192037925
+    second: dust_corners_7
+  - first:
+      213: -5630498705540996656
+    second: dust_corners_8
+  - first:
+      213: 8816499855036470700
+    second: dust_corners_9
+  - first:
+      213: 7722578130492832941
+    second: dust_corners_10
+  - first:
+      213: -7748328605653705410
+    second: dust_corners_11
+  - first:
+      213: 2190290930555845761
+    second: dust_corners_12
+  - first:
+      213: 825141303009860308
+    second: dust_corners_13
+  - first:
+      213: -1848015295588730922
+    second: dust_corners_14
+  - first:
+      213: -3282445313927674323
+    second: dust_corners_15
+  - first:
+      213: -5949342271265221924
+    second: dust_corners_16
+  - first:
+      213: 7101693476759885150
+    second: dust_corners_17
+  - first:
+      213: 2163487669160246823
+    second: dust_corners_18
+  - first:
+      213: -4454903877597370281
+    second: dust_corners_19
+  - first:
+      213: -2116091204944895290
+    second: dust_corners_20
+  - first:
+      213: -2420176430241971270
+    second: dust_corners_21
+  - first:
+      213: 1706942095009210057
+    second: dust_corners_22
+  - first:
+      213: 4546486345622032438
+    second: dust_corners_23
+  - first:
+      213: 2544787986799319706
+    second: dust_corners_24
+  - first:
+      213: -1881189155258480410
+    second: dust_corners_25
+  - first:
+      213: -7831095371718633200
+    second: dust_corners_26
+  - first:
+      213: 260705001403306728
+    second: dust_corners_27
+  - first:
+      213: -7663158018865363035
+    second: dust_corners_28
+  - first:
+      213: 3337390679482609580
+    second: dust_corners_29
+  - first:
+      213: 2797676915514349323
+    second: dust_corners_30
+  - first:
+      213: 504378205848604968
+    second: dust_corners_31
+  - first:
+      213: 5758188396199190785
+    second: dust_corners_32
+  - first:
+      213: -3295602442875932359
+    second: dust_corners_33
+  - first:
+      213: 79586975894180064
+    second: dust_corners_34
+  - first:
+      213: -6979678295240303098
+    second: dust_corners_35
+  - first:
+      213: -6933838331619736511
+    second: dust_corners_36
+  - first:
+      213: -6388378953852896909
+    second: dust_corners_37
+  - first:
+      213: -5971253054333766490
+    second: dust_corners_38
+  - first:
+      213: 71652028900138982
+    second: dust_corners_39
+  - first:
+      213: -5299896351425358051
+    second: dust_corners_40
+  - first:
+      213: 8289057730501762408
+    second: dust_corners_41
+  - first:
+      213: -2707480783855397014
+    second: dust_corners_42
+  - first:
+      213: 4296416259768705333
+    second: dust_corners_43
+  - first:
+      213: 5130967471813696394
+    second: dust_corners_44
+  - first:
+      213: -8244997089490712052
+    second: dust_corners_45
+  - first:
+      213: -4685180681571554804
+    second: dust_corners_46
+  - first:
+      213: -2142046332290777590
+    second: dust_corners_47
+  - first:
+      213: -6770499402668320722
+    second: dust_corners_48
+  - first:
+      213: 366526997594401889
+    second: dust_corners_49
+  - first:
+      213: 8141593374387818468
+    second: dust_corners_50
+  - first:
+      213: 3690605465460768724
+    second: dust_corners_51
+  - first:
+      213: 6455876038728862507
+    second: dust_corners_52
+  - first:
+      213: -3053396818474418130
+    second: dust_corners_53
+  - first:
+      213: -3466115966990531749
+    second: dust_corners_54
+  - first:
+      213: 5480484195881630324
+    second: dust_corners_55
+  - first:
+      213: 8137658671517701604
+    second: dust_corners_56
+  - first:
+      213: 5391883944608642837
+    second: dust_corners_57
+  - first:
+      213: 639873063781422160
+    second: dust_corners_58
+  - first:
+      213: 5006757655057367515
+    second: dust_corners_59
+  - first:
+      213: -1135096773645670765
+    second: dust_corners_60
+  - first:
+      213: 1216602453802073377
+    second: dust_corners_61
+  - first:
+      213: -6906029916802455547
+    second: dust_corners_62
+  - first:
+      213: 3000570764491872254
+    second: dust_corners_63
+  - first:
+      213: -7786680838756688209
+    second: dust_corners_64
+  - first:
+      213: -9167449519974233661
+    second: dust_corners_65
+  - first:
+      213: 6634929690660862499
+    second: dust_corners_66
+  - first:
+      213: 422624416616474369
+    second: dust_corners_67
+  - first:
+      213: 2128909977158761295
+    second: dust_corners_68
+  - first:
+      213: -1690842640728400541
+    second: dust_corners_69
+  - first:
+      213: 5313178274926764359
+    second: dust_corners_70
+  - first:
+      213: 6648339167439104131
+    second: dust_corners_71
+  - first:
+      213: 6999467092007739086
+    second: dust_corners_72
+  - first:
+      213: 385613481631514603
+    second: dust_corners_73
+  - first:
+      213: 1212057040791907454
+    second: dust_corners_74
+  - first:
+      213: -1216711090769808036
+    second: dust_corners_75
+  - first:
+      213: 1850679553053899959
+    second: dust_corners_76
+  - first:
+      213: -6020593987662319911
+    second: dust_corners_77
+  - first:
+      213: -7408556945471795744
+    second: dust_corners_78
+  - first:
+      213: 2349209168136259368
+    second: dust_corners_79
+  - first:
+      213: 3118285990193790694
+    second: dust_corners_80
+  - first:
+      213: -2703316876929459587
+    second: dust_corners_81
+  - first:
+      213: 1918516153536128728
+    second: dust_corners_82
+  - first:
+      213: 5745649664573087606
+    second: dust_corners_83
+  - first:
+      213: 3685676009262677734
+    second: dust_corners_84
+  - first:
+      213: 348780151386516112
+    second: dust_corners_85
+  - first:
+      213: -4881320135019793435
+    second: dust_corners_86
+  - first:
+      213: 6741121308871640860
+    second: dust_corners_87
+  - first:
+      213: 2507664217493905033
+    second: dust_corners_88
+  - first:
+      213: -4422026733873703189
+    second: dust_corners_89
+  - first:
+      213: -3680121572000746900
+    second: dust_corners_90
+  - first:
+      213: -4617998466651730990
+    second: dust_corners_91
+  - first:
+      213: 5114736281908737192
+    second: dust_corners_92
+  - first:
+      213: -2625906636838224282
+    second: dust_corners_93
+  - first:
+      213: 386781933474371996
+    second: dust_corners_94
+  - first:
+      213: 8769862863961885028
+    second: dust_corners_95
+  - first:
+      213: -5321688875679285517
+    second: dust_corners_96
+  - first:
+      213: -737915170800958201
+    second: dust_corners_97
+  - first:
+      213: 6924845601340758622
+    second: dust_corners_98
+  - first:
+      213: -6583766594824443508
+    second: dust_corners_99
+  - first:
+      213: 6304857789835443714
+    second: dust_corners_100
+  - first:
+      213: 6321959430762643083
+    second: dust_corners_101
+  - first:
+      213: 8476877092908941004
+    second: dust_corners_102
+  - first:
+      213: 303255182445063405
+    second: dust_corners_103
+  - first:
+      213: 4948738124608223591
+    second: dust_corners_104
+  - first:
+      213: 5349946823938835487
+    second: dust_corners_105
+  - first:
+      213: -4443771906752997405
+    second: dust_corners_106
+  - first:
+      213: -9083775963756942483
+    second: dust_corners_107
+  - first:
+      213: -1926994292525145520
+    second: dust_corners_108
+  - first:
+      213: -9175897420607728778
+    second: dust_corners_109
+  - first:
+      213: 7243363123427272541
+    second: dust_corners_110
+  - first:
+      213: 5267834434068514564
+    second: dust_corners_111
+  - first:
+      213: -5403841998581291637
+    second: dust_corners_112
+  - first:
+      213: -9218955329779865881
+    second: dust_corners_113
+  - first:
+      213: 281904212100522912
+    second: dust_corners_114
+  - first:
+      213: 6909583438087001272
+    second: dust_corners_115
+  - first:
+      213: -7494076780037040195
+    second: dust_corners_116
+  - first:
+      213: -8141133888251916592
+    second: dust_corners_117
+  - first:
+      213: -9151322882854912420
+    second: dust_corners_118
+  - first:
+      213: -2410828715757275197
+    second: dust_corners_119
+  - first:
+      213: -5864337069003627834
+    second: dust_corners_120
+  - first:
+      213: 6677499437001908593
+    second: dust_corners_121
+  - first:
+      213: -7162093316043961601
+    second: dust_corners_122
+  - first:
+      213: -328069447942784035
+    second: dust_corners_123
+  - first:
+      213: -2836115755209559456
+    second: dust_corners_124
+  - first:
+      213: -3090072704362453502
+    second: dust_corners_125
+  - first:
+      213: 7717953589016791888
+    second: dust_corners_126
+  - first:
+      213: -5968933269085815395
+    second: dust_corners_127
+  - first:
+      213: 6064822570821585002
+    second: dust_corners_128
+  - first:
+      213: -987834246919957520
+    second: dust_corners_129
+  - first:
+      213: 8165939169051857306
+    second: dust_corners_130
+  - first:
+      213: -4452652345728449639
+    second: dust_corners_131
+  - first:
+      213: -3557519087564441937
+    second: dust_corners_132
+  - first:
+      213: 4677153514065079139
+    second: dust_corners_133
+  - first:
+      213: -154077829317949612
+    second: dust_corners_134
+  - first:
+      213: 8655651394886738753
+    second: dust_corners_135
+  - first:
+      213: -6677398129265969057
+    second: dust_corners_136
+  - first:
+      213: 6698700714637793882
+    second: dust_corners_137
+  - first:
+      213: -415148648851619734
+    second: dust_corners_138
+  - first:
+      213: -6257636905021918881
+    second: dust_corners_139
+  - first:
+      213: 7912522160030662699
+    second: dust_corners_140
+  - first:
+      213: 1992654225089597891
+    second: dust_corners_141
+  - first:
+      213: 4895523837761796356
+    second: dust_corners_142
+  - first:
+      213: -5850244654955620828
+    second: dust_corners_143
+  - first:
+      213: -5791632928685785560
+    second: dust_corners_144
+  - first:
+      213: 8705690821104320032
+    second: dust_corners_145
+  - first:
+      213: 7801278666579964243
+    second: dust_corners_146
+  - first:
+      213: -1260513289547630139
+    second: dust_corners_147
+  - first:
+      213: 6508113720078193073
+    second: dust_corners_148
+  - first:
+      213: -5193723224862618115
+    second: dust_corners_149
+  - first:
+      213: 1490703673760458058
+    second: dust_corners_150
+  - first:
+      213: -9142410262140287687
+    second: dust_corners_151
+  - first:
+      213: 4956128728082993873
+    second: dust_corners_152
+  - first:
+      213: -8806204644618214592
+    second: dust_corners_153
+  - first:
+      213: -3399419945382318528
+    second: dust_corners_154
+  - first:
+      213: 4918106883144361898
+    second: dust_corners_155
+  - first:
+      213: 1382154875945776560
+    second: dust_corners_156
+  - first:
+      213: -6188346751522739178
+    second: dust_corners_157
+  - first:
+      213: -8746340570220812697
+    second: dust_corners_158
+  - first:
+      213: 1765128010919863309
+    second: dust_corners_159
+  - first:
+      213: -640577086778458407
+    second: dust_corners_160
+  - first:
+      213: -2961624136587002103
+    second: dust_corners_161
+  - first:
+      213: -7512340984051122337
+    second: dust_corners_162
+  - first:
+      213: -1840401780969973986
+    second: dust_corners_163
+  - first:
+      213: 8610216049762996904
+    second: dust_corners_164
+  - first:
+      213: 5814636994787023846
+    second: dust_corners_165
+  - first:
+      213: -646182578669152976
+    second: dust_corners_166
+  - first:
+      213: 4200857243790264183
+    second: dust_corners_167
+  - first:
+      213: 770005726198068600
+    second: dust_corners_168
+  - first:
+      213: 5338599624765781611
+    second: dust_corners_169
+  - first:
+      213: 2583943567247753963
+    second: dust_corners_170
+  - first:
+      213: -8711283018837158415
+    second: dust_corners_171
+  - first:
+      213: 5752656369908914084
+    second: dust_corners_172
+  - first:
+      213: -3139415156240566377
+    second: dust_corners_173
+  - first:
+      213: -515420272278883768
+    second: dust_corners_174
+  - first:
+      213: 4450296963328547591
+    second: dust_corners_175
+  - first:
+      213: -738303015343995366
+    second: dust_corners_176
+  - first:
+      213: 2945907733160293341
+    second: dust_corners_177
+  - first:
+      213: -654115753563015858
+    second: dust_corners_178
+  - first:
+      213: 2224920466622767026
+    second: dust_corners_179
+  - first:
+      213: -2783036022280490990
+    second: dust_corners_180
+  - first:
+      213: 952654218690175236
+    second: dust_corners_181
+  - first:
+      213: 2378157054696522593
+    second: dust_corners_182
+  - first:
+      213: 4226500704694646518
+    second: dust_corners_183
+  - first:
+      213: 8176430499170294580
+    second: dust_corners_184
+  - first:
+      213: 493504308234139476
+    second: dust_corners_185
+  - first:
+      213: 2180995463789880665
+    second: dust_corners_186
+  - first:
+      213: -839905566594151018
+    second: dust_corners_187
+  - first:
+      213: -8888216095384683331
+    second: dust_corners_188
+  - first:
+      213: -8908305059705840179
+    second: dust_corners_189
+  - first:
+      213: -5478931248925597676
+    second: dust_corners_190
+  - first:
+      213: 3268395066367393638
+    second: dust_corners_191
+  - first:
+      213: 8186706075899199434
+    second: dust_corners_192
+  - first:
+      213: -9018169693636216898
+    second: dust_corners_193
+  - first:
+      213: -2558852325984751689
+    second: dust_corners_194
+  - first:
+      213: 4854582646488091869
+    second: dust_corners_195
+  - first:
+      213: 8142904521720354401
+    second: dust_corners_196
+  - first:
+      213: 6564844153150512401
+    second: dust_corners_197
+  - first:
+      213: -4288624093312842455
+    second: dust_corners_198
+  - first:
+      213: -6030090594413231416
+    second: dust_corners_199
+  - first:
+      213: -1301201340224074168
+    second: dust_corners_200
+  - first:
+      213: -1106992390295038674
+    second: dust_corners_201
+  - first:
+      213: -1102211930055762937
+    second: dust_corners_202
+  - first:
+      213: 5762301621577119812
+    second: dust_corners_203
+  - first:
+      213: 3631253458879727897
+    second: dust_corners_204
+  - first:
+      213: 3755849275658800750
+    second: dust_corners_205
+  - first:
+      213: -1385902397536323793
+    second: dust_corners_206
+  - first:
+      213: 4020784864199821311
+    second: dust_corners_207
+  - first:
+      213: -3337070353230725056
+    second: dust_corners_208
+  - first:
+      213: 3953628931605315934
+    second: dust_corners_209
+  - first:
+      213: 5416621465634615522
+    second: dust_corners_210
+  - first:
+      213: -7295352278172451962
+    second: dust_corners_211
+  - first:
+      213: -6208643673767783053
+    second: dust_corners_212
+  - first:
+      213: 6618364415997077029
+    second: dust_corners_213
+  - first:
+      213: 3753751726673319151
+    second: dust_corners_214
+  - first:
+      213: -5092667103265127078
+    second: dust_corners_215
+  - first:
+      213: -116117790636370190
+    second: dust_corners_216
+  - first:
+      213: -8623100131065842419
+    second: dust_corners_217
+  - first:
+      213: 452745075483795674
+    second: dust_corners_218
+  - first:
+      213: -3815985271454740476
+    second: dust_corners_219
+  - first:
+      213: -678080920251451300
+    second: dust_corners_220
+  - first:
+      213: -9107048901074152058
+    second: dust_corners_221
+  - first:
+      213: -1470998216033207607
+    second: dust_corners_222
+  - first:
+      213: -4730464416740531609
+    second: dust_corners_223
+  - first:
+      213: -5661338980888825870
+    second: dust_corners_224
+  - first:
+      213: -6266366499423770882
+    second: dust_corners_225
+  - first:
+      213: -7569225180179963324
+    second: dust_corners_226
+  - first:
+      213: -5676673997010140445
+    second: dust_corners_227
+  - first:
+      213: -6485460664976268033
+    second: dust_corners_228
+  - first:
+      213: 7220868237926954511
+    second: dust_corners_229
+  - first:
+      213: 4916215100541775577
+    second: dust_corners_230
+  - first:
+      213: -3748477495658939738
+    second: dust_corners_231
+  - first:
+      213: 1530075305574437855
+    second: dust_corners_232
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dust_corners_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2176
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a3f365926aab460800000000000000
+      internalID: 7258296445931829889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2177
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6254b5e87aa1e740800000000000000
+      internalID: 5179608482679378540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2177
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f996f1fa2c9508a0800000000000000
+      internalID: -6339489192192075275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2183
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55555e4be49607180800000000000000
+      internalID: -9119673458661960363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2175
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8238a3db27d80730800000000000000
+      internalID: 3965656055134302859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2173
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50ba87b57dd8660800000000000000
+      internalID: 7389799351451321851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2166
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ea57e70bf5d9560800000000000000
+      internalID: 7322113780814818902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2114
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdde8cfa41aabced0800000000000000
+      internalID: -2392631771192037925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2091
+        width: 208
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1aeeb42437cd1b0800000000000000
+      internalID: -5630498705540996656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2171
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca55bb508ef7a5a70800000000000000
+      internalID: 8816499855036470700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2174
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacb93ac4eb1c2b60800000000000000
+      internalID: 7722578130492832941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2167
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d53018f28687490800000000000000
+      internalID: -7748328605653705410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2166
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c7a862ff9756e10800000000000000
+      internalID: 2190290930555845761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad76fa4ad737b00800000000000000
+      internalID: 825141303009860308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2170
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7f1fe31e78a56e0800000000000000
+      internalID: -1848015295588730922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2161
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2602bcc0696272d0800000000000000
+      internalID: -3282445313927674323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2149
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2550aa9b0bf6da0800000000000000
+      internalID: -5949342271265221924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2155
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e555bf937984e8260800000000000000
+      internalID: 7101693476759885150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2153
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72efb3c8290460e10800000000000000
+      internalID: 2163487669160246823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2136
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7586c43c6800d22c0800000000000000
+      internalID: -4454903877597370281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c26ee8b24222a2e0800000000000000
+      internalID: -2116091204944895290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab387adfb5ec96ed0800000000000000
+      internalID: -2420176430241971270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2145
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce5f29aac640b710800000000000000
+      internalID: 1706942095009210057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2138
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63017f63e3d581f30800000000000000
+      internalID: 4546486345622032438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2110
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9adadde037e05320800000000000000
+      internalID: 2544787986799319706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2121
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e840852e6ca4e5e0800000000000000
+      internalID: -1881189155258480410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0195186104c525390800000000000000
+      internalID: -7831095371718633200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2101
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2dfc741d53e9300800000000000000
+      internalID: 260705001403306728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2115
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a708db026ef6a590800000000000000
+      internalID: -7663158018865363035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2125
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa247042bc05e20800000000000000
+      internalID: 3337390679482609580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2093
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b071b89f45853d620800000000000000
+      internalID: 2797676915514349323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2108
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8211e005e49eff600800000000000000
+      internalID: 504378205848604968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101aa3196d139ef40800000000000000
+      internalID: 5758188396199190785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2087
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931787ff90ba342d0800000000000000
+      internalID: -3295602442875932359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e09be2deefba1100800000000000000
+      internalID: 79586975894180064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e92b50293332f90800000000000000
+      internalID: -6979678295240303098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2098
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14481d146ce06cf90800000000000000
+      internalID: -6933838331619736511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2104
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3793405403be757a0800000000000000
+      internalID: -6388378953852896909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a43870fbf8d12da0800000000000000
+      internalID: -5971253054333766490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef5702042f8ef000800000000000000
+      internalID: 71652028900138982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2071
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1717e2395cf276b0800000000000000
+      internalID: -5299896351425358051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2091
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d534da616a80370800000000000000
+      internalID: 8289057730501762408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2091
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a675a1a62981d6ad0800000000000000
+      internalID: -2707480783855397014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2098
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531e9ba23dfef9b30800000000000000
+      internalID: 4296416259768705333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1776
+        width: 226
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b1a870bbbd43740800000000000000
+      internalID: 5130967471813696394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2084
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ac6cab4d2e39d80800000000000000
+      internalID: -8244997089490712052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2076
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aa7664ef4eafeb0800000000000000
+      internalID: -4685180681571554804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_47
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2089
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e3167b53ce542e0800000000000000
+      internalID: -2142046332290777590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2057
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28d5f73aaa5a02a0800000000000000
+      internalID: -6770499402668320722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2047
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c6434cc5a261500800000000000000
+      internalID: 366526997594401889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2021
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef4f0ab900ccf070800000000000000
+      internalID: 8141593374387818468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1995
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df77eefd1aa73330800000000000000
+      internalID: 3690605465460768724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1992
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bc3627d01e79950800000000000000
+      internalID: 6455876038728862507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1976
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20468c65c720a5d0800000000000000
+      internalID: -3053396818474418130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1972
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53483d64e1e5efc0800000000000000
+      internalID: -3466115966990531749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1954
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47abaacd6579e0c40800000000000000
+      internalID: 5480484195881630324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1915
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e590335275cee070800000000000000
+      internalID: 8137658671517701604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_57
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1886
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b78451e1d3da40800000000000000
+      internalID: 5391883944608642837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1881
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054580c492941e800800000000000000
+      internalID: 639873063781422160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1869
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd189227f839b7540800000000000000
+      internalID: 5006757655057367515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1861
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39668259f735f30f0800000000000000
+      internalID: -1135096773645670765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_61
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1857
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dbdb36c7d32e010800000000000000
+      internalID: 1216602453802073377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1833
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e4c0616ad820a0800000000000000
+      internalID: -6906029916802455547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_63
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1848
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7d5fc663b24a920800000000000000
+      internalID: 3000570764491872254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_64
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1840
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae1192680720f390800000000000000
+      internalID: -7786680838756688209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c94c999b3da6c080800000000000000
+      internalID: -9167449519974233661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_66
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1819
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a78897661041c50800000000000000
+      internalID: 6634929690660862499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_67
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1814
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107e4d1faa67dd500800000000000000
+      internalID: 422624416616474369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1821
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b355348586b8d10800000000000000
+      internalID: 2128909977158761295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ddc44a39be888e0800000000000000
+      internalID: -1690842640728400541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1810
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74125599d733cb940800000000000000
+      internalID: 5313178274926764359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_71
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1790
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38826859f35a34c50800000000000000
+      internalID: 6648339167439104131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1796
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece58244c3a132160800000000000000
+      internalID: 6999467092007739086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_73
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1799
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef7f312b69f95500800000000000000
+      internalID: 385613481631514603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_74
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1784
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ca9e3f47712d010800000000000000
+      internalID: 1212057040791907454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_75
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1782
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55336895bf5d1fe0800000000000000
+      internalID: -1216711090769808036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_76
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1786
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc3bd88f3feea910800000000000000
+      internalID: 1850679553053899959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_77
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1778
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dee88caaad827ca0800000000000000
+      internalID: -6020593987662319911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1730
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed86e6d5b48f2990800000000000000
+      internalID: -7408556945471795744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_79
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1236
+        width: 77
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274ad1ba411a9020800000000000000
+      internalID: 2349209168136259368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_80
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 641
+        width: 169
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eef3913690664b20800000000000000
+      internalID: 3118285990193790694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_81
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 518
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a1d4b8f93eb7ad0800000000000000
+      internalID: -2703316876929459587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_82
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 529
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ae53e640ff9a10800000000000000
+      internalID: 1918516153536128728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_83
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 510
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f98bc9de5acbf40800000000000000
+      internalID: 5745649664573087606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_84
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 147
+        width: 251
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eef7498dc6262330800000000000000
+      internalID: 3685676009262677734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_85
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 514
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aa91423bd17d400800000000000000
+      internalID: 348780151386516112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_86
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 512
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3fe251331124cb0800000000000000
+      internalID: -4881320135019793435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_87
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 512
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c174c1b4d164d8d50800000000000000
+      internalID: 6741121308871640860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_88
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 504
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e9ea3d1530dc220800000000000000
+      internalID: 2507664217493905033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_89
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 510
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be65d2c4d1ec1a2c0800000000000000
+      internalID: -4422026733873703189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_90
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 507
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62b4aaade49decc0800000000000000
+      internalID: -3680121572000746900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_91
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 500
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbcced9cd299efb0800000000000000
+      internalID: -4617998466651730990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_92
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 499
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4f8f2ac813bf640800000000000000
+      internalID: 5114736281908737192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_93
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 496
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ebae193d7ee8bd0800000000000000
+      internalID: -2625906636838224282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_94
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 502
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9957468e102e5500800000000000000
+      internalID: 386781933474371996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_95
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 435
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469865f5fcfc4b970800000000000000
+      internalID: 8769862863961885028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_96
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 482
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fefcffb9209526b0800000000000000
+      internalID: -5321688875679285517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_97
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 493
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058902df0662c5f0800000000000000
+      internalID: -737915170800958201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_98
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a9750926ef91060800000000000000
+      internalID: 6924845601340758622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_99
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 456
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89e76f0a23c1a4a0800000000000000
+      internalID: -6583766594824443508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_100
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 471
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20efe7a51ca5f7750800000000000000
+      internalID: 6304857789835443714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_101
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 462
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb90b6b9c1cb750800000000000000
+      internalID: 6321959430762643083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_102
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 438
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccebb77bdcae3a570800000000000000
+      internalID: 8476877092908941004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_103
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 447
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec2fe15bf0653400800000000000000
+      internalID: 303255182445063405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_104
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769b4b3da137da440800000000000000
+      internalID: 4948738124608223591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_105
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 295
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f148a188a44de3a40800000000000000
+      internalID: 5349946823938835487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_106
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 289
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e79023befc8452c0800000000000000
+      internalID: -4443771906752997405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_107
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 289
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b290d83e1ffe180800000000000000
+      internalID: -9083775963756942483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_108
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 297
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05265dd86e0f145e0800000000000000
+      internalID: -1926994292525145520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_109
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 317
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d04579e9a8a080800000000000000
+      internalID: -9175897420607728778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_110
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 306
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57eb0f3268958460800000000000000
+      internalID: 7243363123427272541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_111
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078932f18b1b1940800000000000000
+      internalID: 5267834434068514564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_112
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 296
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85a9344552b105b0800000000000000
+      internalID: -5403841998581291637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_113
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 312
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6e640c8f0bf0080800000000000000
+      internalID: -9218955329779865881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_114
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 300
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a320f6236689e300800000000000000
+      internalID: 281904212100522912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_115
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 275
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b419154785c3ef50800000000000000
+      internalID: 6909583438087001272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_116
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79366bfd0bff790800000000000000
+      internalID: -7494076780037040195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_117
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 284
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de89d9bcd1e40f80800000000000000
+      internalID: -8141133888251916592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_118
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 254
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e7786e258fff080800000000000000
+      internalID: -9151322882854912420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_119
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 293
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7f9fe5e040b8ed0800000000000000
+      internalID: -2410828715757275197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_120
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 261
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c222ee9180bd9ea0800000000000000
+      internalID: -5864337069003627834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_121
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171ae5aeb5e3bac50800000000000000
+      internalID: 6677499437001908593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_122
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 75
+        width: 99
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa000153122b9c90800000000000000
+      internalID: -7162093316043961601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_123
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 270
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb36b54396727bf0800000000000000
+      internalID: -328069447942784035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_124
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 281
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06278dc3fb714a8d0800000000000000
+      internalID: -2836115755209559456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_125
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 281
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206685e4f3bdd15d0800000000000000
+      internalID: -3090072704362453502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_126
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 272
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b0c42d5edab1b60800000000000000
+      internalID: 7717953589016791888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_127
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 244
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9df02801d61a2da0800000000000000
+      internalID: -5968933269085815395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_128
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 257
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68879fcef39a2450800000000000000
+      internalID: 6064822570821585002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_129
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 259
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3de577cf18a42f0800000000000000
+      internalID: -987834246919957520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_130
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 264
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d8c4c86e335170800000000000000
+      internalID: 8165939169051857306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_131
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 257
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993cb8068400532c0800000000000000
+      internalID: -4452652345728449639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_132
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 257
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6bc080d3721aec0800000000000000
+      internalID: -3557519087564441937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_133
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 248
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ba1d5275698e040800000000000000
+      internalID: 4677153514065079139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_134
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578db3d70b9cddf0800000000000000
+      internalID: -154077829317949612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_135
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 248
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143a6d3851d0f1870800000000000000
+      internalID: 8655651394886738753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_136
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 239
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f587e31a7cd1553a0800000000000000
+      internalID: -6677398129265969057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_137
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a14a80fc096fc50800000000000000
+      internalID: 6698700714637793882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_138
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a604730e0881d3af0800000000000000
+      internalID: -415148648851619734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_139
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 228
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f513bc6a3686829a0800000000000000
+      internalID: -6257636905021918881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_140
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 237
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c8027bfceecd60800000000000000
+      internalID: 7912522160030662699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_141
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 231
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c195aec57457ab10800000000000000
+      internalID: 1992654225089597891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_142
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 218
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409bf3b2ef460f340800000000000000
+      internalID: 4895523837761796356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_143
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4261e347b71cfcea0800000000000000
+      internalID: -5850244654955620828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_144
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 221
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7a38698cff9fa0800000000000000
+      internalID: -5791632928685785560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_145
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 226
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e3d445da3d0d870800000000000000
+      internalID: 8705690821104320032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_146
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 224
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351f4534d95b34c60800000000000000
+      internalID: 7801278666579964243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_147
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9bad577d1c18ee0800000000000000
+      internalID: -1260513289547630139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_148
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 209
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b15b1b62f6715a50800000000000000
+      internalID: 6508113720078193073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_149
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 209
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd0e589e303ce7b0800000000000000
+      internalID: -5193723224862618115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_150
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 206
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45acdbd71b00b410800000000000000
+      internalID: 1490703673760458058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_151
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 207
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9350e3e1e42af1180800000000000000
+      internalID: -9142410262140287687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_152
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 215
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2de7ac1d4b7c440800000000000000
+      internalID: 4956128728082993873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_153
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e22278831ac580800000000000000
+      internalID: -8806204644618214592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_154
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 216
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eeb111295d2d0d0800000000000000
+      internalID: -3399419945382318528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_155
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 218
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa729392720a04440800000000000000
+      internalID: 4918106883144361898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_156
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 207
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5725569866e2310800000000000000
+      internalID: 1382154875945776560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_157
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 202
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c6b80ba639e1aa0800000000000000
+      internalID: -6188346751522739178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_158
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 209
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766a66b6791ce9680800000000000000
+      internalID: -8746340570220812697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_159
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 199
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0468f9e29efe7810800000000000000
+      internalID: 1765128010919863309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_160
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 203
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb05398863c17f0800000000000000
+      internalID: -640577086778458407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_161
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 197
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f32840a8236e6d0800000000000000
+      internalID: -2961624136587002103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_162
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f36065dadceb790800000000000000
+      internalID: -7512340984051122337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_163
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 196
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17d941c4549576e0800000000000000
+      internalID: -1840401780969973986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_164
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 193
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29d7dd0e1ad7770800000000000000
+      internalID: 8610216049762996904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_165
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb102c1a8db1b050800000000000000
+      internalID: 5814636994787023846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_166
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 193
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035116a4e5c4807f0800000000000000
+      internalID: -646182578669152976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_167
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 195
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777ce38f7617c4a30800000000000000
+      internalID: 4200857243790264183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_168
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 188
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8757d09d02c9faa00800000000000000
+      internalID: 770005726198068600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_169
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 191
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66b238d214861a40800000000000000
+      internalID: 5338599624765781611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_170
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 108
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2457debf20cd320800000000000000
+      internalID: 2583943567247753963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_171
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 189
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5915caf3e4b1780800000000000000
+      internalID: -8711283018837158415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_172
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 174
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a71f435d7a85df40800000000000000
+      internalID: 5752656369908914084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_173
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 185
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797bdc97c8e8e64d0800000000000000
+      internalID: -3139415156240566377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_174
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 184
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84238c04efbd8d8f0800000000000000
+      internalID: -515420272278883768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_175
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 188
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b923c6281a2cd30800000000000000
+      internalID: 4450296963328547591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_176
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 176
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1642d9b15501c5f0800000000000000
+      internalID: -738303015343995366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_177
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 175
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37818a977f1e820800000000000000
+      internalID: 2945907733160293341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_178
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 174
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b3e2103d1ce6f0800000000000000
+      internalID: -654115753563015858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_179
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 178
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfdb82506180ee10800000000000000
+      internalID: 2224920466622767026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_180
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 173
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210fade9b7ba069d0800000000000000
+      internalID: -2783036022280490990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_181
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4012ecae6f1883d00800000000000000
+      internalID: 952654218690175236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_182
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 180
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1638641cd39e00120800000000000000
+      internalID: 2378157054696522593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_183
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 151
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6334a7ffb87aa30800000000000000
+      internalID: 4226500704694646518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_184
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b17b9e734887170800000000000000
+      internalID: 8176430499170294580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_185
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 170
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457bb6bbd8749d600800000000000000
+      internalID: 493504308234139476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_186
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 118
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9552fe3a1d3744e10800000000000000
+      internalID: 2180995463789880665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_187
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 167
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4842565e0854f0800000000000000
+      internalID: -839905566594151018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_188
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 168
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcbfa39d86b6a480800000000000000
+      internalID: -8888216095384683331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_189
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 161
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1b651fb75f5480800000000000000
+      internalID: -8908305059705840179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_190
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410a007ce0de6f3b0800000000000000
+      internalID: -5478931248925597676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_191
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 142
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb7740ffbab5d20800000000000000
+      internalID: 3268395066367393638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_192
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 160
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff08e0dc50d9170800000000000000
+      internalID: 8186706075899199434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_193
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 142
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7be96a17609d280800000000000000
+      internalID: -9018169693636216898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_194
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 147
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf2ffced512d7cd0800000000000000
+      internalID: -2558852325984751689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_195
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 142
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcc2b04231fe5340800000000000000
+      internalID: 4854582646488091869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_196
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 145
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16650110588610170800000000000000
+      internalID: 8142904521720354401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_197
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 140
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d165aa9f20b1b50800000000000000
+      internalID: 6564844153150512401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_198
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 119
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92508e6fb1fbb74c0800000000000000
+      internalID: -4288624093312842455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_199
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 123
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2439c9d80d05ca0800000000000000
+      internalID: -6030090594413231416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_200
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e8eae664431fde0800000000000000
+      internalID: -1301201340224074168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_201
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 133
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25576f394c23a0f0800000000000000
+      internalID: -1106992390295038674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_202
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 130
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c14d1e61824b0f0800000000000000
+      internalID: -1102211930055762937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_203
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f2ca7bcec7ff40800000000000000
+      internalID: 5762301621577119812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_204
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9194fe918cdc46230800000000000000
+      internalID: 3631253458879727897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_205
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 130
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e0d8154057f1430800000000000000
+      internalID: 3755849275658800750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_206
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f273c7dbc1944cce0800000000000000
+      internalID: -1385902397536323793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_207
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 131
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c5ece782bcc730800000000000000
+      internalID: 4020784864199821311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_208
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 128
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040023db13850b1d0800000000000000
+      internalID: -3337070353230725056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_209
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 128
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51ca0ae09c1ed630800000000000000
+      internalID: 3953628931605315934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_210
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 127
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e038e54684bb2b40800000000000000
+      internalID: 5416621465634615522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_211
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 130
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bb13461c3b1ca90800000000000000
+      internalID: -7295352278172451962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_212
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 125
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755818397776d9a0800000000000000
+      internalID: -6208643673767783053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_213
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 118
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266799ee5729db50800000000000000
+      internalID: 6618364415997077029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_214
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 79
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe45f53ae41081430800000000000000
+      internalID: 3753751726673319151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_215
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55809e60463359b0800000000000000
+      internalID: -5092667103265127078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_216
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 115
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f614011c77736ef0800000000000000
+      internalID: -116117790636370190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_217
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0532313e18945880800000000000000
+      internalID: -8623100131065842419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_218
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 121
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e4065f39784600800000000000000
+      internalID: 452745075483795674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_219
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 115
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40051d21d95ea0bc0800000000000000
+      internalID: -3815985271454740476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_220
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 110
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c583173eef8f696f0800000000000000
+      internalID: -678080920251451300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_221
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6851d5396434d9180800000000000000
+      internalID: -9107048901074152058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_222
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 117
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca7b1c8ae6f59be0800000000000000
+      internalID: -1470998216033207607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_223
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7622e811da30a5eb0800000000000000
+      internalID: -4730464416740531609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_224
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 107
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffac032132ee61b0800000000000000
+      internalID: -5661338980888825870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_225
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef620719ed46909a0800000000000000
+      internalID: -6266366499423770882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_226
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 91
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4426e665dc5b4f690800000000000000
+      internalID: -7569225180179963324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_227
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 100
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2838673176831b0800000000000000
+      internalID: -5676673997010140445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_228
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 96
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4225bf2e30ff5a0800000000000000
+      internalID: -6485460664976268033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_229
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067983976da53460800000000000000
+      internalID: 7220868237926954511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_230
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de24333697e93440800000000000000
+      internalID: 4916215100541775577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_231
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 106
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf3b6f39bbafbc0800000000000000
+      internalID: -3748477495658939738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_corners_232
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd39c5c326beb3510800000000000000
+      internalID: 1530075305574437855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dust_corners_0: 7258296445931829889
+      dust_corners_1: 5179608482679378540
+      dust_corners_10: 7722578130492832941
+      dust_corners_100: 6304857789835443714
+      dust_corners_101: 6321959430762643083
+      dust_corners_102: 8476877092908941004
+      dust_corners_103: 303255182445063405
+      dust_corners_104: 4948738124608223591
+      dust_corners_105: 5349946823938835487
+      dust_corners_106: -4443771906752997405
+      dust_corners_107: -9083775963756942483
+      dust_corners_108: -1926994292525145520
+      dust_corners_109: -9175897420607728778
+      dust_corners_11: -7748328605653705410
+      dust_corners_110: 7243363123427272541
+      dust_corners_111: 5267834434068514564
+      dust_corners_112: -5403841998581291637
+      dust_corners_113: -9218955329779865881
+      dust_corners_114: 281904212100522912
+      dust_corners_115: 6909583438087001272
+      dust_corners_116: -7494076780037040195
+      dust_corners_117: -8141133888251916592
+      dust_corners_118: -9151322882854912420
+      dust_corners_119: -2410828715757275197
+      dust_corners_12: 2190290930555845761
+      dust_corners_120: -5864337069003627834
+      dust_corners_121: 6677499437001908593
+      dust_corners_122: -7162093316043961601
+      dust_corners_123: -328069447942784035
+      dust_corners_124: -2836115755209559456
+      dust_corners_125: -3090072704362453502
+      dust_corners_126: 7717953589016791888
+      dust_corners_127: -5968933269085815395
+      dust_corners_128: 6064822570821585002
+      dust_corners_129: -987834246919957520
+      dust_corners_13: 825141303009860308
+      dust_corners_130: 8165939169051857306
+      dust_corners_131: -4452652345728449639
+      dust_corners_132: -3557519087564441937
+      dust_corners_133: 4677153514065079139
+      dust_corners_134: -154077829317949612
+      dust_corners_135: 8655651394886738753
+      dust_corners_136: -6677398129265969057
+      dust_corners_137: 6698700714637793882
+      dust_corners_138: -415148648851619734
+      dust_corners_139: -6257636905021918881
+      dust_corners_14: -1848015295588730922
+      dust_corners_140: 7912522160030662699
+      dust_corners_141: 1992654225089597891
+      dust_corners_142: 4895523837761796356
+      dust_corners_143: -5850244654955620828
+      dust_corners_144: -5791632928685785560
+      dust_corners_145: 8705690821104320032
+      dust_corners_146: 7801278666579964243
+      dust_corners_147: -1260513289547630139
+      dust_corners_148: 6508113720078193073
+      dust_corners_149: -5193723224862618115
+      dust_corners_15: -3282445313927674323
+      dust_corners_150: 1490703673760458058
+      dust_corners_151: -9142410262140287687
+      dust_corners_152: 4956128728082993873
+      dust_corners_153: -8806204644618214592
+      dust_corners_154: -3399419945382318528
+      dust_corners_155: 4918106883144361898
+      dust_corners_156: 1382154875945776560
+      dust_corners_157: -6188346751522739178
+      dust_corners_158: -8746340570220812697
+      dust_corners_159: 1765128010919863309
+      dust_corners_16: -5949342271265221924
+      dust_corners_160: -640577086778458407
+      dust_corners_161: -2961624136587002103
+      dust_corners_162: -7512340984051122337
+      dust_corners_163: -1840401780969973986
+      dust_corners_164: 8610216049762996904
+      dust_corners_165: 5814636994787023846
+      dust_corners_166: -646182578669152976
+      dust_corners_167: 4200857243790264183
+      dust_corners_168: 770005726198068600
+      dust_corners_169: 5338599624765781611
+      dust_corners_17: 7101693476759885150
+      dust_corners_170: 2583943567247753963
+      dust_corners_171: -8711283018837158415
+      dust_corners_172: 5752656369908914084
+      dust_corners_173: -3139415156240566377
+      dust_corners_174: -515420272278883768
+      dust_corners_175: 4450296963328547591
+      dust_corners_176: -738303015343995366
+      dust_corners_177: 2945907733160293341
+      dust_corners_178: -654115753563015858
+      dust_corners_179: 2224920466622767026
+      dust_corners_18: 2163487669160246823
+      dust_corners_180: -2783036022280490990
+      dust_corners_181: 952654218690175236
+      dust_corners_182: 2378157054696522593
+      dust_corners_183: 4226500704694646518
+      dust_corners_184: 8176430499170294580
+      dust_corners_185: 493504308234139476
+      dust_corners_186: 2180995463789880665
+      dust_corners_187: -839905566594151018
+      dust_corners_188: -8888216095384683331
+      dust_corners_189: -8908305059705840179
+      dust_corners_19: -4454903877597370281
+      dust_corners_190: -5478931248925597676
+      dust_corners_191: 3268395066367393638
+      dust_corners_192: 8186706075899199434
+      dust_corners_193: -9018169693636216898
+      dust_corners_194: -2558852325984751689
+      dust_corners_195: 4854582646488091869
+      dust_corners_196: 8142904521720354401
+      dust_corners_197: 6564844153150512401
+      dust_corners_198: -4288624093312842455
+      dust_corners_199: -6030090594413231416
+      dust_corners_2: -6339489192192075275
+      dust_corners_20: -2116091204944895290
+      dust_corners_200: -1301201340224074168
+      dust_corners_201: -1106992390295038674
+      dust_corners_202: -1102211930055762937
+      dust_corners_203: 5762301621577119812
+      dust_corners_204: 3631253458879727897
+      dust_corners_205: 3755849275658800750
+      dust_corners_206: -1385902397536323793
+      dust_corners_207: 4020784864199821311
+      dust_corners_208: -3337070353230725056
+      dust_corners_209: 3953628931605315934
+      dust_corners_21: -2420176430241971270
+      dust_corners_210: 5416621465634615522
+      dust_corners_211: -7295352278172451962
+      dust_corners_212: -6208643673767783053
+      dust_corners_213: 6618364415997077029
+      dust_corners_214: 3753751726673319151
+      dust_corners_215: -5092667103265127078
+      dust_corners_216: -116117790636370190
+      dust_corners_217: -8623100131065842419
+      dust_corners_218: 452745075483795674
+      dust_corners_219: -3815985271454740476
+      dust_corners_22: 1706942095009210057
+      dust_corners_220: -678080920251451300
+      dust_corners_221: -9107048901074152058
+      dust_corners_222: -1470998216033207607
+      dust_corners_223: -4730464416740531609
+      dust_corners_224: -5661338980888825870
+      dust_corners_225: -6266366499423770882
+      dust_corners_226: -7569225180179963324
+      dust_corners_227: -5676673997010140445
+      dust_corners_228: -6485460664976268033
+      dust_corners_229: 7220868237926954511
+      dust_corners_23: 4546486345622032438
+      dust_corners_230: 4916215100541775577
+      dust_corners_231: -3748477495658939738
+      dust_corners_232: 1530075305574437855
+      dust_corners_24: 2544787986799319706
+      dust_corners_25: -1881189155258480410
+      dust_corners_26: -7831095371718633200
+      dust_corners_27: 260705001403306728
+      dust_corners_28: -7663158018865363035
+      dust_corners_29: 3337390679482609580
+      dust_corners_3: -9119673458661960363
+      dust_corners_30: 2797676915514349323
+      dust_corners_31: 504378205848604968
+      dust_corners_32: 5758188396199190785
+      dust_corners_33: -3295602442875932359
+      dust_corners_34: 79586975894180064
+      dust_corners_35: -6979678295240303098
+      dust_corners_36: -6933838331619736511
+      dust_corners_37: -6388378953852896909
+      dust_corners_38: -5971253054333766490
+      dust_corners_39: 71652028900138982
+      dust_corners_4: 3965656055134302859
+      dust_corners_40: -5299896351425358051
+      dust_corners_41: 8289057730501762408
+      dust_corners_42: -2707480783855397014
+      dust_corners_43: 4296416259768705333
+      dust_corners_44: 5130967471813696394
+      dust_corners_45: -8244997089490712052
+      dust_corners_46: -4685180681571554804
+      dust_corners_47: -2142046332290777590
+      dust_corners_48: -6770499402668320722
+      dust_corners_49: 366526997594401889
+      dust_corners_5: 7389799351451321851
+      dust_corners_50: 8141593374387818468
+      dust_corners_51: 3690605465460768724
+      dust_corners_52: 6455876038728862507
+      dust_corners_53: -3053396818474418130
+      dust_corners_54: -3466115966990531749
+      dust_corners_55: 5480484195881630324
+      dust_corners_56: 8137658671517701604
+      dust_corners_57: 5391883944608642837
+      dust_corners_58: 639873063781422160
+      dust_corners_59: 5006757655057367515
+      dust_corners_6: 7322113780814818902
+      dust_corners_60: -1135096773645670765
+      dust_corners_61: 1216602453802073377
+      dust_corners_62: -6906029916802455547
+      dust_corners_63: 3000570764491872254
+      dust_corners_64: -7786680838756688209
+      dust_corners_65: -9167449519974233661
+      dust_corners_66: 6634929690660862499
+      dust_corners_67: 422624416616474369
+      dust_corners_68: 2128909977158761295
+      dust_corners_69: -1690842640728400541
+      dust_corners_7: -2392631771192037925
+      dust_corners_70: 5313178274926764359
+      dust_corners_71: 6648339167439104131
+      dust_corners_72: 6999467092007739086
+      dust_corners_73: 385613481631514603
+      dust_corners_74: 1212057040791907454
+      dust_corners_75: -1216711090769808036
+      dust_corners_76: 1850679553053899959
+      dust_corners_77: -6020593987662319911
+      dust_corners_78: -7408556945471795744
+      dust_corners_79: 2349209168136259368
+      dust_corners_8: -5630498705540996656
+      dust_corners_80: 3118285990193790694
+      dust_corners_81: -2703316876929459587
+      dust_corners_82: 1918516153536128728
+      dust_corners_83: 5745649664573087606
+      dust_corners_84: 3685676009262677734
+      dust_corners_85: 348780151386516112
+      dust_corners_86: -4881320135019793435
+      dust_corners_87: 6741121308871640860
+      dust_corners_88: 2507664217493905033
+      dust_corners_89: -4422026733873703189
+      dust_corners_9: 8816499855036470700
+      dust_corners_90: -3680121572000746900
+      dust_corners_91: -4617998466651730990
+      dust_corners_92: 5114736281908737192
+      dust_corners_93: -2625906636838224282
+      dust_corners_94: 386781933474371996
+      dust_corners_95: 8769862863961885028
+      dust_corners_96: -5321688875679285517
+      dust_corners_97: -737915170800958201
+      dust_corners_98: 6924845601340758622
+      dust_corners_99: -6583766594824443508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
