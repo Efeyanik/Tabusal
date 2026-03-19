@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     public UIManager uiManager;
     public GameObject gamePanel;
     public GameObject endGamePanel;
+    public GameObject interRoundPanel;
 
     [Header("Oyun Ayarlarý")]
     public GameMode currentMode = GameMode.Classic;
@@ -72,8 +73,6 @@ public class GameManager : MonoBehaviour
 
         if (timeRemaining <= 0)
         {
-            isGameActive = false;
-            timeRemaining = 0;
             EndRound();
         }
 
@@ -84,6 +83,7 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("--- YENÝ TUR BAÞLADI ---");
 
+        interRoundPanel.SetActive(false);
         endGamePanel.SetActive(false);
         gamePanel.SetActive(true);
 
@@ -99,20 +99,29 @@ public class GameManager : MonoBehaviour
 
     void EndRound()
     {
+
         isGameActive = false;
         timeRemaining = 0;
-        Debug.Log("SÜRE BÝTTÝ!");
         isTeamATurn = !isTeamATurn; // Sýrayý deðiþtir
 
         // Konsola kimin sýrasý olduðunu yaz
         string nextTeam = isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName;
         Debug.Log("Sýradaki Takým: " + nextTeam);
 
-        // Otomatik devam etmek yerine burada bir UI butonu "Hazýrýz" demeli.
-        // Ama bugünü bitirmek için otomatik baþlatalým:
-        Invoke("StartNewRound", 2f); // 2 saniye bekle ve yeni turu baþlat
+
+        gamePanel.SetActive(false);
+        interRoundPanel.SetActive(true);
+        interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text = "Sýradaki Takým: " + nextTeam;
+        interRoundPanel.transform.Find("Txt_InterScoreA").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamAName + ": " + scoreA;
+        interRoundPanel.transform.Find("Txt_InterScoreB").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamBName + ": " + scoreB;
+
+
     }
 
+    public void nextRound()
+    {
+        StartNewRound();
+    }
     
     public void GetNewCard()
     {
@@ -221,16 +230,6 @@ public class GameManager : MonoBehaviour
     } 
 
     #endregion
-
-
-
-
-
-
-
-
-
-
 
 
 
