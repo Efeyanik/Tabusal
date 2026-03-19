@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
     {
         dataManager = GetComponent<DataManager>();
         currentMode = GameSettings.SelectedMode;
-        // UIManager'ý elle sürüklemeyi unutursan diye otomatik bulmayý deneyelim
+        
         if (uiManager == null) uiManager = GetComponent<UIManager>();
 
         if (dataManager.allCards == null || dataManager.allCards.Count == 0)
@@ -128,7 +128,7 @@ public class GameManager : MonoBehaviour
     {
         if (!isGameActive) return;
 
-        // Pas geçince puan düþecek mi yoksa sadece kart mý deðiþecek?
+        
         // Þimdilik sadece kart deðiþsin:
         GetNewCard();
     }

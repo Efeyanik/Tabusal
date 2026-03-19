@@ -1,24 +1,1014 @@
 {
   "cards": [
     {
-      "word": "Elma",
-      "forbidden": [
-        "Kırmızı",
-        "Meyve",
-        "Ağaç",
-        "Newton",
-        "Kurt"
-      ]
+      "word": "Daktilo",
+      "forbidden": ["Yazmak", "Eski", "Makine", "Harf", "Klavye"]
     },
     {
-      "word": "Okul",
-      "forbidden": [
-        "Öğrenci",
-        "Öğretmen",
-        "Ders",
-        "Sınıf",
-        "Teneffüs"
-      ]
-    }
+      "word": "Vinil",
+      "forbidden": ["Plak", "Müzik", "Döner", "İğne", "Eski"]
+    },
+    {
+      "word": "Kaset",
+      "forbidden": ["Teyp", "Bant", "Walkman", "Müzik", "Eski"]
+    },
+    {
+      "word": "Polaroid",
+      "forbidden": ["Fotoğraf", "Anında", "Film", "Kamera", "Eski"]
+    },
+    {
+      "word": "Faks",
+      "forbidden": ["Belge", "Göndermek", "Makine", "Kağıt", "Eski"]
+    },
+    {
+      "word": "Tepegöz",
+      "forbidden": ["Slayt", "Sunum", "Projektör", "Işık", "Ders"]
+    },
+    {
+      "word": "Kumbara",
+      "forbidden": ["Para", "Biriktirmek", "Domuz", "Tasarruf", "Kırmak"]
+    },
+    {
+      "word": "Telli Telefon",
+      "forbidden": ["Ahize", "Kablo", "Sabit", "Aramak", "Eski"]
+    },
+    {
+      "word": "Walkman",
+      "forbidden": ["Kulaklık", "Kaset", "Taşınabilir", "Müzik", "Eski"]
+    },
+    {
+      "word": "Otel",
+      "forbidden": ["Konaklama", "Resepsiyon", "Oda", "Tatil", "Gece"]
+    },
+    {
+      "word": "Tavla",
+      "forbidden": ["Zar", "Tahta", "Puan", "Oyun", "Türk"]
+    },
+    {
+      "word": "Okey",
+      "forbidden": ["Taş", "Renk", "Evlilik", "Dört", "Oyun"]
+    },
+    {
+      "word": "Pişpirik",
+      "forbidden": ["İskambil", "Kağıt", "Eş", "Dört", "Oyun"]
+    },
+    {
+      "word": "Monopoly",
+      "forbidden": ["Emlak", "Para", "Tahta", "Zengin", "Oyun"]
+    },
+    {
+      "word": "Poker",
+      "forbidden": ["Blöf", "Kart", "Kumar", "Royal Flush", "Oyun"]
+    },
+    {
+      "word": "Satranç",
+      "forbidden": ["Vezir", "Şah", "Tahta", "Strateji", "Oyun"]
+    },
+    {
+      "word": "Scrabble",
+      "forbidden": ["Harf", "Kelime", "Tahta", "Puan", "Oyun"]
+    },
+    {
+      "word": "Risk",
+      "forbidden": ["Harita", "Asker", "Dünya", "Strateji", "Oyun"]
+    },
+    {
+      "word": "Titanic",
+      "forbidden": ["Gemi", "Leonardo", "Batmak", "Aşk", "Film"]
+    },
+    {
+      "word": "Inception",
+      "forbidden": ["Rüya", "DiCaprio", "Topaç", "Nolan", "Film"]
+    },
+    {
+      "word": "Matrix",
+      "forbidden": ["Neo", "Kırmızı Hap", "Sanal", "Gerçeklik", "Film"]
+    },
+    {
+      "word": "Interstellar",
+      "forbidden": ["Uzay", "Delik", "Zaman", "Nolan", "Film"]
+    },
+    {
+      "word": "Joker",
+      "forbidden": ["Batman", "Gülme", "Kaos", "Ledger", "Film"]
+    },
+    {
+      "word": "Game of Thrones",
+      "forbidden": ["Taht", "Ejderha", "Winterfell", "Dizi", "HBO"]
+    },
+    {
+      "word": "Breaking Bad",
+      "forbidden": ["Meth", "Walter White", "Kimya", "Crystal", "Dizi"]
+    },
+    {
+      "word": "Friends",
+      "forbidden": ["Rachel", "Kanepe", "Kahve", "New York", "Dizi"]
+    },
+    {
+      "word": "The Office",
+      "forbidden": ["Michael Scott", "Prank", "Dunder", "Ofis", "Dizi"]
+    },
+    {
+      "word": "Stranger Things",
+      "forbidden": ["Upside Down", "Demogorgon", "Eleven", "Hawkins", "Dizi"]
+    },
+    {
+      "word": "Naruto",
+      "forbidden": ["Ninja", "Rasengan", "Sasuke", "Jutsu", "Anime"]
+    },
+    {
+      "word": "One Piece",
+      "forbidden": ["Luffy", "Pirate", "Hazine", "Straw Hat", "Anime"]
+    },
+    {
+      "word": "Attack on Titan",
+      "forbidden": ["Titan", "Eren", "Duvar", "Shingeki", "Anime"]
+    },
+    {
+      "word": "Death Note",
+      "forbidden": ["Defter", "Light", "Ryuk", "Kira", "Anime"]
+    },
+    {
+      "word": "Dragon Ball",
+      "forbidden": ["Goku", "Süper Saiyan", "Kamehameha", "Top", "Anime"]
+    },
+    {
+      "word": "Harry Potter",
+      "forbidden": ["Hogwarts", "Voldemort", "Büyü", "Sihirbaz", "Film"]
+    },
+    {
+      "word": "Lord of the Rings",
+      "forbidden": ["Yüzük", "Frodo", "Gandalf", "Ork", "Film"]
+    },
+    {
+      "word": "Star Wars",
+      "forbidden": ["Lightsaber", "Darth Vader", "Jedi", "Galaksi", "Film"]
+    },
+    {
+      "word": "Avengers",
+      "forbidden": ["Thanos", "Iron Man", "Marvel", "Süper Kahraman", "Film"]
+    },
+    {
+      "word": "The Simpsons",
+      "forbidden": ["Homer", "Springfield", "Animasyon", "Sarı", "Dizi"]
+    },
+    {
+      "word": "Sucuk",
+      "forbidden": ["Et", "Kahvaltı", "Acı", "Izgar a", "Türk"]
+    },
+    {
+      "word": "Menemen",
+      "forbidden": ["Yumurta", "Domates", "Biber", "Tava", "Kahvaltı"]
+    },
+    {
+      "word": "Lahmacun",
+      "forbidden": ["Et", "Fırın", "Dürüm", "Pizza", "Türk"]
+    },
+    {
+      "word": "Baklava",
+      "forbidden": ["Tatlı", "Fıstık", "Şerbet", "Ramazan", "Hamur"]
+    },
+    {
+      "word": "Astronot",
+      "forbidden": ["Uzay", "Roket", "Ay", "Takım", "NASA"]
+    },
+    {
+      "word": "Kütüphane",
+      "forbidden": ["Kitap", "Sessiz", "Raf", "Ödünç", "Okumak"]
+    },
+    {
+      "word": "Metro",
+      "forbidden": ["Tren", "Yeraltı", "Ulaşım", "İstanbul", "Ray"]
+    },
+    {
+      "word": "Otopark",
+      "forbidden": ["Araba", "Park", "Ücret", "Yeraltı", "Kapalı"]
+    },
+    {
+      "word": "Restoran",
+      "forbidden": ["Yemek", "Garson", "Menü", "Rezervasyon", "Hesap"]
+    },
+    {
+      "word": "Cafe",
+      "forbidden": ["Kahve", "Sıcak Çikolata", "Oturan", "Masalar", "Kafein"]
+    },
+    {
+      "word": "Fener",
+      "forbidden": ["Işık", "Eski", "El", "Pil", "Karanlık"]
+    },
+    {
+      "word": "Kasetçalar",
+      "forbidden": ["Teyp", "Müzik", "Eski", "Kaset", "Band"]
+    },
+    {
+      "word": "Slayt Makinesi",
+      "forbidden": ["Sunum", "Tepegöz", "Resim", "Ders", "Projektör"]
+    },
+    {
+      "word": "Fotoğraf Makinesi",
+      "forbidden": ["Film", "Anlık", "Polaroid", "Lens", "Poz"]
+    },
+    {
+      "word": "Vinil Plak",
+      "forbidden": ["Müzik", "Döner", "İğne", "Eski", "Albüm"]
+    },
+    {
+      "word": "Trafik Cezası",
+      "forbidden": ["Para", "Polis", "Hız", "Kırmızı Işık", "Ehliyet"]
+    },
+    {
+      "word": "Ehliyet",
+      "forbidden": ["Araba", "Sürücü", "Sınav", "Kurs", "Ruhsat"]
+    },
+    {
+      "word": "Pasaport",
+      "forbidden": ["Seyahat", "Ülke", "Fotoğraf", "Vize", "Uçak"]
+    },
+    {
+      "word": "Vize",
+      "forbidden": ["Pasaport", "Ülke", "Başvuru", "Turist", "Elçilik"]
+    },
+    {
+      "word": "Uçak Bileti",
+      "forbidden": ["Seyahat", "Havaalanı", "Uçuş", "Rezervasyon", "Ekonomi"]
+    },
+    {
+      "word": "Havaalanı",
+      "forbidden": ["Uçak", "Güvenlik", "Pasaport", "Terminal", "Bagaj"]
+    },
+    {
+      "word": "Bagaj",
+      "forbidden": ["Valiz", "Uçak", "Kayıp", "Ağırlık", "Havaalanı"]
+    },
+    {
+      "word": "Valiz",
+      "forbidden": ["Bagaj", "Seyahat", "Kıyafet", "Tekerlek", "Kilit"]
+    },
+    {
+      "word": "Taksi",
+      "forbidden": ["Şoför", "Para", "Durak", "Ulaşım", "Şehir"]
+    },
+    {
+      "word": "Şoför",
+      "forbidden": ["Taksi", "Ehliyet", "Araba", "Direksiyon", "Meslek"]
+    },
+    {
+      "word": "Direksiyon",
+      "forbidden": ["Araba", "Sürücü", "Dönmek", "Vites", "Trafik"]
+    },
+    {
+      "word": "Vites",
+      "forbidden": ["Araba", "Düz", "Otomatik", "Değiştirmek", "Kavrama"]
+    },
+    {
+      "word": "Kavrama",
+      "forbidden": ["Vites", "Araba", "Pedal", "Düz", "Sürücü"]
+    },
+    {
+      "word": "Pedal",
+      "forbidden": ["Bisiklet", "Araba", "Gaz", "Fren", "Kavrama"]
+    },
+    {
+      "word": "Fren",
+      "forbidden": ["Araba", "Pedal", "Durmak", "Trafik", "Kaza"]
+    },
+    {
+      "word": "Kaza",
+      "forbidden": ["Araba", "Sigorta", "Polis", "Hasar", "Trafik"]
+    },
+    {
+      "word": "Sigorta",
+      "forbidden": ["Araba", "Kaza", "Para", "Poliçe", "Hastane"]
+    },
+    {
+      "word": "Poliçe",
+      "forbidden": ["Sigorta", "Belge", "Ödeme", "Kaza", "Şirket"]
+    },
+    {
+      "word": "Hastane",
+      "forbidden": ["Doktor", "Ameliyat", "Hasta", "Acil", "Yatak"]
+    },
+    {
+      "word": "Ameliyat",
+      "forbidden": ["Hastane", "Doktor", "Bıçak", "Uyku", "İyileşmek"]
+    },
+    {
+      "word": "Doktor",
+      "forbidden": ["Hastane", "Reçete", "Muayene", "Beyaz Önlük", "Stetoskop"]
+    },
+    {
+      "word": "Reçete",
+      "forbidden": ["Doktor", "İlaç", "Eczane", "Yazmak", "Hasta"]
+    },
+    {
+      "word": "Eczane",
+      "forbidden": ["İlaç", "Reçete", "Gece", "Yeşil Haç", "Hap"]
+    },
+    {
+      "word": "Hap",
+      "forbidden": ["İlaç", "Eczane", "Doktor", "Yutmak", "Vitamini"]
+    },
+    {
+      "word": "Vitamini",
+      "forbidden": ["Hap", "Sağlık", "C Vitamini", "Takviye", "Meyve"]
+    },
+    {
+      "word": "Meyve Suyu",
+      "forbidden": ["Portakal", "Taze", "Kutu", "Şeker", "Kahvaltı"]
+    },
+    {
+      "word": "Kutu",
+      "forbidden": ["Paket", "Meyve Suyu", "Ambalaj", "Konserve", "Depo"]
+    },
+    {
+      "word": "Konserve",
+      "forbidden": ["Kutu", "Yemek", "Ton Balığı", "Raf", "Açacak"]
+    },
+    {
+      "word": "Açacak",
+      "forbidden": ["Konserve", "Şişe", "Bir a", "Kola", "Metal"]
+    },
+    {
+      "word": "Şişe",
+      "forbidden": ["Su", "Açacak", "Cam", "Bir a", "Kola"]
+    },
+    {
+      "word": "Bira",
+      "forbidden": ["Şişe", "Alkol", "Bira", "Bardak", "Parti"]
+    },
+    {
+      "word": "Bardak",
+      "forbidden": ["Su", "Çay", "Cam", "Kırılmak", "Dolmak"]
+    },
+    {
+      "word": "Çay",
+      "forbidden": ["Bardak", "Demlik", "Şeker", "Türk", "Sıcak"]
+    },
+    {
+      "word": "Demlik",
+      "forbidden": ["Çay", "Su", "Ocak", "Türk", "Sıcak"]
+    },
+    {
+      "word": "Ocak",
+      "forbidden": ["Mutfak", "Tencere", "Ateş", "Pişirmek", "Gaz"]
+    },
+    {
+      "word": "Tencere",
+      "forbidden": ["Ocak", "Yemek", "Kapak", "Basınçlı", "Pişirmek"]
+    },
+    {
+      "word": "Kapak",
+      "forbidden": ["Tencere", "Kapatmak", "Açmak", "Basınçlı", "Mutfak"]
+    },
+    {
+      "word": "Basınçlı Tencere",
+      "forbidden": ["Yemek", "Hızlı", "Buhar", "Kapak", "Pişirmek"]
+    },
+    {
+      "word": "Buhar",
+      "forbidden": ["Basınçlı Tencere", "Sıcak", "Su", "Duman", "Mutfak"]
+    },
+    {
+      "word": "Duman",
+      "forbidden": ["Yangın", "Sigara", "Buhar", "Koku", "Hava"]
+    },
+    {
+      "word": "Yangın",
+      "forbidden": ["Duman", "İtfaiye", "Alev", "Alarm", "Söndürmek"]
+    },
+    {
+      "word": "İtfaiye",
+      "forbidden": ["Yangın", "Kırmızı", "Araç", "Söndürmek", "Siren"]
+    },
+    {
+      "word": "Siren",
+      "forbidden": ["İtfaiye", "Ambulans", "Polis", "Ses", "Acil"]
+    },
+    {
+      "word": "Ambulans",
+      "forbidden": ["Hastane", "Siren", "Acil", "Doktor", "Hasta"]
+    },
+    {
+      "word": "Acil",
+      "forbidden": ["Ambulans", "Hastane", "Hastalık", "Hızlı", "Telefon"]
+    },
+    {
+      "word": "Telefon",
+      "forbidden": ["Acil", "Aramak", "Cep", "Mesaj", "Şarj"]
+    },
+    {
+      "word": "Şarj",
+      "forbidden": ["Telefon", "Pil", "Kablo", "Doldurmak", "Yüzde"]
+    },
+    {
+      "word": "Pil",
+      "forbidden": ["Şarj", "Enerji", "AA", "Uzaktan Kumanda", "Bitiş"]
+    },
+    {
+      "word": "Uzaktan Kumanda",
+      "forbidden": ["Televizyon", "Pil", "Düğme", "Kanal", "Değiştirmek"]
+    },
+    {
+      "word": "Televizyon",
+      "forbidden": ["Uzaktan Kumanda", "Ekran", "Film", "Kanal", "Koltuk"]
+    },
+    {
+      "word": "Kanal",
+      "forbidden": ["Televizyon", "Değiştirmek", "Haber", "Dizi", "Uzaktan"]
+    },
+    {
+      "word": "Haber",
+      "forbidden": ["Kanal", "Televizyon", "Gazete", "Saat", "Siyaset"]
+    },
+    {
+      "word": "Gazete",
+      "forbidden": ["Haber", "Kağıt", "Okumak", "Manşet", "Günlük"]
+    },
+    {
+      "word": "Manşet",
+      "forbidden": ["Gazete", "Haber", "Büyük", "Başlık", "Günlük"]
+    },
+    {
+      "word": "Başlık",
+      "forbidden": ["Manşet", "Gazete", "Kitap", "Bölüm", "Yazı"]
+    },
+    {
+      "word": "Bölüm",
+      "forbidden": ["Başlık", "Dizi", "Kitap", "Bölmek", "Sezon"]
+    },
+    {
+      "word": "Sezon",
+      "forbidden": ["Bölüm", "Dizi", "Yaz", "Kış", "Final"]
+    },
+    {
+      "word": "Final",
+      "forbidden": ["Sezon", "Dizi", "Son", "Maç", "Kazanan"]
+    },
+    {
+      "word": "Maç",
+      "forbidden": ["Final", "Futbol", "Skor", "Stadyum", "Tribün"]
+    },
+    {
+      "word": "Stadyum",
+      "forbidden": ["Maç", "Futbol", "Tribün", "Çim", "Seyirci"]
+    },
+    {
+      "word": "Tribün",
+      "forbidden": ["Stadyum", "Maç", "Seyirci", "Bağırmak", "Bilet"]
+    },
+    {
+      "word": "Bilet",
+      "forbidden": ["Tribün", "Maç", "Sinema", "Uçak", "Konser"]
+    },
+    {
+      "word": "Konser",
+      "forbidden": ["Bilet", "Müzik", "Sahne", "Şarkı", "Sahne Işığı"]
+    },
+    {
+      "word": "Sahne Işığı",
+      "forbidden": ["Konser", "Spot", "Işık", "Sahne", "Performer"]
+    },
+    {
+      "word": "Performer",
+      "forbidden": ["Sahne Işığı", "Konser", "Şarkıcı", "Sahne", "Gösteri"]
+    },
+    {
+      "word": "Şarkıcı",
+      "forbidden": ["Performer", "Konser", "Ses", "Müzik", "Mikrofon"]
+    },
+    {
+      "word": "Mikrofon",
+      "forbidden": ["Şarkıcı", "Ses", "Konser", "Kablo", "Konuşma"]
+    },
+    {
+      "word": "Konuşma",
+      "forbidden": ["Mikrofon", "Sahne", "Söylev", "Sunum", "Dinleyici"]
+    },
+    {
+      "word": "Sunum",
+      "forbidden": ["Konuşma", "Slayt", "Tepegöz", "Ofis", "PowerPoint"]
+    },
+    {
+      "word": "PowerPoint",
+      "forbidden": ["Sunum", "Slayt", "Ofis", "Bilgisayar", "Toplantı"]
+    },
+    {
+      "word": "Toplantı",
+      "forbidden": ["PowerPoint", "Ofis", "Şirket", "Saat", "Karar"]
+    },
+    {
+      "word": "Karar",
+      "forbidden": ["Toplantı", "Şirket", "Oylama", "Sonuç", "Düşünmek"]
+    },
+    {
+      "word": "Oylama",
+      "forbidden": ["Karar", "Toplantı", "Evet", "Hayır", "Elektronik"]
+    },
+    {
+      "word": "Elektronik",
+      "forbidden": ["Oylama", "Cihaz", "Bilgisayar", "Telefon", "Mağaza"]
+    },
+    {
+      "word": "Mağaza",
+      "forbidden": ["Elektronik", "Alışveriş", "Tezgah", "Fiyat", "İndirim"]
+    },
+    {
+      "word": "İndirim",
+      "forbidden": ["Mağaza", "Alışveriş", "Fiyat", "Kupon", "Kara Cuma"]
+    },
+    {
+      "word": "Kara Cuma",
+      "forbidden": ["İndirim", "Mağaza", "Alışveriş", "Amerika", "Kasım"]
+    },
+    {
+      "word": "Kasım",
+      "forbidden": ["Kara Cuma", "Ay", "Sonbahar", "Yağmur", "Kış"]
+    },
+    {
+      "word": "Sonbahar",
+      "forbidden": ["Kasım", "Yaprak", "Sarı", "Mevsim", "Okul"]
+    },
+    {
+      "word": "Yaprak",
+      "forbidden": ["Sonbahar", "Ağaç", "Düşmek", "Renk", "Süpürmek"]
+    },
+    {
+      "word": "Süpürmek",
+      "forbidden": ["Yaprak", "Temizlik", "Süpürge", "Ev", "Toz"]
+    },
+    {
+      "word": "Süpürge",
+      "forbidden": ["Süpürmek", "Temizlik", "Sap", "Ev", "Toz"]
+    },
+    {
+      "word": "Toz",
+      "forbidden": ["Süpürge", "Temizlik", "Bebek", "Hava", "Alerji"]
+    },
+    {
+      "word": "Alerji",
+      "forbidden": ["Toz", "Hap", "Doktor", "Baharı", "Kaşıntı"]
+    },
+    {
+      "word": "Baharı",
+      "forbidden": ["Alerji", "Mevsim", "Çiçek", "Güneş", "Yağmur"]
+    },
+    {
+      "word": "Çiçek",
+      "forbidden": ["Baharı", "Koklamak", "Vazo", "Bahçe", "Hediye"]
+    },
+    {
+      "word": "Vazo",
+      "forbidden": ["Çiçek", "Su", "Cam", "Ev", "Süs"]
+    },
+    {
+      "word": "Süs",
+      "forbidden": ["Vazo", "Ev", "Dekor", "Duvar", "Parti"]
+    },
+    {
+      "word": "Dekor",
+      "forbidden": ["Süs", "Ev", "Tasarım", "Mobilya", "Renk"]
+    },
+    {
+      "word": "Mobilya",
+      "forbidden": ["Dekor", "Koltuk", "Mas a", "Ev", "Ahşap"]
+    },
+    {
+      "word": "Koltuk",
+      "forbidden": ["Mobilya", "Oturmak", "Televizyon", "Salon", "Yastık"]
+    },
+    {
+      "word": "Yastık",
+      "forbidden": ["Koltuk", "Uyku", "Yatak", "Yumuşak", "Baş"]
+    },
+    {
+      "word": "Yatak",
+      "forbidden": ["Yastık", "Uyku", "Oda", "Çarşaf", "Rüya"]
+    },
+    {
+      "word": "Çarşaf",
+      "forbidden": ["Yatak", "Uyku", "Yıkamak", "Beyaz", "Yastık"]
+    },
+    {
+      "word": "Yıkamak",
+      "forbidden": ["Çarşaf", "Çamaşır", "Makine", "Sabun", "Kirli"]
+    },
+    {
+      "word": "Çamaşır",
+      "forbidden": ["Yıkamak", "Makine", "Kirli", "Deterjan", "Kurutmak"]
+    },
+    {
+      "word": "Deterjan",
+      "forbidden": ["Çamaşır", "Yıkamak", "Köpük", "Kokulu", "Makine"]
+    },
+    {
+      "word": "Köpük",
+      "forbidden": ["Deterjan", "Banyo", "Sabun", "Yıkamak", "Deniz"]
+    },
+    {
+      "word": "Banyo",
+      "forbidden": ["Köpük", "Sabun", "Duş", "Havlu", "Ayna"]
+    },
+    {
+      "word": "Duş",
+      "forbidden": ["Banyo", "Su", "Sabun", "Isınmak", "Perde"]
+    },
+    {
+      "word": "Havlu",
+      "forbidden": ["Duş", "Banyo", "Kurulanmak", "Yumuşak", "Beyaz"]
+    },
+    {
+      "word": "Ayna",
+      "forbidden": ["Banyo", "Yüz", "Bakmak", "Cam", "Saç"]
+    },
+    {
+      "word": "Saç",
+      "forbidden": ["Ayna", "Tarak", "Şampuan", "Kesmek", "Berber"]
+    },
+    {
+      "word": "Berber",
+      "forbidden": ["Saç", "Kesmek", "Tıraş", "Dükkan", "Erkek"]
+    },
+    {
+      "word": "Tıraş",
+      "forbidden": ["Berber", "Saç", "Bıyık", "Jilet", "Kö pük"]
+    },
+    {
+      "word": "Jilet",
+      "forbidden": ["Tıraş", "Kesmek", "Banyo", "Metal", "Keskin"]
+    },
+    {
+      "word": "Keskin",
+      "forbidden": ["Jilet", "Bıçak", "Kesmek", "Bıçak", "Sivri"]
+    },
+    {
+      "word": "Bıçak",
+      "forbidden": ["Keskin", "Mutfak", "Ekmek", "Doğramak", "Tehlikeli"]
+    },
+    {
+      "word": "Ekmek",
+      "forbidden": ["Bıçak", "Fırın", "Taze", "Kahvaltı", "Dilim"]
+    },
+    {
+      "word": "Fırın",
+      "forbidden": ["Ekmek", "Pasta", "Sıcak", "Pişirmek", "Gaz"]
+    },
+    {
+      "word": "Pasta",
+      "forbidden": ["Fırın", "Doğum Günü", "Mum", "Tatlı", "Kre ma"]
+    },
+    {
+      "word": "Doğum Günü",
+      "forbidden": ["Pasta", "Mum", "Hediye", "Parti", "Yaş"]
+    },
+    {
+      "word": "Hediye",
+      "forbidden": ["Doğum Günü", "Paket", "Açmak", "Sürpriz", "Sevmek"]
+    },
+    {
+      "word": "Sürpriz",
+      "forbidden": ["Hediye", "Parti", "Doğum Günü", "Aniden", "Sevinmek"]
+    },
+    {
+      "word": "Parti",
+      "forbidden": ["Sürpriz", "Müzik", "Dans", "Davet", "Yemek"]
+    },
+    {
+      "word": "Dans",
+      "forbidden": ["Parti", "Müzik", "Adım", "Disko", "Eğlence"]
+    },
+    {
+      "word": "Disko",
+      "forbidden": ["Dans", "Işık", "Müzik", "Parti", "Gece"]
+    },
+    {
+      "word": "Gece",
+      "forbidden": ["Disko", "Yıldız", "Uyku", "Karanlık", "Ay"]
+    },
+    {
+      "word": "Yıldız",
+      "forbidden": ["Gece", "Gökyüzü", "Parlamak", "Film", "Ünlü"]
+    },
+    {
+      "word": "Gökyüzü",
+      "forbidden": ["Yıldız", "Mavi", "Bulut", "Uçak", "Güneş"]
+    },
+    {
+      "word": "Bulut",
+      "forbidden": ["Gökyüzü", "Yağmur", "Beyaz", "Uçmak", "Şekil"]
+    },
+    {
+      "word": "Yağmur",
+      "forbidden": ["Bulut", "Şemsiye", "Islanmak", "Yaz", "Kış"]
+    },
+    {
+      "word": "Şemsiye",
+      "forbidden": ["Yağmur", "Korumak", "Açmak", "Renkli", "Daml a"]
+    },
+    {
+      "word": "Daml a",
+      "forbidden": ["Şemsiye", "Yağmur", "Su", "Damlamak", "Ses"]
+    },
+    {
+      "word": "Ses",
+      "forbidden": ["Daml a", "Müzik", "Kulak", "Yüksek", "Alçak"]
+    },
+    {
+      "word": "Kulak",
+      "forbidden": ["Ses", "Dinlemek", "Küpe", "Baş", "Sağır"]
+    },
+    {
+      "word": "Küpe",
+      "forbidden": ["Kulak", "Takı", "Altın", "Kadın", "Delik"]
+    },
+    {
+      "word": "Takı",
+      "forbidden": ["Küpe", "Yüzük", "Kolye", "Altın", "Gümüş"]
+    },
+    {
+      "word": "Yüzük",
+      "forbidden": ["Takı", "Evlilik", "Parmak", "Altın", "Nişan"]
+    },
+    {
+      "word": "Evlilik",
+      "forbidden": ["Yüzük", "Nişan", "Düğün", "Eş", "Aşk"]
+    },
+    {
+      "word": "Düğün",
+      "forbidden": ["Evlilik", "Gelin", "Damat", "Parti", "Beyaz"]
+    },
+    {
+      "word": "Gelin",
+      "forbidden": ["Düğün", "Beyaz", "Elbise", "Damat", "Çiçek"]
+    },
+    {
+      "word": "Damat",
+      "forbidden": ["Gelin", "Düğün", "Takım", "Evlilik", "Yüzük"]
+    },
+    {
+      "word": "Elbise",
+      "forbidden": ["Gelin", "Düğün", "Kumaş", "Uzun", "Moda"]
+    },
+    {
+      "word": "Moda",
+      "forbidden": ["Elbise", "Tasarımcı", "Defile", "Trend", "Giymek"]
+    },
+    {
+      "word": "Defile",
+      "forbidden": ["Moda", "Model", "Yürüme", "Işık", "Tasarımcı"]
+    },
+    {
+      "word": "Model",
+      "forbidden": ["Defile", "Moda", "Yürümek", "Fotoğraf", "Ünlü"]
+    },
+    {
+      "word": "Ünlü",
+      "forbidden": ["Model", "Film", "Şarkıcı", "Fotoğraf", "Hayran"]
+    },
+    {
+      "word": "Hayran",
+      "forbidden": ["Ünlü", "Konser", "Fotoğraf", "Autograf", "Bağırmak"]
+    },
+    {
+      "word": "Autograf",
+      "forbidden": ["Hayran", "Ünlü", "Kalem", "Kağıt", "İmza"]
+    },
+    {
+      "word": "İmza",
+      "forbidden": ["Autograf", "Kalem", "Belge", "Atmak", "Sözleşme"]
+    },
+    {
+      "word": "Sözleşme",
+      "forbidden": ["İmza", "Avukat", "Şirket", "Anlaşma", "Para"]
+    },
+    {
+      "word": "Avukat",
+      "forbidden": ["Sözleşme", "Mahkeme", "Dava", "Hukuk", "Savunma"]
+    },
+    {
+      "word": "Mahkeme",
+      "forbidden": ["Avukat", "Hakim", "Dava", "Yargıç", "Karar"]
+    },
+    {
+      "word": "Hakim",
+      "forbidden": ["Mahkeme", "Siyah", "Karar", "Adalet", "Yargıç"]
+    },
+    {
+      "word": "Adalet",
+      "forbidden": ["Hakim", "Mahkeme", "Terazi", "Doğru", "Hukuk"]
+    },
+    {
+      "word": "Terazi",
+      "forbidden": ["Adalet", "Ağırlık", "Burç", "Denge", "Ölçmek"]
+    },
+    {
+      "word": "Burç",
+      "forbidden": ["Terazi", "Yıldız", "Fal", "Zodyak", "Astroloji"]
+    },
+    {
+      "word": "Fal",
+      "forbidden": ["Burç", "Kahve", "Bakmak", "Gelecek", "Tazı"]
+    },
+    {
+      "word": "Kahve Falı",
+      "forbidden": ["Fal", "Kahve", "Fin can", "Gelecek", "Tazı"]
+    },
+    {
+      "word": "Fincan",
+      "forbidden": ["Kahve Falı", "Kahve", "Çay", "İçmek", "Porselen"]
+    },
+    {
+      "word": "Porselen",
+      "forbidden": ["Fincan", "Tabak", "Çin", "Kırılmak", "İnce"]
+    },
+    {
+      "word": "Tabak",
+      "forbidden": ["Porselen", "Yemek", "Fincan", "Sofr a", "Kırmak"]
+    },
+    {
+      "word": "Sofr a",
+      "forbidden": ["Tabak", "Yemek", "Aile", "Kurmak", "Akşam"]
+    },
+    {
+      "word": "Akşam Yemeği",
+      "forbidden": ["Sofr a", "Yemek", "Aile", "Akşam", "Davet"]
+    },
+    {
+      "word": "Davet",
+      "forbidden": ["Akşam Yemeği", "Parti", "Misafir", "Ziyaret", "Çağırmak"]
+    },
+    {
+      "word": "Misafir",
+      "forbidden": ["Davet", "Ev", "Ziyaret", "Çay", "Oturmak"]
+    },
+    {
+      "word": "Ziyaret",
+      "forbidden": ["Misafir", "Ev", "Aile", "Görüşmek", "Kapı"]
+    },
+    {
+      "word": "Kapı",
+      "forbidden": ["Ziyaret", "Zil", "Açmak", "Kilit", "Anahtar"]
+    },
+    {
+      "word": "Anahtar",
+      "forbidden": ["Kapı", "Kilit", "Açmak", "Araba", "Ev"]
+    },
+    {
+      "word": "Kilit",
+      "forbidden": ["Anahtar", "Kapı", "Güvenlik", "Şifre", "Kilitlemek"]
+    },
+    {
+      "word": "Şifre",
+      "forbidden": ["Kilit", "Telefon", "Bilgisayar", "Güvenlik", "Unutmak"]
+    },
+    {
+      "word": "Bilgisayar",
+      "forbidden": ["Şifre", "Ekran", "Klavye", "İnternet", "Ofis"]
+    },
+    {
+      "word": "İnternet",
+      "forbidden": ["Bilgisayar", "WiFi", "Bağlantı", "Tarayıcı", "Hız"]
+    },
+    {
+      "word": "WiFi",
+      "forbidden": ["İnternet", "Şifre", "Kablosuz", "Bağlantı", "Ev"]
+    },
+    {
+      "word": "Kablosuz",
+      "forbidden": ["WiFi", "İnternet", "Telefon", "Bluetooth", "Bağlantı"]
+    },
+    {
+      "word": "Bluetooth",
+      "forbidden": ["Kablosuz", "Kulaklık", "Telefon", "Bağlantı", "Ses"]
+    },
+    {
+      "word": "Kulaklık",
+      "forbidden": ["Bluetooth", "Müzik", "Telefon", "Kablosuz", "Ses"]
+    },
+    {
+      "word": "Müzik",
+      "forbidden": ["Kulaklık", "Şarkı", "Dinlemek", "Konser", "Spotify"]
+    },
+    {
+      "word": "Spotify",
+      "forbidden": ["Müzik", "Uygulama", "Şarkı", "Playlist", "Telefon"]
+    },
+    {
+      "word": "Playlist",
+      "forbidden": ["Spotify", "Şarkı", "Müzik", "Liste", "Dinlemek"]
+    },
+    {
+      "word": "Liste",
+      "forbidden": ["Playlist", "Alışveriş", "Yapmak", "Numara", "Sıra"]
+    },
+    {
+      "word": "Alışveriş Listesi",
+      "forbidden": ["Liste", "Market", "Alışveriş", "Kağıt", "Kalem"]
+    },
+    {
+      "word": "Market",
+      "forbidden": ["Alışveriş Listesi", "Alışveriş", "Sepet", "Fiyat", "Kasiyer"]
+    },
+    {
+      "word": "Sepet",
+      "forbidden": ["Market", "Alışveriş", "Ürün", "Tezgah", "Doldurmak"]
+    },
+    {
+      "word": "Kasiyer",
+      "forbidden": ["Market", "Ödeme", "Fiyat", "Para", "Tezgah"]
+    },
+    {
+      "word": "Ödeme",
+      "forbidden": ["Kasiyer", "Nakit", "Kart", "Fatura", "Para"]
+    },
+    {
+      "word": "Nakit",
+      "forbidden": ["Ödeme", "Para", "Cüzdan", "Kart", "Boş"]
+    },
+    {
+      "word": "Cüzdan",
+      "forbidden": ["Nakit", "Para", "Kart", "Cep", "Boş"]
+    },
+    {
+      "word": "Kart",
+      "forbidden": ["Cüzdan", "Kredi", "Ödeme", "Banka", "Manyetik"]
+    },
+    {
+      "word": "Kredi Kartı",
+      "forbidden": ["Kart", "Ödeme", "Limit", "Banka", "Şifre"]
+    },
+    {
+      "word": "Limit",
+      "forbidden": ["Kredi Kartı", "Para", "Harcamak", "Banka", "Yüksek"]
+    },
+    {
+      "word": "Banka",
+      "forbidden": ["Limit", "Hesap", "Para", "Şube", "ATM"]
+    },
+    {
+      "word": "ATM",
+      "forbidden": ["Banka", "Para", "Çekmek", "Kart", "Şifre"]
+    },
+    {
+      "word": "Şube",
+      "forbidden": ["Banka", "ATM", "Müşteri", "Yönetici", "Hesap"]
+    },
+    {
+      "word": "Hesap",
+      "forbidden": ["Şube", "Banka", "Para", "Bakiye", "Ödeme"]
+    },
+    {
+      "word": "Bakiye",
+      "forbidden": ["Hesap", "Banka", "Para", "Kalan", "Yüksek"]
+    },
+    {
+      "word": "Kalan",
+      "forbidden": ["Bakiye", "Para", "Hesap", "Bitmek", "Yeter"]
+    },
+    {
+      "word": "Bitmek",
+      "forbidden": ["Kalan", "Para", "Tükenmek", "Son", "Yeter"]
+    },
+
+
+
+    { "word": "Minecraft", "forbidden": ["Küp", "Blok", "Steve", "Creper", "Kazma"] },
+
+    { "word": "Fortnite", "forbidden": ["Battle Royale", "Dans", "Skin", "İnşa", "Epic"] },
+
+    { "word": "GTA V", "forbidden": ["Los Santos", "Soygun", "Araba", "Rockstar", "Açık Dünya"] },
+
+    { "word": "Among Us", "forbidden": ["Uzay", "İhanet", "Görev", "Kırmızı", "Vent"] },
+
+    { "word": "League of Legends", "forbidden": ["MOBA", "Şampiyon", "Kule", "Baron", "Riot"] },
+
+    { "word": "Valorant", "forbidden": ["FPS", "Spike", "Ajan", "Headshot", "Riot"] },
+
+    { "word": "The Witcher 3", "forbidden": ["Geralt", "Ciri", "Yennefer", "Canavar", "CD Projekt"] },
+
+    { "word": "Cyberpunk 2077", "forbidden": ["Night City", "Keano Reeves", "Siber", "Netrunner", "CD Projekt"] },
+
+    { "word": "Elden Ring", "forbidden": ["From Software", "Boss", "Malenia", "Ruh", "Açık Dünya"] },
+
+    { "word": "God of War", "forbidden": ["Kratos", "Atreus", "Norse", "Balt a", "Ragnarok"] },
+
+    { "word": "The Last of Us", "forbidden": ["Joel", "Ellie", "Zombi", "Cordyceps", "Naughty Dog"] },
+
+    { "word": "Red Dead Redemption 2", "forbidden": ["Arthur", "Western", "At", "Soygun", "Rockstar"] },
+
+    { "word": "Zelda Breath of the Wild", "forbidden": ["Link", "Hyrule", "Shrine", "Kılıç", "Nintendo"] },
+
+
+
+    { "word": "The Boys", "forbidden": ["Homelander", "Süper Kahraman", "Butcher", "Amazon", "Dark"] },
+
+    { "word": "Succession", "forbidden": ["Roy Ailesi", "HBO", "Para", "Şirket", "Logan"] },
+
+    { "word": "Squid Game", "forbidden": ["Kırmızı Işık", "Yeşil Işık", "456", "Netflix", "Ölüm"] },
+
+    { "word": "Arcane", "forbidden": ["League of Legends", "Jinx", "Vi", "Piltover", "Netflix"] },
+	
+    { "word": "True Detective", "forbidden": ["Rust Cohle", "HBO", "Cinayet", "Antoloji", "McConaughey"] }
+
+
   ]
 }
