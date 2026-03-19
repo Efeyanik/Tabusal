@@ -26,7 +26,7 @@ public class MainMenuManager : MonoBehaviour
             GameSettings.SelectedMode = GameMode.Bomb;
 
         // 3. Oyun Sahnesini Yükle
-        // NOT: Senin oyun sahnenin adý "SampleScene" ise burayý öyle býrak, deðilse deðiþtir.
+        
         SceneManager.LoadScene("SampleScene");
     }
 }

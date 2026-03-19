@@ -1,6 +1,9 @@
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
 
 public enum GameMode
 {
@@ -11,7 +14,9 @@ public enum GameMode
 public class GameManager : MonoBehaviour
 {
     public DataManager dataManager;
-    public UIManager uiManager; 
+    public UIManager uiManager;
+    public GameObject gamePanel;
+    public GameObject endGamePanel;
 
     [Header("Oyun Ayarlarý")]
     public GameMode currentMode = GameMode.Classic;
@@ -19,6 +24,7 @@ public class GameManager : MonoBehaviour
     public Vector2 bombDurationRange = new Vector2(30f, 90f);
     public int tabooScore = 2;
     public int numberOfSkipsAllowed = 3;
+    public int endScore = 30;
 
 
     [Header("Oyun Durumu")]
@@ -66,21 +72,20 @@ public class GameManager : MonoBehaviour
 
         if (timeRemaining <= 0)
         {
+            isGameActive = false;
+            timeRemaining = 0;
             EndRound();
         }
 
-        // Klavye testleri (UI butonlarý yapýnca sileceðiz)
-        if (Keyboard.current != null)
-        {
-            if (Keyboard.current.spaceKey.wasPressedThisFrame) OnCorrectAnswer();
-            if (Keyboard.current.tabKey.wasPressedThisFrame) SkipCard();
-        }
+        
     }
 
     void StartNewRound()
     {
         Debug.Log("--- YENÝ TUR BAÞLADI ---");
 
+        endGamePanel.SetActive(false);
+        gamePanel.SetActive(true);
 
         if (currentMode == GameMode.Classic)
             timeRemaining = classicDuration;
@@ -162,6 +167,12 @@ public class GameManager : MonoBehaviour
             uiManager.UpdateScores();
         }
 
+        if (scoreA >= endScore || scoreB >= endScore)
+        {
+            endGame();
+        }
+
+
         GetNewCard();
     }
 
@@ -177,6 +188,51 @@ public class GameManager : MonoBehaviour
         }
         GetNewCard();
     }
+
+
+
+    #region EndGame
+
+    public void endGame()
+    {
+        isGameActive = false;
+        gamePanel.SetActive(false);
+        endGamePanel.SetActive(true);
+        endGamePanel.transform.Find("Txt_Winner").GetComponent<TextMeshProUGUI>().text = (scoreA > scoreB) ? GameSettings.TeamAName + " Kazandý!" : GameSettings.TeamBName + " Kazandý!";
+    }
+
+    public void RestartGame()
+    {
+        // Puanlarý sýfýrla
+        scoreA = 0;
+        scoreB = 0;
+        // Kart listesini yeniden oluþtur
+        playList = new List<WordCard>(dataManager.allCards);
+        // Yeni tur baþlat
+        StartNewRound();
+    }
+
+
+    public void MainMenu()
+    {
+
+       UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
+
+    } 
+
+    #endregion
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 }
