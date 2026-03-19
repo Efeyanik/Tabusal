@@ -14,6 +14,7 @@ public class UIManager : MonoBehaviour
     public TextMeshProUGUI txtTimer;
     public TextMeshProUGUI txtScoreA;
     public TextMeshProUGUI txtScoreB;
+    public TextMeshProUGUI txtnumberOfSkipsAllowed;
 
     // YENÝ: Takým isimlerini hafýzada tutmak için deðiþkenler
     private string teamAName = "A Takýmý";
@@ -53,8 +54,9 @@ public class UIManager : MonoBehaviour
 
     public void UpdateScores()
     {
-        // ARTIK SABÝT ÝSÝM DEÐÝL, DEÐÝÞKENLERÝ KULLANIYORUZ
+
         txtScoreA.text = teamAName + ": " + gameManager.scoreA;
         txtScoreB.text = teamBName + ": " + gameManager.scoreB;
+        txtnumberOfSkipsAllowed.text = "Pas Hakký: " + gameManager.numberOfSkipsAllowed;
     }
 }

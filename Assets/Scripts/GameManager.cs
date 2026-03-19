@@ -17,6 +17,9 @@ public class GameManager : MonoBehaviour
     public GameMode currentMode = GameMode.Classic;
     public float classicDuration = 60f;
     public Vector2 bombDurationRange = new Vector2(30f, 90f);
+    public int tabooScore = 2;
+    public int numberOfSkipsAllowed = 3;
+
 
     [Header("Oyun Durumu")]
     public bool isGameActive = false;
@@ -78,11 +81,13 @@ public class GameManager : MonoBehaviour
     {
         Debug.Log("--- YENÝ TUR BAÞLADI ---");
 
+
         if (currentMode == GameMode.Classic)
             timeRemaining = classicDuration;
         else if (currentMode == GameMode.Bomb)
             timeRemaining = Random.Range(bombDurationRange.x, bombDurationRange.y);
 
+        numberOfSkipsAllowed = 3;
         isGameActive = true;
         GetNewCard();
     }
@@ -103,7 +108,7 @@ public class GameManager : MonoBehaviour
         Invoke("StartNewRound", 2f); // 2 saniye bekle ve yeni turu baþlat
     }
 
-    // Butonlardan eriþebilmek için PUBLIC yaptýk
+    
     public void GetNewCard()
     {
         if (playList.Count == 0)
@@ -116,7 +121,7 @@ public class GameManager : MonoBehaviour
         currentCard = playList[randomIndex];
         playList.RemoveAt(randomIndex);
 
-        // UI VARSA GÜNCELLE
+        
         if (uiManager != null)
         {
             uiManager.UpdateCardUI(currentCard);
@@ -129,8 +134,19 @@ public class GameManager : MonoBehaviour
         if (!isGameActive) return;
 
         
-        // Þimdilik sadece kart deðiþsin:
-        GetNewCard();
+        if (numberOfSkipsAllowed <= 0)
+        {
+            Debug.Log("Pas hakkýnýz kalmadý!");
+            return;
+        }
+        else
+        {
+            numberOfSkipsAllowed--;
+            GetNewCard();
+            
+            
+        }
+        
     }
 
     public void OnCorrectAnswer()
@@ -148,4 +164,19 @@ public class GameManager : MonoBehaviour
 
         GetNewCard();
     }
+
+    public void OnTaboo()
+    {
+        if (!isGameActive) return;
+        if (isTeamATurn) scoreA -= tabooScore;
+        else scoreB -= tabooScore;
+        // SKORU UI'DA GÜNCELLE
+        if (uiManager != null)
+        {
+            uiManager.UpdateScores();
+        }
+        GetNewCard();
+    }
+
+
 }
