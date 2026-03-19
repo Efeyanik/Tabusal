@@ -18,6 +18,10 @@ public class GameManager : MonoBehaviour
     public GameObject gamePanel;
     public GameObject endGamePanel;
     public GameObject interRoundPanel;
+    public AudioSource audioSource;
+    public AudioClip correctSound;
+    public AudioClip errorSound;
+    public AudioSource audioSource2;
 
     [Header("Oyun Ayarlarý")]
     public GameMode currentMode = GameMode.Classic;
@@ -181,6 +185,7 @@ public class GameManager : MonoBehaviour
             endGame();
         }
 
+        audioSource.PlayOneShot(correctSound);
 
         GetNewCard();
     }
@@ -195,6 +200,7 @@ public class GameManager : MonoBehaviour
         {
             uiManager.UpdateScores();
         }
+        audioSource.PlayOneShot(errorSound);
         GetNewCard();
     }
 
