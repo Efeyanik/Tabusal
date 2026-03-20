@@ -25,11 +25,11 @@ public class GameManager : MonoBehaviour
 
     [Header("Oyun Ayarlarý")]
     public GameMode currentMode = GameMode.Classic;
-    public float classicDuration = 60f;
+    public float classicDuration = PlayerPrefs.GetFloat("TimeValue", 60f);
     public Vector2 bombDurationRange = new Vector2(30f, 90f);
-    public int tabooScore = 2;
-    public int numberOfSkipsAllowed = 3;
-    public int endScore = 30;
+    public float tabooScore = PlayerPrefs.GetFloat("TabuValue", 2f);
+    public float numberOfSkipsAllowed = PlayerPrefs.GetFloat("PassValue", 3f);
+    public float endScore = PlayerPrefs.GetFloat("PointValue", 30f);
 
 
     [Header("Oyun Durumu")]
@@ -39,8 +39,8 @@ public class GameManager : MonoBehaviour
     public bool isTeamATurn = true;
 
     [Header("Puanlar")]
-    public int scoreA = 0;
-    public int scoreB = 0;
+    public float scoreA = 0;
+    public float scoreB = 0;
 
     private List<WordCard> playList;
 
