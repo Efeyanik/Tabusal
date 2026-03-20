@@ -115,7 +115,7 @@ public class GameManager : MonoBehaviour
 
         gamePanel.SetActive(false);
         interRoundPanel.SetActive(true);
-        interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text = "Sýradaki Takým: " + nextTeam;
+        interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text =  nextTeam;
         interRoundPanel.transform.Find("Txt_InterScoreA").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamAName + ": " + scoreA;
         interRoundPanel.transform.Find("Txt_InterScoreB").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamBName + ": " + scoreB;
 
@@ -213,7 +213,7 @@ public class GameManager : MonoBehaviour
         isGameActive = false;
         gamePanel.SetActive(false);
         endGamePanel.SetActive(true);
-        endGamePanel.transform.Find("Txt_Winner").GetComponent<TextMeshProUGUI>().text = (scoreA > scoreB) ? GameSettings.TeamAName + " Kazandý!" : GameSettings.TeamBName + " Kazandý!";
+        endGamePanel.transform.Find("Txt_Winner").GetComponent<TextMeshProUGUI>().text = (scoreA > scoreB) ? GameSettings.TeamAName : GameSettings.TeamBName;
     }
 
     public void RestartGame()
