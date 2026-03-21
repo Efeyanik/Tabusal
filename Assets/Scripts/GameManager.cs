@@ -38,7 +38,7 @@ public class GameManager : MonoBehaviour
     public bool isGameActive = false;
     public float timeRemaining;
     public WordCard currentCard;
-    public bool isTeamATurn = true;
+    public static bool isTeamATurn = true;
 
     [Header("Puanlar")]
     public float scoreA = 0;

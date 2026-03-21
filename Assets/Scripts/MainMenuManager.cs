@@ -13,6 +13,7 @@ public class MainMenuManager : MonoBehaviour
     public TMP_Dropdown dropdownMode;
     public GameObject menuPanel;
     public GameObject settingsPanel;
+    public GameObject preRoundPanel;
 
     [Header("Slider Referanslarý")]
     public Slider sliderTime;
@@ -46,12 +47,7 @@ public class MainMenuManager : MonoBehaviour
 
     public void StartGame()
     {
-        // 1. Ýsimleri Kaydet (Boþsa varsayýlan kalsýn)
-        if (!string.IsNullOrEmpty(inputTeamA.text))
-            GameSettings.TeamAName = inputTeamA.text;
-
-        if (!string.IsNullOrEmpty(inputTeamB.text)) 
-            GameSettings.TeamBName = inputTeamB.text;
+        
 
         // 2. Modu Kaydet
         // Dropdown'da 0. seçenek Klasik, 1. seçenek Bomba olsun dedik
@@ -123,6 +119,17 @@ public class MainMenuManager : MonoBehaviour
         PlayerPrefs.Save();
     } 
       
+    public void OpenPreRoundPanel()
+    {
+        // 1. Ýsimleri Kaydet (Boþsa varsayýlan kalsýn)
+        if (!string.IsNullOrEmpty(inputTeamA.text))
+            GameSettings.TeamAName = inputTeamA.text;
 
+        if (!string.IsNullOrEmpty(inputTeamB.text))
+            GameSettings.TeamBName = inputTeamB.text;
+
+        menuPanel.SetActive(false);
+        preRoundPanel.SetActive(true);
+    }
 
 }
