@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviour
     public AudioClip correctSound;
     public AudioClip errorSound;
     public AudioSource audioSource2;
+    public CardSwipeManager cardSwipeManager;
     
 
 
@@ -148,7 +149,15 @@ public class GameManager : MonoBehaviour
         currentCard = playList[randomIndex];
         playList.RemoveAt(randomIndex);
 
+        cardSwipeManager.backWordText.text = currentCard.word;
+        cardSwipeManager.backForbidden0Text.text = currentCard.forbidden[0];
+        cardSwipeManager.backForbidden1Text.text = currentCard.forbidden[1];
+        cardSwipeManager.backForbidden2Text.text = currentCard.forbidden[2];
+        cardSwipeManager.backForbidden3Text.text = currentCard.forbidden[3]; 
+        cardSwipeManager.backForbidden4Text.text = currentCard.forbidden[4];
         
+
+
         if (uiManager != null)
         {
             uiManager.UpdateCardUI(currentCard);
