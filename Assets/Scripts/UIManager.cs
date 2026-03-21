@@ -17,8 +17,8 @@ public class UIManager : MonoBehaviour
     public TextMeshProUGUI txtnumberOfSkipsAllowed;
 
     // YENÝ: Takým isimlerini hafýzada tutmak için deðiþkenler
-    private string teamAName = "A Takýmý";
-    private string teamBName = "B Takýmý";
+    public string teamAName = "A Takýmý";
+    public string teamBName = "B Takýmý";
 
     // YENÝ: Oyun baþlarken isimleri buraya göndereceðiz
     public void SetupTeamNames(string nameA, string nameB)

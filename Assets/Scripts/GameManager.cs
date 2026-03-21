@@ -22,14 +22,16 @@ public class GameManager : MonoBehaviour
     public AudioClip correctSound;
     public AudioClip errorSound;
     public AudioSource audioSource2;
+    
+
 
     [Header("Oyun Ayarlarý")]
     public GameMode currentMode = GameMode.Classic;
-    public float classicDuration = PlayerPrefs.GetFloat("TimeValue", 60f);
-    public Vector2 bombDurationRange = new Vector2(30f, 90f);
-    public float tabooScore = PlayerPrefs.GetFloat("TabuValue", 2f);
-    public float numberOfSkipsAllowed = PlayerPrefs.GetFloat("PassValue", 3f);
-    public float endScore = PlayerPrefs.GetFloat("PointValue", 30f);
+    public float classicDuration;
+    public Vector2 bombDurationRange;
+    public float tabooScore;
+    public float numberOfSkipsAllowed;
+    public float endScore;
 
 
     [Header("Oyun Durumu")]
@@ -46,6 +48,13 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+        classicDuration = PlayerPrefs.GetFloat("TimeValue", 60f);
+        bombDurationRange = new Vector2(30f, 90f);
+        tabooScore = PlayerPrefs.GetFloat("TabuValue", 2f);
+        numberOfSkipsAllowed = PlayerPrefs.GetFloat("PassValue", 3f);
+        endScore = PlayerPrefs.GetFloat("PointValue", 30f);
+
+
         dataManager = GetComponent<DataManager>();
         currentMode = GameSettings.SelectedMode;
         
@@ -96,7 +105,7 @@ public class GameManager : MonoBehaviour
         else if (currentMode == GameMode.Bomb)
             timeRemaining = Random.Range(bombDurationRange.x, bombDurationRange.y);
 
-        numberOfSkipsAllowed = 3;
+        numberOfSkipsAllowed = PlayerPrefs.GetFloat("PassValue", 3f);
         isGameActive = true;
         GetNewCard();
     }
@@ -231,8 +240,10 @@ public class GameManager : MonoBehaviour
     public void MainMenu()
     {
 
-       UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
-
+        GameSettings.TeamAName = "A Takýmý";
+        GameSettings.TeamBName ="B Takýmý";    
+        UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");  
+        
     } 
 
     #endregion

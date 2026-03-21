@@ -33,7 +33,7 @@ public class MainMenuManager : MonoBehaviour
         sliderTime.value = PlayerPrefs.GetFloat("TimeValue", 60f) / 10f;
         sliderPoint.value = PlayerPrefs.GetFloat("PointValue", 50f) / 10f;
 
-        // Pas ve Tabu haklarýný olduðu gibi çekiyoruz
+        
         sliderPass.value = PlayerPrefs.GetFloat("PassValue", 3f);
         sliderTabu.value = PlayerPrefs.GetFloat("TabuValue", 3f);
 
@@ -94,7 +94,7 @@ public class MainMenuManager : MonoBehaviour
     
     public void UpdateTabuText(float deger)
     {
-        txtTabu.text = "Tabu Sýnýrý : " + deger.ToString();
+        txtTabu.text = "Tabu Cezasý : " + deger.ToString();
     }
 
     
