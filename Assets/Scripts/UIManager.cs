@@ -32,10 +32,9 @@ public class UIManager : MonoBehaviour
     {
         if (gameManager.isGameActive)
         {
-            if (gameManager.currentMode == GameMode.Classic)
-                txtTimer.text = Mathf.CeilToInt(gameManager.timeRemaining).ToString();
-            else
-                txtTimer.text = "???";
+            
+           txtTimer.text = Mathf.CeilToInt(gameManager.timeRemaining).ToString();
+           
         }
     }
 

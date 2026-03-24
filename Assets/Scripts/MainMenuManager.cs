@@ -52,13 +52,11 @@ public class MainMenuManager : MonoBehaviour
         // 2. Modu Kaydet
         // Dropdown'da 0. seçenek Klasik, 1. seçenek Bomba olsun dedik
         if (dropdownMode.value == 0)
-            GameSettings.SelectedMode = GameMode.Classic;
+            SceneManager.LoadScene("SampleScene");
         else
-            GameSettings.SelectedMode = GameMode.Bomb;
+            SceneManager.LoadScene("BombModeScene");
 
-        // 3. Oyun Sahnesini Yükle
-        
-        SceneManager.LoadScene("SampleScene");
+     
     }
 
 

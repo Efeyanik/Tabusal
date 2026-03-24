@@ -5,11 +5,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 using UnityEngine.SceneManagement;
 
-public enum GameMode
-{
-    Classic,
-    Bomb
-}
+
 
 public class GameManager : MonoBehaviour
 {
@@ -23,13 +19,12 @@ public class GameManager : MonoBehaviour
     public AudioClip errorSound;
     public AudioSource audioSource2;
     public CardSwipeManager cardSwipeManager;
-    
+
 
 
     [Header("Oyun Ayarlarý")]
-    public GameMode currentMode = GameMode.Classic;
+
     public float classicDuration;
-    public Vector2 bombDurationRange;
     public float tabooScore;
     public float numberOfSkipsAllowed;
     public float endScore;
@@ -50,14 +45,13 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         classicDuration = PlayerPrefs.GetFloat("TimeValue", 60f);
-        bombDurationRange = new Vector2(30f, 90f);
         tabooScore = PlayerPrefs.GetFloat("TabuValue", 2f);
         numberOfSkipsAllowed = PlayerPrefs.GetFloat("PassValue", 3f);
         endScore = PlayerPrefs.GetFloat("PointValue", 30f);
 
 
         dataManager = GetComponent<DataManager>();
-        currentMode = GameSettings.SelectedMode;
+        
         
         if (uiManager == null) uiManager = GetComponent<UIManager>();
 
@@ -71,8 +65,8 @@ public class GameManager : MonoBehaviour
             uiManager.SetupTeamNames(GameSettings.TeamAName, GameSettings.TeamBName);
         }
 
-        // Mod ayarýný çekiyoruz
-        currentMode = GameSettings.SelectedMode;
+        
+       
 
         playList = new List<WordCard>(dataManager.allCards);
         Debug.Log("Maç Baþlýyor: " + GameSettings.TeamAName + " vs " + GameSettings.TeamBName);
@@ -101,10 +95,9 @@ public class GameManager : MonoBehaviour
         endGamePanel.SetActive(false);
         gamePanel.SetActive(true);
 
-        if (currentMode == GameMode.Classic)
-            timeRemaining = classicDuration;
-        else if (currentMode == GameMode.Bomb)
-            timeRemaining = Random.Range(bombDurationRange.x, bombDurationRange.y);
+        
+        timeRemaining = classicDuration;
+       
 
         numberOfSkipsAllowed = PlayerPrefs.GetFloat("PassValue", 3f);
         isGameActive = true;

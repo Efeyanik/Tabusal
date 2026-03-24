@@ -7160,6 +7160,7 @@ MonoBehaviour:
   correctSound: {fileID: 8300000, guid: 619dd1510ae06224b9dc32fa6b72934f, type: 3}
   errorSound: {fileID: 8300000, guid: ef25d758e620946499126c75acfd45b2, type: 3}
   audioSource2: {fileID: 887684335}
+  cardSwipeManager: {fileID: 2046936322}
   currentMode: 0
   classicDuration: 60
   bombDurationRange: {x: 30, y: 90}
@@ -7211,10 +7212,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cf5e70cf5e73f847b80c666b41b7ad3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CardPanelSwip
+  gameManager: {fileID: 2046936320}
   cardFrontRect: {fileID: 1792621643}
   cardFrontCanvasGroup: {fileID: 1792621647}
   frontWordText: {fileID: 1895249432}
+  forbidden0Text: {fileID: 364724188}
+  forbidden1Text: {fileID: 2087001208}
+  forbidden2Text: {fileID: 123608379}
+  forbidden3Text: {fileID: 1791417750}
+  forbidden4Text: {fileID: 781776191}
   backWordText: {fileID: 1895249432}
+  backForbidden0Text: {fileID: 1950370380}
+  backForbidden1Text: {fileID: 1892128453}
+  backForbidden2Text: {fileID: 961108085}
+  backForbidden3Text: {fileID: 866191228}
+  backForbidden4Text: {fileID: 1309229394}
 --- !u!1 &2087001206
 GameObject:
   m_ObjectHideFlags: 0
