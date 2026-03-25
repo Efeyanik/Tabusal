@@ -164,6 +164,13 @@ public class BombModeGameManager : MonoBehaviour
         cardSwipeManager.backForbidden3Text.text = currentCard.forbidden[3];
         cardSwipeManager.backForbidden4Text.text = currentCard.forbidden[4];
 
+        cardSwipeManager.frontWordText.text = currentCard.word;
+        cardSwipeManager.forbidden0Text.text = currentCard.forbidden[0];
+        cardSwipeManager.forbidden1Text.text = currentCard.forbidden[1];
+        cardSwipeManager.forbidden2Text.text = currentCard.forbidden[2];
+        cardSwipeManager.forbidden3Text.text = currentCard.forbidden[3];
+        cardSwipeManager.forbidden4Text.text = currentCard.forbidden[4];
+
 
 
         if (bombModeUIManager != null)
