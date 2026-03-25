@@ -7327,6 +7327,8 @@ MonoBehaviour:
   bombDurationRange: {x: 0, y: 0}
   bombNumberOfSkipsAllowed: 2
   bombEndScore: 5
+  bombStartingRule: 1
+  didTeamAStartLastRound: 1
   isGameActive: 0
   timeRemaining: 0
   currentCard:

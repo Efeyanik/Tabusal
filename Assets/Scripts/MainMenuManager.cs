@@ -14,6 +14,12 @@ public class MainMenuManager : MonoBehaviour
     public GameObject menuPanel;
     public GameObject settingsPanel;
     public GameObject preRoundPanel;
+    public Image imgClassicBtn;
+    public Image imgBombBtn;
+
+    [Header("Renk Ayarlarý")]
+    public Color activeColor = new Color(1f, 1f, 1f, 1f);       // Tam opak (Parlak)
+    public Color inactiveColor = new Color(0.7f, 0.7f, 0.7f, 0.5f); // Yarý saydam ve biraz gri (Sönük)
 
     [Header("Slider Referanslarý")]
     public Slider sliderTime;
@@ -30,7 +36,7 @@ public class MainMenuManager : MonoBehaviour
 
     void Start()
     {
-        
+        SelectClassicMode();
         sliderTime.value = PlayerPrefs.GetFloat("TimeValue", 60f) / 10f;
         sliderPoint.value = PlayerPrefs.GetFloat("PointValue", 50f) / 10f;
 
@@ -49,12 +55,11 @@ public class MainMenuManager : MonoBehaviour
     {
         
 
-        // 2. Modu Kaydet
-        // Dropdown'da 0. seçenek Klasik, 1. seçenek Bomba olsun dedik
-        if (dropdownMode.value == 0)
+        
+        if (GameSettings.SelectedMode == true)
             SceneManager.LoadScene("SampleScene");
         else
-            SceneManager.LoadScene("BombModeScene");
+            SceneManager.LoadScene("BombMode");
 
      
     }
@@ -72,6 +77,9 @@ public class MainMenuManager : MonoBehaviour
         menuPanel.SetActive(true);
     }
 
+    #region Update method'S
+
+    
 
     public void UpdateTimeText(float deger)
     {
@@ -98,7 +106,7 @@ public class MainMenuManager : MonoBehaviour
         txtPoint.text = "Hedef Puan : " + gercekPuan.ToString();
     }
 
-
+    #endregion
 
 
     public void UseSettings()
@@ -130,4 +138,19 @@ public class MainMenuManager : MonoBehaviour
         preRoundPanel.SetActive(true);
     }
 
+    public void SelectClassicMode()
+    {
+        GameSettings.SelectedMode = true;
+        imgClassicBtn.color = activeColor;
+        imgBombBtn.color = inactiveColor;
+        Debug.Log("Classic Mode Seçildi: " + GameSettings.SelectedMode);
+    }
+
+    public void SelectBombMode()
+    {
+        GameSettings.SelectedMode = false;
+        imgClassicBtn.color = inactiveColor;
+        imgBombBtn.color = activeColor;
+        Debug.Log("Bomb Mode Seçildi: " + GameSettings.SelectedMode);
+    }
 }

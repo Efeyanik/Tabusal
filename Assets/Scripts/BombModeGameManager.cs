@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using static GameSettings;
 
 public class BombModeGameManager : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class BombModeGameManager : MonoBehaviour
     public GameObject endGamePanel;
     public GameObject interRoundPanel;
     public CardSwipeManager cardSwipeManager;
+    
 
 
 
@@ -20,6 +22,8 @@ public class BombModeGameManager : MonoBehaviour
     public Vector2 bombDurationRange;
     public float bombNumberOfSkipsAllowed = 2f;
     public float bombEndScore = 5f;
+    public GameSettings.BombStartingRule bombStartingRule;
+    public bool didTeamAStartLastRound = true; //sequantel modu için kullanılacak.
 
 
     [Header("Oyun Durumu")]
@@ -38,6 +42,7 @@ public class BombModeGameManager : MonoBehaviour
 
     void Start()
     {
+        bombStartingRule = GameSettings.BombStartingRule.Competitive;
         bombDurationRange = new Vector2(30f, 90f);
         timeRemaining = Random.Range(bombDurationRange.x, bombDurationRange.y);
         
@@ -199,15 +204,17 @@ public class BombModeGameManager : MonoBehaviour
             gamePanel.SetActive(false);
             interRoundPanel.SetActive(true);
 
+            DetermineNextRoundStarter();
+
 
             //isTeamATurn = !isTeamATurn;
             string nextTeam = isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName;
             Debug.Log("Sıradaki Takım: " + nextTeam);
 
 
-
-
             
+
+
             interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text = nextTeam;
             interRoundPanel.transform.Find("Txt_InterScoreA").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamAName + ": " + bombScoreA;
             interRoundPanel.transform.Find("Txt_InterScoreB").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamBName + ": " + bombScoreB;
@@ -259,6 +266,39 @@ public class BombModeGameManager : MonoBehaviour
     }
 
 
+    public void DetermineNextRoundStarter()
+    {
+
+        switch (bombStartingRule)
+        {
+            case BombStartingRule.Sequential:
+                // A başlar sonra b başlar (kimin kaybettiğinden bağımsız)
+                isTeamATurn = !didTeamAStartLastRound;
+                break;
+
+            case BombStartingRule.FullRandom:
+                // %50 ihtimalle A, %50 ihtimalle B başlar
+                isTeamATurn = Random.value > 0.5f;
+                break;
+
+            case BombStartingRule.LoserStarts:
+               
+                break;
+
+            case BombStartingRule.Competitive:
+                // Puanı az olan başlar. Beraberlik varsa rastgele başlar.
+                if (bombScoreA < bombScoreB)
+                    isTeamATurn = true;
+                else if (bombScoreB < bombScoreA)
+                    isTeamATurn = false;
+                else
+                    isTeamATurn = Random.value > 0.5f;
+                break;
+        }
+
+        // Seçilen kişiyi bir sonraki tur için hafızaya al (Sequential modu için lazım)
+        didTeamAStartLastRound = isTeamATurn;
+    }
 
 
 }
