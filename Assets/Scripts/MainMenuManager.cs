@@ -14,8 +14,12 @@ public class MainMenuManager : MonoBehaviour
     public GameObject menuPanel;
     public GameObject settingsPanel;
     public GameObject preRoundPanel;
+    public GameObject standartSettingsPanel;
+    public GameObject bombSettingsPanel;
     public Image imgClassicBtn;
     public Image imgBombBtn;
+    public Image imgSettingsClasicBtn;
+    public Image imgSettingsBombBtn;
 
     [Header("Renk Ayarlarý")]
     public Color activeColor = new Color(1f, 1f, 1f, 1f);       // Tam opak (Parlak)
@@ -36,7 +40,9 @@ public class MainMenuManager : MonoBehaviour
 
     void Start()
     {
+        
         SelectClassicMode();
+        OpenStandartSettings();
         sliderTime.value = PlayerPrefs.GetFloat("TimeValue", 60f) / 10f;
         sliderPoint.value = PlayerPrefs.GetFloat("PointValue", 50f) / 10f;
 
@@ -152,5 +158,22 @@ public class MainMenuManager : MonoBehaviour
         imgClassicBtn.color = inactiveColor;
         imgBombBtn.color = activeColor;
         Debug.Log("Bomb Mode Seçildi: " + GameSettings.SelectedMode);
+    }
+
+
+    public void OpenStandartSettings()  
+    {
+        standartSettingsPanel.SetActive(true);
+        bombSettingsPanel.SetActive(false);
+        imgSettingsClasicBtn.color = activeColor;
+        imgSettingsBombBtn.color = inactiveColor;
+    }
+
+    public void OpenBombSettings()
+    {
+        standartSettingsPanel.SetActive(false);
+        bombSettingsPanel.SetActive(true);
+        imgSettingsBombBtn.color = activeColor;
+        imgSettingsClasicBtn.color = inactiveColor;
     }
 }
