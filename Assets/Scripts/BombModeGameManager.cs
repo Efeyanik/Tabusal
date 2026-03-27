@@ -12,6 +12,7 @@ public class BombModeGameManager : MonoBehaviour
     public GameObject endGamePanel;
     public GameObject interRoundPanel;
     public CardSwipeManager cardSwipeManager;
+    public GameObject InterAnswerPanel;
    
 
 
@@ -43,8 +44,11 @@ public class BombModeGameManager : MonoBehaviour
 
     void Start()
     {
+        for (int i = 0; i < bombStartingRule.Length; i++)
+        {
+            Debug.Log("Bomb Starting Rule " + i + ": " + bombStartingRule[i]);
+        }
 
-       
         bombStartingRuleIndex = PlayerPrefs.GetInt("BombStartingRule", 0);
         bombDurationRange.x = PlayerPrefs.GetFloat("BombTimeMinValue",30f);
         bombDurationRange.y = PlayerPrefs.GetFloat("BombTimeMaxValue",90f);
@@ -73,7 +77,7 @@ public class BombModeGameManager : MonoBehaviour
     {
         if (!isGameActive) return;
 
-        Debug.Log(timeRemaining);
+        //Debug.Log(timeRemaining);
         timeRemaining -= Time.deltaTime;
 
         if (timeRemaining <= 0)
@@ -99,7 +103,7 @@ public class BombModeGameManager : MonoBehaviour
 
         timeRemaining = Random.Range(bombDurationRange.x, bombDurationRange.y);
 
-        bombNumberOfSkipsAllowed = 2f;
+        bombNumberOfSkipsAllowed = PlayerPrefs.GetFloat("BombPassValue", 2f);
         isGameActive = true;
         GetNewCard();
 
@@ -112,13 +116,47 @@ public class BombModeGameManager : MonoBehaviour
     public void onCorrectAnswer()
     {
         isTeamATurn = !isTeamATurn;
-        bombNumberOfSkipsAllowed = 2f;
+        bombNumberOfSkipsAllowed = PlayerPrefs.GetFloat("BombPassValue", 2f);
 
-        GetNewCard();
+        StartCoroutine(SwitchTeamRoutine());
+    }
+
+        private System.Collections.IEnumerator SwitchTeamRoutine()
+        {
+        
+        isGameActive = false;
+        gamePanel.SetActive(false);
+        InterAnswerPanel.SetActive(true);
 
         
+        string nextTeam = isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName;
+        InterAnswerPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text = nextTeam;
 
-    }
+        
+        TextMeshProUGUI txtTimer = InterAnswerPanel.transform.Find("Txt_Timer").GetComponent<TextMeshProUGUI>();
+
+        
+        for (int i = 3; i > 0; i--)
+        {
+            txtTimer.text = i.ToString();
+
+            
+            yield return new WaitForSeconds(1f);
+           
+    
+        }
+
+        InterAnswerPanel.SetActive(false);
+        gamePanel.SetActive(true);
+        isGameActive = true;
+        GetNewCard();
+
+        }
+
+
+
+
+
 
     public void onSkip()
     {
