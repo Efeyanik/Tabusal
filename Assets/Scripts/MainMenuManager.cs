@@ -3,6 +3,7 @@ using UnityEngine.SceneManagement; // Sahne deðiþimi için þart
 using TMPro;
 using UnityEngine.UI;
 using JetBrains.Annotations;
+using UnityEditor;
 
 
 public class MainMenuManager : MonoBehaviour
@@ -10,7 +11,6 @@ public class MainMenuManager : MonoBehaviour
     [Header("UI Elemanlarý")]
     public TMP_InputField inputTeamA;
     public TMP_InputField inputTeamB;
-    public TMP_Dropdown dropdownMode;
     public GameObject menuPanel;
     public GameObject settingsPanel;
     public GameObject preRoundPanel;
@@ -20,6 +20,7 @@ public class MainMenuManager : MonoBehaviour
     public Image imgBombBtn;
     public Image imgSettingsClasicBtn;
     public Image imgSettingsBombBtn;
+    
 
     [Header("Renk Ayarlarý")]
     public Color activeColor = new Color(1f, 1f, 1f, 1f);       // Tam opak (Parlak)
@@ -31,11 +32,32 @@ public class MainMenuManager : MonoBehaviour
     public Slider sliderTabu;
     public Slider sliderPoint;
 
+    public Slider sliderBombTimeMin;
+    public Slider sliderBombTimeMax;
+    public Slider sliderBombPass;
+    public Slider sliderBombPoint;
+
+
     [Header("Text Referanslarý")]
     public TextMeshProUGUI txtTime;
     public TextMeshProUGUI txtPass;
     public TextMeshProUGUI txtTabu;
     public TextMeshProUGUI txtPoint;
+
+    public TextMeshProUGUI txtBombTimeMin;
+    public TextMeshProUGUI txtBombTimeMax;
+    public TextMeshProUGUI txtBombPass;
+    public TextMeshProUGUI txtBombPoint;
+
+    public TextMeshProUGUI txtDescription;
+    public TextMeshProUGUI txtStartingRule;
+
+    [Header("Oyun Ayarlarý vs.")]
+    public int startingRuleCounter;
+    public GameSettings.BombStartingRule[] bombStartingRules = (GameSettings.BombStartingRule[])System.Enum.GetValues(typeof(GameSettings.BombStartingRule));
+
+
+
 
 
     void Start()
@@ -45,15 +67,24 @@ public class MainMenuManager : MonoBehaviour
         OpenStandartSettings();
         sliderTime.value = PlayerPrefs.GetFloat("TimeValue", 60f) / 10f;
         sliderPoint.value = PlayerPrefs.GetFloat("PointValue", 50f) / 10f;
-
-        
         sliderPass.value = PlayerPrefs.GetFloat("PassValue", 3f);
         sliderTabu.value = PlayerPrefs.GetFloat("TabuValue", 3f);
+        
+        sliderBombTimeMin.value = PlayerPrefs.GetFloat("BombTimeMinValue", 30f) /10f;
+        sliderBombTimeMax.value = PlayerPrefs.GetFloat("BombTimeMaxValue", 90f) /10f;
+        sliderBombPass.value = PlayerPrefs.GetFloat("BombPassValue", 2f);
+        sliderBombPoint.value = PlayerPrefs.GetFloat("BombPointValue", 5f);
 
         UpdateTimeText(sliderTime.value);
         UpdatePassText(sliderPass.value);
         UpdateTabuText(sliderTabu.value);
         UpdatePointText(sliderPoint.value);
+
+        UpdateBombTimeMinText(sliderBombTimeMin.value);
+        UpdateBombTimeMaxText(sliderBombTimeMax.value);
+        UpdateBombPassText(sliderBombPass.value);
+        UpdateBombPointText(sliderBombPoint.value);
+        UpdateStartingRuleText(PlayerPrefs.GetInt("BombStartingRule", 0));
     }
 
 
@@ -82,6 +113,9 @@ public class MainMenuManager : MonoBehaviour
         settingsPanel.SetActive(false);
         menuPanel.SetActive(true);
     }
+
+
+
 
     #region Update method'S
 
@@ -112,6 +146,53 @@ public class MainMenuManager : MonoBehaviour
         txtPoint.text = "Hedef Puan : " + gercekPuan.ToString();
     }
 
+    public void UpdateBombTimeMinText(float deger)
+    {
+        float gercekSure = deger * 10f;
+        txtBombTimeMin.text = "Minimum Süre : " + gercekSure.ToString();
+    }
+
+    public void UpdateBombTimeMaxText(float deger)
+    {
+        float gercekSure = deger * 10f;
+        txtBombTimeMax.text = "Maksimum Süre : " + gercekSure.ToString();
+    }
+
+    public void UpdateBombPassText(float deger)
+    {
+        txtBombPass.text = "Pas Hakký : " + deger.ToString();
+    }
+
+    public void UpdateBombPointText(float deger)
+    {
+        txtBombPoint.text = "Hedef Puan : " + deger.ToString();
+    }
+
+    public void UpdateStartingRuleText(int deger)
+    {
+        
+        if (deger == 0)
+        {
+            txtDescription.text = "<color=#FFE100>Sýralý Baþlangýç:</color> Her turda farklý bir takým baþlar. (A-B-A-B)\nÝlk turda A takýmý baþlar.";
+            txtStartingRule.text = "Sýralý Baþlangýç";
+        }
+        else if (deger == 1)
+        {
+            txtDescription.text = "<color=#FFE100>Rastgele:</color> Her turda kimin baþlayacaðý tamamen rastgele belirlenir.";
+            txtStartingRule.text = "Rastgele";
+        }
+        else if (deger == 2)
+        {
+            txtDescription.text = "<color=#FFE100>Kaybeden Baþlar:</color> Bombanýn patladýðý takým bir sonraki tura baþlar.\nÝlk turda ise rastgele belirlenir.";
+            txtStartingRule.text = "Kaybeden Baþlar";
+        }
+        else if (deger == 3)
+        {
+            txtDescription.text = "<color=#FFE100>Rekabetçi:</color> Puaný geride olan takým baþlar. Beraberlik durumunda ise rastgele belirlenir.";
+            txtStartingRule.text = "Rekabetçi";
+        }
+    }
+
     #endregion
 
 
@@ -130,7 +211,22 @@ public class MainMenuManager : MonoBehaviour
 
         PlayerPrefs.Save();
     } 
-      
+
+    public void UseBombSettings()
+    {
+        float bombTimeMinValue = sliderBombTimeMin.value * 10;
+        float bombTimeMaxValue = sliderBombTimeMax.value * 10;
+        float bombPassValue = sliderBombPass.value;
+        float bombPointValue = sliderBombPoint.value;
+
+        PlayerPrefs.SetFloat("BombTimeMinValue", bombTimeMinValue);
+        PlayerPrefs.SetFloat("BombTimeMaxValue", bombTimeMaxValue);
+        PlayerPrefs.SetFloat("BombPassValue", bombPassValue);
+        PlayerPrefs.SetFloat("BombPointValue", bombPointValue);
+
+        PlayerPrefs.Save();
+    }
+
     public void OpenPreRoundPanel()
     {
         // 1. Ýsimleri Kaydet (Boþsa varsayýlan kalsýn)
@@ -176,4 +272,59 @@ public class MainMenuManager : MonoBehaviour
         imgSettingsBombBtn.color = activeColor;
         imgSettingsClasicBtn.color = inactiveColor;
     }
+
+
+    public void LeftArrow()
+    {
+        switch (startingRuleCounter)
+        {
+            case 0:
+                startingRuleCounter = bombStartingRules.Length - 1; // 0-1-2-3 
+                break;
+
+            case 1:
+                startingRuleCounter -= 1;
+                break;
+
+            case 2:
+                startingRuleCounter -= 1;
+                break;
+            case 3: 
+                startingRuleCounter -= 1;
+                break;
+        }
+
+        UpdateStartingRuleText(startingRuleCounter);
+
+
+        PlayerPrefs.SetInt("BombStartingRule", startingRuleCounter);
+
+
+    }
+
+    public void RightArrow()
+    {
+        
+        switch(startingRuleCounter)
+        {
+            case 0:
+                startingRuleCounter += 1;
+                break;
+            case 1:
+                startingRuleCounter += 1;
+                break;
+            case 2:
+                startingRuleCounter += 1;
+                break;
+            case 3: 
+                startingRuleCounter = 0; // 0-1-2-3 
+                break;
+        }
+
+        UpdateStartingRuleText(startingRuleCounter);
+
+
+        PlayerPrefs.SetInt("BombStartingRule", startingRuleCounter);
+    }
+
 }

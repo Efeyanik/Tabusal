@@ -12,7 +12,8 @@ public class BombModeGameManager : MonoBehaviour
     public GameObject endGamePanel;
     public GameObject interRoundPanel;
     public CardSwipeManager cardSwipeManager;
-    
+    public MainMenuManager mainMenuManager;
+
 
 
 
@@ -20,8 +21,8 @@ public class BombModeGameManager : MonoBehaviour
 
 
     public Vector2 bombDurationRange;
-    public float bombNumberOfSkipsAllowed = 2f;
-    public float bombEndScore = 5f;
+    public float bombNumberOfSkipsAllowed;
+    public float bombEndScore;
     public GameSettings.BombStartingRule bombStartingRule;
     public bool didTeamAStartLastRound = true; //sequantel modu için kullanılacak.
 
@@ -42,8 +43,14 @@ public class BombModeGameManager : MonoBehaviour
 
     void Start()
     {
-        bombStartingRule = GameSettings.BombStartingRule.Competitive;
-        bombDurationRange = new Vector2(30f, 90f);
+        bombStartingRule = mainMenuManager.bombStartingRules[PlayerPrefs.GetInt("BombStartingRule", 0)];
+
+        bombDurationRange.x = PlayerPrefs.GetFloat("BombTimeMinValue",30f);
+        bombDurationRange.y = PlayerPrefs.GetFloat("BombTimeMaxValue",90f);
+        bombNumberOfSkipsAllowed = PlayerPrefs.GetFloat("BombPassValue",2f);
+        bombEndScore = PlayerPrefs.GetFloat("BombPointValue",5f);
+
+
         timeRemaining = Random.Range(bombDurationRange.x, bombDurationRange.y);
         
 
