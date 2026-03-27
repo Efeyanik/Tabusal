@@ -895,12 +895,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.013
-  xWaveAmplitude: 0.009
-  xWaveSpeed: 0.55
+  verticalSpeed: 0.02
+  xWaveAmplitude: 0.01
+  xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.06
-  phaseOffset: 1.3
+  alphaPulseAmount: 0.08
+  phaseOffset: 0
 --- !u!114 &320884708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2227,7 +2227,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6ce40ab4f71e243b1c2471a782c3fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CardIdleAnimation
-  animationDuration: 0.5
+  animationDuration: 1.7
+  moveDistance: 15
+  isBombMode: 1
+  targetColor: {r: 1, g: 1, b: 1, a: 1}
+  colorDuration: 2
+  cardImage: {fileID: 1763413998}
 --- !u!114 &791713186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3222,12 +3227,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.019
-  xWaveAmplitude: 0.013
-  xWaveSpeed: 0.42
+  verticalSpeed: 0.02
+  xWaveAmplitude: 0.01
+  xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.05
-  phaseOffset: 3.4
+  alphaPulseAmount: 0.08
+  phaseOffset: 0
 --- !u!114 &1008224803
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3450,11 +3455,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.012
+  verticalSpeed: 0.02
   xWaveAmplitude: 0.01
   xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.06
+  alphaPulseAmount: 0.08
   phaseOffset: 0
 --- !u!114 &1067152422
 MonoBehaviour:
@@ -3541,12 +3546,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.018
-  xWaveAmplitude: 0.014
-  xWaveSpeed: 0.45
+  verticalSpeed: 0.02
+  xWaveAmplitude: 0.01
+  xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.05
-  phaseOffset: 2.1
+  alphaPulseAmount: 0.08
+  phaseOffset: 0
 --- !u!114 &1093431151
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3560,7 +3565,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RawImage
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.7490196}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3769,12 +3774,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.019
-  xWaveAmplitude: 0.013
-  xWaveSpeed: 0.42
+  verticalSpeed: 0.02
+  xWaveAmplitude: 0.01
+  xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.05
-  phaseOffset: 3.4
+  alphaPulseAmount: 0.08
+  phaseOffset: 0
 --- !u!114 &1142847715
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6126,7 +6131,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6ce40ab4f71e243b1c2471a782c3fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CardIdleAnimation
-  animationDuration: 0.5
+  animationDuration: 1.7
+  moveDistance: 15
+  isBombMode: 1
+  targetColor: {r: 1, g: 1, b: 1, a: 1}
+  colorDuration: 2
+  cardImage: {fileID: 1314306253}
 --- !u!225 &1792621647
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -6326,12 +6336,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.018
-  xWaveAmplitude: 0.014
-  xWaveSpeed: 0.45
+  verticalSpeed: 0.02
+  xWaveAmplitude: 0.01
+  xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.05
-  phaseOffset: 2.1
+  alphaPulseAmount: 0.08
+  phaseOffset: 0
 --- !u!114 &1859722778
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6345,7 +6355,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RawImage
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.7490196}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6550,12 +6560,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.013
-  xWaveAmplitude: 0.009
-  xWaveSpeed: 0.55
+  verticalSpeed: 0.02
+  xWaveAmplitude: 0.01
+  xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.06
-  phaseOffset: 1.3
+  alphaPulseAmount: 0.08
+  phaseOffset: 0
 --- !u!114 &1889907441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7052,11 +7062,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf59d33ef3b26784dae99be3c57efa79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIDustFlow
-  verticalSpeed: 0.012
+  verticalSpeed: 0.02
   xWaveAmplitude: 0.01
   xWaveSpeed: 0.6
   alphaPulseSpeed: 0.3
-  alphaPulseAmount: 0.06
+  alphaPulseAmount: 0.08
   phaseOffset: 0
 --- !u!114 &2042103399
 MonoBehaviour:
@@ -7326,12 +7336,12 @@ MonoBehaviour:
   endGamePanel: {fileID: 135423026}
   interRoundPanel: {fileID: 232447108}
   cardSwipeManager: {fileID: 2049993644}
-  mainMenuManager: {fileID: 0}
   bombDurationRange: {x: 0, y: 0}
   bombNumberOfSkipsAllowed: 2
   bombEndScore: 5
-  bombStartingRule: 1
+  bombStartingRule: 
   didTeamAStartLastRound: 1
+  bombStartingRuleIndex: 0
   isGameActive: 0
   timeRemaining: 0
   currentCard:
@@ -7738,7 +7748,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.8300188, b: 0.8132075, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

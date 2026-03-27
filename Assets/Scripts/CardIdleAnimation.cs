@@ -1,11 +1,20 @@
 using UnityEngine;
-using DG.Tweening; // DOTween kütüphanesini dahil ediyoruz!
+using DG.Tweening;
+using UnityEngine.UI; // DOTween kütüphanesini dahil ediyoruz!
 
 public class CardIdleAnimation : MonoBehaviour
 {
 
     [Header("Animasyon Ayarları")]
-    public float animationDuration = 2f; // Varsayılan süre 2 saniye
+    public float animationDuration = 2f; 
+    public float moveDistance = 15f; 
+
+    [Header("Bomba Rengi Ayarları")]
+    public bool isBombMode = false; // Sadece bombada seçilecek.
+    public Color targetColor;       
+    public float colorDuration = 2f;
+
+    public RawImage cardImage;
 
     void Start()
     {
@@ -16,9 +25,25 @@ public class CardIdleAnimation : MonoBehaviour
         // SetLoops(-1, LoopType.Yoyo): Sonsuza kadar (-1) Yoyo gibi git-gel yap.
         // SetEase: Hareketi robotiklikten çıkarıp yumuşat.
 
-        transform.DOLocalMoveY(15f, animationDuration)
+        transform.DOLocalMoveY(moveDistance, animationDuration)
             .SetRelative(true)
             .SetLoops(-1, LoopType.Yoyo)
             .SetEase(Ease.InOutSine);
+
+
+
+        if (isBombMode)
+        {
+            
+            if (cardImage != null)
+            {
+                
+                cardImage.DOColor(targetColor, colorDuration)
+                    .SetLoops(-1, LoopType.Yoyo)
+                    .SetEase(Ease.InOutSine);
+            }
+        }
+
+
     }
 }
