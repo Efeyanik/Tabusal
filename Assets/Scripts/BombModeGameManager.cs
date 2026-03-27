@@ -24,7 +24,7 @@ public class BombModeGameManager : MonoBehaviour
     public Vector2 bombDurationRange;
     public float bombNumberOfSkipsAllowed;
     public float bombEndScore;
-    public GameSettings.BombStartingRule[] bombStartingRule = (GameSettings.BombStartingRule[])System.Enum.GetValues(typeof(GameSettings.BombStartingRule));
+    public GameSettings.BombStartingRule[] bombStartingRule;
     public bool didTeamAStartLastRound = true; //sequantel modu için kullanılacak.
     public int bombStartingRuleIndex;
 
@@ -44,10 +44,9 @@ public class BombModeGameManager : MonoBehaviour
 
     void Start()
     {
-        for (int i = 0; i < bombStartingRule.Length; i++)
-        {
-            Debug.Log("Bomb Starting Rule " + i + ": " + bombStartingRule[i]);
-        }
+        bombStartingRule = (GameSettings.BombStartingRule[])System.Enum.GetValues(typeof(GameSettings.BombStartingRule));
+
+     
 
         bombStartingRuleIndex = PlayerPrefs.GetInt("BombStartingRule", 0);
         bombDurationRange.x = PlayerPrefs.GetFloat("BombTimeMinValue",30f);

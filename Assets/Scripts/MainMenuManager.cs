@@ -219,6 +219,7 @@ public class MainMenuManager : MonoBehaviour
         float bombPassValue = sliderBombPass.value;
         float bombPointValue = sliderBombPoint.value;
 
+
         PlayerPrefs.SetFloat("BombTimeMinValue", bombTimeMinValue);
         PlayerPrefs.SetFloat("BombTimeMaxValue", bombTimeMaxValue);
         PlayerPrefs.SetFloat("BombPassValue", bombPassValue);
@@ -298,6 +299,7 @@ public class MainMenuManager : MonoBehaviour
 
 
         PlayerPrefs.SetInt("BombStartingRule", startingRuleCounter);
+        PlayerPrefs.Save();
 
 
     }
@@ -325,6 +327,7 @@ public class MainMenuManager : MonoBehaviour
 
 
         PlayerPrefs.SetInt("BombStartingRule", startingRuleCounter);
+        PlayerPrefs.Save();
     }
 
 }
