@@ -2175,7 +2175,7 @@ GameObject:
   - component: {fileID: 791713185}
   - component: {fileID: 791713184}
   m_Layer: 5
-  m_Name: CardPanel_Back
+  m_Name: BombCardPanel_Back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2227,6 +2227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6ce40ab4f71e243b1c2471a782c3fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CardIdleAnimation
+  animationDuration: 0.5
 --- !u!114 &791713186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6047,7 +6048,7 @@ GameObject:
   - component: {fileID: 1792621646}
   - component: {fileID: 1792621647}
   m_Layer: 5
-  m_Name: CardPanel
+  m_Name: BombCardPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6125,6 +6126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e6ce40ab4f71e243b1c2471a782c3fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CardIdleAnimation
+  animationDuration: 0.5
 --- !u!225 &1792621647
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -7324,6 +7326,7 @@ MonoBehaviour:
   endGamePanel: {fileID: 135423026}
   interRoundPanel: {fileID: 232447108}
   cardSwipeManager: {fileID: 2049993644}
+  mainMenuManager: {fileID: 0}
   bombDurationRange: {x: 0, y: 0}
   bombNumberOfSkipsAllowed: 2
   bombEndScore: 5

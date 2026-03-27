@@ -12,7 +12,7 @@ public class BombModeGameManager : MonoBehaviour
     public GameObject endGamePanel;
     public GameObject interRoundPanel;
     public CardSwipeManager cardSwipeManager;
-    public MainMenuManager mainMenuManager;
+   
 
 
 
@@ -23,9 +23,9 @@ public class BombModeGameManager : MonoBehaviour
     public Vector2 bombDurationRange;
     public float bombNumberOfSkipsAllowed;
     public float bombEndScore;
-    public GameSettings.BombStartingRule bombStartingRule;
+    public GameSettings.BombStartingRule[] bombStartingRule = (GameSettings.BombStartingRule[])System.Enum.GetValues(typeof(GameSettings.BombStartingRule));
     public bool didTeamAStartLastRound = true; //sequantel modu için kullanılacak.
-
+    public int bombStartingRuleIndex;
 
     [Header("Oyun Durumu")]
     public bool isGameActive = false;
@@ -43,8 +43,9 @@ public class BombModeGameManager : MonoBehaviour
 
     void Start()
     {
-        bombStartingRule = mainMenuManager.bombStartingRules[PlayerPrefs.GetInt("BombStartingRule", 0)];
 
+       
+        bombStartingRuleIndex = PlayerPrefs.GetInt("BombStartingRule", 0);
         bombDurationRange.x = PlayerPrefs.GetFloat("BombTimeMinValue",30f);
         bombDurationRange.y = PlayerPrefs.GetFloat("BombTimeMaxValue",90f);
         bombNumberOfSkipsAllowed = PlayerPrefs.GetFloat("BombPassValue",2f);
@@ -276,23 +277,23 @@ public class BombModeGameManager : MonoBehaviour
     public void DetermineNextRoundStarter()
     {
 
-        switch (bombStartingRule)
+        switch (bombStartingRuleIndex)
         {
-            case BombStartingRule.Sequential:
+            case 0:
                 // A başlar sonra b başlar (kimin kaybettiğinden bağımsız)
                 isTeamATurn = !didTeamAStartLastRound;
                 break;
 
-            case BombStartingRule.FullRandom:
+            case 1:
                 // %50 ihtimalle A, %50 ihtimalle B başlar
                 isTeamATurn = Random.value > 0.5f;
                 break;
 
-            case BombStartingRule.LoserStarts:
+            case 2:
                
                 break;
 
-            case BombStartingRule.Competitive:
+            case 3:
                 // Puanı az olan başlar. Beraberlik varsa rastgele başlar.
                 if (bombScoreA < bombScoreB)
                     isTeamATurn = true;
