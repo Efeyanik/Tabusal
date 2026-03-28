@@ -228,6 +228,8 @@ public class MainMenuManager : MonoBehaviour
         PlayerPrefs.Save();
     }
 
+
+
     public void OpenPreRoundPanel()
     {
         // 1. Ýsimleri Kaydet (Boþsa varsayýlan kalsýn)
@@ -237,9 +239,35 @@ public class MainMenuManager : MonoBehaviour
         if (!string.IsNullOrEmpty(inputTeamB.text))
             GameSettings.TeamBName = inputTeamB.text;
 
+        
+        if (GameSettings.SelectedMode == false) // EÐER BOMBA MODUYSA
+        {
+            int startingRule = PlayerPrefs.GetInt("BombStartingRule", 0);
+
+            if (startingRule == 0)
+            {
+                // Sýralý modda ilk tur her zaman A baþlar
+                GameSettings.IsTeamAStartingFirst = true;
+            }
+            else
+            {
+                // Rastgele, Kaybeden veya Rekabetçi kurallarýnda ÝLK TUR her zaman rastgeledir
+                GameSettings.IsTeamAStartingFirst = Random.value > 0.5f;
+            }
+        }
+        else // EÐER KLASÝK MODSA
+        {
+            // Klasik modda her zaman A takýmý baþlar (kendi mantýðýna göre deðiþtirebilirsin)
+            GameSettings.IsTeamAStartingFirst = true;
+        }
+
+        // 3. Panelleri Deðiþtir
         menuPanel.SetActive(false);
         preRoundPanel.SetActive(true);
     }
+
+
+
 
     public void SelectClassicMode()
     {
