@@ -107,23 +107,77 @@ public class GameManager : MonoBehaviour
     void EndRound()
     {
 
-        isGameActive = false;
-        timeRemaining = 0;
-        isTeamATurn = !isTeamATurn; // Sýrayý deðiþtir
+    
+            isGameActive = false;
+            timeRemaining = 0;
 
-        // Konsola kimin sýrasý olduðunu yaz
-        string nextTeam = isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName;
-        Debug.Log("Sýradaki Takým: " + nextTeam);
+            // Turu bitiren takým kimdi? (Sýrayý deðiþtirmeden önce hafýzaya alýyoruz)
+            bool finishingTeamWasA = isTeamATurn;
+
+            isTeamATurn = !isTeamATurn; // Sýrayý sýradaki takýma geçir
+
+            // ADALET KONTROLÜ: 
+            // A takýmý baþladýðý için tam bir döngü B takýmý oynadýktan sonra biter.
+            // Yani turu bitiren takým B (finishingTeamWasA == false) ise skorlarý kontrol etmeliyiz!
+            if (finishingTeamWasA == false)
+            {
+                if (scoreA >= endScore || scoreB >= endScore)
+                {
+                    if (scoreA == scoreB) // Ýkisi de hedefi geçmiþ ve puanlar EÞÝT!
+                    {
+                        endScore += 10; // Hedefi 10 puan ileri atýyoruz (Uzatma)
+                        Debug.Log("BERABERLÝK! Yeni Hedef: " + endScore);
+
+                        // Ekraný Uzatma yazýsýyla aç
+                        ShowInterRoundPanel("UZATMALAR!\nYeni Hedef: " + endScore, true);
+                        return;
+                    }
+                    else // Biri diðerinden daha yüksek puan yapmýþ, KESÝN GALÝP!
+                    {
+                        endGame();
+                        return;
+                    }
+                }
+            }
+
+            // Eðer oyun bitmediyse veya A takýmý daha yeni oynadýysa (B'nin oynamasý lazýmsa) normal devam et
+            string nextTeam = isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName;
+            Debug.Log("Sýradaki Takým: " + nextTeam);
+            ShowInterRoundPanel(nextTeam, false);
+
+        }
 
 
+
+
+
+
+
+    private void ShowInterRoundPanel(string topText, bool isUzatma)
+    {
         gamePanel.SetActive(false);
         interRoundPanel.SetActive(true);
-        interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text =  nextTeam;
+
+        TextMeshProUGUI txtNextTeam = interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>();
+
+        txtNextTeam.text = topText;
+
+        
+        if (isUzatma)
+            txtNextTeam.color = Color.red;
+        else
+            txtNextTeam.color = Color.white; 
+
         interRoundPanel.transform.Find("Txt_InterScoreA").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamAName + ": " + scoreA;
         interRoundPanel.transform.Find("Txt_InterScoreB").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamBName + ": " + scoreB;
 
-
     }
+
+
+
+
+
+
 
     public void nextRound()
     {
@@ -191,10 +245,7 @@ public class GameManager : MonoBehaviour
             uiManager.UpdateScores();
         }
 
-        if (scoreA >= endScore || scoreB >= endScore)
-        {
-            endGame();
-        }
+        
 
         audioSource.PlayOneShot(correctSound);
 
@@ -234,6 +285,7 @@ public class GameManager : MonoBehaviour
         scoreB = 0;
         // Kart listesini yeniden oluþtur
         playList = new List<WordCard>(dataManager.allCards);
+        endScore = PlayerPrefs.GetFloat("PointValue", 30f); // Hedef puaný sýfýrla
         // Yeni tur baþlat
         StartNewRound();
     }
