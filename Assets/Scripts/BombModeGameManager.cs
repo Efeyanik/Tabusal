@@ -13,7 +13,8 @@ public class BombModeGameManager : MonoBehaviour
     public GameObject interRoundPanel;
     public CardSwipeManager cardSwipeManager;
     public GameObject InterAnswerPanel;
-   
+    public GameObject pausePanel;
+
 
 
 
@@ -344,6 +345,8 @@ public class BombModeGameManager : MonoBehaviour
         // Seçilen kişiyi bir sonraki tur için hafızaya al (Sequential modu için lazım)
         didTeamAStartLastRound = isTeamATurn;
     }
+
+    
 
 
 }

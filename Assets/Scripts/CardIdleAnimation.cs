@@ -28,7 +28,9 @@ public class CardIdleAnimation : MonoBehaviour
         transform.DOLocalMoveY(moveDistance, animationDuration)
             .SetRelative(true)
             .SetLoops(-1, LoopType.Yoyo)
-            .SetEase(Ease.InOutSine);
+            .SetEase(Ease.InOutSine)
+            .SetLink(gameObject);
+
 
 
 
@@ -40,7 +42,8 @@ public class CardIdleAnimation : MonoBehaviour
                 
                 cardImage.DOColor(targetColor, colorDuration)
                     .SetLoops(-1, LoopType.Yoyo)
-                    .SetEase(Ease.InOutSine);
+                    .SetEase(Ease.InOutSine)
+                    .SetLink(gameObject);
             }
         }
 
