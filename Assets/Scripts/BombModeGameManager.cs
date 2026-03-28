@@ -47,14 +47,14 @@ public class BombModeGameManager : MonoBehaviour
     {
         bombStartingRule = (GameSettings.BombStartingRule[])System.Enum.GetValues(typeof(GameSettings.BombStartingRule));
 
-     
+        
 
         bombStartingRuleIndex = PlayerPrefs.GetInt("BombStartingRule", 0);
         bombDurationRange.x = PlayerPrefs.GetFloat("BombTimeMinValue",30f);
         bombDurationRange.y = PlayerPrefs.GetFloat("BombTimeMaxValue",90f);
         bombNumberOfSkipsAllowed = PlayerPrefs.GetFloat("BombPassValue",2f);
         bombEndScore = PlayerPrefs.GetFloat("BombPointValue",5f);
-
+        DetermineFirstRoundStarter();
 
         timeRemaining = Random.Range(bombDurationRange.x, bombDurationRange.y);
         
@@ -344,9 +344,37 @@ public class BombModeGameManager : MonoBehaviour
 
         // Seçilen kişiyi bir sonraki tur için hafızaya al (Sequential modu için lazım)
         didTeamAStartLastRound = isTeamATurn;
+
+
     }
 
-    
+    public void DetermineFirstRoundStarter()
+    {
+        Debug.Log("Şu anki bomba kuralı indeksi: " + bombStartingRuleIndex);
+        switch (bombStartingRuleIndex)
+        {
+            case 0:
+                isTeamATurn = true;
+                break;
+
+            case 1:
+
+                isTeamATurn = Random.value > 0.5f;
+                break;
+
+            case 2:
+                isTeamATurn = Random.value > 0.5f;
+                break;
+
+            case 3:
+                isTeamATurn = Random.value > 0.5f;
+                break;
+        }
+        
+
+        Debug.Log("İlk turu başlatacak takım: " + (isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName));
+
+    }
 
 
 }

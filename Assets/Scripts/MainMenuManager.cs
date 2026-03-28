@@ -62,7 +62,7 @@ public class MainMenuManager : MonoBehaviour
 
     void Start()
     {
-        
+        startingRuleCounter = PlayerPrefs.GetInt("BombStartingRule", 0);
         SelectClassicMode();
         OpenStandartSettings();
         sliderTime.value = PlayerPrefs.GetFloat("TimeValue", 60f) / 10f;
