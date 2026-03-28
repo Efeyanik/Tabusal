@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour
 
             isTeamATurn = !isTeamATurn; // Sýrayý sýradaki takýma geçir
 
-            // ADALET KONTROLÜ: 
+            
             // A takýmý baþladýðý için tam bir döngü B takýmý oynadýktan sonra biter.
             // Yani turu bitiren takým B (finishingTeamWasA == false) ise skorlarý kontrol etmeliyiz!
             if (finishingTeamWasA == false)
@@ -126,8 +126,6 @@ public class GameManager : MonoBehaviour
                     if (scoreA == scoreB) // Ýkisi de hedefi geçmiþ ve puanlar EÞÝT!
                     {
                         endScore += 10; // Hedefi 10 puan ileri atýyoruz (Uzatma)
-                        Debug.Log("BERABERLÝK! Yeni Hedef: " + endScore);
-
                         // Ekraný Uzatma yazýsýyla aç
                         ShowInterRoundPanel("UZATMALAR!\nYeni Hedef: " + endScore, true);
                         return;
@@ -142,8 +140,20 @@ public class GameManager : MonoBehaviour
 
             // Eðer oyun bitmediyse veya A takýmý daha yeni oynadýysa (B'nin oynamasý lazýmsa) normal devam et
             string nextTeam = isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName;
-            Debug.Log("Sýradaki Takým: " + nextTeam);
-            ShowInterRoundPanel(nextTeam, false);
+            string topText = nextTeam;       
+            bool highlightText = false;
+
+            if (isTeamATurn == false && scoreA >= endScore)
+            {
+
+            topText = nextTeam + " (" + endScore + " Puaný Geçmelisin)";
+            highlightText = true; // Yazýyý kýrmýzý/dikkat çekici yapmak için
+
+            }
+
+            // Ekraný göster
+            ShowInterRoundPanel(topText, highlightText);
+        
 
         }
 
@@ -153,20 +163,29 @@ public class GameManager : MonoBehaviour
 
 
 
-    private void ShowInterRoundPanel(string topText, bool isUzatma)
+    private void ShowInterRoundPanel(string topText, bool isHighlight)
     {
-        gamePanel.SetActive(false);
+        gamePanel.SetActive(false); 
         interRoundPanel.SetActive(true);
 
         TextMeshProUGUI txtNextTeam = interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>();
-
         txtNextTeam.text = topText;
 
-        
-        if (isUzatma)
-            txtNextTeam.color = Color.red;
+        GameObject sabitBaslik = interRoundPanel.transform.Find("Txt_Kazanan").gameObject;
+
+
+        if (isHighlight)
+        {
+            txtNextTeam.color = UnityEngine.Color.red;
+            sabitBaslik.GetComponent<TextMeshProUGUI>().text = "<color=#FFE100>SON ÞANS!</color>";
+        }
+
+
         else
-            txtNextTeam.color = Color.white; 
+        {
+            sabitBaslik.GetComponent<TextMeshProUGUI>().text = "SIRADAKÝ TAKIM";
+            txtNextTeam.color = UnityEngine.Color.white;
+        }
 
         interRoundPanel.transform.Find("Txt_InterScoreA").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamAName + ": " + scoreA;
         interRoundPanel.transform.Find("Txt_InterScoreB").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamBName + ": " + scoreB;
