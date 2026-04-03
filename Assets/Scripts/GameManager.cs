@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 using UnityEngine.SceneManagement;
+using Unity.VisualScripting;
 
 
 
@@ -14,10 +15,11 @@ public class GameManager : MonoBehaviour
     public GameObject gamePanel;
     public GameObject endGamePanel;
     public GameObject interRoundPanel;
-    public AudioSource audioSource;
     public AudioClip correctSound;
     public AudioClip errorSound;
-    public AudioSource audioSource2;
+    public AudioClip skipSound;
+    public AudioSource audioSource1;
+    
     public CardSwipeManager cardSwipeManager;
 
 
@@ -244,6 +246,9 @@ public class GameManager : MonoBehaviour
         else
         {
             numberOfSkipsAllowed--;
+            audioSource1.volume = 1f;
+            audioSource1.pitch = 1f;
+            audioSource1.PlayOneShot(skipSound);
             GetNewCard();
             
             
@@ -264,9 +269,9 @@ public class GameManager : MonoBehaviour
             uiManager.UpdateScores();
         }
 
-        
-
-        audioSource.PlayOneShot(correctSound);
+        audioSource1.volume = 1f;
+        audioSource1.pitch = 1.0f; 
+        audioSource1.PlayOneShot(correctSound);
 
         GetNewCard();
     }
@@ -281,7 +286,9 @@ public class GameManager : MonoBehaviour
         {
             uiManager.UpdateScores();
         }
-        audioSource.PlayOneShot(errorSound);
+        audioSource1.volume = 0.5f;
+        audioSource1.pitch = 1.28f; 
+        audioSource1.PlayOneShot(errorSound);
         GetNewCard();
     }
 
