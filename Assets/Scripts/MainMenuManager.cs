@@ -22,11 +22,14 @@ public class MainMenuManager : MonoBehaviour
     public Image imgSettingsBombBtn;
     public AudioClip buttonClickSound;
     public AudioSource audioSource;
+    public GameObject infoPanel;
 
 
     [Header("Renk Ayarlarý")]
     public Color activeColor = new Color(1f, 1f, 1f, 1f);       // Tam opak (Parlak)
     public Color inactiveColor = new Color(0.7f, 0.7f, 0.7f, 0.5f); // Yarý saydam ve biraz gri (Sönük)
+    public Color bombActiveColor = new Color(1f, 0.5f, 0.5f, 1f); // Bomb modunda aktif renk (örneðin kýrmýzýmsý)
+    public Color bombInactiveColor = new Color(0.7f, 0.5f, 0.5f, 0.5f); // Bomb modunda pasif renk (örneðin kýrmýzýmsý ama daha sönük)
 
     [Header("Slider Referanslarý")]
     public Slider sliderTime;
@@ -87,6 +90,9 @@ public class MainMenuManager : MonoBehaviour
         UpdateBombPassText(sliderBombPass.value);
         UpdateBombPointText(sliderBombPoint.value);
         UpdateStartingRuleText(PlayerPrefs.GetInt("BombStartingRule", 0));
+
+        ColorUtility.TryParseHtmlString("#F00017", out bombActiveColor);
+        ColorUtility.TryParseHtmlString("#78010C", out bombInactiveColor);
     }
 
 
@@ -269,13 +275,15 @@ public class MainMenuManager : MonoBehaviour
     }
 
 
+    #region ButtonMethods
 
+    
 
     public void SelectClassicMode()
     {
         GameSettings.SelectedMode = true;
         imgClassicBtn.color = activeColor;
-        imgBombBtn.color = inactiveColor;
+        imgBombBtn.color = bombInactiveColor;
         Debug.Log("Classic Mode Seçildi: " + GameSettings.SelectedMode);
     }
 
@@ -283,7 +291,7 @@ public class MainMenuManager : MonoBehaviour
     {
         GameSettings.SelectedMode = false;
         imgClassicBtn.color = inactiveColor;
-        imgBombBtn.color = activeColor;
+        imgBombBtn.color = bombActiveColor;
         Debug.Log("Bomb Mode Seçildi: " + GameSettings.SelectedMode);
     }
 
@@ -366,4 +374,14 @@ public class MainMenuManager : MonoBehaviour
         audioSource.PlayOneShot(buttonClickSound);
     }
 
+    public void OpenInfoPanel()
+    {
+        infoPanel.SetActive(true);
+    }
+
+    public void CloseInfoPanel()
+    {
+        infoPanel.SetActive(false);
+    }
 }
+    #endregion
