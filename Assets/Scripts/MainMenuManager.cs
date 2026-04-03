@@ -20,7 +20,9 @@ public class MainMenuManager : MonoBehaviour
     public Image imgBombBtn;
     public Image imgSettingsClasicBtn;
     public Image imgSettingsBombBtn;
-    
+    public AudioClip buttonClickSound;
+    public AudioSource audioSource;
+
 
     [Header("Renk Ayarlarý")]
     public Color activeColor = new Color(1f, 1f, 1f, 1f);       // Tam opak (Parlak)
@@ -356,6 +358,12 @@ public class MainMenuManager : MonoBehaviour
 
         PlayerPrefs.SetInt("BombStartingRule", startingRuleCounter);
         PlayerPrefs.Save();
+    }
+
+    public void PlayButtonSound()
+    {
+        audioSource.volume = 0.6f;
+        audioSource.PlayOneShot(buttonClickSound);
     }
 
 }

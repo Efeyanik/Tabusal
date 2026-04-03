@@ -6979,6 +6979,7 @@ MonoBehaviour:
   correctSound: {fileID: 8300000, guid: 8e489c1069aaf1647b9d765eb4022ed9, type: 3}
   errorSound: {fileID: 8300000, guid: 0ad4b0cbe734a4e4d8e34c637357fa93, type: 3}
   skipSound: {fileID: 8300000, guid: e50d47d595e325d4e8d3da6b59b35ae8, type: 3}
+  buttonClickSound: {fileID: 8300000, guid: ca9a3bc0cba46a3449a08e509f33d139, type: 3}
   audioSource1: {fileID: 2046936324}
   cardSwipeManager: {fileID: 2046936322}
   classicDuration: 60

@@ -14,6 +14,11 @@ public class BombModeGameManager : MonoBehaviour
     public CardSwipeManager cardSwipeManager;
     public GameObject InterAnswerPanel;
     public GameObject pausePanel;
+    public AudioSource audioSource;
+    public AudioClip tabooSound;
+    public AudioClip correctSound;
+    public AudioClip skipSound;
+    public AudioClip buttonClickSound;
 
 
 
@@ -119,6 +124,8 @@ public class BombModeGameManager : MonoBehaviour
     {
         isTeamATurn = !isTeamATurn;
         bombNumberOfSkipsAllowed = PlayerPrefs.GetFloat("BombPassValue", 2f);
+        audioSource.volume = .5f;
+        audioSource.PlayOneShot(correctSound);
 
         StartCoroutine(SwitchTeamRoutine());
     }
@@ -169,6 +176,9 @@ public class BombModeGameManager : MonoBehaviour
         }
         else
         {
+            audioSource.volume = 1f;
+            audioSource.pitch = 1f;
+            audioSource.PlayOneShot(skipSound);
             bombNumberOfSkipsAllowed--;
             GetNewCard();
 
@@ -188,7 +198,8 @@ public class BombModeGameManager : MonoBehaviour
         {
             bombModeUIManager.UpdateScores();
         }
-        
+        audioSource.volume = 0.6f;
+        audioSource.PlayOneShot(tabooSound);
         endRound();
     }
 
@@ -350,6 +361,12 @@ public class BombModeGameManager : MonoBehaviour
 
     }
 
- 
+    public void PlayButtonSound()
+    {
+        audioSource.volume = .6f;
+        audioSource.PlayOneShot(buttonClickSound);
+    }
+
+
 
 }

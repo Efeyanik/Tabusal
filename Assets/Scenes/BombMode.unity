@@ -3225,6 +3225,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 2049993646}
+        m_TargetAssemblyTypeName: BombModeGameManager, Assembly-CSharp
+        m_MethodName: PlayButtonSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &999074878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5605,6 +5617,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 2049993646}
+        m_TargetAssemblyTypeName: BombModeGameManager, Assembly-CSharp
+        m_MethodName: PlayButtonSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1522407563
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6886,6 +6910,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 2049993646}
+        m_TargetAssemblyTypeName: BombModeGameManager, Assembly-CSharp
+        m_MethodName: PlayButtonSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1860639153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7660,10 +7696,11 @@ MonoBehaviour:
   gamePanel: {fileID: 574773216}
   endGamePanel: {fileID: 135423026}
   interRoundPanel: {fileID: 232447108}
-  audioSource: {fileID: 1189109586}
   correctSound: {fileID: 8300000, guid: 619dd1510ae06224b9dc32fa6b72934f, type: 3}
   errorSound: {fileID: 8300000, guid: ef25d758e620946499126c75acfd45b2, type: 3}
-  audioSource2: {fileID: 887684335}
+  skipSound: {fileID: 0}
+  buttonClickSound: {fileID: 0}
+  audioSource1: {fileID: 0}
   cardSwipeManager: {fileID: 2046936322}
   classicDuration: 60
   tabooScore: 2
@@ -7743,6 +7780,7 @@ GameObject:
   - component: {fileID: 2049993644}
   - component: {fileID: 2049993643}
   - component: {fileID: 2049993648}
+  - component: {fileID: 2049993649}
   m_Layer: 0
   m_Name: _BombModeGameManager
   m_TagString: Untagged
@@ -7831,6 +7869,11 @@ MonoBehaviour:
   cardSwipeManager: {fileID: 2049993644}
   InterAnswerPanel: {fileID: 1894803399}
   pausePanel: {fileID: 5891371584435002865}
+  audioSource: {fileID: 2049993649}
+  tabooSound: {fileID: 8300000, guid: 486c07fcea373ed42b23ae309257f6b9, type: 3}
+  correctSound: {fileID: 8300000, guid: 1aeb67c3702cc6b48abfa7fbfd997729, type: 3}
+  skipSound: {fileID: 8300000, guid: e50d47d595e325d4e8d3da6b59b35ae8, type: 3}
+  buttonClickSound: {fileID: 8300000, guid: ca9a3bc0cba46a3449a08e509f33d139, type: 3}
   bombDurationRange: {x: 0, y: 0}
   bombNumberOfSkipsAllowed: 2
   bombEndScore: 5
@@ -7874,6 +7917,103 @@ MonoBehaviour:
   GameManager: {fileID: 0}
   BombModeGameManager: {fileID: 2049993646}
   pausePanel: {fileID: 5891371584435002865}
+--- !u!82 &2049993649
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2049993642}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &2087001206
 GameObject:
   m_ObjectHideFlags: 0
@@ -8945,6 +9085,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 2049993646}
+        m_TargetAssemblyTypeName: BombModeGameManager, Assembly-CSharp
+        m_MethodName: PlayButtonSound
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &5534611552893253855
 GameObject:
   m_ObjectHideFlags: 0
@@ -9076,6 +9228,18 @@ MonoBehaviour:
       - m_Target: {fileID: 2049993648}
         m_TargetAssemblyTypeName: PauseManager, Assembly-CSharp
         m_MethodName: closePausePanel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2049993646}
+        m_TargetAssemblyTypeName: BombModeGameManager, Assembly-CSharp
+        m_MethodName: PlayButtonSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -9581,6 +9745,18 @@ MonoBehaviour:
       - m_Target: {fileID: 2049993648}
         m_TargetAssemblyTypeName: PauseManager, Assembly-CSharp
         m_MethodName: openPausePanel
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 2049993646}
+        m_TargetAssemblyTypeName: BombModeGameManager, Assembly-CSharp
+        m_MethodName: PlayButtonSound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

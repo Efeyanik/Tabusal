@@ -1,10 +1,11 @@
 using System.Collections.Generic;
 using TMPro;
-using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.UIElements;
-using UnityEngine.SceneManagement;
 using Unity.VisualScripting;
+using UnityEngine;
+using UnityEngine.Audio;
+using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
+using UnityEngine.UIElements;
 
 
 
@@ -18,6 +19,7 @@ public class GameManager : MonoBehaviour
     public AudioClip correctSound;
     public AudioClip errorSound;
     public AudioClip skipSound;
+    public AudioClip buttonClickSound;
     public AudioSource audioSource1;
     
     public CardSwipeManager cardSwipeManager;
@@ -324,11 +326,15 @@ public class GameManager : MonoBehaviour
         GameSettings.TeamBName ="B Takýmý";    
         UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");  
         
-    } 
+    }
 
     #endregion
 
 
-
+    public void PlayButtonSound()
+    {
+        audioSource1.volume = .6f;
+        audioSource1.PlayOneShot(buttonClickSound);
+    }
 
 }
