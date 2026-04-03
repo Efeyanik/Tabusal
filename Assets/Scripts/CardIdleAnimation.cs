@@ -34,18 +34,7 @@ public class CardIdleAnimation : MonoBehaviour
 
 
 
-        if (isBombMode)
-        {
-            
-            if (cardImage != null)
-            {
-                
-                cardImage.DOColor(targetColor, colorDuration)
-                    .SetLoops(-1, LoopType.Yoyo)
-                    .SetEase(Ease.InOutSine)
-                    .SetLink(gameObject);
-            }
-        }
+       
 
 
     }

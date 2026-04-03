@@ -41,7 +41,7 @@ public class CardSwipeManager : MonoBehaviour
 
 
 
-            // 2. [SİHİRBAZLIK NUMARASI]: Ön kartın yazısını, arka kartın (zaten oyuncunun gördüğü) yazısıyla aynı yap!
+            //Ön kartın yazısını, arka kartın (zaten oyuncunun gördüğü) yazısıyla aynı yap!
             frontWordText.text = backWordText.text;
             forbidden0Text.text = backForbidden0Text.text;
             forbidden1Text.text = backForbidden1Text.text;
@@ -50,11 +50,11 @@ public class CardSwipeManager : MonoBehaviour
             forbidden4Text.text = backForbidden4Text.text;  
 
             // 3. Ön kartı çaktırmadan tekrar merkeze (X=0) ışınla ve %100 görünür yap
-            // Oyuncu, arka kartı görmeye devam eder ama aslında biz ön kartı onun üstüne geri koyduk. Değişimi asla fark etmeyecek.
+            // Oyuncu, arka kartı görmeye devam eder ama aslında biz ön kartı onun üstüne geri koyduk. Değişimi fark etmeyecek.
             cardFrontRect.anchoredPosition = new Vector2(0f, cardFrontRect.anchoredPosition.y);
             cardFrontCanvasGroup.alpha = 1f;
 
-            // --- BUNDAN SONRA ---
+            
             
         });
     }
