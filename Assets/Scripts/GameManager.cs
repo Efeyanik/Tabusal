@@ -150,7 +150,7 @@ public class GameManager : MonoBehaviour
             if (isTeamATurn == false && scoreA >= endScore)
             {
 
-            topText = nextTeam + " (" + endScore + " Puaný Geçmelisin)";
+            topText = nextTeam + " (" + scoreA + " Puaný Geçmelisin)";
             highlightText = true; // Yazýyý kýrmýzý/dikkat çekici yapmak için
 
             }
