@@ -94,6 +94,8 @@ public class BombModeGameManager : MonoBehaviour
             if (!isTeamATurn)
                 bombScoreA += 1;
 
+            audioSource.volume = 0.6f;
+            audioSource.PlayOneShot(tabooSound);
             endRound();
         }
 
