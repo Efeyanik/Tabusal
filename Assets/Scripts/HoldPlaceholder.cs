@@ -29,4 +29,6 @@ public class HidePlaceholder : MonoBehaviour, ISelectHandler, IDeselectHandler
             inputField.placeholder.gameObject.SetActive(true);
         }
     }
+
+    
 }

@@ -4,16 +4,18 @@ using UnityEngine;
 public class DataManager : MonoBehaviour
 {
     public List<WordCard> allCards;
-    
+    public string currentLanguage = "en";
+
     void Awake()
     {
-        LoadCards();
+        currentLanguage = PlayerPrefs.GetString("SelectedLanguage", "en");
+        LoadCards(currentLanguage);
     }
 
-    void LoadCards()
+    void LoadCards(string langCode)
     {
         // 1. Resources klasöründeki "cards_tr" isimli dosyayý TextAsset olarak yükle
-        TextAsset jsonFile = Resources.Load<TextAsset>("cards_tr");
+        TextAsset jsonFile = Resources.Load<TextAsset>("cards_"+langCode);
 
         if (jsonFile != null)
         {
@@ -35,6 +37,14 @@ public class DataManager : MonoBehaviour
         {
             Debug.LogError("JSON dosyasý bulunamadý! Ýsmi 'cards_tr' mi? Resources klasöründe mi?");
         }
+    }
+
+
+    public void ChangeLanguage(string newLang)
+    {
+        currentLanguage = newLang;
+        PlayerPrefs.SetString("SelectedLanguage", newLang);
+        LoadCards(newLang);
     }
 }
 

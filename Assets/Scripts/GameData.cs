@@ -7,6 +7,7 @@ public class WordCard
 {
     public string word;             // Ana kelime (Örn: Futbol)
     public List<string> forbidden;  // Yasaklý kelimeler listesi
+    
 }
 
 [System.Serializable]

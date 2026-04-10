@@ -23,6 +23,7 @@ public class MainMenuManager : MonoBehaviour
     public AudioClip buttonClickSound;
     public AudioSource audioSource;
     public GameObject infoPanel;
+    
 
 
     [Header("Renk Ayarlarý")]
@@ -93,6 +94,8 @@ public class MainMenuManager : MonoBehaviour
 
         ColorUtility.TryParseHtmlString("#F00017", out bombActiveColor);
         ColorUtility.TryParseHtmlString("#78010C", out bombInactiveColor);
+
+        RefreshLocalizedDynamicTexts();
     }
 
 
@@ -127,53 +130,50 @@ public class MainMenuManager : MonoBehaviour
 
     #region Update method'S
 
-    
+
 
     public void UpdateTimeText(float deger)
     {
         float gercekSure = deger * 10f;
-        txtTime.text = "Süre : " + gercekSure.ToString();
+        txtTime.text = LocalizationManager.Instance.GetText("SET_TIME") + " : " + gercekSure;
     }
 
-    
     public void UpdatePassText(float deger)
     {
-        txtPass.text = "Pas Hakký : " + deger.ToString();
+        txtPass.text = LocalizationManager.Instance.GetText("SET_PASS") + " : " + deger;
     }
 
-    
     public void UpdateTabuText(float deger)
     {
-        txtTabu.text = "Tabu Cezasý : " + deger.ToString();
+        txtTabu.text = LocalizationManager.Instance.GetText("SET_TABU") + " : " + deger;
     }
 
-    
     public void UpdatePointText(float deger)
     {
         float gercekPuan = deger * 10f;
-        txtPoint.text = "Hedef Puan : " + gercekPuan.ToString();
+        txtPoint.text = LocalizationManager.Instance.GetText("SET_POINT") + " : " + gercekPuan;
     }
 
     public void UpdateBombTimeMinText(float deger)
     {
         float gercekSure = deger * 10f;
-        txtBombTimeMin.text = "Minimum Süre : " + gercekSure.ToString();
+        txtBombTimeMin.text = LocalizationManager.Instance.GetText("SET_BOMB_MIN_TIME") + " : " + gercekSure;
     }
 
     public void UpdateBombTimeMaxText(float deger)
     {
         float gercekSure = deger * 10f;
-        txtBombTimeMax.text = "Maksimum Süre : " + gercekSure.ToString();
+        txtBombTimeMax.text = LocalizationManager.Instance.GetText("SET_BOMB_MAX_TIME") + " : " + gercekSure;
     }
 
     public void UpdateBombPassText(float deger)
     {
-        txtBombPass.text = "Pas Hakký : " + deger.ToString();
+        txtBombPass.text = LocalizationManager.Instance.GetText("SET_BOMB_PASS") + " : " + deger;
     }
 
     public void UpdateBombPointText(float deger)
     {
-        txtBombPoint.text = "Hedef Puan : " + deger.ToString();
+        txtBombPoint.text = LocalizationManager.Instance.GetText("SET_BOMB_POINT") + " : " + deger;
     }
 
     public void UpdateStartingRuleText(int deger)
@@ -181,23 +181,23 @@ public class MainMenuManager : MonoBehaviour
         
         if (deger == 0)
         {
-            txtDescription.text = "<color=#FFE100>Sýralý Baþlangýç:</color> Her turda farklý bir takým baþlar. (A-B-A-B)\nÝlk turda A takýmý baþlar.";
-            txtStartingRule.text = "Sýralý Baþlangýç";
+            txtDescription.text = LocalizationManager.Instance.GetText("RULE_SEQ_DESC");
+            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_SEQ_NAME");
         }
         else if (deger == 1)
         {
-            txtDescription.text = "<color=#FFE100>Rastgele:</color> Her turda kimin baþlayacaðý tamamen rastgele belirlenir.";
-            txtStartingRule.text = "Rastgele";
+            txtDescription.text = LocalizationManager.Instance.GetText("RULE_RAND_DESC");
+            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_RAND_NAME");
         }
         else if (deger == 2)
         {
-            txtDescription.text = "<color=#FFE100>Kaybeden Baþlar:</color> Bombanýn patladýðý takým bir sonraki tura baþlar.\nÝlk turda ise rastgele belirlenir.";
-            txtStartingRule.text = "Kaybeden Baþlar";
+            txtDescription.text = LocalizationManager.Instance.GetText("RULE_LOSER_DESC");
+            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_LOSER_NAME");
         }
         else if (deger == 3)
         {
-            txtDescription.text = "<color=#FFE100>Rekabetçi:</color> Puaný geride olan takým baþlar. Beraberlik durumunda ise rastgele belirlenir.";
-            txtStartingRule.text = "Rekabetçi";
+            txtDescription.text = LocalizationManager.Instance.GetText("RULE_COMP_DESC");
+            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_COMP_NAME");
         }
     }
 
@@ -383,5 +383,22 @@ public class MainMenuManager : MonoBehaviour
     {
         infoPanel.SetActive(false);
     }
-}
+
     #endregion
+    public void RefreshLocalizedDynamicTexts()
+    {
+        UpdateTimeText(sliderTime.value);
+        UpdatePassText(sliderPass.value);
+        UpdateTabuText(sliderTabu.value);
+        UpdatePointText(sliderPoint.value);
+
+        UpdateBombTimeMinText(sliderBombTimeMin.value);
+        UpdateBombTimeMaxText(sliderBombTimeMax.value);
+        UpdateBombPassText(sliderBombPass.value);
+        UpdateBombPointText(sliderBombPoint.value);
+
+        UpdateStartingRuleText(startingRuleCounter);
+    }
+
+
+}
