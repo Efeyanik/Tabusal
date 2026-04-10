@@ -46,6 +46,18 @@ public class GameManager : MonoBehaviour
 
     private List<WordCard> playList;
 
+    void OnEnable()
+    {
+        if (LocalizationManager.Instance != null)
+            LocalizationManager.Instance.OnLanguageChanged += RefreshLocalizedPanelTexts;
+    }
+
+    void OnDisable()
+    {
+        if (LocalizationManager.Instance != null)
+            LocalizationManager.Instance.OnLanguageChanged -= RefreshLocalizedPanelTexts;
+    }
+
     void Start()
     {
         classicDuration = PlayerPrefs.GetFloat("TimeValue", 60f);
@@ -74,6 +86,7 @@ public class GameManager : MonoBehaviour
 
         playList = new List<WordCard>(dataManager.allCards);
         Debug.Log("Maç Baþlýyor: " + GameSettings.TeamAName + " vs " + GameSettings.TeamBName);
+        RefreshLocalizedPanelTexts();
         StartNewRound();
     }
 
@@ -181,13 +194,17 @@ public class GameManager : MonoBehaviour
         if (isHighlight)
         {
             txtNextTeam.color = UnityEngine.Color.red;
-            sabitBaslik.GetComponent<TextMeshProUGUI>().text = "<color=#FFE100>SON ÞANS!</color>";
+            sabitBaslik.GetComponent<TextMeshProUGUI>().text = LocalizationManager.Instance != null
+                ? LocalizationManager.Instance.GetText("UI_LAST_CHANCE")
+                : "<color=#FFE100>SON ÞANS!</color>";
         }
 
 
         else
         {
-            sabitBaslik.GetComponent<TextMeshProUGUI>().text = "SIRADAKÝ TAKIM";
+            sabitBaslik.GetComponent<TextMeshProUGUI>().text = LocalizationManager.Instance != null
+                ? LocalizationManager.Instance.GetText("UI_NEXT_TEAM")
+                : "SIRADAKÝ TAKIM";
             txtNextTeam.color = UnityEngine.Color.white;
         }
 
@@ -303,7 +320,38 @@ public class GameManager : MonoBehaviour
         isGameActive = false;
         gamePanel.SetActive(false);
         endGamePanel.SetActive(true);
+        RefreshLocalizedPanelTexts();
         endGamePanel.transform.Find("Txt_Winner").GetComponent<TextMeshProUGUI>().text = (scoreA > scoreB) ? GameSettings.TeamAName : GameSettings.TeamBName;
+    }
+
+    private void RefreshLocalizedPanelTexts()
+    {
+        if (LocalizationManager.Instance == null) return;
+
+        SetTextIfFound(interRoundPanel, "UI_NEXT_TEAM", "Txt_Kazanan");
+        SetTextIfFound(endGamePanel, "TXT_WINNER", "Txt_Kazanan", "Txt_WinnerTitle", "Txt_Title");
+        SetTextIfFound(endGamePanel, "BTN_BACK", "Btn_MainMenu/Txt_MainMenu", "Btn_MainMenu/Text (TMP)", "Btn_MainMenu/Text", "Btn_Anamenu/Txt_MainMenu", "Btn_Anamenu/Text (TMP)", "Btn_Anamenu/Text");
+        SetTextIfFound(endGamePanel, "BTN_RESTART", "Btn_RestartGame/Txt_RestartGame", "Btn_RestartGame/Text (TMP)", "Btn_RestartGame/Text", "Btn_Restart/Txt_Restart", "Btn_Restart/Text (TMP)", "Btn_Restart/Text");
+    }
+
+    private void SetTextIfFound(GameObject panel, string key, params string[] paths)
+    {
+        if (panel == null || LocalizationManager.Instance == null) return;
+
+        string value = LocalizationManager.Instance.GetText(key);
+        for (int i = 0; i < paths.Length; i++)
+        {
+            Transform t = panel.transform.Find(paths[i]);
+            if (t != null)
+            {
+                TextMeshProUGUI txt = t.GetComponent<TextMeshProUGUI>();
+                if (txt != null)
+                {
+                    txt.text = value;
+                    return;
+                }
+            }
+        }
     }
 
     public void RestartGame()
@@ -321,9 +369,12 @@ public class GameManager : MonoBehaviour
 
     public void MainMenu()
     {
-
-        GameSettings.TeamAName = "A Takýmý";
-        GameSettings.TeamBName ="B Takýmý";    
+        GameSettings.TeamAName = LocalizationManager.Instance != null
+            ? LocalizationManager.Instance.GetText("TXT_TEAM_A")
+            : "Team A";
+        GameSettings.TeamBName = LocalizationManager.Instance != null
+            ? LocalizationManager.Instance.GetText("TXT_TEAM_B")
+            : "Team B";
         UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");  
         
     }

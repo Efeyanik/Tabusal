@@ -14,46 +14,52 @@ public class PreRoundManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void OnEnable()
     {
-        // İki mod için de geçrli
-        if (GameSettings.IsTeamAStartingFirst)
-        {
-            starterTeam.text = GameSettings.TeamAName;
-        }
-        else
-        {
-            starterTeam.text = GameSettings.TeamBName;
-        }
+        if (LocalizationManager.Instance != null)
+            LocalizationManager.Instance.OnLanguageChanged += RefreshTexts;
 
-        // klasik mod
-        if (GameSettings.SelectedMode == true) 
+        RefreshTexts();
+    }
+
+    void OnDisable()
+    {
+        if (LocalizationManager.Instance != null)
+            LocalizationManager.Instance.OnLanguageChanged -= RefreshTexts;
+    }
+
+    private void RefreshTexts()
+    {
+        string setTime = LocalizationManager.Instance != null ? LocalizationManager.Instance.GetText("SET_TIME") : "Süre";
+        string setPass = LocalizationManager.Instance != null ? LocalizationManager.Instance.GetText("SET_PASS") : "Pas Hakkı";
+        string setTabu = LocalizationManager.Instance != null ? LocalizationManager.Instance.GetText("SET_TABU") : "Tabu Cezası";
+        string setPoint = LocalizationManager.Instance != null ? LocalizationManager.Instance.GetText("SET_POINT") : "Hedef Puan";
+
+        starterTeam.text = GameSettings.IsTeamAStartingFirst ? GameSettings.TeamAName : GameSettings.TeamBName;
+
+        if (GameSettings.SelectedMode == true)
         {
             float timeValue = PlayerPrefs.GetFloat("TimeValue", 60f);
             float passValue = PlayerPrefs.GetFloat("PassValue", 3f);
             float tabuValue = PlayerPrefs.GetFloat("TabuValue", 3f);
             float pointValue = PlayerPrefs.GetFloat("PointValue", 30f);
 
-            txt_preRoundTime.text = "Süre : " + timeValue.ToString();
-            txt_preRoundPass.text = "Pas Hakkı : " + passValue.ToString();
-            txt_preRoundTabu.text = "Tabu Cezası : " + tabuValue.ToString();
-            txt_preRoundPoint.text = "Hedef Puan : " + pointValue.ToString();
+            txt_preRoundTime.text = setTime + " : " + timeValue;
+            txt_preRoundPass.text = setPass + " : " + passValue;
+            txt_preRoundTabu.text = setTabu + " : " + tabuValue;
+            txt_preRoundPoint.text = setPoint + " : " + pointValue;
 
-            // Klasik modda tabu yazısı görünür olmalı
             txt_preRoundTabu.gameObject.SetActive(true);
         }
-        else //bomba modu
+        else
         {
-            
             float minTime = PlayerPrefs.GetFloat("BombTimeMinValue", 30f);
             float maxTime = PlayerPrefs.GetFloat("BombTimeMaxValue", 90f);
             float passValue = PlayerPrefs.GetFloat("BombPassValue", 2f);
             float pointValue = PlayerPrefs.GetFloat("BombPointValue", 5f);
 
-            // Süreyi "30 - 90" şeklinde aralık olarak gösteriyoruz
-            txt_preRoundTime.text = "Süre : " + minTime.ToString() + " - " + maxTime.ToString();
-            txt_preRoundPass.text = "Pas Hakkı : " + passValue.ToString();
-            txt_preRoundPoint.text = "Hedef Puan : " + pointValue.ToString();
+            txt_preRoundTime.text = setTime + " : " + minTime + " - " + maxTime;
+            txt_preRoundPass.text = setPass + " : " + passValue;
+            txt_preRoundPoint.text = setPoint + " : " + pointValue;
 
-            // Bomba modunda Tabu Cezası slider'ı olmadığı için bu yazıyı gizliyoruz
             txt_preRoundTabu.gameObject.SetActive(false);
         }
     }

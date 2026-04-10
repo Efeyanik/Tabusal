@@ -6944,6 +6944,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DataManager
   allCards: []
+  currentLanguage: en
 --- !u!4 &2046936319
 Transform:
   m_ObjectHideFlags: 0
@@ -7017,6 +7018,9 @@ MonoBehaviour:
   txtScoreA: {fileID: 611328460}
   txtScoreB: {fileID: 1546119304}
   txtnumberOfSkipsAllowed: {fileID: 641586846}
+  txtBtnCorrect: {fileID: 288613838}
+  txtBtnTaboo: {fileID: 1466453339}
+  txtBtnPass: {fileID: 1408749647}
   teamAName: "A Tak\u0131m\u0131"
   teamBName: "B Tak\u0131m\u0131"
 --- !u!114 &2046936322
@@ -7061,6 +7065,8 @@ MonoBehaviour:
   GameManager: {fileID: 2046936320}
   BombModeGameManager: {fileID: 0}
   pausePanel: {fileID: 6610848502545094098}
+  txtPausedTitle: {fileID: 538806660100859820}
+  txtMainMenuButton: {fileID: 6170256593562707945}
 --- !u!82 &2046936324
 AudioSource:
   m_ObjectHideFlags: 0

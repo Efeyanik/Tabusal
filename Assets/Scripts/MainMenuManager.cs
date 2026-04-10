@@ -68,6 +68,8 @@ public class MainMenuManager : MonoBehaviour
 
     void Start()
     {
+        ApplyDefaultTeamNamesByLanguage();
+
         startingRuleCounter = PlayerPrefs.GetInt("BombStartingRule", 0);
         SelectClassicMode();
         OpenStandartSettings();
@@ -243,9 +245,13 @@ public class MainMenuManager : MonoBehaviour
         // 1. Ýsimleri Kaydet (Boþsa varsayýlan kalsýn)
         if (!string.IsNullOrEmpty(inputTeamA.text))
             GameSettings.TeamAName = inputTeamA.text;
+        else
+            GameSettings.TeamAName = GetDefaultTeamAName();
 
         if (!string.IsNullOrEmpty(inputTeamB.text))
             GameSettings.TeamBName = inputTeamB.text;
+        else
+            GameSettings.TeamBName = GetDefaultTeamBName();
 
         
         if (GameSettings.SelectedMode == false) // EÐER BOMBA MODUYSA
@@ -398,6 +404,38 @@ public class MainMenuManager : MonoBehaviour
         UpdateBombPointText(sliderBombPoint.value);
 
         UpdateStartingRuleText(startingRuleCounter);
+        UpdateTeamInputPlaceholders();
+    }
+
+    private void UpdateTeamInputPlaceholders()
+    {
+        if (LocalizationManager.Instance == null) return;
+
+        if (inputTeamA != null && inputTeamA.placeholder is TMP_Text placeholderA)
+            placeholderA.text = LocalizationManager.Instance.GetText("PH_TEAM_A");
+
+        if (inputTeamB != null && inputTeamB.placeholder is TMP_Text placeholderB)
+            placeholderB.text = LocalizationManager.Instance.GetText("PH_TEAM_B");
+    }
+
+    private void ApplyDefaultTeamNamesByLanguage()
+    {
+        GameSettings.TeamAName = GetDefaultTeamAName();
+        GameSettings.TeamBName = GetDefaultTeamBName();
+    }
+
+    private string GetDefaultTeamAName()
+    {
+        return LocalizationManager.Instance != null
+            ? LocalizationManager.Instance.GetText("TXT_TEAM_A")
+            : "Team A";
+    }
+
+    private string GetDefaultTeamBName()
+    {
+        return LocalizationManager.Instance != null
+            ? LocalizationManager.Instance.GetText("TXT_TEAM_B")
+            : "Team B";
     }
 
 

@@ -46,6 +46,18 @@ public class BombModeGameManager : MonoBehaviour
 
     private List<WordCard> playList;
 
+    void OnEnable()
+    {
+        if (LocalizationManager.Instance != null)
+            LocalizationManager.Instance.OnLanguageChanged += RefreshLocalizedPanelTexts;
+    }
+
+    void OnDisable()
+    {
+        if (LocalizationManager.Instance != null)
+            LocalizationManager.Instance.OnLanguageChanged -= RefreshLocalizedPanelTexts;
+    }
+
 
 
     void Start()
@@ -75,6 +87,7 @@ public class BombModeGameManager : MonoBehaviour
 
         playList = new List<WordCard>(dataManager.allCards);
         Debug.Log("Maç Başlıyor: " + GameSettings.TeamAName + " vs " + GameSettings.TeamBName);
+        RefreshLocalizedPanelTexts();
         StartNewBombRound();
 
     }
@@ -142,6 +155,7 @@ public class BombModeGameManager : MonoBehaviour
         
         string nextTeam = isTeamATurn ? GameSettings.TeamAName : GameSettings.TeamBName;
         InterAnswerPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text = nextTeam;
+        SetTextIfFound(InterAnswerPanel, "TXT_INTERANSWER_NEXTTEAM", "Txt_InterAnswerNextTeam", "Txt_Kazanan", "Txt_Title");
 
         
         TextMeshProUGUI txtTimer = InterAnswerPanel.transform.Find("Txt_Timer").GetComponent<TextMeshProUGUI>();
@@ -277,6 +291,7 @@ public class BombModeGameManager : MonoBehaviour
 
 
             interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text = nextTeam;
+            SetTextIfFound(interRoundPanel, "UI_NEXT_TEAM", "Txt_Kazanan", "Txt_Title");
             interRoundPanel.transform.Find("Txt_InterScoreA").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamAName + ": " + bombScoreA;
             interRoundPanel.transform.Find("Txt_InterScoreB").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamBName + ": " + bombScoreB;
         }
@@ -299,6 +314,7 @@ public class BombModeGameManager : MonoBehaviour
         gamePanel.SetActive(false);
         interRoundPanel.SetActive(false);
         endGamePanel.SetActive(true);
+        RefreshLocalizedPanelTexts();
         string winner = bombScoreA > bombScoreB ? GameSettings.TeamAName : GameSettings.TeamBName;
         endGamePanel.transform.Find("Txt_Winner").GetComponent<TextMeshProUGUI>().text = winner;
        
@@ -319,9 +335,12 @@ public class BombModeGameManager : MonoBehaviour
 
     public void MainMenu()
     {
-
-        GameSettings.TeamAName = "A Takımı";
-        GameSettings.TeamBName = "B Takımı";
+        GameSettings.TeamAName = LocalizationManager.Instance != null
+            ? LocalizationManager.Instance.GetText("TXT_TEAM_A")
+            : "Team A";
+        GameSettings.TeamBName = LocalizationManager.Instance != null
+            ? LocalizationManager.Instance.GetText("TXT_TEAM_B")
+            : "Team B";
         UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
 
     }
@@ -367,6 +386,37 @@ public class BombModeGameManager : MonoBehaviour
     {
         audioSource.volume = .6f;
         audioSource.PlayOneShot(buttonClickSound);
+    }
+
+    private void RefreshLocalizedPanelTexts()
+    {
+        if (LocalizationManager.Instance == null) return;
+
+        SetTextIfFound(interRoundPanel, "UI_NEXT_TEAM", "Txt_Kazanan", "Txt_Title");
+        SetTextIfFound(InterAnswerPanel, "TXT_INTERANSWER_NEXTTEAM", "Txt_InterAnswerNextTeam", "Txt_Kazanan", "Txt_Title");
+        SetTextIfFound(endGamePanel, "TXT_WINNER", "Txt_Kazanan", "Txt_WinnerTitle", "Txt_Title");
+        SetTextIfFound(endGamePanel, "BTN_BACK", "Btn_MainMenu/Txt_MainMenu", "Btn_MainMenu/Text (TMP)", "Btn_MainMenu/Text", "Btn_Anamenu/Txt_MainMenu", "Btn_Anamenu/Text (TMP)", "Btn_Anamenu/Text");
+        SetTextIfFound(endGamePanel, "BTN_RESTART", "Btn_RestartGame/Txt_RestartGame", "Btn_RestartGame/Text (TMP)", "Btn_RestartGame/Text", "Btn_Restart/Txt_Restart", "Btn_Restart/Text (TMP)", "Btn_Restart/Text");
+    }
+
+    private void SetTextIfFound(GameObject panel, string key, params string[] paths)
+    {
+        if (panel == null || LocalizationManager.Instance == null) return;
+
+        string value = LocalizationManager.Instance.GetText(key);
+        for (int i = 0; i < paths.Length; i++)
+        {
+            Transform t = panel.transform.Find(paths[i]);
+            if (t != null)
+            {
+                TextMeshProUGUI txt = t.GetComponent<TextMeshProUGUI>();
+                if (txt != null)
+                {
+                    txt.text = value;
+                    return;
+                }
+            }
+        }
     }
 
 

@@ -8,6 +8,7 @@ public class LocalizationManager : MonoBehaviour
     public static LocalizationManager Instance;
 
     public event Action OnLanguageChanged;
+    public string CurrentLanguageCode { get; private set; } = "en";
 
     private Dictionary<string, string> currentDictionary;
 
@@ -15,6 +16,10 @@ public class LocalizationManager : MonoBehaviour
     private Dictionary<string, string> dictTR = new Dictionary<string, string>()
     {   //anamenu
         { "BTN_PLAY", "OYNA" },
+        { "BTN_RESTART", "TEKRAR OYNA" },
+        { "BTN_TRUE", "DOĞRU" },
+        { "BTN_TABOO", "TABU" },
+        { "BTN_PASS", "PAS" },
         { "TXT_STANDARD_MODE", "Standart Mod" },
         { "TXT_BOMB_MODE", "Bomba Modu" },
         { "BTN_CHANGELANGUAGE","DİLİ DEĞİŞTİR"  },
@@ -39,6 +44,8 @@ public class LocalizationManager : MonoBehaviour
         // --- OYUN ÖNCESİ (PreRoundPanel) ---
         { "BTN_START", "BAŞLA" },
         { "TXT_STARTER", "BAŞLAYACAK TAKIM" },
+        { "PH_TEAM_A", "A Takımı" },
+        { "PH_TEAM_B", "B Takımı" },
 
 
 
@@ -73,13 +80,21 @@ public class LocalizationManager : MonoBehaviour
         { "UI_EXTRA_TIME", "UZATMALAR!\nYeni Hedef: " },
         { "UI_MUST_PASS", " Puanı Geçmelisin)" },
         { "UI_LAST_CHANCE", "<color=#FFE100>SON ŞANS!</color>" },
-        { "UI_NEXT_TEAM", "SIRADAKİ TAKIM" }
+        { "UI_NEXT_TEAM", "SIRADAKİ TAKIM" },
+        { "TXT_INTERANSWER_NEXTTEAM", "SIRADAKİ TAKIM" },
+        { "TXT_WINNER", "KAZANAN" },
+        { "UI_SKIPS_ALLOWED", "Pas Hakkı" },
+        { "TXT_PAUSED", "DURAKLATILDI" }
     };
 
 
     private Dictionary<string, string> dictEN = new Dictionary<string, string>()
     {   //anamenu
         { "BTN_PLAY", "PLAY" },
+        { "BTN_RESTART", "RESTART" },
+        { "BTN_TRUE", "TRUE" },
+        { "BTN_TABOO", "TABOO" },
+        { "BTN_PASS", "PASS" },
         { "TXT_STANDARD_MODE", "Standard Mode" },
         { "TXT_BOMB_MODE", "Bomb Mode" },
         { "BTN_CHANGELANGUAGE","CHANGE LANGUAGE" },
@@ -104,6 +119,8 @@ public class LocalizationManager : MonoBehaviour
         // --- OYUN ÖNCESİ ---
         { "BTN_START", "START" },
         { "TXT_STARTER", "STARTING TEAM" },
+        { "PH_TEAM_A", "Team A" },
+        { "PH_TEAM_B", "Team B" },
 
 
         //GAMERULES
@@ -138,7 +155,11 @@ public class LocalizationManager : MonoBehaviour
         { "UI_EXTRA_TIME", "OVERTIME!\nNew Target: " },
         { "UI_MUST_PASS", " Points to Win)" },
         { "UI_LAST_CHANCE", "<color=#FFE100>LAST CHANCE!</color>" },
-        { "UI_NEXT_TEAM", "NEXT TEAM" }
+        { "UI_NEXT_TEAM", "NEXT TEAM" },
+        { "TXT_INTERANSWER_NEXTTEAM", "Next Team" },
+        { "TXT_WINNER", "WINNER" },
+        { "UI_SKIPS_ALLOWED", "Skips Allowed" },
+        { "TXT_PAUSED", "PAUSED" }
     };
 
     void Awake()
@@ -154,7 +175,11 @@ public class LocalizationManager : MonoBehaviour
     // Seçilen dile göre sözlüğü değiştirir
     public void SetLanguage(string langCode)
     {
-        currentDictionary = (langCode == "tr") ? dictTR : dictEN;
+        string normalized = string.IsNullOrWhiteSpace(langCode) ? "en" : langCode.Trim().ToLowerInvariant();
+        CurrentLanguageCode = (normalized == "tr") ? "tr" : "en";
+        currentDictionary = (CurrentLanguageCode == "tr") ? dictTR : dictEN;
+        PlayerPrefs.SetString("SelectedLanguage", CurrentLanguageCode);
+        PlayerPrefs.Save();
         OnLanguageChanged?.Invoke();
     }
 

@@ -7664,6 +7664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DataManager
   allCards: []
+  currentLanguage: en
 --- !u!4 &2046936319
 Transform:
   m_ObjectHideFlags: 0
@@ -7737,6 +7738,9 @@ MonoBehaviour:
   txtScoreA: {fileID: 611328460}
   txtScoreB: {fileID: 1546119304}
   txtnumberOfSkipsAllowed: {fileID: 641586846}
+  txtBtnCorrect: {fileID: 0}
+  txtBtnTaboo: {fileID: 0}
+  txtBtnPass: {fileID: 0}
   teamAName: "A Tak\u0131m\u0131"
   teamBName: "B Tak\u0131m\u0131"
 --- !u!114 &2046936322
@@ -7801,6 +7805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DataManager
   allCards: []
+  currentLanguage: en
 --- !u!114 &2049993644
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7847,6 +7852,9 @@ MonoBehaviour:
   txtScoreA: {fileID: 611328460}
   txtScoreB: {fileID: 1546119304}
   txtnumberOfSkipsAllowed: {fileID: 641586846}
+  txtBtnCorrect: {fileID: 288613838}
+  txtBtnTaboo: {fileID: 1466453339}
+  txtBtnPass: {fileID: 1408749647}
   teamAName: "A Tak\u0131m\u0131"
   teamBName: "B Tak\u0131m\u0131"
 --- !u!114 &2049993646
@@ -7917,6 +7925,8 @@ MonoBehaviour:
   GameManager: {fileID: 0}
   BombModeGameManager: {fileID: 2049993646}
   pausePanel: {fileID: 5891371584435002865}
+  txtPausedTitle: {fileID: 938456661501587343}
+  txtMainMenuButton: {fileID: 6907694169940733898}
 --- !u!82 &2049993649
 AudioSource:
   m_ObjectHideFlags: 0
