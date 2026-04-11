@@ -292,6 +292,8 @@ public class BombModeGameManager : MonoBehaviour
 
             interRoundPanel.transform.Find("Txt_NextTeam").GetComponent<TextMeshProUGUI>().text = nextTeam;
             SetTextIfFound(interRoundPanel, "UI_NEXT_TEAM", "Txt_Kazanan", "Txt_Title");
+            SetTextIfFound(interRoundPanel, "TXT_TIME_IS_UP", "Txt_TimeIsUp");
+            SetTextIfFound(interRoundPanel, "BTN_CONTINUE", "Btn_Continue/Txt_Continue", "Btn_Continue/Text (TMP)", "Btn_Continue/Text");
             interRoundPanel.transform.Find("Txt_InterScoreA").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamAName + ": " + bombScoreA;
             interRoundPanel.transform.Find("Txt_InterScoreB").GetComponent<TextMeshProUGUI>().text = GameSettings.TeamBName + ": " + bombScoreB;
         }
@@ -393,6 +395,8 @@ public class BombModeGameManager : MonoBehaviour
         if (LocalizationManager.Instance == null) return;
 
         SetTextIfFound(interRoundPanel, "UI_NEXT_TEAM", "Txt_Kazanan", "Txt_Title");
+        SetTextIfFound(interRoundPanel, "TXT_TIME_IS_UP", "Txt_TimeIsUp");
+        SetTextIfFound(interRoundPanel, "BTN_CONTINUE", "Btn_Continue/Txt_Continue", "Btn_Continue/Text (TMP)", "Btn_Continue/Text");
         SetTextIfFound(InterAnswerPanel, "TXT_INTERANSWER_NEXTTEAM", "Txt_InterAnswerNextTeam", "Txt_Kazanan", "Txt_Title");
         SetTextIfFound(endGamePanel, "TXT_WINNER", "Txt_Kazanan", "Txt_WinnerTitle", "Txt_Title");
         SetTextIfFound(endGamePanel, "BTN_BACK", "Btn_MainMenu/Txt_MainMenu", "Btn_MainMenu/Text (TMP)", "Btn_MainMenu/Text", "Btn_Anamenu/Txt_MainMenu", "Btn_Anamenu/Text (TMP)", "Btn_Anamenu/Text");

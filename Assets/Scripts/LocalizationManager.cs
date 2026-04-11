@@ -16,6 +16,7 @@ public class LocalizationManager : MonoBehaviour
     private Dictionary<string, string> dictTR = new Dictionary<string, string>()
     {   //anamenu
         { "BTN_PLAY", "OYNA" },
+        { "BTN_CONTINUE", "DEVAM ET" },
         { "BTN_RESTART", "TEKRAR OYNA" },
         { "BTN_TRUE", "DOĞRU" },
         { "BTN_TABOO", "TABU" },
@@ -82,6 +83,7 @@ public class LocalizationManager : MonoBehaviour
         { "UI_LAST_CHANCE", "<color=#FFE100>SON ŞANS!</color>" },
         { "UI_NEXT_TEAM", "SIRADAKİ TAKIM" },
         { "TXT_INTERANSWER_NEXTTEAM", "SIRADAKİ TAKIM" },
+        { "TXT_TIME_IS_UP", "BOMBA PATLADI" },
         { "TXT_WINNER", "KAZANAN" },
         { "UI_SKIPS_ALLOWED", "Pas Hakkı" },
         { "TXT_PAUSED", "DURAKLATILDI" }
@@ -91,6 +93,7 @@ public class LocalizationManager : MonoBehaviour
     private Dictionary<string, string> dictEN = new Dictionary<string, string>()
     {   //anamenu
         { "BTN_PLAY", "PLAY" },
+        { "BTN_CONTINUE", "CONTINUE" },
         { "BTN_RESTART", "RESTART" },
         { "BTN_TRUE", "TRUE" },
         { "BTN_TABOO", "TABOO" },
@@ -157,6 +160,7 @@ public class LocalizationManager : MonoBehaviour
         { "UI_LAST_CHANCE", "<color=#FFE100>LAST CHANCE!</color>" },
         { "UI_NEXT_TEAM", "NEXT TEAM" },
         { "TXT_INTERANSWER_NEXTTEAM", "Next Team" },
+        { "TXT_TIME_IS_UP", "BOMB EXPLODED" },
         { "TXT_WINNER", "WINNER" },
         { "UI_SKIPS_ALLOWED", "Skips Allowed" },
         { "TXT_PAUSED", "PAUSED" }

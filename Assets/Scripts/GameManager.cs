@@ -143,8 +143,11 @@ public class GameManager : MonoBehaviour
                     if (scoreA == scoreB) // Ýkisi de hedefi geçmiþ ve puanlar EÞÝT!
                     {
                         endScore += 10; // Hedefi 10 puan ileri atýyoruz (Uzatma)
+                        string overtimeText = LocalizationManager.Instance != null
+                            ? LocalizationManager.Instance.GetText("UI_EXTRA_TIME")
+                            : "UZATMALAR!\nYeni Hedef: ";
                         // Ekraný Uzatma yazýsýyla aç
-                        ShowInterRoundPanel("UZATMALAR!\nYeni Hedef: " + endScore, true);
+                        ShowInterRoundPanel(overtimeText + endScore, true);
                         return;
                     }
                     else // Biri diðerinden daha yüksek puan yapmýþ, KESÝN GALÝP!
@@ -162,8 +165,11 @@ public class GameManager : MonoBehaviour
 
             if (isTeamATurn == false && scoreA >= endScore)
             {
+            string mustPassText = LocalizationManager.Instance != null
+                ? LocalizationManager.Instance.GetText("UI_MUST_PASS")
+                : " Puaný Geçmelisin)";
 
-            topText = nextTeam + " (" + scoreA + " Puaný Geçmelisin)";
+            topText = nextTeam + " (" + scoreA + mustPassText;
             highlightText = true; // Yazýyý kýrmýzý/dikkat çekici yapmak için
 
             }
@@ -329,6 +335,7 @@ public class GameManager : MonoBehaviour
         if (LocalizationManager.Instance == null) return;
 
         SetTextIfFound(interRoundPanel, "UI_NEXT_TEAM", "Txt_Kazanan");
+        SetTextIfFound(interRoundPanel, "BTN_BACK", "Btn_MainMenu/Txt_MainMenu", "Btn_MainMenu/Text (TMP)", "Btn_MainMenu/Text", "Btn_Anamenu/Txt_MainMenu", "Btn_Anamenu/Text (TMP)", "Btn_Anamenu/Text");
         SetTextIfFound(endGamePanel, "TXT_WINNER", "Txt_Kazanan", "Txt_WinnerTitle", "Txt_Title");
         SetTextIfFound(endGamePanel, "BTN_BACK", "Btn_MainMenu/Txt_MainMenu", "Btn_MainMenu/Text (TMP)", "Btn_MainMenu/Text", "Btn_Anamenu/Txt_MainMenu", "Btn_Anamenu/Text (TMP)", "Btn_Anamenu/Text");
         SetTextIfFound(endGamePanel, "BTN_RESTART", "Btn_RestartGame/Txt_RestartGame", "Btn_RestartGame/Text (TMP)", "Btn_RestartGame/Text", "Btn_Restart/Txt_Restart", "Btn_Restart/Text (TMP)", "Btn_Restart/Text");
