@@ -169,7 +169,7 @@ public class LocalizationManager : MonoBehaviour
     void Awake()
     {
         if (Instance == null) { Instance = this; DontDestroyOnLoad(gameObject); }
-        else { Destroy(gameObject); return; }
+        else { Destroy(this); return; }
 
         // Sahne açılır açılmaz kayıtlı dili uygula
         string savedLang = PlayerPrefs.GetString("SelectedLanguage", "en");
