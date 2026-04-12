@@ -228,6 +228,68 @@ public class LocalizationManager : MonoBehaviour
         { "TXT_PAUSED", "PAUSADO" }
     };
 
+    private Dictionary<string, string> dictFR = new Dictionary<string, string>()
+    {   // menu principal
+        { "BTN_PLAY", "JOUER" },
+        { "BTN_CONTINUE", "CONTINUER" },
+        { "BTN_RESTART", "RECOMMENCER" },
+        { "BTN_TRUE", "VRAI" },
+        { "BTN_TABOO", "TABOU" },
+        { "BTN_PASS", "PASSER" },
+        { "TXT_STANDARD_MODE", "Mode Standard" },
+        { "TXT_BOMB_MODE", "Mode Bombe" },
+        { "BTN_CHANGELANGUAGE","CHANGER LA LANGUE" },
+        // paramètres
+        { "BTN_SET_STANDARD", "Standard" },
+        { "BTN_SET_BOMB", "Bombe" },
+        { "BTN_BACK", "MENU PRINCIPAL" },
+
+        // paramètres mode standard
+        { "SET_TIME", "Durée de Manche" },
+        { "SET_PASS", "Passes Autorisées" },
+        { "SET_TABU", "Pénalité Tabou" },
+        { "SET_POINT", "Score Cible" },
+
+        // paramètres mode bombe
+        { "SET_BOMB_RULES", "Règle de Départ" },
+        { "SET_BOMB_MIN_TIME", "Durée Min." },
+        { "SET_BOMB_MAX_TIME", "Durée Max." },
+        { "SET_BOMB_PASS", "Passes Autorisées" },
+        { "SET_BOMB_POINT", "Score Cible" },
+
+        // pré-manche
+        { "BTN_START", "DÉMARRER" },
+        { "TXT_STARTER", "ÉQUIPE DE DÉPART" },
+        { "PH_TEAM_A", "Équipe A" },
+        { "PH_TEAM_B", "Équipe B" },
+
+        // règles de jeu
+        { "RULE_SEQ_NAME", "Départ Séquentiel" },
+        { "RULE_SEQ_DESC", "<color=#FFE100>Départ Séquentiel:</color> Une équipe différente commence chaque manche. (A-B-A-B)\nL'équipe A commence la première manche." },
+        { "RULE_RAND_NAME", "Aléatoire" },
+        { "RULE_RAND_DESC", "<color=#FFE100>Aléatoire:</color> L'équipe qui commence chaque manche est choisie totalement au hasard." },
+        { "RULE_LOSER_NAME", "Le Perdant Commence" },
+        { "RULE_LOSER_DESC", "<color=#FFE100>Le Perdant Commence:</color> L'équipe sur laquelle la bombe explose commence la manche suivante.\nLa première manche est déterminée aléatoirement." },
+        { "RULE_COMP_NAME", "Compétitif" },
+        { "RULE_COMP_DESC", "<color=#FFE100>Compétitif:</color> L'équipe avec le moins de points commence. En cas d'égalité, c'est aléatoire." },
+
+        // texte d'info
+        {"TXT_INFO", "Profitez de l'expérience classique du tabou avec le Mode Standard.\\r\\n\\r\\n\\r\\nLe Mode Bombe est basé sur les mécaniques originales du tabou et apporte une nouvelle intensité au jeu.\\r\\n\\r\\n\\r\\n<color=#FFE100>Règles du Mode Bombe :</color>\\r\\n- Le temps exact restant est inconnu.\\r\\n\\r\\n- Quand un mot est correctement deviné, le tour passe à l'équipe adverse.\\r\\n\\r\\n- Si le temps est écoulé, l'équipe qui explique ou celle qui fait une faute tabou perd la manche et l'équipe adverse gagne 1 point.\\r\\n\\r\\n- La première équipe qui atteint le score cible gagne la partie.\\r\\n\\r\\n\\r\\nN'oubliez pas de personnaliser votre partie dans les paramètres.\\r\\n" },
+
+        // textes dynamiques
+        { "TXT_TEAM_A", "Équipe A" },
+        { "TXT_TEAM_B", "Équipe B" },
+        { "UI_EXTRA_TIME", "PROLONGATIONS !\nNouvel Objectif : " },
+        { "UI_MUST_PASS", " Points pour Gagner)" },
+        { "UI_LAST_CHANCE", "<color=#FFE100>DERNIÈRE CHANCE !</color>" },
+        { "UI_NEXT_TEAM", "ÉQUIPE SUIVANTE" },
+        { "TXT_INTERANSWER_NEXTTEAM", "Équipe Suivante" },
+        { "TXT_TIME_IS_UP", "LA BOMBE A EXPLOSÉ" },
+        { "TXT_WINNER", "GAGNANT" },
+        { "UI_SKIPS_ALLOWED", "Passes Autorisées" },
+        { "TXT_PAUSED", "EN PAUSE" }
+    };
+
     void Awake()
     {
         if (Instance == null) { Instance = this; DontDestroyOnLoad(gameObject); }
@@ -251,6 +313,10 @@ public class LocalizationManager : MonoBehaviour
             case "es":
                 CurrentLanguageCode = "es";
                 currentDictionary = dictES;
+                break;
+            case "fr":
+                CurrentLanguageCode = "fr";
+                currentDictionary = dictFR;
                 break;
             default:
                 CurrentLanguageCode = "en";

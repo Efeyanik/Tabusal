@@ -52,7 +52,7 @@ public class DataManager : MonoBehaviour
         if (string.IsNullOrWhiteSpace(langCode)) return "en";
 
         string code = langCode.Trim().ToLowerInvariant();
-        if (code == "tr" || code == "en" || code == "es")
+        if (code == "tr" || code == "en" || code == "es" || code == "fr")
             return code;
 
         return "en";

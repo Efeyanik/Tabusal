@@ -29,6 +29,12 @@ public class LanguageToggler : MonoBehaviour
             case "tr":
                 newLang = "es";
                 break;
+            case "es":
+                newLang = "fr";
+                break;
+            case "fr":
+                newLang = "en";
+                break;
             default:
                 newLang = "en";
                 break;

@@ -4775,6 +4775,4806 @@
     {
       "word": "Chotis",
       "forbidden": ["Baile", "Madrid", "San Isidro", "Pareja", "Chulapo"]
+    },
+    {
+      "word": "Dragón",
+      "forbidden": ["Fuego", "Volar", "Castillo", "Princesa", "Escamas"]
+    },
+    {
+      "word": "Unicornio",
+      "forbidden": ["Caballo", "Cuerno", "Fantasía", "Blanco", "Mágico"]
+    },
+    {
+      "word": "Fantasma",
+      "forbidden": ["Miedo", "Sábana", "Castillo", "Volar", "Espíritu"]
+    },
+    {
+      "word": "Zombi",
+      "forbidden": ["Muerto", "Caminar", "Cerebro", "Morder", "Apocalipsis"]
+    },
+    {
+      "word": "Hombre lobo",
+      "forbidden": ["Luna", "Llena", "Pelo", "Morder", "Aullar"]
+    },
+    {
+      "word": "Ogro",
+      "forbidden": ["Shrek", "Verde", "Feo", "Monstruo", "Grande"]
+    },
+    {
+      "word": "Gigante",
+      "forbidden": ["Enorme", "Alto", "Cuento", "Grande", "Pasos"]
+    },
+    {
+      "word": "Enano",
+      "forbidden": ["Pequeño", "Blancanieves", "Siete", "Cuento", "Bajo"]
+    },
+    {
+      "word": "Sirena",
+      "forbidden": ["Mar", "Mitología", "Cola", "Cantar", "Mujer"]
+    },
+    {
+      "word": "Extraterrestre",
+      "forbidden": ["Alien", "Espacio", "OVNI", "Verde", "Planeta"]
+    },
+    {
+      "word": "OVNI",
+      "forbidden": ["Volar", "Espacio", "Alien", "Platillo", "Cielo"]
+    },
+    {
+      "word": "Pirámide",
+      "forbidden": ["Egipto", "Faraón", "Momia", "Desierto", "Triángulo"]
+    },
+    {
+      "word": "Faraón",
+      "forbidden": ["Egipto", "Rey", "Pirámide", "Momia", "Cleopatra"]
+    },
+    {
+      "word": "Gladiador",
+      "forbidden": ["Roma", "Coliseo", "Luchar", "Espada", "Arena"]
+    },
+    {
+      "word": "Coliseo",
+      "forbidden": ["Roma", "Gladiador", "Monumento", "Luchar", "Ruinas"]
+    },
+    {
+      "word": "Vikingo",
+      "forbidden": ["Barco", "Norte", "Cuernos", "Casco", "Hacha"]
+    },
+    {
+      "word": "Pirata",
+      "forbidden": ["Barco", "Parche", "Loro", "Pata", "Palo"]
+    },
+    {
+      "word": "Tesoro",
+      "forbidden": ["Pirata", "Cofre", "Oro", "Monedas", "Mapa"]
+    },
+    {
+      "word": "Armadura",
+      "forbidden": ["Caballero", "Metal", "Proteger", "Hierro", "Luchar"]
+    },
+    {
+      "word": "Caballero",
+      "forbidden": ["Armadura", "Espada", "Castillo", "Caballo", "Luchar"]
+    },
+    {
+      "word": "Escudo",
+      "forbidden": ["Proteger", "Espada", "Caballero", "Brazo", "Defender"]
+    },
+    {
+      "word": "Espada",
+      "forbidden": ["Cortar", "Arma", "Caballero", "Luchar", "Metal"]
+    },
+    {
+      "word": "Arco",
+      "forbidden": ["Flecha", "Disparar", "Cuerda", "Tirar", "Arma"]
+    },
+    {
+      "word": "Flecha",
+      "forbidden": ["Arco", "Disparar", "Clavar", "Punta", "Indio"]
+    },
+    {
+      "word": "Lanza",
+      "forbidden": ["Tirar", "Palo", "Punta", "Arma", "Cazar"]
+    },
+    {
+      "word": "Momia",
+      "forbidden": ["Egipto", "Vendas", "Pirámide", "Faraón", "Muerto"]
+    },
+    {
+      "word": "Microscopio",
+      "forbidden": ["Ver", "Pequeño", "Aumentar", "Laboratorio", "Científico"]
+    },
+    {
+      "word": "Laboratorio",
+      "forbidden": ["Científico", "Experimento", "Tubos", "Bata", "Investigar"]
+    },
+    {
+      "word": "Experimento",
+      "forbidden": ["Laboratorio", "Científico", "Probar", "Ciencia", "Mezclar"]
+    },
+    {
+      "word": "Célula",
+      "forbidden": ["Microscopio", "Cuerpo", "Biología", "Pequeña", "Vida"]
+    },
+    {
+      "word": "Virus",
+      "forbidden": ["Enfermedad", "Contagiar", "Bicho", "Pandemia", "Ordenador"]
+    },
+    {
+      "word": "Bacteria",
+      "forbidden": ["Microscopio", "Bicho", "Infección", "Antibiótico", "Enfermedad"]
+    },
+    {
+      "word": "ADN",
+      "forbidden": ["Genética", "Célula", "Sangre", "Prueba", "Padre"]
+    },
+    {
+      "word": "Agujero negro",
+      "forbidden": ["Espacio", "Gravedad", "Atrapar", "Luz", "Universo"]
+    },
+    {
+      "word": "Órbita",
+      "forbidden": ["Girar", "Planeta", "Espacio", "Satélite", "Alrededor"]
+    },
+    {
+      "word": "Atmósfera",
+      "forbidden": ["Cielo", "Capa", "Aire", "Tierra", "Respirar"]
+    },
+    {
+      "word": "Gravedad",
+      "forbidden": ["Caer", "Suelo", "Tierra", "Flotar", "Fuerza"]
+    },
+    {
+      "word": "Asteroide",
+      "forbidden": ["Espacio", "Piedra", "Meteorito", "Chocar", "Planeta"]
+    },
+    {
+      "word": "Estrella fugaz",
+      "forbidden": ["Deseo", "Cielo", "Noche", "Caer", "Rápido"]
+    },
+    {
+      "word": "Polo Norte",
+      "forbidden": ["Frío", "Hielo", "Papá Noel", "Oso", "Arriba"]
+    },
+    {
+      "word": "Polo Sur",
+      "forbidden": ["Frío", "Pingüino", "Hielo", "Antártida", "Abajo"]
+    },
+    {
+      "word": "Ecuador",
+      "forbidden": ["Línea", "Mitad", "Tierra", "País", "Centro"]
+    },
+    {
+      "word": "Oro",
+      "forbidden": ["Anillo", "Amarillo", "Metal", "Caro", "Joyas"]
+    },
+    {
+      "word": "Plata",
+      "forbidden": ["Metal", "Joyas", "Oro", "Gris", "Medalla"]
+    },
+    {
+      "word": "Bronce",
+      "forbidden": ["Medalla", "Tercero", "Metal", "Marrón", "Estatua"]
+    },
+    {
+      "word": "Diamante",
+      "forbidden": ["Joya", "Anillo", "Brillante", "Caro", "Piedra"]
+    },
+    {
+      "word": "Rubí",
+      "forbidden": ["Piedra", "Joya", "Rojo", "Anillo", "Preciosa"]
+    },
+    {
+      "word": "Esmeralda",
+      "forbidden": ["Piedra", "Joya", "Verde", "Anillo", "Preciosa"]
+    },
+    {
+      "word": "Perla",
+      "forbidden": ["Ostra", "Collar", "Blanca", "Joya", "Mar"]
+    },
+    {
+      "word": "Terciopelo",
+      "forbidden": ["Tela", "Suave", "Ropa", "Tocar", "Cortina"]
+    },
+    {
+      "word": "Seda",
+      "forbidden": ["Gusano", "Tela", "Suave", "China", "Ropa"]
+    },
+    {
+      "word": "Cuero",
+      "forbidden": ["Piel", "Vaca", "Zapatos", "Cinturón", "Chaqueta"]
+    },
+    {
+      "word": "Lino",
+      "forbidden": ["Tela", "Verano", "Ropa", "Arrugar", "Camisa"]
+    },
+    {
+      "word": "Cartulina",
+      "forbidden": ["Papel", "Duro", "Colores", "Colegio", "Manualidades"]
+    },
+    {
+      "word": "Pegatina",
+      "forbidden": ["Pegar", "Álbum", "Cromo", "Dibujo", "Colección"]
+    },
+    {
+      "word": "Plastilina",
+      "forbidden": ["Moldear", "Niños", "Colores", "Jugar", "Colegio"]
+    },
+    {
+      "word": "Documental",
+      "forbidden": ["Animales", "Televisión", "La 2", "Aprender", "Ver"]
+    },
+    {
+      "word": "Serie",
+      "forbidden": ["Televisión", "Netflix", "Capítulos", "Temporada", "Ver"]
+    },
+    {
+      "word": "Telenovela",
+      "forbidden": ["Amor", "Televisión", "Drama", "Culebrón", "Tarde"]
+    },
+    {
+      "word": "Guion",
+      "forbidden": ["Película", "Escribir", "Papel", "Actores", "Leer"]
+    },
+    {
+      "word": "Taquilla",
+      "forbidden": ["Cine", "Comprar", "Entradas", "Pagar", "Teatro"]
+    },
+    {
+      "word": "Entrada",
+      "forbidden": ["Billete", "Cine", "Concierto", "Pasar", "Comprar"]
+    },
+    {
+      "word": "Butaca",
+      "forbidden": ["Cine", "Sentarse", "Teatro", "Sillón", "Número"]
+    },
+    {
+      "word": "Camerino",
+      "forbidden": ["Actor", "Vestirse", "Teatro", "Espejo", "Maquillarse"]
+    },
+    {
+      "word": "Telón",
+      "forbidden": ["Teatro", "Rojo", "Subir", "Bajar", "Obra"]
+    },
+    {
+      "word": "Pómulo",
+      "forbidden": ["Cara", "Hueso", "Mejilla", "Ojo", "Maquillaje"]
+    },
+    {
+      "word": "Sien",
+      "forbidden": ["Cabeza", "Lado", "Dolor", "Ojo", "Frente"]
+    },
+    {
+      "word": "Pantorrilla",
+      "forbidden": ["Pierna", "Gemelo", "Atrás", "Músculo", "Debajo"]
+    },
+    {
+      "word": "Ingle",
+      "forbidden": ["Pierna", "Cuerpo", "Tirar", "Músculo", "Dolor"]
+    },
+    {
+      "word": "Pulso",
+      "forbidden": ["Corazón", "Latido", "Muñeca", "Medir", "Sangre"]
+    },
+    {
+      "word": "Tensión",
+      "forbidden": ["Arterial", "Sangre", "Alta", "Baja", "Médico"]
+    },
+    {
+      "word": "Colesterol",
+      "forbidden": ["Sangre", "Grasa", "Alto", "Comida", "Sano"]
+    },
+    {
+      "word": "Alergia",
+      "forbidden": ["Polvo", "Primavera", "Estornudar", "Polen", "Picar"]
+    },
+    {
+      "word": "Asma",
+      "forbidden": ["Respirar", "Aire", "Ahogarse", "Pulmones", "Inhalador"]
+    },
+    {
+      "word": "Pediatra",
+      "forbidden": ["Médico", "Niños", "Enfermo", "Curar", "Bebé"]
+    },
+    {
+      "word": "Dermatólogo",
+      "forbidden": ["Médico", "Piel", "Granos", "Lunar", "Curar"]
+    },
+    {
+      "word": "Psiquiatra",
+      "forbidden": ["Médico", "Loco", "Mente", "Pastillas", "Psicólogo"]
+    },
+    {
+      "word": "Suero",
+      "forbidden": ["Hospital", "Vena", "Líquido", "Enfermo", "Bolsa"]
+    },
+    {
+      "word": "Transfusión",
+      "forbidden": ["Sangre", "Hospital", "Pasar", "Vena", "Donar"]
+    },
+    {
+      "word": "Trasplante",
+      "forbidden": ["Órgano", "Operación", "Corazón", "Hospital", "Cambiar"]
+    },
+    {
+      "word": "Donante",
+      "forbidden": ["Sangre", "Dar", "Órgano", "Vida", "Regalar"]
+    },
+    {
+      "word": "Roncar",
+      "forbidden": ["Dormir", "Ruido", "Noche", "Cama", "Molestar"]
+    },
+    {
+      "word": "Soñar",
+      "forbidden": ["Dormir", "Noche", "Cama", "Mente", "Despertar"]
+    },
+    {
+      "word": "Parpadear",
+      "forbidden": ["Ojos", "Cerrar", "Abrir", "Pestañas", "Rápido"]
+    },
+    {
+      "word": "Masticar",
+      "forbidden": ["Comer", "Dientes", "Boca", "Tragar", "Comida"]
+    },
+    {
+      "word": "Suspirar",
+      "forbidden": ["Aire", "Respirar", "Amor", "Tristeza", "Boca"]
+    },
+    {
+      "word": "Silbar",
+      "forbidden": ["Boca", "Ruido", "Labios", "Canción", "Llamar"]
+    },
+    {
+      "word": "Aplaudir",
+      "forbidden": ["Manos", "Ruido", "Teatro", "Concierto", "Chocar"]
+    },
+    {
+      "word": "Pellizcar",
+      "forbidden": ["Piel", "Dedos", "Dolor", "Coger", "Mano"]
+    },
+    {
+      "word": "Acariciar",
+      "forbidden": ["Tocar", "Suave", "Perro", "Mano", "Amor"]
+    },
+    {
+      "word": "Cosquillas",
+      "forbidden": ["Reír", "Tocar", "Cuerpo", "Manos", "Gracia"]
+    },
+    {
+      "word": "Arañar",
+      "forbidden": ["Gato", "Uñas", "Piel", "Dolor", "Herida"]
+    },
+    {
+      "word": "Morder",
+      "forbidden": ["Dientes", "Boca", "Perro", "Comer", "Dolor"]
+    },
+    {
+      "word": "Tropezar",
+      "forbidden": ["Caer", "Piedra", "Suelo", "Pie", "Chocar"]
+    },
+    {
+      "word": "Resbalar",
+      "forbidden": ["Caer", "Suelo", "Agua", "Hielo", "Pisar"]
+    },
+    {
+      "word": "Empujar",
+      "forbidden": ["Manos", "Mover", "Fuerza", "Tirar", "Caer"]
+    },
+    {
+      "word": "Tirar",
+      "forbidden": ["Empujar", "Fuerza", "Mano", "Cuerda", "Hacia ti"]
+    },
+    {
+      "word": "Géiser",
+      "forbidden": ["Agua", "Caliente", "Salir", "Tierra", "Islandia"]
+    },
+    {
+      "word": "Gruta",
+      "forbidden": ["Cueva", "Rocas", "Oscuridad", "Entrar", "Montaña"]
+    },
+    {
+      "word": "Estalactita",
+      "forbidden": ["Cueva", "Techo", "Colgar", "Piedra", "Agua"]
+    },
+    {
+      "word": "Estalagmita",
+      "forbidden": ["Cueva", "Suelo", "Subir", "Piedra", "Agua"]
+    },
+    {
+      "word": "Cañón",
+      "forbidden": ["Colorado", "Río", "Montaña", "Profundo", "Piedra"]
+    },
+    {
+      "word": "Archipiélago",
+      "forbidden": ["Islas", "Conjunto", "Mar", "Canarias", "Baleares"]
+    },
+    {
+      "word": "Continente",
+      "forbidden": ["Europa", "África", "América", "Tierra", "Grande"]
+    },
+    {
+      "word": "Océano",
+      "forbidden": ["Mar", "Atlántico", "Pacífico", "Agua", "Grande"]
+    },
+    {
+      "word": "Bahía",
+      "forbidden": ["Mar", "Costa", "Curva", "Barcos", "Agua"]
+    },
+    {
+      "word": "Golfo",
+      "forbidden": ["Mar", "Entrar", "Tierra", "Grande", "Costa"]
+    },
+    {
+      "word": "Cabo",
+      "forbidden": ["Tierra", "Mar", "Punta", "Finisterre", "Costa"]
+    },
+    {
+      "word": "Duna",
+      "forbidden": ["Arena", "Desierto", "Playa", "Montaña", "Viento"]
+    },
+    {
+      "word": "Jungla",
+      "forbidden": ["Selva", "Árboles", "Animales", "Tarzán", "Verde"]
+    },
+    {
+      "word": "Sabana",
+      "forbidden": ["África", "León", "Hierba", "Animales", "Tierra"]
+    },
+    {
+      "word": "Tundra",
+      "forbidden": ["Frío", "Hielo", "Nieve", "Norte", "Tierra"]
+    },
+    {
+      "word": "Menú del día",
+      "forbidden": ["Comer", "Restaurante", "Primer", "Segundo", "Barato"]
+    },
+    {
+      "word": "Propina",
+      "forbidden": ["Dinero", "Dejar", "Camarero", "Bote", "Mesa"]
+    },
+    {
+      "word": "Licor",
+      "forbidden": ["Alcohol", "Beber", "Chupito", "Hierbas", "Dulce"]
+    },
+    {
+      "word": "Orujo",
+      "forbidden": ["Galicia", "Alcohol", "Chupito", "Hierbas", "Fuerte"]
+    },
+    {
+      "word": "Aguardiente",
+      "forbidden": ["Alcohol", "Fuerte", "Beber", "Quemado", "Transparente"]
+    },
+    {
+      "word": "Anís",
+      "forbidden": ["Licor", "Dulce", "Mono", "Botella", "Navidad"]
+    },
+    {
+      "word": "Ron",
+      "forbidden": ["Alcohol", "Cubata", "Pirata", "Beber", "Caribe"]
+    },
+    {
+      "word": "Ginebra",
+      "forbidden": ["Tónica", "Alcohol", "Copa", "Beber", "Inglesa"]
+    },
+    {
+      "word": "Vodka",
+      "forbidden": ["Rusia", "Alcohol", "Blanco", "Patata", "Beber"]
+    },
+    {
+      "word": "Whisky",
+      "forbidden": ["Escocia", "Hielo", "Alcohol", "Vaso", "Beber"]
+    },
+    {
+      "word": "Cóctel",
+      "forbidden": ["Mezcla", "Alcohol", "Beber", "Copa", "Mojito"]
+    },
+    {
+      "word": "Cubata",
+      "forbidden": ["Copa", "Mezcla", "Discoteca", "Beber", "Hielo"]
+    },
+    {
+      "word": "Gaseosa",
+      "forbidden": ["Agua", "Gas", "Mezclar", "Vino", "Dulce"]
+    },
+    {
+      "word": "Tónica",
+      "forbidden": ["Ginebra", "Bebida", "Amarga", "Gas", "Mezclar"]
+    },
+    {
+      "word": "Batido",
+      "forbidden": ["Leche", "Fresa", "Chocolate", "Beber", "Vaso"]
+    },
+    {
+      "word": "Yogur",
+      "forbidden": ["Leche", "Cuchara", "Postre", "Fresa", "Bífidus"]
+    },
+    {
+      "word": "Quesito",
+      "forbidden": ["Porción", "Triángulo", "Niños", "Comer", "Vaca"]
+    },
+    {
+      "word": "Kéfir",
+      "forbidden": ["Yogur", "Leche", "Hongo", "Sano", "Beber"]
+    },
+    {
+      "word": "Cenicero",
+      "forbidden": ["Fumar", "Tabaco", "Ceniza", "Cigarro", "Mesa"]
+    },
+    {
+      "word": "Mechero",
+      "forbidden": ["Fuego", "Fumar", "Encender", "Cigarro", "Gas"]
+    },
+    {
+      "word": "Cerilla",
+      "forbidden": ["Fuego", "Madera", "Raspar", "Encender", "Caja"]
+    },
+    {
+      "word": "Incienso",
+      "forbidden": ["Olor", "Quemar", "Humo", "Palo", "Relajarse"]
+    },
+    {
+      "word": "Vela",
+      "forbidden": ["Fuego", "Cera", "Luz", "Oscuridad", "Soplar"]
+    },
+    {
+      "word": "Candelabro",
+      "forbidden": ["Velas", "Poner", "Luz", "Antiguo", "Mesa"]
+    },
+    {
+      "word": "Parabólica",
+      "forbidden": ["Antena", "Televisión", "Tejado", "Canales", "Redonda"]
+    },
+    {
+      "word": "Antena",
+      "forbidden": ["Televisión", "Tejado", "Señal", "Radio", "Coche"]
+    },
+    {
+      "word": "Pararrayos",
+      "forbidden": ["Tormenta", "Rayo", "Tejado", "Proteger", "Metal"]
+    },
+    {
+      "word": "Desván",
+      "forbidden": ["Tejado", "Arriba", "Casa", "Trastos", "Guardar"]
+    },
+    {
+      "word": "Buhardilla",
+      "forbidden": ["Casa", "Arriba", "Techo", "Vivir", "Inclinado"]
+    },
+    {
+      "word": "Rampa",
+      "forbidden": ["Subir", "Bajar", "Escaleras", "Silla de ruedas", "Inclinado"]
+    },
+    {
+      "word": "Marquesina",
+      "forbidden": ["Autobús", "Parada", "Esperar", "Techo", "Cristal"]
+    },
+    {
+      "word": "Paso a nivel",
+      "forbidden": ["Tren", "Vías", "Cruzar", "Coches", "Barrera"]
+    },
+    {
+      "word": "Túnel",
+      "forbidden": ["Oscuro", "Montaña", "Coche", "Tren", "Agujero"]
+    },
+    {
+      "word": "Viaducto",
+      "forbidden": ["Puente", "Alto", "Coches", "Cruzar", "Carretera"]
+    },
+    {
+      "word": "Presa",
+      "forbidden": ["Pantano", "Agua", "Muro", "Río", "Contener"]
+    },
+    {
+      "word": "Molino",
+      "forbidden": ["Viento", "Quijote", "Aspas", "Harina", "Agua"]
+    },
+    {
+      "word": "Pozo",
+      "forbidden": ["Agua", "Fondo", "Agujero", "Cubo", "Cuerda"]
+    },
+    {
+      "word": "Fuente",
+      "forbidden": ["Agua", "Plaza", "Beber", "Chorro", "Parque"]
+    },
+    {
+      "word": "Surtidor",
+      "forbidden": ["Gasolina", "Coche", "Manguera", "Echar", "Repostar"]
+    },
+    {
+      "word": "Acequia",
+      "forbidden": ["Agua", "Campo", "Regar", "Canal", "Tierra"]
+    },
+    {
+      "word": "Canal",
+      "forbidden": ["Agua", "Río", "Navegar", "Artificial", "Venecia"]
+    },
+    {
+      "word": "Zanja",
+      "forbidden": ["Agujero", "Suelo", "Obra", "Cavar", "Larga"]
+    },
+    {
+      "word": "Cuneta",
+      "forbidden": ["Carretera", "Lado", "Coche", "Caer", "Borde"]
+    },
+    {
+      "word": "Arcén",
+      "forbidden": ["Carretera", "Coche", "Parar", "Línea", "Avería"]
+    },
+    {
+      "word": "Quitanieves",
+      "forbidden": ["Máquina", "Invierno", "Carretera", "Limpiar", "Blanco"]
+    },
+    {
+      "word": "Grúa",
+      "forbidden": ["Coche", "Llevar", "Multa", "Obra", "Levantar"]
+    },
+    {
+      "word": "Excavadora",
+      "forbidden": ["Obra", "Tierra", "Máquina", "Agujero", "Pala"]
+    },
+    {
+      "word": "Hormigonera",
+      "forbidden": ["Obra", "Cemento", "Girar", "Camión", "Máquina"]
+    },
+    {
+      "word": "Andamio",
+      "forbidden": ["Obra", "Pintar", "Fachada", "Subir", "Hierros"]
+    },
+    {
+      "word": "Yeso",
+      "forbidden": ["Pared", "Blanco", "Obra", "Material", "Escayola"]
+    },
+    {
+      "word": "Carretilla",
+      "forbidden": ["Obra", "Llevar", "Rueda", "Tierra", "Empujar"]
+    },
+    {
+      "word": "Paleta",
+      "forbidden": ["Albañil", "Cemento", "Obra", "Herramienta", "Mano"]
+    },
+    {
+      "word": "Cincel",
+      "forbidden": ["Piedra", "Golpear", "Martillo", "Herramienta", "Esculpir"]
+    },
+    {
+      "word": "Yunque",
+      "forbidden": ["Hierro", "Herrero", "Golpear", "Martillo", "Metal"]
+    },
+    {
+      "word": "Herrero",
+      "forbidden": ["Metal", "Fuego", "Hierro", "Trabajar", "Caballo"]
+    },
+    {
+      "word": "Alfarero",
+      "forbidden": ["Barro", "Arcilla", "Torno", "Manos", "Vasijas"]
+    },
+    {
+      "word": "Sastre",
+      "forbidden": ["Ropa", "Coser", "Traje", "Medida", "Aguja"]
+    },
+    {
+      "word": "Modista",
+      "forbidden": ["Ropa", "Coser", "Mujer", "Vestido", "Medida"]
+    },
+    {
+      "word": "Carnicero",
+      "forbidden": ["Carne", "Cortar", "Vender", "Tienda", "Cuchillo"]
+    },
+    {
+      "word": "Pescadero",
+      "forbidden": ["Pescado", "Vender", "Mercado", "Cortar", "Mar"]
+    },
+    {
+      "word": "Panadero",
+      "forbidden": ["Pan", "Hacer", "Horno", "Harina", "Vender"]
+    },
+    {
+      "word": "Frutero",
+      "forbidden": ["Fruta", "Vender", "Tienda", "Manzanas", "Mercado"]
+    },
+    {
+      "word": "Pastelero",
+      "forbidden": ["Dulces", "Hacer", "Tartas", "Horno", "Postre"]
+    },
+    {
+      "word": "Dependiente",
+      "forbidden": ["Tienda", "Vender", "Ropa", "Atender", "Mostrador"]
+    },
+    {
+      "word": "Joyero",
+      "forbidden": ["Anillos", "Oro", "Vender", "Tienda", "Relojes"]
+    },
+    {
+      "word": "Relojero",
+      "forbidden": ["Reloj", "Arreglar", "Hora", "Piezas", "Tiempo"]
+    },
+    {
+      "word": "Farmacéutico",
+      "forbidden": ["Medicinas", "Vender", "Pastillas", "Receta", "Bata"]
+    },
+    {
+      "word": "Soldado",
+      "forbidden": ["Ejército", "Guerra", "Uniforme", "Arma", "Luchar"]
+    },
+    {
+      "word": "Militar",
+      "forbidden": ["Ejército", "Soldado", "Uniforme", "Guerra", "Cuartel"]
+    },
+    {
+      "word": "General",
+      "forbidden": ["Ejército", "Mandar", "Rango", "Militar", "Estrellas"]
+    },
+    {
+      "word": "Espía",
+      "forbidden": ["Secreto", "Agente", "007", "Información", "Esconderse"]
+    },
+    {
+      "word": "Detective",
+      "forbidden": ["Policía", "Investigar", "Lupa", "Pistas", "Crimen"]
+    },
+    {
+      "word": "Monje",
+      "forbidden": ["Religión", "Monasterio", "Rezar", "Hábito", "Clausura"]
+    },
+    {
+      "word": "Abad",
+      "forbidden": ["Monasterio", "Jefe", "Monjes", "Religión", "Iglesia"]
+    },
+    {
+      "word": "Obispo",
+      "forbidden": ["Iglesia", "Religión", "Cura", "Mandar", "Catedral"]
+    },
+    {
+      "word": "Papa",
+      "forbidden": ["Roma", "Vaticano", "Iglesia", "Blanco", "Religión"]
+    },
+    {
+      "word": "Monasterio",
+      "forbidden": ["Monjes", "Religión", "Vivir", "Rezar", "Edificio"]
+    },
+    {
+      "word": "Convento",
+      "forbidden": ["Monjas", "Religión", "Vivir", "Clausura", "Rezar"]
+    },
+    {
+      "word": "Ermita",
+      "forbidden": ["Iglesia", "Pequeña", "Campo", "Santo", "Rezar"]
+    },
+    {
+      "word": "Santuario",
+      "forbidden": ["Religión", "Iglesia", "Virgen", "Peregrinos", "Rezar"]
+    },
+    {
+      "word": "Basílica",
+      "forbidden": ["Iglesia", "Grande", "Catedral", "Religión", "Rezar"]
+    },
+    {
+      "word": "Catedral",
+      "forbidden": ["Iglesia", "Principal", "Ciudad", "Obispo", "Grande"]
+    },
+    {
+      "word": "Capilla",
+      "forbidden": ["Iglesia", "Pequeña", "Rezar", "Altar", "Boda"]
+    },
+    {
+      "word": "Queimada",
+      "forbidden": ["Galicia", "Orujo", "Fuego", "Conjuro", "Brujas"]
+    },
+    {
+      "word": "Txakoli",
+      "forbidden": ["País Vasco", "Vino", "Blanco", "Beber", "Vaso"]
+    },
+    {
+      "word": "Mojo picón",
+      "forbidden": ["Canarias", "Salsa", "Papas", "Rojo", "Picante"]
+    },
+    {
+      "word": "Empadronamiento",
+      "forbidden": ["Ayuntamiento", "Papel", "Vivir", "Ciudad", "Registro"]
+    },
+    {
+      "word": "Aguinaldo",
+      "forbidden": ["Navidad", "Dinero", "Regalo", "Trabajo", "Dar"]
+    },
+    {
+      "word": "Estropajo",
+      "forbidden": ["Lavar", "Platos", "Cocina", "Esponja", "Fregar"]
+    },
+    {
+      "word": "Bayeta",
+      "forbidden": ["Limpiar", "Polvo", "Cocina", "Trapo", "Mesa"]
+    },
+    {
+      "word": "Plumero",
+      "forbidden": ["Polvo", "Limpiar", "Plumas", "Muebles", "Pasar"]
+    },
+    {
+      "word": "Amoniaco",
+      "forbidden": ["Limpiar", "Olor", "Fuerte", "Líquido", "Lejía"]
+    },
+    {
+      "word": "Detergente",
+      "forbidden": ["Lavadora", "Ropa", "Jabón", "Lavar", "Polvo"]
+    },
+    {
+      "word": "Quitamanchas",
+      "forbidden": ["Ropa", "Limpiar", "Sucio", "Lavar", "Spray"]
+    },
+    {
+      "word": "Cubo de basura",
+      "forbidden": ["Tirar", "Bolsa", "Cocina", "Olor", "Reciclar"]
+    },
+    {
+      "word": "Pinza de la ropa",
+      "forbidden": ["Tender", "Colgar", "Secar", "Madera", "Plástico"]
+    },
+    {
+      "word": "Cesto",
+      "forbidden": ["Ropa", "Sucia", "Lavar", "Guardar", "Baño"]
+    },
+    {
+      "word": "Galán de noche",
+      "forbidden": ["Mueble", "Colgar", "Ropa", "Dormitorio", "Traje"]
+    },
+    {
+      "word": "Paragüero",
+      "forbidden": ["Entrada", "Lluvia", "Dejar", "Agua", "Mueble"]
+    },
+    {
+      "word": "Alfombrilla",
+      "forbidden": ["Ratón", "Ordenador", "Baño", "Suelo", "Ducha"]
+    },
+    {
+      "word": "Toallero",
+      "forbidden": ["Baño", "Colgar", "Secar", "Barra", "Pared"]
+    },
+    {
+      "word": "Jabonera",
+      "forbidden": ["Baño", "Lavabo", "Pastilla", "Lavar", "Manos"]
+    },
+    {
+      "word": "Portarrollos",
+      "forbidden": ["Baño", "Papel", "Higiénico", "Váter", "Colgar"]
+    },
+    {
+      "word": "Bote de cepillos",
+      "forbidden": ["Dientes", "Baño", "Lavabo", "Guardar", "Pasta"]
+    },
+    {
+      "word": "Borla",
+      "forbidden": ["Polvos", "Maquillaje", "Cara", "Suave", "Aplicar"]
+    },
+    {
+      "word": "Ambientador",
+      "forbidden": ["Olor", "Spray", "Casa", "Huele", "Perfume"]
+    },
+    {
+      "word": "Mikado",
+      "forbidden": ["Olor", "Palitos", "Ambientador", "Casa", "Líquido"]
+    },
+    {
+      "word": "Humidificador",
+      "forbidden": ["Agua", "Aire", "Seco", "Vapor", "Aparato"]
+    },
+    {
+      "word": "Sacapuntas",
+      "forbidden": ["Lápiz", "Afilar", "Madera", "Colegio", "Estuche"]
+    },
+    {
+      "word": "Compás",
+      "forbidden": ["Círculo", "Dibujar", "Matemáticas", "Punta", "Colegio"]
+    },
+    {
+      "word": "Escuadra",
+      "forbidden": ["Regla", "Triángulo", "Medir", "Dibujar", "Cartabón"]
+    },
+    {
+      "word": "Cartabón",
+      "forbidden": ["Regla", "Triángulo", "Medir", "Dibujar", "Escuadra"]
+    },
+    {
+      "word": "Típex",
+      "forbidden": ["Borrar", "Blanco", "Bolígrafo", "Equivocarse", "Líquido"]
+    },
+    {
+      "word": "Subrayador",
+      "forbidden": ["Fluorescente", "Colores", "Estudiar", "Libro", "Destacar"]
+    },
+    {
+      "word": "Post-it",
+      "forbidden": ["Papel", "Pegar", "Amarillo", "Nota", "Recordar"]
+    },
+    {
+      "word": "Pizarra blanca",
+      "forbidden": ["Rotulador", "Borrar", "Clase", "Escribir", "Reunión"]
+    },
+    {
+      "word": "Encuadernadora",
+      "forbidden": ["Papel", "Agujeros", "Anillas", "Trabajo", "Juntar"]
+    },
+    {
+      "word": "Plastificadora",
+      "forbidden": ["Papel", "Plástico", "Proteger", "Máquina", "Calor"]
+    },
+    {
+      "word": "Taladradora",
+      "forbidden": ["Papel", "Agujeros", "Folios", "Oficina", "Archivador"]
+    },
+    {
+      "word": "Clasificador",
+      "forbidden": ["Carpetas", "Papeles", "Guardar", "Separar", "Oficina"]
+    },
+    {
+      "word": "Funda de plástico",
+      "forbidden": ["Folio", "Proteger", "Papel", "Archivador", "Transparente"]
+    },
+    {
+      "word": "Archivador",
+      "forbidden": ["Carpetas", "Papeles", "Guardar", "Anillas", "Oficina"]
+    },
+    {
+      "word": "Goma elástica",
+      "forbidden": ["Estirar", "Atar", "Pelo", "Papeles", "Cinta"]
+    },
+    {
+      "word": "Encuadernador",
+      "forbidden": ["Metal", "Papel", "Agujero", "Unir", "Patitas"]
+    },
+    {
+      "word": "Pestaña",
+      "forbidden": ["Carpeta", "Separador", "Nombre", "Buscar", "Archivo"]
+    },
+    {
+      "word": "Separador",
+      "forbidden": ["Archivador", "Cartulina", "Asignaturas", "Colores", "Dividir"]
+    },
+    {
+      "word": "Folio",
+      "forbidden": ["Papel", "Blanco", "Escribir", "Imprimir", "Din A4"]
+    },
+    {
+      "word": "Retrovisor",
+      "forbidden": ["Coche", "Espejo", "Mirar", "Atrás", "Conducir"]
+    },
+    {
+      "word": "Parabrisas",
+      "forbidden": ["Coche", "Cristal", "Delante", "Conducir", "Romper"]
+    },
+    {
+      "word": "Limpiaparabrisas",
+      "forbidden": ["Agua", "Lluvia", "Cristal", "Coche", "Mover"]
+    },
+    {
+      "word": "Intermitente",
+      "forbidden": ["Coche", "Luz", "Girar", "Naranja", "Avisar"]
+    },
+    {
+      "word": "Parachoques",
+      "forbidden": ["Coche", "Golpe", "Delante", "Detrás", "Proteger"]
+    },
+    {
+      "word": "Llanta",
+      "forbidden": ["Rueda", "Coche", "Metal", "Neumático", "Tapacubos"]
+    },
+    {
+      "word": "Tapacubos",
+      "forbidden": ["Rueda", "Plástico", "Coche", "Llanta", "Proteger"]
+    },
+    {
+      "word": "Embrague",
+      "forbidden": ["Coche", "Pedal", "Marchas", "Pisar", "Cambiar"]
+    },
+    {
+      "word": "Caja de cambios",
+      "forbidden": ["Coche", "Marchas", "Palanca", "Conducir", "Velocidad"]
+    },
+    {
+      "word": "Freno de mano",
+      "forbidden": ["Coche", "Aparcar", "Tirar", "Palanca", "Parado"]
+    },
+    {
+      "word": "Claxon",
+      "forbidden": ["Pitar", "Ruido", "Coche", "Volante", "Avisar"]
+    },
+    {
+      "word": "Guantera",
+      "forbidden": ["Coche", "Guardar", "Papeles", "Copiloto", "Abrir"]
+    },
+    {
+      "word": "Cuentakilómetros",
+      "forbidden": ["Coche", "Velocidad", "Aguja", "Panel", "Rápido"]
+    },
+    {
+      "word": "Salpicadero",
+      "forbidden": ["Coche", "Delante", "Panel", "Radio", "Volante"]
+    },
+    {
+      "word": "Asiento",
+      "forbidden": ["Sentarse", "Coche", "Conductor", "Copiloto", "Atrás"]
+    },
+    {
+      "word": "Reposacabezas",
+      "forbidden": ["Asiento", "Coche", "Cuello", "Apoyar", "Accidente"]
+    },
+    {
+      "word": "Chasis",
+      "forbidden": ["Coche", "Esqueleto", "Estructura", "Metal", "Vehículo"]
+    },
+    {
+      "word": "Tubo de escape",
+      "forbidden": ["Coche", "Humo", "Atrás", "Ruido", "Contaminar"]
+    },
+    {
+      "word": "Batería del coche",
+      "forbidden": ["Arrancar", "Pinzas", "Energía", "Motor", "Cambiar"]
+    },
+    {
+      "word": "Gato hidráulico",
+      "forbidden": ["Coche", "Levantar", "Rueda", "Pinchar", "Cambiar"]
+    },
+    {
+      "word": "Llave inglesa",
+      "forbidden": ["Herramienta", "Tuerca", "Apretar", "Ajustable", "Metal"]
+    },
+    {
+      "word": "Llave Allen",
+      "forbidden": ["Ikea", "Muebles", "Herramienta", "Tornillo", "Montar"]
+    },
+    {
+      "word": "Broca",
+      "forbidden": ["Taladro", "Agujero", "Pared", "Herramienta", "Girar"]
+    },
+    {
+      "word": "Taco",
+      "forbidden": ["Pared", "Agujero", "Plástico", "Tornillo", "Clavar"]
+    },
+    {
+      "word": "Lija",
+      "forbidden": ["Madera", "Suave", "Raspar", "Papel", "Bricolaje"]
+    },
+    {
+      "word": "Cinta métrica",
+      "forbidden": ["Metro", "Medir", "Largo", "Centímetros", "Herramienta"]
+    },
+    {
+      "word": "Nivel",
+      "forbidden": ["Burbuja", "Recto", "Medir", "Herramienta", "Pared"]
+    },
+    {
+      "word": "Espátula",
+      "forbidden": ["Pared", "Pintura", "Raspar", "Herramienta", "Masilla"]
+    },
+    {
+      "word": "Brocha",
+      "forbidden": ["Pintar", "Pelo", "Pared", "Gorda", "Pincel"]
+    },
+    {
+      "word": "Rodillo",
+      "forbidden": ["Pintar", "Pared", "Girar", "Pintura", "Bricolaje"]
+    },
+    {
+      "word": "Cúter",
+      "forbidden": ["Cortar", "Cuchilla", "Cajas", "Herramienta", "Afilado"]
+    },
+    {
+      "word": "Cinta aislante",
+      "forbidden": ["Pegar", "Negra", "Cables", "Electricista", "Plástico"]
+    },
+    {
+      "word": "Cinta de carrocero",
+      "forbidden": ["Pintar", "Papel", "Pegar", "Proteger", "Bordes"]
+    },
+    {
+      "word": "Brida",
+      "forbidden": ["Atar", "Plástico", "Cables", "Apretar", "Unir"]
+    },
+    {
+      "word": "Silicona",
+      "forbidden": ["Pistola", "Pegar", "Baño", "Sellar", "Transparente"]
+    },
+    {
+      "word": "Masilla",
+      "forbidden": ["Pared", "Agujero", "Tapar", "Espátula", "Pasta"]
+    },
+    {
+      "word": "Barniz",
+      "forbidden": ["Madera", "Brillo", "Pintar", "Proteger", "Mueble"]
+    },
+    {
+      "word": "Disolvente",
+      "forbidden": ["Pintura", "Limpiar", "Olor", "Manchas", "Líquido"]
+    },
+    {
+      "word": "Soldador",
+      "forbidden": ["Herramienta", "Metal", "Unir", "Calor", "Chispas"]
+    },
+    {
+      "word": "Olla express",
+      "forbidden": ["Cocinar", "Rápido", "Presión", "Pitar", "Válvula"]
+    },
+    {
+      "word": "Pasapurés",
+      "forbidden": ["Patata", "Aplastar", "Máquina", "Mano", "Comida"]
+    },
+    {
+      "word": "Rodillo de amasar",
+      "forbidden": ["Masa", "Pizza", "Madera", "Cocina", "Aplanar"]
+    },
+    {
+      "word": "Molde",
+      "forbidden": ["Tarta", "Horno", "Forma", "Bizcocho", "Recipiente"]
+    },
+    {
+      "word": "Manga pastelera",
+      "forbidden": ["Nata", "Decorar", "Tarta", "Bolsa", "Dulce"]
+    },
+    {
+      "word": "Batidora de varillas",
+      "forbidden": ["Huevo", "Montar", "Nata", "Postre", "Mezclar"]
+    },
+    {
+      "word": "Báscula de cocina",
+      "forbidden": ["Pesar", "Gramos", "Receta", "Comida", "Medir"]
+    },
+    {
+      "word": "Temporizador",
+      "forbidden": ["Tiempo", "Reloj", "Cocina", "Pitar", "Minutos"]
+    },
+    {
+      "word": "Abrebotellas",
+      "forbidden": ["Cerveza", "Chapa", "Abrir", "Cristal", "Herramienta"]
+    },
+    {
+      "word": "Pelador",
+      "forbidden": ["Patatas", "Fruta", "Quitar", "Piel", "Cuchillo"]
+    },
+    {
+      "word": "Cucharón",
+      "forbidden": ["Sopa", "Servir", "Olla", "Grande", "Caldo"]
+    },
+    {
+      "word": "Pinzas de cocina",
+      "forbidden": ["Coger", "Comida", "Sartén", "Dar la vuelta", "Carne"]
+    },
+    {
+      "word": "Espátula de silicona",
+      "forbidden": ["Lengua", "Cocina", "Rebañar", "Postre", "Bol"]
+    },
+    {
+      "word": "Tabla de cortar",
+      "forbidden": ["Cuchillo", "Madera", "Cocina", "Cebolla", "Picar"]
+    },
+    {
+      "word": "Posavasos",
+      "forbidden": ["Mesa", "Poner", "Vaso", "Manchar", "Bebida"]
+    },
+    {
+      "word": "Fiambrera",
+      "forbidden": ["Comida", "Tupper", "Llevar", "Trabajo", "Colegio"]
+    },
+    {
+      "word": "Cantimplora",
+      "forbidden": ["Agua", "Beber", "Excursión", "Botella", "Llevar"]
+    },
+    {
+      "word": "Dispensador",
+      "forbidden": ["Jabón", "Agua", "Apretar", "Sacar", "Líquido"]
+    },
+    {
+      "word": "Licuadora",
+      "forbidden": ["Zumo", "Fruta", "Líquido", "Máquina", "Beber"]
+    },
+    {
+      "word": "Sandwichera",
+      "forbidden": ["Pan", "Queso", "Calentar", "Máquina", "Cerrar"]
+    },
+    {
+      "word": "Tablet",
+      "forbidden": ["Pantalla", "iPad", "Ordenador", "Táctil", "Pequeño"]
+    },
+    {
+      "word": "eReader",
+      "forbidden": ["Libro", "Leer", "Electrónico", "Pantalla", "Kindle"]
+    },
+    {
+      "word": "Smartwatch",
+      "forbidden": ["Reloj", "Inteligente", "Hora", "Pasos", "Muñeca"]
+    },
+    {
+      "word": "Pulsera de actividad",
+      "forbidden": ["Pasos", "Deporte", "Muñeca", "Medir", "Reloj"]
+    },
+    {
+      "word": "Cargador inalámbrico",
+      "forbidden": ["Móvil", "Batería", "Cable", "Encima", "Cargar"]
+    },
+    {
+      "word": "Enchufe inteligente",
+      "forbidden": ["Móvil", "Apagar", "Corriente", "WiFi", "Controlar"]
+    },
+    {
+      "word": "Plancha de pelo",
+      "forbidden": ["Alisar", "Calor", "Peinarse", "Rizos", "Quemarse"]
+    },
+    {
+      "word": "Cortapelos",
+      "forbidden": ["Cabeza", "Máquina", "Rapar", "Peluquería", "Peine"]
+    },
+    {
+      "word": "Depiladora eléctrica",
+      "forbidden": ["Pelo", "Arrancar", "Piernas", "Máquina", "Dolor"]
+    },
+    {
+      "word": "Cepillo eléctrico",
+      "forbidden": ["Dientes", "Lavar", "Motor", "Girar", "Boca"]
+    },
+    {
+      "word": "Irrigador dental",
+      "forbidden": ["Agua", "Dientes", "Limpiar", "Chorro", "Boca"]
+    },
+    {
+      "word": "Robot aspirador",
+      "forbidden": ["Suelo", "Limpiar", "Solo", "Máquina", "Roomba"]
+    },
+    {
+      "word": "Altavoz inteligente",
+      "forbidden": ["Alexa", "Hablar", "Música", "Voz", "Preguntar"]
+    },
+    {
+      "word": "Cámara de seguridad",
+      "forbidden": ["Grabar", "Robar", "Casa", "Vigilar", "Vídeo"]
+    },
+    {
+      "word": "Disco duro externo",
+      "forbidden": ["Ordenador", "Memoria", "Guardar", "USB", "Copia"]
+    },
+    {
+      "word": "Pendrive",
+      "forbidden": ["USB", "Memoria", "Guardar", "Ordenador", "Conectar"]
+    },
+    {
+      "word": "Tarjeta SD",
+      "forbidden": ["Cámara", "Fotos", "Memoria", "Móvil", "Guardar"]
+    },
+    {
+      "word": "Monitor",
+      "forbidden": ["Pantalla", "Ordenador", "Ver", "PC", "Imagen"]
+    },
+    {
+      "word": "Teclado mecánico",
+      "forbidden": ["Ordenador", "Escribir", "Ruido", "Gamer", "Teclas"]
+    },
+    {
+      "word": "Ratón inalámbrico",
+      "forbidden": ["Ordenador", "Mover", "Cable", "Clic", "Pilas"]
+    },
+    {
+      "word": "Gulas",
+      "forbidden": ["Angulas", "Pescado", "Ajillo", "Finas", "Navidad"]
+    },
+    {
+      "word": "Torrezno",
+      "forbidden": ["Cerdo", "Frito", "Crujiente", "Bar", "Tapa"]
+    },
+    {
+      "word": "Callos",
+      "forbidden": ["Garbanzos", "Estómago", "Cerdo", "Madrileña", "Guiso"]
+    },
+    {
+      "word": "Pisto",
+      "forbidden": ["Verduras", "Tomate", "Huevo", "Manchego", "Sartén"]
+    },
+    {
+      "word": "Marmitako",
+      "forbidden": ["Atún", "Bonito", "Patata", "País Vasco", "Guiso"]
+    },
+    {
+      "word": "Fideuá",
+      "forbidden": ["Pasta", "Paella", "Marisco", "Fideos", "Valencia"]
+    },
+    {
+      "word": "Escalivada",
+      "forbidden": ["Pimiento", "Berenjena", "Asado", "Cataluña", "Horno"]
+    },
+    {
+      "word": "Salpicón",
+      "forbidden": ["Marisco", "Vinagreta", "Pulpo", "Pimiento", "Frío"]
+    },
+    {
+      "word": "Gofio",
+      "forbidden": ["Canarias", "Harina", "Tostado", "Leche", "Plátano"]
+    },
+    {
+      "word": "Cortado",
+      "forbidden": ["Café", "Leche", "Bar", "Pequeño", "Taza"]
+    },
+    {
+      "word": "Café bombón",
+      "forbidden": ["Leche condensada", "Dulce", "Taza", "Transparente", "Mezclar"]
+    },
+    {
+      "word": "Clara",
+      "forbidden": ["Cerveza", "Limón", "Gaseosa", "Verano", "Bar"]
+    },
+    {
+      "word": "Tinto de verano",
+      "forbidden": ["Vino", "Gaseosa", "Limón", "Hielo", "Verano"]
+    },
+    {
+      "word": "Leche merengada",
+      "forbidden": ["Canela", "Limón", "Blanca", "Helado", "Fría"]
+    },
+    {
+      "word": "Pan de molde",
+      "forbidden": ["Bimbo", "Rebanada", "Sándwich", "Cuadrado", "Tostadora"]
+    },
+    {
+      "word": "Picos",
+      "forbidden": ["Pan", "Colines", "Crujiente", "Pequeño", "Jamón"]
+    },
+    {
+      "word": "Regañá",
+      "forbidden": ["Pan", "Andalucía", "Crujiente", "Plana", "Picar"]
+    },
+    {
+      "word": "Mantecado",
+      "forbidden": ["Navidad", "Polvorón", "Dulce", "Grasa", "Manteca"]
+    },
+    {
+      "word": "Rosquilla",
+      "forbidden": ["Dulce", "Frita", "Agujero", "Anís", "Azúcar"]
+    },
+    {
+      "word": "Sobaos",
+      "forbidden": ["Pasiegos", "Cantabria", "Mantequilla", "Dulce", "Desayuno"]
+    },
+    {
+      "word": "Envidia",
+      "forbidden": ["Celos", "Querer", "Tener", "Malo", "Verde"]
+    },
+    {
+      "word": "Celos",
+      "forbidden": ["Pareja", "Envidia", "Amor", "Desconfianza", "Cuernos"]
+    },
+    {
+      "word": "Orgullo",
+      "forbidden": ["Soberbia", "Humildad", "Tragar", "Sentimiento", "Pedir perdón"]
+    },
+    {
+      "word": "Vergüenza",
+      "forbidden": ["Rojo", "Tierra", "Trágame", "Tímido", "Público"]
+    },
+    {
+      "word": "Culpa",
+      "forbidden": ["Perdón", "Sentimiento", "Error", "Hacerlo mal", "Castigo"]
+    },
+    {
+      "word": "Esperanza",
+      "forbidden": ["Último", "Perder", "Futuro", "Ilusión", "Fe"]
+    },
+    {
+      "word": "Decepción",
+      "forbidden": ["Tristeza", "Esperar", "Fallar", "Desilusión", "Chasco"]
+    },
+    {
+      "word": "Sorpresa",
+      "forbidden": ["Susto", "Inesperado", "Regalo", "Fiesta", "Cara"]
+    },
+    {
+      "word": "Asco",
+      "forbidden": ["Repugnancia", "Comida", "Vomitar", "Malo", "Cara"]
+    },
+    {
+      "word": "Rabia",
+      "forbidden": ["Enfado", "Ira", "Cabreo", "Gritar", "Enojo"]
+    },
+    {
+      "word": "Nostalgia",
+      "forbidden": ["Pasado", "Tristeza", "Recuerdo", "Echar de menos", "Morriña"]
+    },
+    {
+      "word": "Euforia",
+      "forbidden": ["Alegría", "Feliz", "Subidón", "Gritar", "Emoción"]
+    },
+    {
+      "word": "Empatía",
+      "forbidden": ["Zapatos", "Ponerse", "Entender", "Lugar", "Sentimientos"]
+    },
+    {
+      "word": "Egoísmo",
+      "forbidden": ["Compartir", "Mío", "Solo", "Pensar en ti", "Tacaño"]
+    },
+    {
+      "word": "Altruismo",
+      "forbidden": ["Ayudar", "Demás", "Dar", "Egoísmo", "Solidaridad"]
+    },
+    {
+      "word": "Sinceridad",
+      "forbidden": ["Verdad", "Mentira", "Decir", "Honesto", "Franco"]
+    },
+    {
+      "word": "Mentira",
+      "forbidden": ["Verdad", "Engañar", "Pinocho", "Falso", "Decir"]
+    },
+    {
+      "word": "Verdad",
+      "forbidden": ["Mentira", "Sincero", "Decir", "Razón", "Cierto"]
+    },
+    {
+      "word": "Justicia",
+      "forbidden": ["Juez", "Leyes", "Tribunal", "Ciego", "Igualdad"]
+    },
+    {
+      "word": "Libertad",
+      "forbidden": ["Cárcel", "Preso", "Volar", "Hacer", "Independencia"]
+    },
+    {
+      "word": "Geometría",
+      "forbidden": ["Matemáticas", "Formas", "Triángulo", "Medir", "Asignatura"]
+    },
+    {
+      "word": "Círculo",
+      "forbidden": ["Redondo", "Pelota", "Forma", "Cuadrado", "Centro"]
+    },
+    {
+      "word": "Cuadrado",
+      "forbidden": ["Cuatro", "Lados", "Forma", "Círculo", "Cubo"]
+    },
+    {
+      "word": "Triángulo",
+      "forbidden": ["Tres", "Lados", "Forma", "Pirámide", "Puntas"]
+    },
+    {
+      "word": "Rectángulo",
+      "forbidden": ["Cuadrado", "Lados", "Largo", "Forma", "Caja"]
+    },
+    {
+      "word": "Esfera",
+      "forbidden": ["Bola", "Círculo", "3D", "Pelota", "Redonda"]
+    },
+    {
+      "word": "Cilindro",
+      "forbidden": ["Tubo", "Redondo", "Forma", "Rollo", "Largo"]
+    },
+    {
+      "word": "Historia",
+      "forbidden": ["Pasado", "Asignatura", "Años", "Reyes", "Guerra"]
+    },
+    {
+      "word": "Geografía",
+      "forbidden": ["Mapa", "Ríos", "Montañas", "Países", "Asignatura"]
+    },
+    {
+      "word": "Física",
+      "forbidden": ["Ciencia", "Química", "Asignatura", "Newton", "Leyes"]
+    },
+    {
+      "word": "Química",
+      "forbidden": ["Ciencia", "Física", "Laboratorio", "Elementos", "Mezclar"]
+    },
+    {
+      "word": "Biología",
+      "forbidden": ["Ciencia", "Animales", "Plantas", "Cuerpo", "Asignatura"]
+    },
+    {
+      "word": "Filosofía",
+      "forbidden": ["Pensar", "Platón", "Asignatura", "Mente", "Preguntas"]
+    },
+    {
+      "word": "Gimnasia",
+      "forbidden": ["Deporte", "Educación", "Física", "Colegio", "Sudar"]
+    },
+    {
+      "word": "Literatura",
+      "forbidden": ["Libros", "Leer", "Escritores", "Poesía", "Asignatura"]
+    },
+    {
+      "word": "Gramática",
+      "forbidden": ["Lengua", "Reglas", "Escribir", "Verbos", "Asignatura"]
+    },
+    {
+      "word": "Ortografía",
+      "forbidden": ["Faltas", "Escribir", "Letras", "Lengua", "Tilde"]
+    },
+    {
+      "word": "Verbo",
+      "forbidden": ["Acción", "Palabra", "Conjugar", "Gramática", "Sustantivo"]
+    },
+    {
+      "word": "Sustantivo",
+      "forbidden": ["Nombre", "Cosa", "Persona", "Palabra", "Adjetivo"]
+    },
+    {
+      "word": "Adjetivo",
+      "forbidden": ["Describir", "Sustantivo", "Cualidad", "Guapo", "Palabra"]
+    },
+    {
+      "word": "Calambre",
+      "forbidden": ["Músculo", "Dolor", "Tirón", "Pierna", "Deporte"]
+    },
+    {
+      "word": "Tirón",
+      "forbidden": ["Músculo", "Dolor", "Deporte", "Pierna", "Estirar"]
+    },
+    {
+      "word": "Esguince",
+      "forbidden": ["Tobillo", "Torcer", "Dolor", "Hinchado", "Pie"]
+    },
+    {
+      "word": "Fractura",
+      "forbidden": ["Hueso", "Romper", "Escayola", "Radiografía", "Dolor"]
+    },
+    {
+      "word": "Hemorragia",
+      "forbidden": ["Sangre", "Salir", "Corte", "Herida", "Parar"]
+    },
+    {
+      "word": "Infarto",
+      "forbidden": ["Corazón", "Pecho", "Dolor", "Ambulancia", "Ataque"]
+    },
+    {
+      "word": "Mareo",
+      "forbidden": ["Cabeza", "Caer", "Vueltas", "Desmayo", "Coche"]
+    },
+    {
+      "word": "Desmayo",
+      "forbidden": ["Caer", "Suelo", "Conocimiento", "Mareo", "Despertar"]
+    },
+    {
+      "word": "Náusea",
+      "forbidden": ["Vómito", "Ganas", "Estómago", "Mareo", "Embarazo"]
+    },
+    {
+      "word": "Vómito",
+      "forbidden": ["Potar", "Estómago", "Comida", "Enfermo", "Boca"]
+    },
+    {
+      "word": "Diarrea",
+      "forbidden": ["Caca", "Líquido", "Baño", "Enfermo", "Estómago"]
+    },
+    {
+      "word": "Estreñimiento",
+      "forbidden": ["Caca", "Baño", "Fibra", "Dolor", "Dificultad"]
+    },
+    {
+      "word": "Padrastro",
+      "forbidden": ["Dedo", "Piel", "Uña", "Tirar", "Dolor"]
+    },
+    {
+      "word": "Orzuelo",
+      "forbidden": ["Ojo", "Párpado", "Grano", "Dolor", "Rojo"]
+    },
+    {
+      "word": "Llaga",
+      "forbidden": ["Boca", "Dolor", "Afta", "Blanca", "Lengua"]
+    },
+    {
+      "word": "DNI",
+      "forbidden": ["Carnet", "Identidad", "Cartera", "Policía", "Número"]
+    },
+    {
+      "word": "Declaración de la renta",
+      "forbidden": ["Hacienda", "Pagar", "Dinero", "Impuestos", "Borrador"]
+    },
+    {
+      "word": "Bombona de butano",
+      "forbidden": ["Gas", "Naranja", "Calentador", "Estufa", "Repartidor"]
+    },
+    {
+      "word": "Caganer",
+      "forbidden": ["Belén", "Navidad", "Cataluña", "Caca", "Figura"]
+    },
+    {
+      "word": "Romería",
+      "forbidden": ["Fiesta", "Ermita", "Campo", "Virgen", "Pueblo"]
+    },
+    {
+      "word": "Cerrajero",
+      "forbidden": ["Llaves", "Puerta", "Abrir", "Cerradura", "Cambiar"]
+    },
+    {
+      "word": "Cristalero",
+      "forbidden": ["Vidrio", "Ventana", "Roto", "Cortar", "Espejo"]
+    },
+    {
+      "word": "Albañil",
+      "forbidden": ["Ladrillo", "Cemento", "Obra", "Construir", "Pared"]
+    },
+    {
+      "word": "Tapicero",
+      "forbidden": ["Sofá", "Tela", "Silla", "Mueble", "Forrar"]
+    },
+    {
+      "word": "Estanquero",
+      "forbidden": ["Tabaco", "Vender", "Sellos", "Tienda", "Fumar"]
+    },
+    {
+      "word": "Barrendero",
+      "forbidden": ["Calle", "Limpiar", "Escoba", "Basura", "Carrito"]
+    },
+    {
+      "word": "Juez de línea",
+      "forbidden": ["Fútbol", "Árbitro", "Fuera de juego", "Bandera", "Banda"]
+    },
+    {
+      "word": "Locutorio",
+      "forbidden": ["Llamar", "Extranjero", "Internet", "Cabina", "Teléfono"]
+    },
+    {
+      "word": "Estanco",
+      "forbidden": ["Tabaco", "Comprar", "Sellos", "Fumar", "Tienda"]
+    },
+    {
+      "word": "Inmobiliaria",
+      "forbidden": ["Piso", "Vender", "Alquilar", "Casa", "Comprar"]
+    },
+    {
+      "word": "Funeraria",
+      "forbidden": ["Muertos", "Entierro", "Ataúd", "Tanatorio", "Empresa"]
+    },
+    {
+      "word": "Tanatorio",
+      "forbidden": ["Muerto", "Velar", "Familia", "Llorar", "Edificio"]
+    },
+    {
+      "word": "Lápida",
+      "forbidden": ["Tumba", "Cementerio", "Piedra", "Nombre", "Muerto"]
+    },
+    {
+      "word": "Ataúd",
+      "forbidden": ["Muerto", "Caja", "Madera", "Enterrar", "Cementerio"]
+    },
+    {
+      "word": "Corona de flores",
+      "forbidden": ["Muerto", "Círculo", "Entierro", "Tanatorio", "Pésame"]
+    },
+    {
+      "word": "Pésame",
+      "forbidden": ["Dar", "Muerto", "Siento", "Familia", "Funeral"]
+    },
+    {
+      "word": "Luto",
+      "forbidden": ["Negro", "Ropa", "Muerte", "Tristeza", "Viuda"]
+    },
+    {
+      "word": "Viuda",
+      "forbidden": ["Marido", "Muerto", "Mujer", "Sola", "Casada"]
+    },
+    {
+      "word": "Huérfano",
+      "forbidden": ["Padres", "Sin", "Niño", "Adoptar", "Muertos"]
+    },
+    {
+      "word": "Soltero",
+      "forbidden": ["Casado", "Pareja", "Solo", "Boda", "Novio"]
+    },
+    {
+      "word": "Casado",
+      "forbidden": ["Boda", "Marido", "Mujer", "Anillo", "Soltero"]
+    },
+    {
+      "word": "Divorciado",
+      "forbidden": ["Separado", "Casado", "Ex", "Matrimonio", "Abogado"]
+    },
+    {
+      "word": "Suegra",
+      "forbidden": ["Madre", "Marido", "Mujer", "Nuera", "Yerno"]
+    },
+    {
+      "word": "Yerno",
+      "forbidden": ["Hija", "Marido", "Suegros", "Casado", "Hombre"]
+    },
+    {
+      "word": "Nuera",
+      "forbidden": ["Hijo", "Mujer", "Suegros", "Casada", "Chica"]
+    },
+    {
+      "word": "Cuñado",
+      "forbidden": ["Hermano", "Marido", "Mujer", "Broma", "Pesado"]
+    },
+    {
+      "word": "Suegro",
+      "forbidden": ["Padre", "Marido", "Mujer", "Yerno", "Nuera"]
+    },
+    {
+      "word": "Sobrino",
+      "forbidden": ["Tío", "Hermano", "Hijo", "Familia", "Niño"]
+    },
+    {
+      "word": "Primo",
+      "forbidden": ["Tío", "Hijo", "Familia", "Hermano", "Jugar"]
+    },
+    {
+      "word": "Tío",
+      "forbidden": ["Hermano", "Padre", "Sobrino", "Familia", "Mayor"]
+    },
+    {
+      "word": "Biznieto",
+      "forbidden": ["Abuelo", "Hijo", "Nieto", "Familia", "Generación"]
+    },
+    {
+      "word": "Mellizos",
+      "forbidden": ["Gemelos", "Dos", "Embarazo", "Nacer", "Hermanos"]
+    },
+    {
+      "word": "Trillizos",
+      "forbidden": ["Tres", "Hermanos", "Embarazo", "Nacer", "A la vez"]
+    },
+    {
+      "word": "Padrino",
+      "forbidden": ["Bautizo", "Boda", "Madrina", "Ahijado", "Iglesia"]
+    },
+    {
+      "word": "Madrina",
+      "forbidden": ["Bautizo", "Boda", "Padrino", "Ahijada", "Iglesia"]
+    },
+    {
+      "word": "Bautizo",
+      "forbidden": ["Bebé", "Agua", "Iglesia", "Cura", "Padrinos"]
+    },
+    {
+      "word": "Comunión",
+      "forbidden": ["Vestido", "Primera", "Iglesia", "Hostia", "Regalos"]
+    },
+    {
+      "word": "Confirmación",
+      "forbidden": ["Iglesia", "Religión", "Obispo", "Católico", "Joven"]
+    },
+    {
+      "word": "Aniversario",
+      "forbidden": ["Boda", "Celebrar", "Años", "Fecha", "Regalo"]
+    },
+    {
+      "word": "Luna de miel",
+      "forbidden": ["Viaje", "Boda", "Novios", "Casados", "Romántico"]
+    },
+    {
+      "word": "Alianza",
+      "forbidden": ["Anillo", "Boda", "Oro", "Dedo", "Casarse"]
+    },
+    {
+      "word": "Prometido",
+      "forbidden": ["Anillo", "Casarse", "Novio", "Boda", "Pedida"]
+    },
+    {
+      "word": "Pedida de mano",
+      "forbidden": ["Anillo", "Casarse", "Rodilla", "Novia", "Preguntar"]
+    },
+    {
+      "word": "Despedida de soltero",
+      "forbidden": ["Fiesta", "Boda", "Amigos", "Disfraz", "Noche"]
+    },
+    {
+      "word": "Moisés",
+      "forbidden": ["Bebé", "Cuna", "Mimbre", "Dormir", "Pequeño"]
+    },
+    {
+      "word": "Chichonera",
+      "forbidden": ["Cuna", "Bebé", "Golpes", "Proteger", "Cabeza"]
+    },
+    {
+      "word": "Cambiador",
+      "forbidden": ["Bebé", "Pañal", "Mueble", "Limpiar", "Toallitas"]
+    },
+    {
+      "word": "Potito",
+      "forbidden": ["Bebé", "Comida", "Puré", "Bote", "Cristal"]
+    },
+    {
+      "word": "Instituto",
+      "forbidden": ["Adolescentes", "Estudiar", "Colegio", "ESO", "Profesores"]
+    },
+    {
+      "word": "Campus",
+      "forbidden": ["Universidad", "Edificios", "Estudiantes", "Facultad", "Césped"]
+    },
+    {
+      "word": "Beca",
+      "forbidden": ["Dinero", "Estudiar", "Pagar", "Universidad", "Erasmus"]
+    },
+    {
+      "word": "Tesis",
+      "forbidden": ["Doctorado", "Escribir", "Universidad", "Trabajo", "Investigar"]
+    },
+    {
+      "word": "Doctorado",
+      "forbidden": ["Tesis", "Universidad", "Máster", "Estudiar", "Título"]
+    },
+    {
+      "word": "Catedrático",
+      "forbidden": ["Profesor", "Universidad", "Clase", "Máximo", "Enseñar"]
+    },
+    {
+      "word": "Rector",
+      "forbidden": ["Universidad", "Jefe", "Mandar", "Catedrático", "Facultad"]
+    },
+    {
+      "word": "Graduación",
+      "forbidden": ["Título", "Universidad", "Orla", "Fiesta", "Terminar"]
+    },
+    {
+      "word": "Orla",
+      "forbidden": ["Fotos", "Universidad", "Compañeros", "Cuadro", "Graduación"]
+    },
+    {
+      "word": "Toga",
+      "forbidden": ["Negra", "Graduación", "Juez", "Ropa", "Ponerse"]
+    },
+    {
+      "word": "Birrete",
+      "forbidden": ["Cabeza", "Graduación", "Toga", "Lanzar", "Sombrero"]
+    },
+    {
+      "word": "Chuleta",
+      "forbidden": ["Examen", "Copiar", "Esconder", "Papel", "Suspender"]
+    },
+    {
+      "word": "Apuntes",
+      "forbidden": ["Escribir", "Clase", "Estudiar", "Folios", "Profesor"]
+    },
+    {
+      "word": "Pupitre",
+      "forbidden": ["Mesa", "Colegio", "Sentarse", "Silla", "Alumno"]
+    },
+    {
+      "word": "Portaminas",
+      "forbidden": ["Lápiz", "Escribir", "Minas", "Apretar", "Estuche"]
+    },
+    {
+      "word": "Pluma estilográfica",
+      "forbidden": ["Escribir", "Tinta", "Elegante", "Bolígrafo", "Tintero"]
+    },
+    {
+      "word": "Tintero",
+      "forbidden": ["Tinta", "Pluma", "Mojar", "Líquido", "Escribir"]
+    },
+    {
+      "word": "Pergamino",
+      "forbidden": ["Papel", "Antiguo", "Enrollar", "Escribir", "Papiro"]
+    },
+    {
+      "word": "Papiro",
+      "forbidden": ["Egipto", "Papel", "Antiguo", "Escribir", "Planta"]
+    },
+    {
+      "word": "Jeroglífico",
+      "forbidden": ["Egipto", "Dibujos", "Escribir", "Pirámide", "Símbolo"]
+    },
+    {
+      "word": "Fósil",
+      "forbidden": ["Dinosaurio", "Piedra", "Hueso", "Antiguo", "Arqueólogo"]
+    },
+    {
+      "word": "Dinosaurio",
+      "forbidden": ["Extinguido", "T-Rex", "Fósil", "Animal", "Jurásico"]
+    },
+    {
+      "word": "Mamut",
+      "forbidden": ["Elefante", "Pelo", "Hielo", "Prehistoria", "Colmillos"]
+    },
+    {
+      "word": "Cavernícola",
+      "forbidden": ["Cueva", "Prehistoria", "Fuego", "Garrote", "Pieles"]
+    },
+    {
+      "word": "Edad Media",
+      "forbidden": ["Castillos", "Caballeros", "Reyes", "Época", "Historia"]
+    },
+    {
+      "word": "Imperio Romano",
+      "forbidden": ["Roma", "Emperador", "Gladiadores", "Historia", "César"]
+    },
+    {
+      "word": "Catapulta",
+      "forbidden": ["Piedra", "Tirar", "Castillo", "Arma", "Guerra"]
+    },
+    {
+      "word": "Guillotina",
+      "forbidden": ["Cabeza", "Cortar", "Francia", "Revolución", "Ejecutar"]
+    },
+    {
+      "word": "Inquisición",
+      "forbidden": ["Iglesia", "Brujas", "Fuego", "Hereje", "Historia"]
+    },
+    {
+      "word": "Revolución",
+      "forbidden": ["Francesa", "Pueblo", "Rey", "Luchar", "Cambio"]
+    },
+    {
+      "word": "Huelga",
+      "forbidden": ["Trabajo", "Protestar", "Sindicato", "Piquete", "Parar"]
+    },
+    {
+      "word": "Sindicato",
+      "forbidden": ["Trabajadores", "Defender", "Derechos", "Huelga", "UGT"]
+    },
+    {
+      "word": "Manifestación",
+      "forbidden": ["Calle", "Protestar", "Pancarta", "Gritar", "Gente"]
+    },
+    {
+      "word": "Pancarta",
+      "forbidden": ["Cartel", "Manifestación", "Letras", "Sostener", "Tela"]
+    },
+    {
+      "word": "Megáfono",
+      "forbidden": ["Voz", "Hablar", "Alto", "Manifestación", "Ruido"]
+    },
+    {
+      "word": "Elecciones",
+      "forbidden": ["Votar", "Políticos", "Urna", "Democracia", "Presidente"]
+    },
+    {
+      "word": "Urna",
+      "forbidden": ["Votar", "Caja", "Transparente", "Papeleta", "Elecciones"]
+    },
+    {
+      "word": "Papeleta",
+      "forbidden": ["Votar", "Papel", "Sobre", "Urna", "Partido"]
+    },
+    {
+      "word": "Votar",
+      "forbidden": ["Elecciones", "Urna", "Elegir", "Político", "Democracia"]
+    },
+    {
+      "word": "Presidente",
+      "forbidden": ["Gobierno", "Mandar", "País", "Ministro", "Votar"]
+    },
+    {
+      "word": "Ministro",
+      "forbidden": ["Gobierno", "Presidente", "Cartera", "Político", "Educación"]
+    },
+    {
+      "word": "Congreso",
+      "forbidden": ["Diputados", "Leones", "Madrid", "Políticos", "Votar"]
+    },
+    {
+      "word": "Senado",
+      "forbidden": ["Políticos", "Cámara", "Leyes", "Congreso", "Votar"]
+    },
+    {
+      "word": "Diputado",
+      "forbidden": ["Congreso", "Político", "Votar", "Escaño", "Partido"]
+    },
+    {
+      "word": "Ley",
+      "forbidden": ["Norma", "Cumplir", "Congreso", "Juez", "Prohibir"]
+    },
+    {
+      "word": "Constitución",
+      "forbidden": ["Leyes", "Libro", "España", "Derechos", "1978"]
+    },
+    {
+      "word": "Visado",
+      "forbidden": ["Pasaporte", "Viajar", "País", "Frontera", "Permiso"]
+    },
+    {
+      "word": "Embajada",
+      "forbidden": ["País", "Extranjero", "Representar", "Consulado", "Edificio"]
+    },
+    {
+      "word": "Consulado",
+      "forbidden": ["Embajada", "País", "Trámites", "Pasaporte", "Extranjero"]
+    },
+    {
+      "word": "Refugiado",
+      "forbidden": ["Guerra", "Huir", "País", "Asilo", "Frontera"]
+    },
+    {
+      "word": "Inmigrante",
+      "forbidden": ["País", "Vivir", "Trabajar", "Frontera", "Patera"]
+    },
+    {
+      "word": "Muralla",
+      "forbidden": ["Pared", "Castillo", "Defender", "China", "Piedra"]
+    },
+    {
+      "word": "Foso",
+      "forbidden": ["Castillo", "Agua", "Rodea", "Cocodrilos", "Defender"]
+    },
+    {
+      "word": "Puente levadizo",
+      "forbidden": ["Castillo", "Foso", "Subir", "Bajar", "Entrar"]
+    },
+    {
+      "word": "Torreón",
+      "forbidden": ["Castillo", "Alto", "Vigilar", "Almenas", "Piedra"]
+    },
+    {
+      "word": "Almena",
+      "forbidden": ["Castillo", "Pared", "Arriba", "Proteger", "Piedra"]
+    },
+    {
+      "word": "Choza",
+      "forbidden": ["Casa", "Pobre", "Paja", "Madera", "Campo"]
+    },
+    {
+      "word": "Cabaña",
+      "forbidden": ["Madera", "Bosque", "Casa", "Campo", "Árbol"]
+    },
+    {
+      "word": "Iglú",
+      "forbidden": ["Hielo", "Esquimal", "Nieve", "Polo", "Casa"]
+    },
+    {
+      "word": "Carpa",
+      "forbidden": ["Circo", "Tienda", "Fiesta", "Poner", "Tela"]
+    },
+    {
+      "word": "Remolque",
+      "forbidden": ["Coche", "Enganchar", "Llevar", "Tractor", "Carga"]
+    },
+    {
+      "word": "Cosechadora",
+      "forbidden": ["Tractor", "Campo", "Trigo", "Máquina", "Agricultor"]
+    },
+    {
+      "word": "Arado",
+      "forbidden": ["Campo", "Tierra", "Tractor", "Sembrar", "Agricultor"]
+    },
+    {
+      "word": "Espantapájaros",
+      "forbidden": ["Campo", "Pájaros", "Muñeco", "Paja", "Miedo"]
+    },
+    {
+      "word": "Granero",
+      "forbidden": ["Granja", "Guardar", "Trigo", "Animales", "Edificio"]
+    },
+    {
+      "word": "Pajar",
+      "forbidden": ["Paja", "Granja", "Guardar", "Aguja", "Seco"]
+    },
+    {
+      "word": "Herradura",
+      "forbidden": ["Caballo", "Pie", "Hierro", "Suerte", "Clavar"]
+    },
+    {
+      "word": "Silla de montar",
+      "forbidden": ["Caballo", "Sentarse", "Cuero", "Jinete", "Cabalgar"]
+    },
+    {
+      "word": "Riendas",
+      "forbidden": ["Caballo", "Tirar", "Frenar", "Manos", "Dirigir"]
+    },
+    {
+      "word": "Látigo",
+      "forbidden": ["Pegar", "Caballo", "Indiana Jones", "Cuero", "Domador"]
+    },
+    {
+      "word": "Espuelas",
+      "forbidden": ["Botas", "Caballo", "Metal", "Jinete", "Picar"]
+    },
+    {
+      "word": "Estribo",
+      "forbidden": ["Pie", "Caballo", "Subir", "Silla", "Apoyar"]
+    },
+    {
+      "word": "Jinete",
+      "forbidden": ["Caballo", "Montar", "Hombre", "Galopar", "Carrera"]
+    },
+    {
+      "word": "Rodeo",
+      "forbidden": ["Caballo", "Toro", "Vaquero", "Montar", "Estados Unidos"]
+    },
+    {
+      "word": "Lazo",
+      "forbidden": ["Cuerda", "Vaquero", "Atrapar", "Nudo", "Regalo"]
+    },
+    {
+      "word": "Ganadería",
+      "forbidden": ["Animales", "Cuidar", "Vacas", "Granja", "Toros"]
+    },
+    {
+      "word": "Pastor",
+      "forbidden": ["Ovejas", "Rebaño", "Campo", "Perro", "Cuidar"]
+    },
+    {
+      "word": "Rebaño",
+      "forbidden": ["Ovejas", "Grupo", "Pastor", "Perro", "Juntas"]
+    },
+    {
+      "word": "Perro pastor",
+      "forbidden": ["Ovejas", "Cuidar", "Animal", "Rebaño", "Ladrar"]
+    },
+    {
+      "word": "Maullar",
+      "forbidden": ["Gato", "Ruido", "Miau", "Animal", "Llamar"]
+    },
+    {
+      "word": "Ronronear",
+      "forbidden": ["Gato", "Ruido", "Feliz", "Acariciar", "Motor"]
+    },
+    {
+      "word": "Relinchar",
+      "forbidden": ["Caballo", "Ruido", "Animal", "Sonido", "Boca"]
+    },
+    {
+      "word": "Mugir",
+      "forbidden": ["Vaca", "Ruido", "Mu", "Animal", "Sonido"]
+    },
+    {
+      "word": "Cacarear",
+      "forbidden": ["Gallina", "Gallo", "Ruido", "Huevos", "Animal"]
+    },
+    {
+      "word": "Piar",
+      "forbidden": ["Pájaro", "Ruido", "Pío", "Pollito", "Cantar"]
+    },
+    {
+      "word": "Cloquear",
+      "forbidden": ["Gallina", "Huevo", "Poner", "Ruido", "Sonido"]
+    },
+    {
+      "word": "Zumbar",
+      "forbidden": ["Abeja", "Mosca", "Ruido", "Volar", "Oreja"]
+    },
+    {
+      "word": "Pecera",
+      "forbidden": ["Peces", "Agua", "Cristal", "Casa", "Nadar"]
+    },
+    {
+      "word": "Jaula",
+      "forbidden": ["Pájaros", "Barrotes", "Cerrar", "Animal", "Volar"]
+    },
+    {
+      "word": "Correa",
+      "forbidden": ["Perro", "Pasear", "Atar", "Collar", "Llevar"]
+    },
+    {
+      "word": "Bozal",
+      "forbidden": ["Perro", "Boca", "Morder", "Poner", "Peligroso"]
+    },
+    {
+      "word": "Pienso",
+      "forbidden": ["Perro", "Gato", "Comida", "Bolas", "Saco"]
+    },
+    {
+      "word": "Espina",
+      "forbidden": ["Pescado", "Hueso", "Clavar", "Garganta", "Comer"]
+    },
+    {
+      "word": "Escama",
+      "forbidden": ["Pez", "Piel", "Quitar", "Brillar", "Pescado"]
+    },
+    {
+      "word": "Aleta",
+      "forbidden": ["Pez", "Nadar", "Tiburón", "Bucear", "Mover"]
+    },
+    {
+      "word": "Branquias",
+      "forbidden": ["Pez", "Respirar", "Agua", "Lados", "Pulmones"]
+    },
+    {
+      "word": "Tentáculo",
+      "forbidden": ["Pulpo", "Calamar", "Brazos", "Ventosas", "Ocho"]
+    },
+    {
+      "word": "Caparazón",
+      "forbidden": ["Tortuga", "Cangrejo", "Duro", "Proteger", "Esconderse"]
+    },
+    {
+      "word": "Cuerno",
+      "forbidden": ["Vaca", "Toro", "Cabeza", "Pintar", "Rinoceronte"]
+    },
+    {
+      "word": "Pezuña",
+      "forbidden": ["Cerdo", "Vaca", "Pie", "Pata", "Jamón"]
+    },
+    {
+      "word": "Hocico",
+      "forbidden": ["Perro", "Cerdo", "Nariz", "Boca", "Animal"]
+    },
+    {
+      "word": "Rabo",
+      "forbidden": ["Cola", "Perro", "Mover", "Detrás", "Animal"]
+    },
+    {
+      "word": "Pluma",
+      "forbidden": ["Pájaro", "Volar", "Ala", "Suave", "Indio"]
+    },
+    {
+      "word": "Pico",
+      "forbidden": ["Pájaro", "Boca", "Comer", "Pato", "Ave"]
+    },
+    {
+      "word": "Ala",
+      "forbidden": ["Volar", "Pájaro", "Avión", "Plumas", "Aire"]
+    },
+    {
+      "word": "Garra",
+      "forbidden": ["León", "Águila", "Uñas", "Arañar", "Atrapar"]
+    },
+    {
+      "word": "Colmillo",
+      "forbidden": ["Diente", "Vampiro", "Lobo", "Morder", "Afilado"]
+    },
+    {
+      "word": "Melena",
+      "forbidden": ["León", "Pelo", "Cabeza", "Largo", "Rey"]
+    },
+    {
+      "word": "Trompa",
+      "forbidden": ["Elefante", "Nariz", "Larga", "Agua", "Animal"]
+    },
+    {
+      "word": "Joroba",
+      "forbidden": ["Camello", "Dromedario", "Espalda", "Agua", "Bulto"]
+    },
+    {
+      "word": "Cascarón",
+      "forbidden": ["Huevo", "Romper", "Nacer", "Pollito", "Cáscara"]
+    },
+    {
+      "word": "Yema",
+      "forbidden": ["Huevo", "Amarilla", "Clara", "Freír", "Romper"]
+    },
+    {
+      "word": "Huevo frito",
+      "forbidden": ["Sartén", "Aceite", "Yema", "Pan", "Mojar"]
+    },
+    {
+      "word": "Huevo duro",
+      "forbidden": ["Cocer", "Agua", "Pelar", "Ensalada", "Blanco"]
+    },
+    {
+      "word": "Huevos revueltos",
+      "forbidden": ["Sartén", "Desayuno", "Mezclar", "Bacon", "Batir"]
+    },
+    {
+      "word": "Salsa barbacoa",
+      "forbidden": ["Costillas", "Carne", "Marrón", "Dulce", "Kétchup"]
+    },
+    {
+      "word": "Salsa rosa",
+      "forbidden": ["Mayonesa", "Kétchup", "Mezclar", "Marisco", "Cóctel"]
+    },
+    {
+      "word": "Salsa brava",
+      "forbidden": ["Patatas", "Picante", "Bar", "Tapa", "Roja"]
+    },
+    {
+      "word": "Chimichurri",
+      "forbidden": ["Carne", "Argentina", "Asado", "Salsa", "Hierbas"]
+    },
+    {
+      "word": "Hummus",
+      "forbidden": ["Garbanzos", "Untar", "Árabe", "Pan", "Puré"]
+    },
+    {
+      "word": "Falafel",
+      "forbidden": ["Garbanzos", "Frito", "Árabe", "Bolas", "Kebab"]
+    },
+    {
+      "word": "Sashimi",
+      "forbidden": ["Sushi", "Pescado", "Crudo", "Japonés", "Cortado"]
+    },
+    {
+      "word": "Rollito de primavera",
+      "forbidden": ["Chino", "Frito", "Verduras", "Restaurante", "Masa"]
+    },
+    {
+      "word": "Pan de gamba",
+      "forbidden": ["Chino", "Blanco", "Crujiente", "Restaurante", "Aperitivo"]
+    },
+    {
+      "word": "Fideos chinos",
+      "forbidden": ["Pasta", "Restaurante", "Wok", "Salsa de soja", "Comer"]
+    },
+    {
+      "word": "Arroz tres delicias",
+      "forbidden": ["Chino", "Guisantes", "Jamón", "Tortilla", "Restaurante"]
+    },
+    {
+      "word": "Pollo agridulce",
+      "forbidden": ["Chino", "Salsa", "Naranja", "Restaurante", "Frito"]
+    },
+    {
+      "word": "Pato asado",
+      "forbidden": ["Chino", "Pekín", "Restaurante", "Carne", "Piel"]
+    },
+    {
+      "word": "Bambú",
+      "forbidden": ["Panda", "Comer", "Planta", "China", "Verde"]
+    },
+    {
+      "word": "Palillos chinos",
+      "forbidden": ["Comer", "Sushi", "Restaurante", "Madera", "Manos"]
+    },
+    {
+      "word": "Wok",
+      "forbidden": ["Sartén", "China", "Cocinar", "Verduras", "Hondo"]
+    },
+    {
+      "word": "Wasabi",
+      "forbidden": ["Picante", "Verde", "Sushi", "Japonés", "Pasta"]
+    },
+    {
+      "word": "Jengibre",
+      "forbidden": ["Raíz", "Picante", "Sushi", "Té", "Planta"]
+    },
+    {
+      "word": "Curry",
+      "forbidden": ["Pollo", "Amarillo", "India", "Especia", "Salsa"]
+    },
+    {
+      "word": "Cúrcuma",
+      "forbidden": ["Especia", "Amarillo", "Curry", "Polvo", "Manchar"]
+    },
+    {
+      "word": "Pimentón",
+      "forbidden": ["Rojo", "Polvo", "Especia", "Dulce", "Picante"]
+    },
+    {
+      "word": "Nuez moscada",
+      "forbidden": ["Especia", "Bechamel", "Rallar", "Polvo", "Croquetas"]
+    },
+    {
+      "word": "Rúcula",
+      "forbidden": ["Ensalada", "Verde", "Hojas", "Pizza", "Lechuga"]
+    },
+    {
+      "word": "Comino",
+      "forbidden": ["Especia", "Polvo", "Olor", "Guiso", "Sabor"]
+    },
+    {
+      "word": "Albahaca",
+      "forbidden": ["Pesto", "Verde", "Planta", "Pizza", "Maceta"]
+    },
+    {
+      "word": "Menta",
+      "forbidden": ["Planta", "Verde", "Chicle", "Fresco", "Mojito"]
+    },
+    {
+      "word": "Cilantro",
+      "forbidden": ["Planta", "Verde", "Guacamole", "México", "Sabor"]
+    },
+    {
+      "word": "Eneldo",
+      "forbidden": ["Salmón", "Hierba", "Verde", "Ahumado", "Salsa"]
+    },
+    {
+      "word": "Hierbabuena",
+      "forbidden": ["Mojito", "Menta", "Hojas", "Verde", "Bebida"]
+    },
+    {
+      "word": "Manzanilla",
+      "forbidden": ["Infusión", "Estómago", "Beber", "Flor", "Caliente"]
+    },
+    {
+      "word": "Tila",
+      "forbidden": ["Nervios", "Infusión", "Relajarse", "Beber", "Dormir"]
+    },
+    {
+      "word": "Poleo menta",
+      "forbidden": ["Infusión", "Beber", "Caliente", "Bar", "Hierba"]
+    },
+    {
+      "word": "Carajillo",
+      "forbidden": ["Café", "Coñac", "Alcohol", "Vaso", "Bar"]
+    },
+    {
+      "word": "San Isidro",
+      "forbidden": ["Madrid", "Mayo", "Chulapo", "Pradera", "Fiesta"]
+    },
+    {
+      "word": "Flamenquín",
+      "forbidden": ["Córdoba", "Lomo", "Jamón", "Empanado", "Frito"]
+    },
+    {
+      "word": "Seguridad Social",
+      "forbidden": ["Médico", "Tarjeta", "Hospital", "Cotizar", "Salud"]
+    },
+    {
+      "word": "Villancico",
+      "forbidden": ["Navidad", "Cantar", "Pandereta", "Canción", "Nochebuena"]
+    },
+    {
+      "word": "Mango",
+      "forbidden": ["Fruta", "Tropical", "Amarillo", "Árbol", "Dulce"]
+    },
+    {
+      "word": "Papaya",
+      "forbidden": ["Fruta", "Tropical", "Naranja", "Semillas", "Árbol"]
+    },
+    {
+      "word": "Mandarina",
+      "forbidden": ["Naranja", "Fruta", "Gajos", "Pelar", "Dulce"]
+    },
+    {
+      "word": "Pomelo",
+      "forbidden": ["Fruta", "Cítrico", "Amargo", "Rosa", "Desayuno"]
+    },
+    {
+      "word": "Coco",
+      "forbidden": ["Fruta", "Palmera", "Agua", "Blanco", "Duro"]
+    },
+    {
+      "word": "Mora",
+      "forbidden": ["Zarza", "Fruta", "Negra", "Bosque", "Pequeña"]
+    },
+    {
+      "word": "Arándano",
+      "forbidden": ["Azul", "Fruta", "Pequeño", "Bosque", "Rojo"]
+    },
+    {
+      "word": "Frambuesa",
+      "forbidden": ["Roja", "Fruta", "Pequeña", "Bosque", "Dulce"]
+    },
+    {
+      "word": "Rábano",
+      "forbidden": ["Rojo", "Raíz", "Picante", "Ensalada", "Blanco"]
+    },
+    {
+      "word": "Remolacha",
+      "forbidden": ["Roja", "Raíz", "Ensalada", "Manchar", "Morada"]
+    },
+    {
+      "word": "Acelga",
+      "forbidden": ["Verde", "Verdura", "Hoja", "Cocer", "Hervir"]
+    },
+    {
+      "word": "Endivia",
+      "forbidden": ["Blanca", "Amarga", "Ensalada", "Hoja", "Roquefort"]
+    },
+    {
+      "word": "Escarola",
+      "forbidden": ["Ensalada", "Verde", "Rizada", "Invierno", "Lechuga"]
+    },
+    {
+      "word": "Berro",
+      "forbidden": ["Verde", "Ensalada", "Agua", "Pequeño", "Hoja"]
+    },
+    {
+      "word": "Chirimoya",
+      "forbidden": ["Fruta", "Verde", "Dulce", "Pepitas", "Blanca"]
+    },
+    {
+      "word": "Caqui",
+      "forbidden": ["Fruta", "Naranja", "Dulce", "Otoño", "Blando"]
+    },
+    {
+      "word": "Níspero",
+      "forbidden": ["Fruta", "Naranja", "Primavera", "Huesos", "Dulce"]
+    },
+    {
+      "word": "Granada",
+      "forbidden": ["Fruta", "Granos", "Rojos", "Otoño", "Explotar"]
+    },
+    {
+      "word": "Higo",
+      "forbidden": ["Fruta", "Higuera", "Dulce", "Morado", "Verde"]
+    },
+    {
+      "word": "Breva",
+      "forbidden": ["Fruta", "Higuera", "Antes", "Dulce", "Morada"]
+    },
+    {
+      "word": "Chupa Chups",
+      "forbidden": ["Caramelo", "Palo", "Chupar", "Kojak", "Dulce"]
+    },
+    {
+      "word": "Regaliz",
+      "forbidden": ["Negro", "Rojo", "Dulce", "Palo", "Masticar"]
+    },
+    {
+      "word": "Piruleta",
+      "forbidden": ["Caramelo", "Palo", "Corazón", "Roja", "Fresa"]
+    },
+    {
+      "word": "Kiko",
+      "forbidden": ["Maíz", "Tostado", "Salado", "Amarillo", "Picar"]
+    },
+    {
+      "word": "Altramuz",
+      "forbidden": ["Amarillo", "Salado", "Bar", "Aperitivo", "Legumbre"]
+    },
+    {
+      "word": "Cacahuete",
+      "forbidden": ["Fruto seco", "Cáscara", "Mono", "Salado", "Mantequilla"]
+    },
+    {
+      "word": "Anacardo",
+      "forbidden": ["Fruto seco", "Forma", "Blanco", "Salado", "Curvo"]
+    },
+    {
+      "word": "Pistacho",
+      "forbidden": ["Fruto seco", "Verde", "Cáscara", "Salado", "Abrir"]
+    },
+    {
+      "word": "Avellana",
+      "forbidden": ["Fruto seco", "Redonda", "Chocolate", "Nocilla", "Marrón"]
+    },
+    {
+      "word": "Piñón",
+      "forbidden": ["Fruto seco", "Pequeño", "Caro", "Pesto", "Pino"]
+    },
+    {
+      "word": "Macadamia",
+      "forbidden": ["Fruto seco", "Redonda", "Blanca", "Cara", "Dulce"]
+    },
+    {
+      "word": "Pretzel",
+      "forbidden": ["Lazo", "Salado", "Galleta", "Alemán", "Horno"]
+    },
+    {
+      "word": "Palomitas de maíz",
+      "forbidden": ["Cine", "Película", "Microondas", "Saladas", "Explotar"]
+    },
+    {
+      "word": "Algodón de azúcar",
+      "forbidden": ["Feria", "Rosa", "Dulce", "Palo", "Nube"]
+    },
+    {
+      "word": "Manzana de caramelo",
+      "forbidden": ["Feria", "Roja", "Palo", "Dulce", "Fruta"]
+    },
+    {
+      "word": "Pentagrama",
+      "forbidden": ["Música", "Líneas", "Notas", "Escribir", "Cinco"]
+    },
+    {
+      "word": "Clave de Sol",
+      "forbidden": ["Música", "Pentagrama", "Dibujo", "Empezar", "Notas"]
+    },
+    {
+      "word": "Corchea",
+      "forbidden": ["Música", "Nota", "Tiempo", "Negra", "Blanca"]
+    },
+    {
+      "word": "Afinador",
+      "forbidden": ["Música", "Guitarra", "Instrumento", "Tono", "Nota"]
+    },
+    {
+      "word": "Metrónomo",
+      "forbidden": ["Música", "Ritmo", "Tiempo", "Péndulo", "Tictac"]
+    },
+    {
+      "word": "Batuta",
+      "forbidden": ["Director", "Orquesta", "Palo", "Dirigir", "Músicos"]
+    },
+    {
+      "word": "Sinfonía",
+      "forbidden": ["Música", "Orquesta", "Clásica", "Beethoven", "Obra"]
+    },
+    {
+      "word": "Copla",
+      "forbidden": ["Música", "España", "Cantar", "Folclore", "Artista"]
+    },
+    {
+      "word": "Reguetón",
+      "forbidden": ["Música", "Bailar", "Perreo", "Discoteca", "Latino"]
+    },
+    {
+      "word": "Hip Hop",
+      "forbidden": ["Música", "Rap", "Cantar", "Rimas", "Urbano"]
+    },
+    {
+      "word": "Jazz",
+      "forbidden": ["Música", "Saxofón", "Improvisar", "Negro", "Trompeta"]
+    },
+    {
+      "word": "Blues",
+      "forbidden": ["Música", "Triste", "Guitarra", "Negro", "Jazz"]
+    },
+    {
+      "word": "Rock",
+      "forbidden": ["Música", "Guitarra", "Eléctrica", "Batería", "Duro"]
+    },
+    {
+      "word": "Heavy Metal",
+      "forbidden": ["Música", "Duro", "Guitarra", "Melena", "Ruido"]
+    },
+    {
+      "word": "Estribillo",
+      "forbidden": ["Canción", "Repetir", "Letra", "Coro", "Cantar"]
+    },
+    {
+      "word": "Rodapié",
+      "forbidden": ["Zócalo", "Suelo", "Pared", "Madera", "Borde"]
+    },
+    {
+      "word": "Cornisa",
+      "forbidden": ["Techo", "Fachada", "Pared", "Borde", "Edificio"]
+    },
+    {
+      "word": "Azotea",
+      "forbidden": ["Tejado", "Edificio", "Arriba", "Terraza", "Tender"]
+    },
+    {
+      "word": "Claraboya",
+      "forbidden": ["Techo", "Tragaluz", "Ventana", "Luz", "Cristal"]
+    },
+    {
+      "word": "Despensa",
+      "forbidden": ["Cocina", "Guardar", "Comida", "Alimentos", "Habitación"]
+    },
+    {
+      "word": "Tabla de planchar",
+      "forbidden": ["Ropa", "Plancha", "Arrugas", "Mueble", "Doblar"]
+    },
+    {
+      "word": "Quitapelusas",
+      "forbidden": ["Ropa", "Rodillo", "Pegajoso", "Limpiar", "Pelo"]
+    },
+    {
+      "word": "Costurero",
+      "forbidden": ["Caja", "Hilos", "Agujas", "Coser", "Guardar"]
+    },
+    {
+      "word": "Alfiler",
+      "forbidden": ["Coser", "Pinchar", "Cabeza", "Ropa", "Fino"]
+    },
+    {
+      "word": "Imperdible",
+      "forbidden": ["Cerrar", "Ropa", "Pinchar", "Metal", "Enganchar"]
+    },
+    {
+      "word": "Istmo",
+      "forbidden": ["Tierra", "Mar", "Unir", "Estrecho", "Península"]
+    },
+    {
+      "word": "Fiordo",
+      "forbidden": ["Noruega", "Mar", "Montañas", "Glaciar", "Agua"]
+    },
+    {
+      "word": "Iceberg",
+      "forbidden": ["Hielo", "Titanic", "Mar", "Hundir", "Frío"]
+    },
+    {
+      "word": "Estepa",
+      "forbidden": ["Llanura", "Seca", "Hierba", "Rusia", "Naturaleza"]
+    },
+    {
+      "word": "Taiga",
+      "forbidden": ["Bosque", "Coníferas", "Frío", "Nieve", "Rusia"]
+    },
+    {
+      "word": "Catarata",
+      "forbidden": ["Cascada", "Agua", "Caer", "Río", "Victoria"]
+    },
+    {
+      "word": "Afluente",
+      "forbidden": ["Río", "Desembocar", "Agua", "Principal", "Pequeño"]
+    },
+    {
+      "word": "Desembocadura",
+      "forbidden": ["Río", "Mar", "Final", "Agua", "Océano"]
+    },
+    {
+      "word": "Delta",
+      "forbidden": ["Río", "Desembocadura", "Mar", "Triángulo", "Ebro"]
+    },
+    {
+      "word": "Puercoespín",
+      "forbidden": ["Animal", "Púas", "Pinchar", "Defender", "Erizo"]
+    },
+    {
+      "word": "Armadillo",
+      "forbidden": ["Animal", "Caparazón", "Bola", "Proteger", "Piel"]
+    },
+    {
+      "word": "Oso hormiguero",
+      "forbidden": ["Animal", "Hormigas", "Lengua", "Larga", "Hocico"]
+    },
+    {
+      "word": "Tapir",
+      "forbidden": ["Animal", "Trompa", "Cerdo", "Selva", "Corta"]
+    },
+    {
+      "word": "Llama",
+      "forbidden": ["Animal", "Escupir", "Perú", "Andes", "Lana"]
+    },
+    {
+      "word": "Alpaca",
+      "forbidden": ["Animal", "Lana", "Suave", "Llama", "Andes"]
+    },
+    {
+      "word": "Ñandú",
+      "forbidden": ["Animal", "Ave", "Correr", "Avestruz", "Sudamérica"]
+    },
+    {
+      "word": "Kiwi",
+      "forbidden": ["Ave", "Pájaro", "Nueva Zelanda", "Fruta", "Volar"]
+    },
+    {
+      "word": "Ornitorrinco",
+      "forbidden": ["Animal", "Pato", "Australia", "Veneno", "Mamífero"]
+    },
+    {
+      "word": "Demonio de Tasmania",
+      "forbidden": ["Animal", "Australia", "Demonio", "Girar", "Marsupial"]
+    },
+    {
+      "word": "Dingo",
+      "forbidden": ["Perro", "Salvaje", "Australia", "Animal", "Lobo"]
+    },
+    {
+      "word": "Coyote",
+      "forbidden": ["Animal", "Correcaminos", "Lobo", "Desierto", "Aullar"]
+    },
+    {
+      "word": "Chacal",
+      "forbidden": ["Animal", "Perro", "Salvaje", "África", "Carroña"]
+    },
+    {
+      "word": "Hiena",
+      "forbidden": ["Animal", "Reír", "África", "León", "Carroña"]
+    },
+    {
+      "word": "Suricata",
+      "forbidden": ["Animal", "África", "Levantar", "Timón", "Rey León"]
+    },
+    {
+      "word": "Lemur",
+      "forbidden": ["Animal", "Madagascar", "Cola", "Rayas", "Mono"]
+    },
+    {
+      "word": "Orangután",
+      "forbidden": ["Mono", "Naranja", "Grande", "Selva", "Árbol"]
+    },
+    {
+      "word": "Chimpancé",
+      "forbidden": ["Mono", "Inteligente", "Selva", "Animal", "Humano"]
+    },
+    {
+      "word": "Mandril",
+      "forbidden": ["Mono", "Cara", "Colores", "África", "Rafiki"]
+    },
+    {
+      "word": "Babuino",
+      "forbidden": ["Mono", "África", "Culo", "Rojo", "Grande"]
+    },
+    {
+      "word": "Narval",
+      "forbidden": ["Ballena", "Cuerno", "Mar", "Unicornio", "Hielo"]
+    },
+    {
+      "word": "Beluga",
+      "forbidden": ["Ballena", "Blanca", "Mar", "Delfín", "Frío"]
+    },
+    {
+      "word": "Orca",
+      "forbidden": ["Ballena", "Asesina", "Blanca", "Negra", "Willy"]
+    },
+    {
+      "word": "Cachalote",
+      "forbidden": ["Ballena", "Grande", "Dientes", "Mar", "Moby Dick"]
+    },
+    {
+      "word": "León marino",
+      "forbidden": ["Foca", "Mar", "Circo", "Aplaudir", "Animal"]
+    },
+    {
+      "word": "Manatí",
+      "forbidden": ["Vaca", "Mar", "Lento", "Gordo", "Sirena"]
+    },
+    {
+      "word": "Manta raya",
+      "forbidden": ["Pez", "Plano", "Mar", "Volar", "Veneno"]
+    },
+    {
+      "word": "Pez espada",
+      "forbidden": ["Pez", "Mar", "Largo", "Pico", "Cortar"]
+    },
+    {
+      "word": "Pez payaso",
+      "forbidden": ["Pez", "Nemo", "Naranja", "Blanco", "Anémona"]
+    },
+    {
+      "word": "Pez globo",
+      "forbidden": ["Pez", "Hinchar", "Pinchos", "Veneno", "Japonés"]
+    },
+    {
+      "word": "Hipocampo",
+      "forbidden": ["Caballito", "Mar", "Pez", "Enroscar", "Forma"]
+    },
+    {
+      "word": "Estrella de mar",
+      "forbidden": ["Pez", "Cinco", "Puntas", "Mar", "Arena"]
+    },
+    {
+      "word": "Erizo de mar",
+      "forbidden": ["Pinchos", "Mar", "Negro", "Pisar", "Roca"]
+    },
+    {
+      "word": "Pepino de mar",
+      "forbidden": ["Animal", "Mar", "Alargado", "Fondo", "Vegetal"]
+    },
+    {
+      "word": "Anémona",
+      "forbidden": ["Mar", "Planta", "Animal", "Pez payaso", "Tentáculos"]
+    },
+    {
+      "word": "Coral",
+      "forbidden": ["Mar", "Arrecife", "Colores", "Duro", "Esponja"]
+    },
+    {
+      "word": "Medusa",
+      "forbidden": ["Mar", "Picar", "Tentáculos", "Transparente", "Agua"]
+    },
+    {
+      "word": "Naufragio",
+      "forbidden": ["Barco", "Hundir", "Mar", "Accidente", "Isla"]
+    },
+    {
+      "word": "Secuestro",
+      "forbidden": ["Robar", "Persona", "Rescate", "Dinero", "Policía"]
+    },
+    {
+      "word": "Asesinato",
+      "forbidden": ["Matar", "Muerte", "Crimen", "Policía", "Sangre"]
+    },
+    {
+      "word": "Veneno",
+      "forbidden": ["Matar", "Beber", "Tóxico", "Serpiente", "Frasco"]
+    },
+    {
+      "word": "Puñalada",
+      "forbidden": ["Cuchillo", "Clavar", "Sangre", "Herida", "Arma"]
+    },
+    {
+      "word": "Disparo",
+      "forbidden": ["Pistola", "Arma", "Bala", "Ruido", "Matar"]
+    },
+    {
+      "word": "Explosión",
+      "forbidden": ["Bomba", "Explotar", "Ruido", "Fuego", "Destruir"]
+    },
+    {
+      "word": "Incendio",
+      "forbidden": ["Fuego", "Quemar", "Bomberos", "Llamas", "Humo"]
+    },
+    {
+      "word": "Fundición",
+      "forbidden": ["Metal", "Derretir", "Calor", "Fuego", "Fábrica"]
+    },
+    {
+      "word": "Congelación",
+      "forbidden": ["Frío", "Hielo", "Nevera", "Temperatura", "Cero"]
+    },
+    {
+      "word": "Evaporación",
+      "forbidden": ["Agua", "Vapor", "Gas", "Hervir", "Calor"]
+    },
+    {
+      "word": "Condensación",
+      "forbidden": ["Agua", "Gas", "Líquido", "Cristal", "Gota"]
+    },
+    {
+      "word": "Katiuskas",
+      "forbidden": ["Botas", "Agua", "Lluvia", "Goma", "Pisar"]
+    },
+    {
+      "word": "Manopla",
+      "forbidden": ["Guante", "Dedo", "Frío", "Horno", "Mano"]
+    },
+    {
+      "word": "Orejeras",
+      "forbidden": ["Frío", "Orejas", "Invierno", "Tapar", "Cabeza"]
+    },
+    {
+      "word": "Gorro",
+      "forbidden": ["Frío", "Cabeza", "Lana", "Invierno", "Poner"]
+    },
+    {
+      "word": "Turbante",
+      "forbidden": ["Cabeza", "Tela", "Enrollar", "Árabe", "Poner"]
+    },
+    {
+      "word": "Lentillas",
+      "forbidden": ["Gafas", "Ojos", "Ver", "Poner", "Plástico"]
+    },
+    {
+      "word": "Parque Güell",
+      "forbidden": ["Barcelona", "Gaudí", "Mosaico", "Lagarto", "Monumento"]
+    },
+    {
+      "word": "Museo del Prado",
+      "forbidden": ["Madrid", "Cuadros", "Velázquez", "Goya", "Arte"]
+    },
+    {
+      "word": "Reina Sofía",
+      "forbidden": ["Museo", "Madrid", "Guernica", "Picasso", "Arte"]
+    },
+    {
+      "word": "Guggenheim",
+      "forbidden": ["Bilbao", "Museo", "Perro", "Araña", "Arte"]
+    },
+    {
+      "word": "Feria de Abril",
+      "forbidden": ["Sevilla", "Casetas", "Rebujito", "Sevillanas", "Portada"]
+    },
+    {
+      "word": "Menina",
+      "forbidden": ["Velázquez", "Cuadro", "Vestido", "Ancho", "Prado"]
+    },
+    {
+      "word": "Alpinismo",
+      "forbidden": ["Montaña", "Escalar", "Nieve", "Cima", "Pico"]
+    },
+    {
+      "word": "Barranquismo",
+      "forbidden": ["Río", "Montaña", "Saltar", "Cascada", "Deporte"]
+    },
+    {
+      "word": "Rafting",
+      "forbidden": ["Río", "Barca", "Rápido", "Remos", "Agua"]
+    },
+    {
+      "word": "Tirolina",
+      "forbidden": ["Cuerda", "Saltar", "Bajar", "Deslizarse", "Árbol"]
+    },
+    {
+      "word": "Parapente",
+      "forbidden": ["Volar", "Montaña", "Aire", "Saltar", "Caída"]
+    },
+    {
+      "word": "Ala delta",
+      "forbidden": ["Volar", "Triángulo", "Aire", "Saltar", "Montaña"]
+    },
+    {
+      "word": "Espeleología",
+      "forbidden": ["Cuevas", "Explorar", "Linterna", "Subterráneo", "Casco"]
+    },
+    {
+      "word": "Kitesurf",
+      "forbidden": ["Mar", "Tabla", "Cometa", "Viento", "Olas"]
+    },
+    {
+      "word": "Windsurf",
+      "forbidden": ["Mar", "Tabla", "Vela", "Viento", "Olas"]
+    },
+    {
+      "word": "Motocross",
+      "forbidden": ["Moto", "Tierra", "Saltos", "Circuito", "Barro"]
+    },
+    {
+      "word": "Fórmula 1",
+      "forbidden": ["Coches", "Carreras", "Rápido", "Alonso", "Circuito"]
+    },
+    {
+      "word": "Rally",
+      "forbidden": ["Coches", "Carreras", "Tierra", "Copiloto", "Carlos Sainz"]
+    },
+    {
+      "word": "Salto de longitud",
+      "forbidden": ["Atletismo", "Arena", "Correr", "Saltar", "Lejos"]
+    },
+    {
+      "word": "Salto con pértiga",
+      "forbidden": ["Atletismo", "Palo", "Alto", "Saltar", "Colchoneta"]
+    },
+    {
+      "word": "Lanzamiento de peso",
+      "forbidden": ["Atletismo", "Bola", "Metal", "Tirar", "Fuerza"]
+    },
+    {
+      "word": "Lanzamiento de jabalina",
+      "forbidden": ["Atletismo", "Palo", "Lanza", "Tirar", "Lejos"]
+    },
+    {
+      "word": "Maratón",
+      "forbidden": ["Correr", "Carrera", "Kilómetros", "Largo", "Cansancio"]
+    },
+    {
+      "word": "Triatlón",
+      "forbidden": ["Deporte", "Nadar", "Bici", "Correr", "Tres"]
+    },
+    {
+      "word": "Bádminton",
+      "forbidden": ["Raqueta", "Volante", "Red", "Deporte", "Pájaro"]
+    },
+    {
+      "word": "Tenis de mesa",
+      "forbidden": ["Ping-pong", "Raqueta", "Pelota", "Mesa", "Red"]
+    },
+    {
+      "word": "Rugby",
+      "forbidden": ["Balón", "Ovalado", "Placaje", "Deporte", "Melé"]
+    },
+    {
+      "word": "Fútbol americano",
+      "forbidden": ["Estados Unidos", "Balón", "Casco", "Super Bowl", "Placaje"]
+    },
+    {
+      "word": "Béisbol",
+      "forbidden": ["Bate", "Pelota", "Golpear", "Estados Unidos", "Correr"]
+    },
+    {
+      "word": "Críquet",
+      "forbidden": ["Bate", "Pelota", "Inglaterra", "Deporte", "Blanco"]
+    },
+    {
+      "word": "Hockey",
+      "forbidden": ["Palo", "Pastilla", "Hielo", "Patines", "Portería"]
+    },
+    {
+      "word": "Patinaje artístico",
+      "forbidden": ["Hielo", "Patines", "Bailar", "Saltos", "Música"]
+    },
+    {
+      "word": "Gimnasia artística",
+      "forbidden": ["Aparatos", "Potro", "Anillas", "Barra", "Voltereta"]
+    },
+    {
+      "word": "Halterofilia",
+      "forbidden": ["Pesas", "Levantar", "Fuerza", "Barra", "Kilos"]
+    },
+    {
+      "word": "Boxeo",
+      "forbidden": ["Pegar", "Guantes", "Ring", "Deporte", "Puñetazo"]
+    },
+    {
+      "word": "Lucha libre",
+      "forbidden": ["Ring", "Pelear", "Llaves", "Golpes", "Falso"]
+    },
+    {
+      "word": "Taekwondo",
+      "forbidden": ["Arte marcial", "Patadas", "Cinturón", "Luchar", "Coreano"]
+    },
+    {
+      "word": "Damas",
+      "forbidden": ["Juego", "Tablero", "Fichas", "Comer", "Ajedrez"]
+    },
+    {
+      "word": "Tres en raya",
+      "forbidden": ["Juego", "Círculo", "Cruz", "Papel", "Ganar"]
+    },
+    {
+      "word": "Hundir la flota",
+      "forbidden": ["Juego", "Barcos", "Coordenadas", "Agua", "Tocado"]
+    },
+    {
+      "word": "Quién es Quién",
+      "forbidden": ["Juego", "Caras", "Adivinar", "Preguntas", "Personaje"]
+    },
+    {
+      "word": "Monopoly",
+      "forbidden": ["Juego", "Dinero", "Comprar", "Calles", "Cárcel"]
+    },
+    {
+      "word": "Trivial",
+      "forbidden": ["Juego", "Preguntas", "Quesitos", "Colores", "Respuestas"]
+    },
+    {
+      "word": "Pictionary",
+      "forbidden": ["Juego", "Dibujar", "Adivinar", "Papel", "Lápiz"]
+    },
+    {
+      "word": "Scrabble",
+      "forbidden": ["Juego", "Palabras", "Letras", "Fichas", "Tablero"]
+    },
+    {
+      "word": "Twister",
+      "forbidden": ["Juego", "Suelo", "Colores", "Manos", "Pies"]
+    },
+    {
+      "word": "Jenga",
+      "forbidden": ["Juego", "Torre", "Madera", "Bloques", "Caer"]
+    },
+    {
+      "word": "Cartón de bingo",
+      "forbidden": ["Números", "Jugar", "Tachar", "Línea", "Ganar"]
+    },
+    {
+      "word": "Ruleta",
+      "forbidden": ["Casino", "Girar", "Números", "Bola", "Apostar"]
+    },
+    {
+      "word": "Tragaperras",
+      "forbidden": ["Máquina", "Bar", "Monedas", "Premio", "Jugar"]
+    },
+    {
+      "word": "Póker",
+      "forbidden": ["Cartas", "Juego", "Apostar", "Farol", "Fichas"]
+    },
+    {
+      "word": "Mus",
+      "forbidden": ["Cartas", "Juego", "España", "Órdago", "Parejas"]
+    },
+    {
+      "word": "Brisca",
+      "forbidden": ["Cartas", "Juego", "Baraja", "Triunfo", "Bazas"]
+    },
+    {
+      "word": "Tute",
+      "forbidden": ["Cartas", "Juego", "Baraja", "Cante", "Veinte"]
+    },
+    {
+      "word": "Chinchón",
+      "forbidden": ["Cartas", "Juego", "Baraja", "Escalera", "Cortar"]
+    },
+    {
+      "word": "Solitario",
+      "forbidden": ["Cartas", "Juego", "Solo", "Ordenar", "Ordenador"]
+    },
+    {
+      "word": "Sopa de letras",
+      "forbidden": ["Pasatiempo", "Palabras", "Buscar", "Periódico", "Cruzar"]
+    },
+    {
+      "word": "Autodefinido",
+      "forbidden": ["Pasatiempo", "Palabras", "Crucigrama", "Rellenar", "Cuadros"]
+    },
+    {
+      "word": "Laberinto",
+      "forbidden": ["Camino", "Salida", "Perderse", "Paredes", "Pasatiempo"]
+    },
+    {
+      "word": "Tangram",
+      "forbidden": ["Rompecabezas", "Figuras", "Geometría", "Chino", "Piezas"]
+    },
+    {
+      "word": "Papiroflexia",
+      "forbidden": ["Papel", "Doblar", "Figuras", "Origami", "Pajarita"]
+    },
+    {
+      "word": "Maqueta",
+      "forbidden": ["Construir", "Pequeño", "Modelo", "Tren", "Pegamento"]
+    },
+    {
+      "word": "Bonsái",
+      "forbidden": ["Árbol", "Pequeño", "Japonés", "Maceta", "Podar"]
+    },
+    {
+      "word": "Acuariofilia",
+      "forbidden": ["Peces", "Acuario", "Cuidar", "Afición", "Agua"]
+    },
+    {
+      "word": "Filatelia",
+      "forbidden": ["Sellos", "Colección", "Álbum", "Cartas", "Afición"]
+    },
+    {
+      "word": "Numismática",
+      "forbidden": ["Monedas", "Colección", "Álbum", "Dinero", "Antiguas"]
+    },
+    {
+      "word": "Astronomía",
+      "forbidden": ["Estrellas", "Planetas", "Ciencia", "Telescopio", "Espacio"]
+    },
+    {
+      "word": "Horóscopo",
+      "forbidden": ["Zodiaco", "Signos", "Aries", "Futuro", "Leer"]
+    },
+    {
+      "word": "Tarot",
+      "forbidden": ["Cartas", "Adivinar", "Futuro", "Bruja", "Leer"]
+    },
+    {
+      "word": "Quiromancia",
+      "forbidden": ["Mano", "Leer", "Líneas", "Futuro", "Adivinar"]
+    },
+    {
+      "word": "Bola de cristal",
+      "forbidden": ["Adivinar", "Futuro", "Bruja", "Ver", "Redonda"]
+    },
+    {
+      "word": "Chupinazo",
+      "forbidden": ["Cohete", "San Fermín", "Pamplona", "Empezar", "Fiesta"]
+    },
+    {
+      "word": "Toro de Osborne",
+      "forbidden": ["Carretera", "Negro", "Valla", "Cartel", "Símbolo"]
+    },
+    {
+      "word": "Operación Salida",
+      "forbidden": ["Tráfico", "Atasco", "Vacaciones", "Coches", "DGT"]
+    },
+    {
+      "word": "Cuesta de enero",
+      "forbidden": ["Mes", "Dinero", "Gastar", "Navidad", "Pobre"]
+    },
+    {
+      "word": "Pintxo pote",
+      "forbidden": ["País Vasco", "Bar", "Tapa", "Bebida", "Barato"]
+    },
+    {
+      "word": "Papel de aluminio",
+      "forbidden": ["Albal", "Plata", "Envolver", "Bocadillo", "Horno"]
+    },
+    {
+      "word": "Papel film",
+      "forbidden": ["Transparente", "Plástico", "Envolver", "Comida", "Nevera"]
+    },
+    {
+      "word": "Papel de horno",
+      "forbidden": ["Hornear", "Vegetal", "Quemar", "Bandeja", "Galletas"]
+    },
+    {
+      "word": "Delantal",
+      "forbidden": ["Cocinar", "Manchar", "Ropa", "Poner", "Atar"]
+    },
+    {
+      "word": "Vitrocerámica",
+      "forbidden": ["Cocinar", "Fuego", "Cristal", "Placa", "Calentar"]
+    },
+    {
+      "word": "Inducción",
+      "forbidden": ["Vitrocerámica", "Placa", "Calor", "Rápido", "Imanes"]
+    },
+    {
+      "word": "Freidora de aire",
+      "forbidden": ["Aceite", "Airfryer", "Patatas", "Cocinar", "Sana"]
+    },
+    {
+      "word": "Gofrera",
+      "forbidden": ["Gofre", "Máquina", "Caliente", "Masa", "Cuadrados"]
+    },
+    {
+      "word": "Picadora",
+      "forbidden": ["Carne", "Batidora", "Triturar", "Cuchillas", "Máquina"]
+    },
+    {
+      "word": "Exprimidor eléctrico",
+      "forbidden": ["Naranja", "Zumo", "Máquina", "Girar", "Enchufe"]
+    },
+    {
+      "word": "Cuchillo panero",
+      "forbidden": ["Pan", "Sierra", "Cortar", "Rebanada", "Miga"]
+    },
+    {
+      "word": "Jamonero",
+      "forbidden": ["Jamón", "Pata", "Cortar", "Soporte", "Madera"]
+    },
+    {
+      "word": "Plancha de asar",
+      "forbidden": ["Carne", "Cocinar", "Eléctrica", "Parrilla", "Calor"]
+    },
+    {
+      "word": "Cuchara de madera",
+      "forbidden": ["Remover", "Cocina", "Olla", "Guiso", "Palo"]
+    },
+    {
+      "word": "Chino (colador)",
+      "forbidden": ["Colar", "Puré", "Metal", "Agujeros", "Forma"]
+    },
+    {
+      "word": "Descorazonador",
+      "forbidden": ["Manzana", "Centro", "Quitar", "Fruta", "Agujero"]
+    },
+    {
+      "word": "Mandolina",
+      "forbidden": ["Cortar", "Verduras", "Rodajas", "Cuchilla", "Patatas"]
+    },
+    {
+      "word": "Piedra pómez",
+      "forbidden": ["Piel", "Durezas", "Pie", "Frotar", "Baño"]
+    },
+    {
+      "word": "Pelapatatas",
+      "forbidden": ["Pelar", "Piel", "Patata", "Cuchilla", "Verdura"]
+    },
+    {
+      "word": "Abridor de botellas",
+      "forbidden": ["Chapa", "Cerveza", "Abrir", "Metal", "Sacacorchos"]
+    },
+    {
+      "word": "Tetina",
+      "forbidden": ["Biberón", "Bebé", "Chupar", "Goma", "Leche"]
+    },
+    {
+      "word": "Mordedor",
+      "forbidden": ["Bebé", "Dientes", "Encías", "Morder", "Dolor"]
+    },
+    {
+      "word": "Parque cuna",
+      "forbidden": ["Bebé", "Jugar", "Dormir", "Malla", "Cuadrado"]
+    },
+    {
+      "word": "Toallitas húmedas",
+      "forbidden": ["Bebé", "Limpiar", "Caca", "Pañal", "Paquete"]
+    },
+    {
+      "word": "Orinal",
+      "forbidden": ["Pipí", "Caca", "Bebé", "Baño", "Plástico"]
+    },
+    {
+      "word": "Alzador",
+      "forbidden": ["Coche", "Asiento", "Niño", "Cinturón", "Sentarse"]
+    },
+    {
+      "word": "Capota",
+      "forbidden": ["Carrito", "Sol", "Tapar", "Bebé", "Lluvia"]
+    },
+    {
+      "word": "Ruedines",
+      "forbidden": ["Bicicleta", "Niños", "Aprender", "Atrás", "Caerse"]
+    },
+    {
+      "word": "Trompo",
+      "forbidden": ["Peonza", "Cuerda", "Girar", "Suelo", "Madera"]
+    },
+    {
+      "word": "Pica",
+      "forbidden": ["Canica", "Bola", "Jugar", "Cristal", "Golpe"]
+    },
+    {
+      "word": "Yo-yo",
+      "forbidden": ["Cuerda", "Subir", "Bajar", "Juguete", "Girar"]
+    },
+    {
+      "word": "Diábolo",
+      "forbidden": ["Cuerda", "Palos", "Juguete", "Girar", "Lanzar"]
+    },
+    {
+      "word": "Rayuela",
+      "forbidden": ["Suelo", "Tiza", "Saltar", "Números", "Pata coja"]
+    },
+    {
+      "word": "Escondite",
+      "forbidden": ["Contar", "Esconderse", "Encontrar", "Jugar", "Niños"]
+    },
+    {
+      "word": "Pilla-pilla",
+      "forbidden": ["Correr", "Tocar", "Pillar", "Jugar", "Niños"]
+    },
+    {
+      "word": "Gallinita ciega",
+      "forbidden": ["Ojos", "Tapar", "Atrapar", "Jugar", "Pañuelo"]
+    },
+    {
+      "word": "Comba",
+      "forbidden": ["Saltar", "Cuerda", "Jugar", "Canciones", "Dos"]
+    },
+    {
+      "word": "Goma de saltar",
+      "forbidden": ["Niñas", "Piernas", "Jugar", "Patio", "Elástica"]
+    },
+    {
+      "word": "Chapas",
+      "forbidden": ["Botellas", "Tapones", "Jugar", "Suelo", "Circuito"]
+    },
+    {
+      "word": "Cromos",
+      "forbidden": ["Pegatinas", "Álbum", "Colección", "Cambiar", "Repetido"]
+    },
+    {
+      "word": "Balancín",
+      "forbidden": ["Parque", "Subir", "Bajar", "Niños", "Dos"]
+    },
+    {
+      "word": "Arenero",
+      "forbidden": ["Parque", "Arena", "Jugar", "Cubo", "Pala"]
+    },
+    {
+      "word": "Tiovivo",
+      "forbidden": ["Caballos", "Girar", "Feria", "Parque", "Atracción"]
+    },
+    {
+      "word": "Cama elástica",
+      "forbidden": ["Saltar", "Parque", "Rebotar", "Alta", "Tela"]
+    },
+    {
+      "word": "Castillo hinchable",
+      "forbidden": ["Saltar", "Cumpleaños", "Aire", "Niños", "Plástico"]
+    },
+    {
+      "word": "Tiro con arco",
+      "forbidden": ["Flechas", "Diana", "Disparar", "Deporte", "Robin Hood"]
+    },
+    {
+      "word": "Rana (juego)",
+      "forbidden": ["Fichas", "Monedas", "Boca", "Tirar", "Agujero"]
+    },
+    {
+      "word": "Backgammon",
+      "forbidden": ["Tablero", "Fichas", "Dados", "Picos", "Juego"]
+    },
+    {
+      "word": "Mahjong",
+      "forbidden": ["Fichas", "Chino", "Juego", "Símbolos", "Mesa"]
+    },
+    {
+      "word": "Escondite inglés",
+      "forbidden": ["Pared", "Moverse", "Un dos tres", "Jugar", "Niños"]
+    },
+    {
+      "word": "Quiniela",
+      "forbidden": ["Fútbol", "Partidos", "Apostar", "X", "Dos"]
+    },
+    {
+      "word": "Primitiva",
+      "forbidden": ["Lotería", "Números", "Sorteo", "Jugar", "Millones"]
+    },
+    {
+      "word": "ONCE",
+      "forbidden": ["Cupón", "Ciegos", "Sorteo", "Premio", "Comprar"]
+    },
+    {
+      "word": "Rasca y gana",
+      "forbidden": ["Moneda", "Premio", "Oculto", "Rascar", "Papel"]
+    },
+    {
+      "word": "Máquina recreativa",
+      "forbidden": ["Arcade", "Jugar", "Monedas", "Bar", "Videojuego"]
+    },
+    {
+      "word": "Taco de billar",
+      "forbidden": ["Palo", "Golpear", "Bolas", "Mesa", "Tiza"]
+    },
+    {
+      "word": "Tiza de billar",
+      "forbidden": ["Azul", "Taco", "Frotar", "Punta", "Palo"]
+    },
+    {
+      "word": "Red de tenis",
+      "forbidden": ["Medio", "Pista", "Pelota", "Pasar", "Blanca"]
+    },
+    {
+      "word": "Tablero de baloncesto",
+      "forbidden": ["Canasta", "Cristal", "Detrás", "Aro", "Rebotar"]
+    },
+    {
+      "word": "Red de fútbol",
+      "forbidden": ["Portería", "Gol", "Pelota", "Mallas", "Meter"]
+    },
+    {
+      "word": "Bate de béisbol",
+      "forbidden": ["Golpear", "Pelota", "Madera", "Palo", "Estados Unidos"]
+    },
+    {
+      "word": "Guante de béisbol",
+      "forbidden": ["Atrarap", "Pelota", "Cuero", "Mano", "Grande"]
+    },
+    {
+      "word": "Palo de golf",
+      "forbidden": ["Golpear", "Bola", "Hoyo", "Hierro", "Madera"]
+    },
+    {
+      "word": "Hoyo",
+      "forbidden": ["Golf", "Meter", "Bola", "Bandera", "Agujero"]
+    },
+    {
+      "word": "Tee",
+      "forbidden": ["Golf", "Bola", "Suelo", "Plástico", "Primer golpe"]
+    },
+    {
+      "word": "Carrito de golf",
+      "forbidden": ["Conducir", "Palos", "Campo", "Eléctrico", "Jugadores"]
+    },
+    {
+      "word": "Pista de tenis",
+      "forbidden": ["Jugar", "Red", "Tierra batida", "Líneas", "Raqueta"]
+    },
+    {
+      "word": "Pista de pádel",
+      "forbidden": ["Jugar", "Paredes", "Cristal", "Red", "Pala"]
+    },
+    {
+      "word": "Pala de pádel",
+      "forbidden": ["Golpear", "Pelota", "Agujeros", "Raqueta", "Jugar"]
+    },
+    {
+      "word": "Patines en línea",
+      "forbidden": ["Ruedas", "Fila", "Patinar", "Pies", "Bota"]
+    },
+    {
+      "word": "Patines de cuatro ruedas",
+      "forbidden": ["Paralelas", "Freno", "Patinar", "Pista", "Bota"]
+    },
+    {
+      "word": "Skatepark",
+      "forbidden": ["Patinar", "Rampas", "Monopatín", "Trucos", "Parque"]
+    },
+    {
+      "word": "Rampa de skate",
+      "forbidden": ["Saltar", "Curva", "Monopatín", "Bajar", "Subir"]
+    },
+    {
+      "word": "Traje de neopreno",
+      "forbidden": ["Surf", "Buceo", "Frío", "Agua", "Goma"]
+    },
+    {
+      "word": "Gafas de bucear",
+      "forbidden": ["Ojos", "Agua", "Ver", "Mar", "Snorkel"]
+    },
+    {
+      "word": "Tubo de snorkel",
+      "forbidden": ["Respirar", "Agua", "Boca", "Bucear", "Superficie"]
+    },
+    {
+      "word": "Aletas de buceo",
+      "forbidden": ["Pies", "Nadar", "Rápido", "Pato", "Agua"]
+    },
+    {
+      "word": "Bombona de oxígeno",
+      "forbidden": ["Respirar", "Bucear", "Espalda", "Aire", "Profundo"]
+    },
+    {
+      "word": "Paracaídas",
+      "forbidden": ["Saltar", "Avión", "Aire", "Abrir", "Tela"]
+    },
+    {
+      "word": "Globo aerostático",
+      "forbidden": ["Volar", "Aire", "Cesta", "Fuego", "Quemador"]
+    },
+    {
+      "word": "Avioneta",
+      "forbidden": ["Avión", "Pequeña", "Volar", "Hélices", "Piloto"]
+    },
+    {
+      "word": "Jet privado",
+      "forbidden": ["Avión", "Rico", "Lujo", "Pequeño", "Volar"]
+    },
+    {
+      "word": "Auxiliar de vuelo",
+      "forbidden": ["Azafata", "Avión", "Atender", "Pasajeros", "Carrito"]
+    },
+    {
+      "word": "Comandante",
+      "forbidden": ["Piloto", "Avión", "Jefe", "Volar", "Cabina"]
+    },
+    {
+      "word": "Torre de control",
+      "forbidden": ["Aeropuerto", "Dirigir", "Aviones", "Radar", "Alto"]
+    },
+    {
+      "word": "Pista de aterrizaje",
+      "forbidden": ["Avión", "Bajar", "Subir", "Asfalto", "Aeropuerto"]
+    },
+    {
+      "word": "Terminal",
+      "forbidden": ["Aeropuerto", "Pasajeros", "Esperar", "Puertas", "Edificio"]
+    },
+    {
+      "word": "Puerta de embarque",
+      "forbidden": ["Aeropuerto", "Entrar", "Avión", "Número", "Tarjeta"]
+    },
+    {
+      "word": "Tarjeta de embarque",
+      "forbidden": ["Billete", "Vuelo", "Asiento", "Mostrar", "Avión"]
+    },
+    {
+      "word": "Cinta de equipaje",
+      "forbidden": ["Maletas", "Recoger", "Girar", "Aeropuerto", "Esperar"]
+    },
+    {
+      "word": "Detector de metales",
+      "forbidden": ["Aeropuerto", "Pitar", "Seguridad", "Pasar", "Arco"]
+    },
+    {
+      "word": "Control de seguridad",
+      "forbidden": ["Aeropuerto", "Bandejas", "Escáner", "Pasar", "Policía"]
+    },
+    {
+      "word": "Carro de maletas",
+      "forbidden": ["Llevar", "Equipaje", "Aeropuerto", "Empujar", "Ruedas"]
+    },
+    {
+      "word": "Billete de tren",
+      "forbidden": ["Comprar", "Viajar", "Asiento", "Papel", "Estación"]
+    },
+    {
+      "word": "Revisor",
+      "forbidden": ["Tren", "Billete", "Pedir", "Picar", "Empleado"]
+    },
+    {
+      "word": "Vagón cafetería",
+      "forbidden": ["Tren", "Comer", "Beber", "Bar", "Asientos"]
+    },
+    {
+      "word": "Estación de tren",
+      "forbidden": ["Atocha", "Trenes", "Pasajeros", "Esperar", "Vías"]
+    },
+    {
+      "word": "Andén",
+      "forbidden": ["Esperar", "Tren", "Subir", "Bajar", "Línea amarilla"]
+    },
+    {
+      "word": "Vía del tren",
+      "forbidden": ["Hierros", "Madera", "Tren", "Pasar", "Camino"]
+    },
+    {
+      "word": "Ceda el paso",
+      "forbidden": ["Señal", "Tráfico", "Triángulo", "Parar", "Coches"]
+    },
+    {
+      "word": "Paso de peatones",
+      "forbidden": ["Cebra", "Cruzar", "Calle", "Rayas", "Blancas"]
+    },
+    {
+      "word": "Carril bici",
+      "forbidden": ["Bicicleta", "Calle", "Conducir", "Línea", "Pintado"]
+    },
+    {
+      "word": "Calzada",
+      "forbidden": ["Coches", "Conducir", "Carretera", "Asfalto", "Acera"]
+    },
+    {
+      "word": "Guardarraíl",
+      "forbidden": ["Carretera", "Proteger", "Salirse", "Metal", "Borde"]
+    },
+    {
+      "word": "Autovía",
+      "forbidden": ["Autopista", "Carretera", "Rápido", "Coches", "Peaje"]
+    },
+    {
+      "word": "Carretera nacional",
+      "forbidden": ["Coches", "Un carril", "Pueblo", "Conducir", "Lenta"]
+    },
+    {
+      "word": "Glorieta",
+      "forbidden": ["Rotonda", "Circular", "Coches", "Girar", "Salida"]
+    },
+    {
+      "word": "Cruce",
+      "forbidden": ["Calles", "Cruzar", "Semáforo", "Coches", "Intersección"]
+    },
+    {
+      "word": "Desvío",
+      "forbidden": ["Carretera", "Salir", "Obras", "Camino", "Alternativa"]
+    },
+    {
+      "word": "Pasarela",
+      "forbidden": ["Puente", "Peatones", "Cruzar", "Arriba", "Carretera"]
+    },
+    {
+      "word": "Estación de servicio",
+      "forbidden": ["Gasolinera", "Repostar", "Coche", "Tienda", "Gasolina"]
+    },
+    {
+      "word": "Taller mecánico",
+      "forbidden": ["Arreglar", "Coche", "Motor", "Herramientas", "Aceite"]
+    },
+    {
+      "word": "Lavadero de coches",
+      "forbidden": ["Limpiar", "Agua", "Jabón", "Rodillos", "Manguera"]
+    },
+    {
+      "word": "Líquido anticongelante",
+      "forbidden": ["Motor", "Coche", "Frío", "Congelar", "Rosa"]
+    },
+    {
+      "word": "Aceite del motor",
+      "forbidden": ["Coche", "Cambiar", "Taller", "Negro", "Lubricar"]
+    },
+    {
+      "word": "Filtro de aire",
+      "forbidden": ["Coche", "Motor", "Suciedad", "Limpiar", "Cambiar"]
+    },
+    {
+      "word": "Válvula",
+      "forbidden": ["Rueda", "Neumático", "Hinchar", "Aire", "Tapón"]
+    },
+    {
+      "word": "Freno de disco",
+      "forbidden": ["Coche", "Rueda", "Parar", "Pastillas", "Metal"]
+    },
+    {
+      "word": "Pastillas de freno",
+      "forbidden": ["Coche", "Parar", "Desgaste", "Cambiar", "Disco"]
+    },
+    {
+      "word": "Amortiguador",
+      "forbidden": ["Coche", "Baches", "Saltar", "Suspensión", "Rueda"]
+    },
+    {
+      "word": "Silenciador",
+      "forbidden": ["Tubo de escape", "Coche", "Ruido", "Motor", "Atrás"]
+    },
+    {
+      "word": "Marcha atrás",
+      "forbidden": ["Coche", "Conducir", "Hacia atrás", "Aparcar", "R"]
+    },
+    {
+      "word": "Luces de cruce",
+      "forbidden": ["Coche", "Noche", "Encender", "Ver", "Cortas"]
+    },
+    {
+      "word": "Luces largas",
+      "forbidden": ["Coche", "Noche", "Deslumbrar", "Ver", "Lejos"]
+    },
+    {
+      "word": "Faros antiniebla",
+      "forbidden": ["Coche", "Niebla", "Luces", "Ver", "Mal tiempo"]
+    },
+    {
+      "word": "Espejo retrovisor",
+      "forbidden": ["Coche", "Mirar", "Atrás", "Lado", "Conducir"]
+    },
+    {
+      "word": "Parasol",
+      "forbidden": ["Coche", "Sol", "Bajar", "Deslumbrar", "Ojos"]
+    },
+    {
+      "word": "Baca",
+      "forbidden": ["Coche", "Techo", "Llevar", "Equipaje", "Barras"]
+    },
+    {
+      "word": "Cinturón de seguridad",
+      "forbidden": ["Coche", "Abrochar", "Proteger", "Accidente", "Multa"]
+    },
+    {
+      "word": "Asiento infantil",
+      "forbidden": ["Coche", "Niño", "Bebé", "Sentar", "Seguridad"]
+    },
+    {
+      "word": "Radio del coche",
+      "forbidden": ["Escuchar", "Música", "Conducir", "Emisoras", "Antena"]
+    },
+    {
+      "word": "Navegador GPS",
+      "forbidden": ["Coche", "Mapa", "Ruta", "Pantalla", "Destino"]
+    },
+    {
+      "word": "Amplificador",
+      "forbidden": ["Sonido", "Guitarra", "Altavoz", "Volumen", "Música"]
+    },
+    {
+      "word": "Mesa de mezclas",
+      "forbidden": ["DJ", "Música", "Botones", "Sonido", "Deslizadores"]
+    },
+    {
+      "word": "Sintetizador",
+      "forbidden": ["Teclado", "Electrónica", "Música", "Sonidos", "Instrumento"]
+    },
+    {
+      "word": "Batería (instrumento)",
+      "forbidden": ["Tocar", "Palos", "Tambores", "Platos", "Ritmo"]
+    },
+    {
+      "word": "Platillos",
+      "forbidden": ["Batería", "Metal", "Golpear", "Sonido", "Dos"]
+    },
+    {
+      "word": "Bombo",
+      "forbidden": ["Batería", "Grande", "Pie", "Pedal", "Golpe"]
+    },
+    {
+      "word": "Caja (batería)",
+      "forbidden": ["Tambor", "Palos", "Redoble", "Centro", "Sonido"]
+    },
+    {
+      "word": "Baquetas",
+      "forbidden": ["Palos", "Batería", "Tocar", "Madera", "Golpear"]
+    },
+    {
+      "word": "Púa (guitarra)",
+      "forbidden": ["Tocar", "Cuerdas", "Plástico", "Triángulo", "Mano"]
+    },
+    {
+      "word": "Cuerda (guitarra)",
+      "forbidden": ["Tocar", "Acero", "Nylon", "Sonar", "Romper"]
+    },
+    {
+      "word": "Traste",
+      "forbidden": ["Guitarra", "Mástil", "Metal", "Dedos", "Notas"]
+    },
+    {
+      "word": "Mástil",
+      "forbidden": ["Guitarra", "Largo", "Mano", "Trastes", "Cuerdas"]
+    },
+    {
+      "word": "Pedal de efectos",
+      "forbidden": ["Guitarra", "Pie", "Sonido", "Distorsión", "Pisar"]
+    },
+    {
+      "word": "Pie de micrófono",
+      "forbidden": ["Soporte", "Cantante", "Sujetar", "Escenario", "Alto"]
+    },
+    {
+      "word": "Tarjeta de sonido",
+      "forbidden": ["Ordenador", "Grabar", "Música", "Audio", "Conectar"]
+    },
+    {
+      "word": "Monitor de estudio",
+      "forbidden": ["Altavoz", "Producción", "Música", "Escuchar", "Calidad"]
+    },
+    {
+      "word": "Teclado MIDI",
+      "forbidden": ["Ordenador", "Producir", "Piano", "USB", "Tocar"]
+    },
+    {
+      "word": "Disco de vinilo",
+      "forbidden": ["Tocadiscos", "Antiguo", "Música", "Aguja", "Negro"]
+    },
+    {
+      "word": "Tocadiscos",
+      "forbidden": ["Vinilo", "Música", "Aguja", "Girar", "Antiguo"]
+    },
+    {
+      "word": "Cassette",
+      "forbidden": ["Cinta", "Música", "Walkman", "Antiguo", "Rebobinar"]
+    },
+    {
+      "word": "Walkman",
+      "forbidden": ["Cassette", "Música", "Portátil", "Auriculares", "Antiguo"]
+    },
+    {
+      "word": "CD",
+      "forbidden": ["Disco", "Música", "Láser", "Redondo", "Reproductor"]
+    },
+    {
+      "word": "Reproductor de CD",
+      "forbidden": ["Música", "Disco", "Escuchar", "Láser", "Aparato"]
+    },
+    {
+      "word": "MP3",
+      "forbidden": ["Música", "Archivo", "Digital", "Descargar", "Canción"]
+    },
+    {
+      "word": "Radio cassette",
+      "forbidden": ["Antiguo", "Escuchar", "Música", "Cinta", "Loro"]
+    },
+    {
+      "word": "Antena de radio",
+      "forbidden": ["Coche", "Señal", "Escuchar", "Emisoras", "Metal"]
+    },
+    {
+      "word": "Frecuencia",
+      "forbidden": ["Radio", "Emisora", "Sintonizar", "Número", "FM"]
+    },
+    {
+      "word": "Dial",
+      "forbidden": ["Radio", "Girar", "Buscar", "Emisora", "Frecuencia"]
+    },
+    {
+      "word": "Emisora",
+      "forbidden": ["Radio", "Escuchar", "Los 40", "Dial", "Programa"]
+    },
+    {
+      "word": "Locutor",
+      "forbidden": ["Radio", "Hablar", "Voz", "Programa", "Micrófono"]
+    },
+    {
+      "word": "Programa de radio",
+      "forbidden": ["Escuchar", "Emisora", "Locutor", "Tertulia", "Noticias"]
+    },
+    {
+      "word": "Tertulia",
+      "forbidden": ["Radio", "Televisión", "Hablar", "Debatir", "Opinión"]
+    },
+    {
+      "word": "Gafas de lectura",
+      "forbidden": ["Leer", "Cerca", "Ver", "Letras", "Ojos"]
+    },
+    {
+      "word": "Gafas graduadas",
+      "forbidden": ["Ojos", "Ver", "Miopía", "Cristales", "Montura"]
+    },
+    {
+      "word": "Funda de gafas",
+      "forbidden": ["Guardar", "Proteger", "Cristal", "Romper", "Caja"]
+    },
+    {
+      "word": "Colirio",
+      "forbidden": ["Ojos", "Gotas", "Secos", "Picar", "Líquido"]
+    },
+    {
+      "word": "Líquido de lentillas",
+      "forbidden": ["Limpiar", "Guardar", "Ojos", "Bote", "Estuche"]
+    },
+    {
+      "word": "Audífono",
+      "forbidden": ["Oreja", "Oír", "Sordo", "Escuchar", "Aparato"]
+    },
+    {
+      "word": "Petaca",
+      "forbidden": ["Alcohol", "Beber", "Metal", "Bolsillo", "Guardar"]
+    },
+    {
+      "word": "Navaja suiza",
+      "forbidden": ["Herramienta", "Cuchillo", "Multi", "Roja", "Bolsillo"]
+    },
+    {
+      "word": "Caleidoscopio",
+      "forbidden": ["Mirar", "Tubo", "Colores", "Cristales", "Girar"]
+    },
+    {
+      "word": "Catalejo",
+      "forbidden": ["Pirata", "Mirar", "Lejos", "Ojo", "Telescopio"]
+    },
+    {
+      "word": "Antorcha",
+      "forbidden": ["Fuego", "Luz", "Olimpiadas", "Palo", "Cueva"]
+    },
+    {
+      "word": "Esterilla",
+      "forbidden": ["Dormir", "Suelo", "Tienda de campaña", "Camping", "Aislar"]
+    },
+    {
+      "word": "Colchón hinchable",
+      "forbidden": ["Dormir", "Aire", "Camping", "Bomba", "Deshinchar"]
+    },
+    {
+      "word": "Bomba de aire",
+      "forbidden": ["Hinchar", "Colchón", "Rueda", "Bicicleta", "Mano"]
+    },
+    {
+      "word": "Riñonera",
+      "forbidden": ["Cintura", "Llevar", "Guardar", "Dinero", "Bolso"]
+    },
+    {
+      "word": "Billetera",
+      "forbidden": ["Cartera", "Dinero", "Billetes", "Guardar", "Tarjetas"]
+    },
+    {
+      "word": "Maletín",
+      "forbidden": ["Trabajo", "Documentos", "Oficina", "Llevar", "Portátil"]
+    },
+    {
+      "word": "Neceser",
+      "forbidden": ["Baño", "Viaje", "Guardar", "Cepillo", "Aseo"]
+    },
+    {
+      "word": "Cortavientos",
+      "forbidden": ["Chaqueta", "Viento", "Fina", "Deporte", "Correr"]
+    },
+    {
+      "word": "Anorak",
+      "forbidden": ["Abrigo", "Frío", "Nieve", "Invierno", "Plumas"]
+    },
+    {
+      "word": "Pasamontañas",
+      "forbidden": ["Cara", "Tapar", "Frío", "Nieve", "Ladrón"]
+    },
+    {
+      "word": "Chistera",
+      "forbidden": ["Sombrero", "Mago", "Conejo", "Alta", "Elegante"]
+    },
+    {
+      "word": "Casco de moto",
+      "forbidden": ["Cabeza", "Proteger", "Conducir", "Accidente", "Visera"]
+    },
+    {
+      "word": "Rodilleras",
+      "forbidden": ["Proteger", "Rodillas", "Caerse", "Patinar", "Deporte"]
+    },
+    {
+      "word": "Coderas",
+      "forbidden": ["Proteger", "Codos", "Caerse", "Patinar", "Deporte"]
+    },
+    {
+      "word": "Espinilleras",
+      "forbidden": ["Proteger", "Pierna", "Fútbol", "Patada", "Medias"]
+    },
+    {
+      "word": "Guantes de boxeo",
+      "forbidden": ["Pegar", "Ring", "Deporte", "Manos", "Rojos"]
+    },
+    {
+      "word": "Saco de boxeo",
+      "forbidden": ["Pegar", "Entrenar", "Colgar", "Fuerte", "Golpes"]
+    },
+    {
+      "word": "Ring de boxeo",
+      "forbidden": ["Luchar", "Cuerdas", "Cuadrilátero", "Deporte", "Combate"]
+    },
+    {
+      "word": "Tatami",
+      "forbidden": ["Suelo", "Judo", "Kárate", "Caer", "Colchoneta"]
+    },
+    {
+      "word": "Kimono",
+      "forbidden": ["Judo", "Kárate", "Ropa", "Blanco", "Cinturón"]
+    },
+    {
+      "word": "Cinturón negro",
+      "forbidden": ["Kárate", "Judo", "Experto", "Máximo", "Color"]
+    },
+    {
+      "word": "Paga extra",
+      "forbidden": ["Dinero", "Navidad", "Verano", "Sueldo", "Doble"]
+    },
+    {
+      "word": "El Rosco",
+      "forbidden": ["Pasapalabra", "Letras", "Adivinar", "Televisión", "Bote"]
+    },
+    {
+      "word": "Bocata de calamares",
+      "forbidden": ["Madrid", "Pan", "Plaza Mayor", "Comer", "Fritos"]
+    },
+    {
+      "word": "Agua de Valencia",
+      "forbidden": ["Cóctel", "Naranja", "Cava", "Bebida", "Jarra"]
+    },
+    {
+      "word": "Macropuente",
+      "forbidden": ["Festivo", "Días", "Vacaciones", "Trabajar", "Finde"]
+    },
+    {
+      "word": "Caña de pescar",
+      "forbidden": ["Pescar", "Hilo", "Pez", "Río", "Anzuelo"]
+    },
+    {
+      "word": "Anzuelo",
+      "forbidden": ["Pescar", "Pinchar", "Gusano", "Pez", "Boca"]
+    },
+    {
+      "word": "Cebo",
+      "forbidden": ["Anzuelo", "Comida", "Pescar", "Gusano", "Atraer"]
+    },
+    {
+      "word": "Red de pesca",
+      "forbidden": ["Mar", "Barco", "Atrapar", "Peces", "Malla"]
+    },
+    {
+      "word": "Boya",
+      "forbidden": ["Flotar", "Agua", "Pescar", "Hundir", "Rojo"]
+    },
+    {
+      "word": "Carrito de la compra",
+      "forbidden": ["Supermercado", "Empujar", "Moneda", "Comida", "Ruedas"]
+    },
+    {
+      "word": "Código de barras",
+      "forbidden": ["Escanear", "Precio", "Líneas", "Cajera", "Producto"]
+    },
+    {
+      "word": "Cajero",
+      "forbidden": ["Pagar", "Supermercado", "Dinero", "Escanear", "Trabajador"]
+    },
+    {
+      "word": "Ticket de compra",
+      "forbidden": ["Papel", "Precio", "Pagar", "Tienda", "Recibo"]
+    },
+    {
+      "word": "Escaparate",
+      "forbidden": ["Tienda", "Mirar", "Ropa", "Cristal", "Maniquí"]
+    },
+    {
+      "word": "Probador",
+      "forbidden": ["Ropa", "Tienda", "Espejo", "Ponerse", "Cortina"]
+    },
+    {
+      "word": "Maniquí",
+      "forbidden": ["Ropa", "Escaparate", "Muñeco", "Tienda", "Plástico"]
+    },
+    {
+      "word": "Reembolso",
+      "forbidden": ["Devolver", "Dinero", "Tienda", "Ticket", "Ropa"]
+    },
+    {
+      "word": "Talla",
+      "forbidden": ["Ropa", "Pequeña", "Grande", "Mediana", "Número"]
+    },
+    {
+      "word": "Sofá cama",
+      "forbidden": ["Dormir", "Salón", "Abrir", "Invitados", "Mueble"]
+    },
+    {
+      "word": "Litera",
+      "forbidden": ["Cama", "Dormir", "Arriba", "Abajo", "Hermanos"]
+    },
+    {
+      "word": "Dosel",
+      "forbidden": ["Cama", "Tela", "Princesa", "Techo", "Romántico"]
+    },
+    {
+      "word": "Visillo",
+      "forbidden": ["Cortina", "Fina", "Transparente", "Ventana", "Luz"]
+    },
+    {
+      "word": "Cenefa",
+      "forbidden": ["Pared", "Papel", "Borde", "Decoración", "Habitación"]
+    },
+    {
+      "word": "Jacuzzi",
+      "forbidden": ["Burbujas", "Baño", "Agua", "Caliente", "Relajarse"]
+    },
+    {
+      "word": "Telefonillo",
+      "forbidden": ["Llamar", "Puerta", "Abrir", "Casa", "Edificio"]
+    },
+    {
+      "word": "Cubertero",
+      "forbidden": ["Cajón", "Cubiertos", "Guardar", "Separar", "Cocina"]
+    },
+    {
+      "word": "Hule",
+      "forbidden": ["Mantel", "Plástico", "Mesa", "Limpiar", "Cocina"]
+    },
+    {
+      "word": "Palangana",
+      "forbidden": ["Agua", "Lavar", "Recipiente", "Plástico", "Cubo"]
+    },
+    {
+      "word": "Susurrar",
+      "forbidden": ["Hablar", "Bajo", "Oído", "Secreto", "Ruido"]
+    },
+    {
+      "word": "Gritar",
+      "forbidden": ["Voz", "Alta", "Ruido", "Enfadado", "Hablar"]
+    },
+    {
+      "word": "Murmurar",
+      "forbidden": ["Hablar", "Bajo", "Quejarse", "Entender", "Boca"]
+    },
+    {
+      "word": "Tartamudear",
+      "forbidden": ["Hablar", "Repetir", "Letras", "Nervioso", "Atascarse"]
+    },
+    {
+      "word": "Guiñar",
+      "forbidden": ["Ojo", "Cerrar", "Cómplice", "Señal", "Pestaña"]
+    },
+    {
+      "word": "Castañetear",
+      "forbidden": ["Dientes", "Frío", "Ruido", "Chocar", "Temblar"]
+    },
+    {
+      "word": "Saborear",
+      "forbidden": ["Comida", "Lengua", "Gusto", "Disfrutar", "Comer"]
+    },
+    {
+      "word": "Olfatear",
+      "forbidden": ["Nariz", "Perro", "Oler", "Rastro", "Respirar"]
+    },
+    {
+      "word": "Masajear",
+      "forbidden": ["Espalda", "Frotar", "Relajar", "Manos", "Músculo"]
+    },
+    {
+      "word": "Rascar",
+      "forbidden": ["Picar", "Uñas", "Piel", "Alivio", "Espalda"]
+    },
+    {
+      "word": "Nuez de Adán",
+      "forbidden": ["Cuello", "Hombre", "Bulto", "Tragar", "Garganta"]
+    },
+    {
+      "word": "Campanilla",
+      "forbidden": ["Garganta", "Boca", "Abrir", "Colgar", "Úvula"]
+    },
+    {
+      "word": "Amígdalas",
+      "forbidden": ["Garganta", "Operar", "Infección", "Dolor", "Anginas"]
+    },
+    {
+      "word": "Cuerdas vocales",
+      "forbidden": ["Garganta", "Voz", "Hablar", "Cantar", "Sonido"]
+    },
+    {
+      "word": "Vesícula",
+      "forbidden": ["Órgano", "Bilis", "Operar", "Piedras", "Hígado"]
+    },
+    {
+      "word": "Apéndice",
+      "forbidden": ["Operar", "Apendicitis", "Barriga", "Dolor", "Órgano"]
+    },
+    {
+      "word": "Rótula",
+      "forbidden": ["Hueso", "Rodilla", "Pierna", "Doblar", "Redondo"]
+    },
+    {
+      "word": "Clavícula",
+      "forbidden": ["Hueso", "Hombro", "Cuello", "Romper", "Pecho"]
+    },
+    {
+      "word": "Omóplato",
+      "forbidden": ["Hueso", "Espalda", "Hombro", "Plano", "Ala"]
+    },
+    {
+      "word": "Pelvis",
+      "forbidden": ["Hueso", "Cadera", "Cintura", "Esqueleto", "Bebé"]
+    },
+    {
+      "word": "Empeine",
+      "forbidden": ["Pie", "Zapato", "Arriba", "Fútbol", "Golpear"]
+    },
+    {
+      "word": "Planta del pie",
+      "forbidden": ["Suelo", "Pisar", "Debajo", "Andar", "Cosquillas"]
+    },
+    {
+      "word": "Palma de la mano",
+      "forbidden": ["Manos", "Chocar", "Dedos", "Leer", "Líneas"]
+    },
+    {
+      "word": "Yema del dedo",
+      "forbidden": ["Dedo", "Tocar", "Huella", "Punta", "Piel"]
+    },
+    {
+      "word": "Huella dactilar",
+      "forbidden": ["Dedo", "Policía", "Identificar", "Única", "Tocar"]
+    },
+    {
+      "word": "Nómina",
+      "forbidden": ["Sueldo", "Dinero", "Trabajo", "Cobrar", "Mes"]
+    },
+    {
+      "word": "Finiquito",
+      "forbidden": ["Despido", "Dinero", "Terminar", "Empresa", "Contrato"]
+    },
+    {
+      "word": "Currículum",
+      "forbidden": ["Trabajo", "Buscar", "Experiencia", "Papel", "Entrevista"]
+    },
+    {
+      "word": "Jubilación",
+      "forbidden": ["Trabajar", "Años", "Viejo", "Pensión", "Terminar"]
+    },
+    {
+      "word": "Pensión",
+      "forbidden": ["Jubilado", "Dinero", "Cobrar", "Abuelo", "Estado"]
+    },
+    {
+      "word": "IVA",
+      "forbidden": ["Impuesto", "Pagar", "Porcentaje", "Precio", "Comprar"]
+    },
+    {
+      "word": "Factura",
+      "forbidden": ["Ticket", "Pagar", "Empresa", "Compra", "Recibo"]
+    },
+    {
+      "word": "Transferencia",
+      "forbidden": ["Banco", "Dinero", "Enviar", "Cuenta", "Bizum"]
+    },
+    {
+      "word": "Hipoteca",
+      "forbidden": ["Banco", "Casa", "Pagar", "Préstamo", "Años"]
+    },
+    {
+      "word": "Préstamo",
+      "forbidden": ["Banco", "Dinero", "Devolver", "Intereses", "Prestar"]
+    },
+    {
+      "word": "Aval",
+      "forbidden": ["Préstamo", "Garantía", "Pagar", "Persona", "Hipoteca"]
+    },
+    {
+      "word": "Accionista",
+      "forbidden": ["Empresa", "Bolsa", "Invertir", "Dueño", "Participación"]
+    },
+    {
+      "word": "Bolsa de valores",
+      "forbidden": ["Invertir", "Acciones", "Dinero", "Comprar", "Mercado"]
+    },
+    {
+      "word": "Parador Nacional",
+      "forbidden": ["Hotel", "Lujo", "Castillo", "Dormir", "España"]
+    },
+    {
+      "word": "Imserso",
+      "forbidden": ["Abuelos", "Viajar", "Barato", "Jubilados", "Benidorm"]
+    },
+    {
+      "word": "Guía turístico",
+      "forbidden": ["Viaje", "Explicar", "Ciudad", "Grupo", "Paraguas"]
+    },
+    {
+      "word": "Souvenir",
+      "forbidden": ["Recuerdo", "Regalo", "Viaje", "Comprar", "Imán"]
+    },
+    {
+      "word": "Imán de nevera",
+      "forbidden": ["Pegar", "Recuerdo", "Viaje", "Decorar", "Electrodoméstico"]
+    },
+    {
+      "word": "Postal",
+      "forbidden": ["Carta", "Foto", "Viaje", "Enviar", "Sello"]
+    },
+    {
+      "word": "Mostrador de facturación",
+      "forbidden": ["Aeropuerto", "Maleta", "Entregar", "Billete", "Pesar"]
+    },
+    {
+      "word": "Duty Free",
+      "forbidden": ["Aeropuerto", "Tienda", "Comprar", "Impuestos", "Perfume"]
+    },
+    {
+      "word": "Escala",
+      "forbidden": ["Vuelo", "Aeropuerto", "Parar", "Cambiar", "Avión"]
+    },
+    {
+      "word": "Jet lag",
+      "forbidden": ["Viaje", "Avión", "Sueño", "Huso horario", "Cansancio"]
+    },
+    {
+      "word": "Mochilero",
+      "forbidden": ["Viaje", "Joven", "Barato", "Albergue", "Andar"]
+    },
+    {
+      "word": "Albergue",
+      "forbidden": ["Dormir", "Barato", "Literas", "Compartir", "Viaje"]
+    },
+    {
+      "word": "Recepcionista",
+      "forbidden": ["Hotel", "Llave", "Entrada", "Atender", "Trabajador"]
+    },
+    {
+      "word": "Botones",
+      "forbidden": ["Hotel", "Maletas", "Llevar", "Uniforme", "Habitación"]
+    },
+    {
+      "word": "Gemelos (ropa)",
+      "forbidden": ["Camisa", "Puño", "Botón", "Elegante", "Hombres"]
+    },
+    {
+      "word": "Chaqué",
+      "forbidden": ["Traje", "Boda", "Elegante", "Hombre", "Pinguino"]
+    },
+    {
+      "word": "Esmoquin",
+      "forbidden": ["Traje", "Pajarita", "Fiesta", "Hombre", "Elegante"]
+    },
+    {
+      "word": "Velo",
+      "forbidden": ["Novia", "Cara", "Boda", "Blanco", "Tapar"]
+    },
+    {
+      "word": "Tiara",
+      "forbidden": ["Corona", "Novia", "Princesa", "Cabeza", "Brillar"]
+    },
+    {
+      "word": "Liga",
+      "forbidden": ["Novia", "Pierna", "Boda", "Tradición", "Tirar"]
+    },
+    {
+      "word": "Arras",
+      "forbidden": ["Boda", "Monedas", "Padrino", "Niños", "Iglesia"]
+    },
+    {
+      "word": "Ramo de novia",
+      "forbidden": ["Flores", "Boda", "Tirar", "Solteras", "Llevar"]
+    },
+    {
+      "word": "Padrino de boda",
+      "forbidden": ["Novia", "Acompañar", "Iglesia", "Altar", "Padre"]
+    },
+    {
+      "word": "Dama de honor",
+      "forbidden": ["Boda", "Novia", "Vestido", "Amigas", "Acompañar"]
+    },
+    {
+      "word": "DANA",
+      "forbidden": ["Lluvia", "Gota fría", "Inundación", "Tormenta", "Tiempo"]
+    },
+    {
+      "word": "Borrasca",
+      "forbidden": ["Tiempo", "Lluvia", "Nubes", "Malo", "Viento"]
+    },
+    {
+      "word": "Anticiclón",
+      "forbidden": ["Tiempo", "Sol", "Bueno", "Despejado", "Calor"]
+    },
+    {
+      "word": "Ola de calor",
+      "forbidden": ["Verano", "Sudar", "Sol", "Temperatura", "Sofoco"]
+    },
+    {
+      "word": "Calima",
+      "forbidden": ["Polvo", "Arena", "Cielo", "Desierto", "Respirar"]
+    },
+    {
+      "word": "Escarcha",
+      "forbidden": ["Hielo", "Mañana", "Coche", "Frío", "Congelado"]
+    },
+    {
+      "word": "Rocío",
+      "forbidden": ["Agua", "Gotas", "Mañana", "Plantas", "Hierba"]
+    },
+    {
+      "word": "Aurora boreal",
+      "forbidden": ["Cielo", "Luces", "Colores", "Norte", "Nieve"]
+    },
+    {
+      "word": "Eclipse",
+      "forbidden": ["Sol", "Luna", "Ocultar", "Sombra", "Oscuro"]
+    },
+    {
+      "word": "Termómetro de calle",
+      "forbidden": ["Hora", "Temperatura", "Farmacia", "Grados", "Mirar"]
+    },
+    {
+      "word": "Máquina de coser",
+      "forbidden": ["Ropa", "Hilo", "Pedal", "Aguja", "Sastre"]
+    },
+    {
+      "word": "Bobina",
+      "forbidden": ["Hilo", "Enrollar", "Coser", "Redonda", "Máquina"]
+    },
+    {
+      "word": "Alfiletero",
+      "forbidden": ["Agujas", "Alfileres", "Pinchar", "Cojín", "Coser"]
+    },
+    {
+      "word": "Patrón",
+      "forbidden": ["Coser", "Ropa", "Papel", "Medidas", "Cortar"]
+    },
+    {
+      "word": "Destornillador eléctrico",
+      "forbidden": ["Batería", "Apretar", "Herramienta", "Rápido", "Tornillo"]
+    },
+    {
+      "word": "Llave de tubo",
+      "forbidden": ["Herramienta", "Tuerca", "Mecánico", "Apretar", "Metal"]
+    },
+    {
+      "word": "Sargento",
+      "forbidden": ["Madera", "Sujetar", "Apretar", "Herramienta", "Bricolaje"]
+    },
+    {
+      "word": "Calibre",
+      "forbidden": ["Medir", "Precisión", "Pequeño", "Herramienta", "Milímetros"]
+    },
+    {
+      "word": "Polipasto",
+      "forbidden": ["Polea", "Levantar", "Peso", "Cuerda", "Obra"]
+    },
+    {
+      "word": "Hormigón",
+      "forbidden": ["Cemento", "Obra", "Duro", "Construcción", "Mezcla"]
+    },
+    {
+      "word": "Pizarra mágica",
+      "forbidden": ["Dibujar", "Borrar", "Niños", "Juguete", "Lápiz"]
+    },
+    {
+      "word": "Tamagotchi",
+      "forbidden": ["Mascota", "Virtual", "Pantalla", "Cuidar", "Juguete"]
+    },
+    {
+      "word": "Furby",
+      "forbidden": ["Muñeco", "Hablar", "Peluche", "Ojos", "Juguete"]
+    },
+    {
+      "word": "Policías y ladrones",
+      "forbidden": ["Jugar", "Correr", "Perseguir", "Niños", "Cárcel"]
+    },
+    {
+      "word": "Baraja española",
+      "forbidden": ["Cartas", "Jugar", "Oros", "Copas", "Cuarenta"]
+    },
+    {
+      "word": "Oros",
+      "forbidden": ["Cartas", "Baraja", "Monedas", "Amarillo", "Palo"]
+    },
+    {
+      "word": "Copas (cartas)",
+      "forbidden": ["Baraja", "Beber", "Rojo", "Palo", "Jugar"]
+    },
+    {
+      "word": "Espadas (cartas)",
+      "forbidden": ["Baraja", "Cortar", "Azul", "Palo", "Jugar"]
+    },
+    {
+      "word": "Bastos",
+      "forbidden": ["Cartas", "Baraja", "Palo", "Verde", "Madera"]
+    },
+    {
+      "word": "Sota",
+      "forbidden": ["Cartas", "Baraja", "Diez", "Figura", "Mujer"]
+    },
+    {
+      "word": "As",
+      "forbidden": ["Cartas", "Baraja", "Uno", "Mejor", "Ganar"]
+    },
+    {
+      "word": "Comodín",
+      "forbidden": ["Cartas", "Sustituir", "Joker", "Ganar", "Cualquiera"]
+    },
+    {
+      "word": "Queso manchego",
+      "forbidden": ["Oveja", "La Mancha", "Cuña", "Curado", "Comer"]
+    },
+    {
+      "word": "Queso Cabrales",
+      "forbidden": ["Asturias", "Azul", "Fuerte", "Olor", "Untar"]
+    },
+    {
+      "word": "Queso Tetilla",
+      "forbidden": ["Galicia", "Forma", "Vaca", "Suave", "Comer"]
+    },
+    {
+      "word": "Idiazábal",
+      "forbidden": ["País Vasco", "Queso", "Oveja", "Ahumado", "Comer"]
+    },
+    {
+      "word": "Chicharrones",
+      "forbidden": ["Cerdo", "Grasa", "Freír", "Crujiente", "Picar"]
+    },
+    {
+      "word": "Morro frito",
+      "forbidden": ["Cerdo", "Tapa", "Bar", "Crujiente", "Hocico"]
+    },
+    {
+      "word": "Oreja a la plancha",
+      "forbidden": ["Cerdo", "Tapa", "Bar", "Cartílago", "Madrid"]
+    },
+    {
+      "word": "Zarajos",
+      "forbidden": ["Cuenca", "Cordero", "Tripa", "Sarmiento", "Asado"]
+    },
+    {
+      "word": "Huevos rotos",
+      "forbidden": ["Patatas", "Jamón", "Freír", "Yema", "Estrellados"]
+    },
+    {
+      "word": "Ensalada campera",
+      "forbidden": ["Patata", "Atún", "Huevo", "Tomate", "Verano"]
+    },
+    {
+      "word": "Ajoblanco",
+      "forbidden": ["Sopa", "Fría", "Almendras", "Ajo", "Uvas"]
+    },
+    {
+      "word": "Porra antequerana",
+      "forbidden": ["Málaga", "Salmorejo", "Pan", "Tomate", "Fría"]
+    },
+    {
+      "word": "Migas extremeñas",
+      "forbidden": ["Pan", "Pimentón", "Torreznos", "Uvas", "Plato"]
+    },
+    {
+      "word": "Pestiños",
+      "forbidden": ["Semana Santa", "Miel", "Fritos", "Masa", "Dulce"]
+    },
+    {
+      "word": "Piononos",
+      "forbidden": ["Granada", "Pastel", "Bizcocho", "Crema", "Dulce"]
+    },
+    {
+      "word": "Fartons",
+      "forbidden": ["Valencia", "Horchata", "Mojar", "Alargado", "Dulce"]
+    },
+    {
+      "word": "Miguelitos",
+      "forbidden": ["La Roda", "Hojaldre", "Crema", "Polvo", "Dulce"]
+    },
+    {
+      "word": "Yemas de Santa Teresa",
+      "forbidden": ["Ávila", "Huevo", "Azúcar", "Dulce", "Naranja"]
+    },
+    {
+      "word": "Panellets",
+      "forbidden": ["Cataluña", "Noviembre", "Almendra", "Piñones", "Dulce"]
+    },
+    {
+      "word": "Neulas",
+      "forbidden": ["Cataluña", "Navidad", "Barquillo", "Tubo", "Dulce"]
+    },
+    {
+      "word": "Acomodador",
+      "forbidden": ["Cine", "Teatro", "Linterna", "Asiento", "Enseñar"]
+    },
+    {
+      "word": "Claqueta",
+      "forbidden": ["Cine", "Corten", "Acción", "Escena", "Pizarra"]
+    },
+    {
+      "word": "Doble de acción",
+      "forbidden": ["Película", "Actor", "Peligro", "Saltar", "Sustituir"]
+    },
+    {
+      "word": "Banda sonora",
+      "forbidden": ["Música", "Película", "Canciones", "Escuchar", "Cine"]
+    },
+    {
+      "word": "Tráiler",
+      "forbidden": ["Película", "Anuncio", "Cine", "Resumen", "Estreno"]
+    },
+    {
+      "word": "Cartelera",
+      "forbidden": ["Cine", "Películas", "Horarios", "Elegir", "Poster"]
+    },
+    {
+      "word": "Premio Goya",
+      "forbidden": ["Cine", "España", "Cabezón", "Ganar", "Actor"]
+    },
+    {
+      "word": "Alfombra roja",
+      "forbidden": ["Famosos", "Estreno", "Vestidos", "Fotos", "Caminar"]
+    },
+    {
+      "word": "Paparazzi",
+      "forbidden": ["Fotos", "Famosos", "Revistas", "Esconderse", "Cámara"]
+    },
+    {
+      "word": "Hashtag",
+      "forbidden": ["Twitter", "Almohadilla", "Tendencia", "Palabra", "Redes"]
+    },
+    {
+      "word": "YouTuber",
+      "forbidden": ["Vídeos", "Internet", "Canal", "Suscriptores", "Grabar"]
+    },
+    {
+      "word": "Streamer",
+      "forbidden": ["Directo", "Twitch", "Jugar", "Internet", "Hablar"]
+    },
+    {
+      "word": "Twitch",
+      "forbidden": ["Directos", "Streamer", "Videojuegos", "Chat", "Internet"]
+    },
+    {
+      "word": "TikTok",
+      "forbidden": ["Vídeos", "Cortos", "Bailes", "Redes", "Móvil"]
+    },
+    {
+      "word": "Avatar",
+      "forbidden": ["Perfil", "Foto", "Muñeco", "Juego", "Usuario"]
+    },
+    {
+      "word": "Troll",
+      "forbidden": ["Internet", "Molestar", "Comentarios", "Redes", "Insultar"]
+    },
+    {
+      "word": "Banear",
+      "forbidden": ["Expulsar", "Internet", "Juego", "Cuenta", "Bloquear"]
+    },
+    {
+      "word": "Spoiler",
+      "forbidden": ["Película", "Final", "Contar", "Arruinar", "Serie"]
+    },
+    {
+      "word": "Clickbait",
+      "forbidden": ["Engañar", "Título", "Noticia", "Entrar", "Internet"]
+    },
+    {
+      "word": "Fake news",
+      "forbidden": ["Mentira", "Noticias", "Internet", "Redes", "Engañar"]
+    },
+    {
+      "word": "Firewall",
+      "forbidden": ["Internet", "Seguridad", "Proteger", "Virus", "Ordenador"]
+    },
+    {
+      "word": "Antivirus",
+      "forbidden": ["Ordenador", "Proteger", "Programa", "Malware", "Informática"]
+    },
+    {
+      "word": "Detergente en cápsulas",
+      "forbidden": ["Lavadora", "Pastilla", "Jabón", "Ropa", "Plástico"]
+    },
+    {
+      "word": "Tender la ropa",
+      "forbidden": ["Mojada", "Pinzas", "Sol", "Secar", "Lavadora"]
+    },
+    {
+      "word": "Centro de planchado",
+      "forbidden": ["Plancha", "Vapor", "Caldera", "Ropa", "Arrugas"]
+    },
+    {
+      "word": "Doblar la ropa",
+      "forbidden": ["Armario", "Guardar", "Cajón", "Planchar", "Ordenar"]
+    },
+    {
+      "word": "Hacer la cama",
+      "forbidden": ["Sábanas", "Dormir", "Levantarse", "Estirar", "Habitación"]
+    },
+    {
+      "word": "Fregar los platos",
+      "forbidden": ["Estropajo", "Jabón", "Cocina", "Sucios", "Agua"]
+    },
+    {
+      "word": "Pastilla de lavavajillas",
+      "forbidden": ["Máquina", "Jabón", "Platos", "Limpiar", "Brillo"]
+    },
+    {
+      "word": "Aspirar",
+      "forbidden": ["Aspiradora", "Polvo", "Suelo", "Alfombra", "Limpiar"]
+    },
+    {
+      "word": "Barrer",
+      "forbidden": ["Escoba", "Recogedor", "Suelo", "Basura", "Polvo"]
+    },
+    {
+      "word": "Fregar el suelo",
+      "forbidden": ["Fregona", "Cubo", "Agua", "Limpiar", "Secar"]
+    },
+    {
+      "word": "Quitar el polvo",
+      "forbidden": ["Muebles", "Trapo", "Plumero", "Limpiar", "Bayeta"]
+    },
+    {
+      "word": "Limpiacristales",
+      "forbidden": ["Spray", "Ventana", "Espejo", "Líquido", "Transparente"]
+    },
+    {
+      "word": "Desatascador",
+      "forbidden": ["Tubería", "Baño", "Goma", "Fregadero", "Agua"]
+    },
+    {
+      "word": "Friegasuelos",
+      "forbidden": ["Líquido", "Cubo", "Olor", "Fregona", "Limpiar"]
+    },
+    {
+      "word": "Mopa",
+      "forbidden": ["Suelo", "Polvo", "Pasar", "Seco", "Limpiar"]
+    },
+    {
+      "word": "Cubo de fregar",
+      "forbidden": ["Fregona", "Agua", "Escurrir", "Plástico", "Limpiar"]
+    },
+    {
+      "word": "Osteópata",
+      "forbidden": ["Huesos", "Crujir", "Masaje", "Espalda", "Dolor"]
+    },
+    {
+      "word": "Podólogo",
+      "forbidden": ["Médico", "Pies", "Uñas", "Callos", "Durezas"]
+    },
+    {
+      "word": "Oftalmólogo",
+      "forbidden": ["Ojos", "Gafas", "Vista", "Médico", "Revisión"]
+    },
+    {
+      "word": "Pedicura",
+      "forbidden": ["Uñas", "Pies", "Pintar", "Estética", "Cortar"]
+    },
+    {
+      "word": "Manicura",
+      "forbidden": ["Uñas", "Manos", "Pintar", "Estética", "Esmalte"]
+    },
+    {
+      "word": "Tatuador",
+      "forbidden": ["Aguja", "Tinta", "Piel", "Dibujo", "Estudio"]
+    },
+    {
+      "word": "DJ",
+      "forbidden": ["Música", "Discoteca", "Mezclar", "Platos", "Auriculares"]
+    },
+    {
+      "word": "Árbitro de VAR",
+      "forbidden": ["Fútbol", "Pantalla", "Revisar", "Penalti", "Televisión"]
+    },
+    {
+      "word": "Entrenador personal",
+      "forbidden": ["Gimnasio", "Ejercicio", "Sudar", "Ponerse en forma", "Máquinas"]
+    },
+    {
+      "word": "Nutricionista",
+      "forbidden": ["Dieta", "Comida", "Adelgazar", "Sano", "Peso"]
+    },
+    {
+      "word": "Asesor fiscal",
+      "forbidden": ["Impuestos", "Renta", "Hacienda", "Dinero", "Empresa"]
+    },
+    {
+      "word": "Notario",
+      "forbidden": ["Firma", "Documento", "Oficial", "Casa", "Herencia"]
+    },
+    {
+      "word": "Abogado defensor",
+      "forbidden": ["Juicio", "Juez", "Inocente", "Cliente", "Leyes"]
+    },
+    {
+      "word": "Fiscal",
+      "forbidden": ["Juicio", "Juez", "Acusar", "Culpable", "Leyes"]
+    },
+    {
+      "word": "Jurado popular",
+      "forbidden": ["Juicio", "Personas", "Votar", "Culpable", "Inocente"]
+    },
+    {
+      "word": "Guardia de seguridad",
+      "forbidden": ["Vigilar", "Puerta", "Edificio", "Uniforme", "Proteger"]
+    },
+    {
+      "word": "Carterista",
+      "forbidden": ["Ladrón", "Robar", "Cartera", "Metro", "Bolsillo"]
+    },
+    {
+      "word": "Inspector de Hacienda",
+      "forbidden": ["Impuestos", "Multa", "Dinero", "Investigar", "Fraude"]
+    },
+    {
+      "word": "Azafata de congresos",
+      "forbidden": ["Evento", "Stand", "Informar", "Trabajar", "Folletos"]
+    },
+    {
+      "word": "Teleoperador",
+      "forbidden": ["Teléfono", "Llamar", "Vender", "Auriculares", "Compañía"]
+    },
+    {
+      "word": "Guardia Civil",
+      "forbidden": ["Benemérita", "Tricornio", "Verde", "Carretera", "Policía"]
+    },
+    {
+      "word": "ITV",
+      "forbidden": ["Coche", "Revisión", "Pegatina", "Inspección", "Taller"]
+    },
+    {
+      "word": "Chulapo",
+      "forbidden": ["Madrid", "San Isidro", "Gorra", "Clavel", "Chotis"]
+    },
+    {
+      "word": "Bizum",
+      "forbidden": ["Dinero", "Teléfono", "Enviar", "Pagar", "Banco"]
+    },
+    {
+      "word": "Amigo invisible",
+      "forbidden": ["Regalo", "Navidad", "Papelito", "Sorteo", "Secreto"]
     }
   ]
 }
