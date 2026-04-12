@@ -99,3 +99,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 *.keystore
+Assets/Resources/cards_*.json
+Assets/Resources/cards_*.json.meta
