@@ -4,6 +4,7 @@ using TMPro;
 using UnityEngine.UI;
 using JetBrains.Annotations;
 using UnityEditor;
+using System.Collections;
 
 
 public class MainMenuManager : MonoBehaviour
@@ -62,6 +63,8 @@ public class MainMenuManager : MonoBehaviour
     public int startingRuleCounter;
     public GameSettings.BombStartingRule[] bombStartingRules = (GameSettings.BombStartingRule[])System.Enum.GetValues(typeof(GameSettings.BombStartingRule));
 
+    private bool sliderListenersBound;
+
 
 
 
@@ -69,6 +72,7 @@ public class MainMenuManager : MonoBehaviour
     void Start()
     {
         ApplyDefaultTeamNamesByLanguage();
+        BindSliderListeners();
 
         startingRuleCounter = PlayerPrefs.GetInt("BombStartingRule", 0);
         SelectClassicMode();
@@ -98,6 +102,18 @@ public class MainMenuManager : MonoBehaviour
         ColorUtility.TryParseHtmlString("#78010C", out bombInactiveColor);
 
         RefreshLocalizedDynamicTexts();
+        StartCoroutine(RefreshLocalizedDynamicTextsNextFrame());
+    }
+
+    void OnDestroy()
+    {
+        UnbindSliderListeners();
+    }
+
+    private IEnumerator RefreshLocalizedDynamicTextsNextFrame()
+    {
+        yield return null;
+        RefreshLocalizedDynamicTexts();
     }
 
 
@@ -119,6 +135,9 @@ public class MainMenuManager : MonoBehaviour
     {
         menuPanel.SetActive(false);
         settingsPanel.SetActive(true);
+
+        RefreshLocalizedDynamicTexts();
+        StartCoroutine(RefreshLocalizedDynamicTextsNextFrame());
     }
 
     public void CloseSettings()
@@ -136,46 +155,54 @@ public class MainMenuManager : MonoBehaviour
 
     public void UpdateTimeText(float deger)
     {
+        if (txtTime == null) return;
         float gercekSure = deger * 10f;
-        txtTime.text = LocalizationManager.Instance.GetText("SET_TIME") + " : " + gercekSure;
+        txtTime.text = GetLocalized("SET_TIME", "Süre") + " : " + gercekSure;
     }
 
     public void UpdatePassText(float deger)
     {
-        txtPass.text = LocalizationManager.Instance.GetText("SET_PASS") + " : " + deger;
+        if (txtPass == null) return;
+        txtPass.text = GetLocalized("SET_PASS", "Pas Hakký") + " : " + deger;
     }
 
     public void UpdateTabuText(float deger)
     {
-        txtTabu.text = LocalizationManager.Instance.GetText("SET_TABU") + " : " + deger;
+        if (txtTabu == null) return;
+        txtTabu.text = GetLocalized("SET_TABU", "Tabu Cezasý") + " : " + deger;
     }
 
     public void UpdatePointText(float deger)
     {
+        if (txtPoint == null) return;
         float gercekPuan = deger * 10f;
-        txtPoint.text = LocalizationManager.Instance.GetText("SET_POINT") + " : " + gercekPuan;
+        txtPoint.text = GetLocalized("SET_POINT", "Hedef Puan") + " : " + gercekPuan;
     }
 
     public void UpdateBombTimeMinText(float deger)
     {
+        if (txtBombTimeMin == null) return;
         float gercekSure = deger * 10f;
-        txtBombTimeMin.text = LocalizationManager.Instance.GetText("SET_BOMB_MIN_TIME") + " : " + gercekSure;
+        txtBombTimeMin.text = GetLocalized("SET_BOMB_MIN_TIME", "Min. Süre") + " : " + gercekSure;
     }
 
     public void UpdateBombTimeMaxText(float deger)
     {
+        if (txtBombTimeMax == null) return;
         float gercekSure = deger * 10f;
-        txtBombTimeMax.text = LocalizationManager.Instance.GetText("SET_BOMB_MAX_TIME") + " : " + gercekSure;
+        txtBombTimeMax.text = GetLocalized("SET_BOMB_MAX_TIME", "Max. Süre") + " : " + gercekSure;
     }
 
     public void UpdateBombPassText(float deger)
     {
-        txtBombPass.text = LocalizationManager.Instance.GetText("SET_BOMB_PASS") + " : " + deger;
+        if (txtBombPass == null) return;
+        txtBombPass.text = GetLocalized("SET_BOMB_PASS", "Pas Hakký") + " : " + deger;
     }
 
     public void UpdateBombPointText(float deger)
     {
-        txtBombPoint.text = LocalizationManager.Instance.GetText("SET_BOMB_POINT") + " : " + deger;
+        if (txtBombPoint == null) return;
+        txtBombPoint.text = GetLocalized("SET_BOMB_POINT", "Hedef Puan") + " : " + deger;
     }
 
     public void UpdateStartingRuleText(int deger)
@@ -183,23 +210,23 @@ public class MainMenuManager : MonoBehaviour
         
         if (deger == 0)
         {
-            txtDescription.text = LocalizationManager.Instance.GetText("RULE_SEQ_DESC");
-            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_SEQ_NAME");
+            txtDescription.text = GetLocalized("RULE_SEQ_DESC", "Sýralý Baþlangýç");
+            txtStartingRule.text = GetLocalized("RULE_SEQ_NAME", "Sýralý Baþlangýç");
         }
         else if (deger == 1)
         {
-            txtDescription.text = LocalizationManager.Instance.GetText("RULE_RAND_DESC");
-            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_RAND_NAME");
+            txtDescription.text = GetLocalized("RULE_RAND_DESC", "Rastgele");
+            txtStartingRule.text = GetLocalized("RULE_RAND_NAME", "Rastgele");
         }
         else if (deger == 2)
         {
-            txtDescription.text = LocalizationManager.Instance.GetText("RULE_LOSER_DESC");
-            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_LOSER_NAME");
+            txtDescription.text = GetLocalized("RULE_LOSER_DESC", "Kaybeden Baþlar");
+            txtStartingRule.text = GetLocalized("RULE_LOSER_NAME", "Kaybeden Baþlar");
         }
         else if (deger == 3)
         {
-            txtDescription.text = LocalizationManager.Instance.GetText("RULE_COMP_DESC");
-            txtStartingRule.text = LocalizationManager.Instance.GetText("RULE_COMP_NAME");
+            txtDescription.text = GetLocalized("RULE_COMP_DESC", "Rekabetçi");
+            txtStartingRule.text = GetLocalized("RULE_COMP_NAME", "Rekabetçi");
         }
     }
 
@@ -308,6 +335,9 @@ public class MainMenuManager : MonoBehaviour
         bombSettingsPanel.SetActive(false);
         imgSettingsClasicBtn.color = activeColor;
         imgSettingsBombBtn.color = inactiveColor;
+
+        RefreshLocalizedDynamicTexts();
+        StartCoroutine(RefreshLocalizedDynamicTextsNextFrame());
     }
 
     public void OpenBombSettings()
@@ -316,6 +346,9 @@ public class MainMenuManager : MonoBehaviour
         bombSettingsPanel.SetActive(true);
         imgSettingsBombBtn.color = activeColor;
         imgSettingsClasicBtn.color = inactiveColor;
+
+        RefreshLocalizedDynamicTexts();
+        StartCoroutine(RefreshLocalizedDynamicTextsNextFrame());
     }
 
 
@@ -393,15 +426,15 @@ public class MainMenuManager : MonoBehaviour
     #endregion
     public void RefreshLocalizedDynamicTexts()
     {
-        UpdateTimeText(sliderTime.value);
-        UpdatePassText(sliderPass.value);
-        UpdateTabuText(sliderTabu.value);
-        UpdatePointText(sliderPoint.value);
+        if (sliderTime != null) UpdateTimeText(sliderTime.value);
+        if (sliderPass != null) UpdatePassText(sliderPass.value);
+        if (sliderTabu != null) UpdateTabuText(sliderTabu.value);
+        if (sliderPoint != null) UpdatePointText(sliderPoint.value);
 
-        UpdateBombTimeMinText(sliderBombTimeMin.value);
-        UpdateBombTimeMaxText(sliderBombTimeMax.value);
-        UpdateBombPassText(sliderBombPass.value);
-        UpdateBombPointText(sliderBombPoint.value);
+        if (sliderBombTimeMin != null) UpdateBombTimeMinText(sliderBombTimeMin.value);
+        if (sliderBombTimeMax != null) UpdateBombTimeMaxText(sliderBombTimeMax.value);
+        if (sliderBombPass != null) UpdateBombPassText(sliderBombPass.value);
+        if (sliderBombPoint != null) UpdateBombPointText(sliderBombPoint.value);
 
         UpdateStartingRuleText(startingRuleCounter);
         UpdateTeamInputPlaceholders();
@@ -436,6 +469,47 @@ public class MainMenuManager : MonoBehaviour
         return LocalizationManager.Instance != null
             ? LocalizationManager.Instance.GetText("TXT_TEAM_B")
             : "Team B";
+    }
+
+    private string GetLocalized(string key, string fallback)
+    {
+        return LocalizationManager.Instance != null
+            ? LocalizationManager.Instance.GetText(key)
+            : fallback;
+    }
+
+    private void BindSliderListeners()
+    {
+        if (sliderListenersBound) return;
+
+        if (sliderTime != null) sliderTime.onValueChanged.AddListener(UpdateTimeText);
+        if (sliderPass != null) sliderPass.onValueChanged.AddListener(UpdatePassText);
+        if (sliderTabu != null) sliderTabu.onValueChanged.AddListener(UpdateTabuText);
+        if (sliderPoint != null) sliderPoint.onValueChanged.AddListener(UpdatePointText);
+
+        if (sliderBombTimeMin != null) sliderBombTimeMin.onValueChanged.AddListener(UpdateBombTimeMinText);
+        if (sliderBombTimeMax != null) sliderBombTimeMax.onValueChanged.AddListener(UpdateBombTimeMaxText);
+        if (sliderBombPass != null) sliderBombPass.onValueChanged.AddListener(UpdateBombPassText);
+        if (sliderBombPoint != null) sliderBombPoint.onValueChanged.AddListener(UpdateBombPointText);
+
+        sliderListenersBound = true;
+    }
+
+    private void UnbindSliderListeners()
+    {
+        if (!sliderListenersBound) return;
+
+        if (sliderTime != null) sliderTime.onValueChanged.RemoveListener(UpdateTimeText);
+        if (sliderPass != null) sliderPass.onValueChanged.RemoveListener(UpdatePassText);
+        if (sliderTabu != null) sliderTabu.onValueChanged.RemoveListener(UpdateTabuText);
+        if (sliderPoint != null) sliderPoint.onValueChanged.RemoveListener(UpdatePointText);
+
+        if (sliderBombTimeMin != null) sliderBombTimeMin.onValueChanged.RemoveListener(UpdateBombTimeMinText);
+        if (sliderBombTimeMax != null) sliderBombTimeMax.onValueChanged.RemoveListener(UpdateBombTimeMaxText);
+        if (sliderBombPass != null) sliderBombPass.onValueChanged.RemoveListener(UpdateBombPassText);
+        if (sliderBombPoint != null) sliderBombPoint.onValueChanged.RemoveListener(UpdateBombPointText);
+
+        sliderListenersBound = false;
     }
 
 

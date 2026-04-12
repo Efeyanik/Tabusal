@@ -19,7 +19,20 @@ public class LanguageToggler : MonoBehaviour
         string currentLang = LocalizationManager.Instance != null
             ? LocalizationManager.Instance.CurrentLanguageCode
             : PlayerPrefs.GetString("SelectedLanguage", "en");
-        string newLang = (currentLang == "en") ? "tr" : "en";
+
+        string newLang;
+        switch (currentLang)
+        {
+            case "en":
+                newLang = "tr";
+                break;
+            case "tr":
+                newLang = "es";
+                break;
+            default:
+                newLang = "en";
+                break;
+        }
 
         if (dataManager != null) dataManager.ChangeLanguage(newLang);
         if (LocalizationManager.Instance != null) LocalizationManager.Instance.SetLanguage(newLang);

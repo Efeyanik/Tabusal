@@ -166,6 +166,68 @@ public class LocalizationManager : MonoBehaviour
         { "TXT_PAUSED", "PAUSED" }
     };
 
+    private Dictionary<string, string> dictES = new Dictionary<string, string>()
+    {   // main menu
+        { "BTN_PLAY", "JUGAR" },
+        { "BTN_CONTINUE", "CONTINUAR" },
+        { "BTN_RESTART", "REINICIAR" },
+        { "BTN_TRUE", "CORRECTO" },
+        { "BTN_TABOO", "TABÚ" },
+        { "BTN_PASS", "PASAR" },
+        { "TXT_STANDARD_MODE", "Modo Estándar" },
+        { "TXT_BOMB_MODE", "Modo Bomba" },
+        { "BTN_CHANGELANGUAGE","CAMBIAR IDIOMA" },
+        // settings
+        { "BTN_SET_STANDARD", "Estándar" },
+        { "BTN_SET_BOMB", "Bomba" },
+        { "BTN_BACK", "MENÚ PRINCIPAL" },
+
+        // Standard mode settings
+        { "SET_TIME", "Tiempo de Ronda" },
+        { "SET_PASS", "Pases Permitidos" },
+        { "SET_TABU", "Penalización Tabú" },
+        { "SET_POINT", "Puntuación Objetivo" },
+
+        // Bomb mode settings
+        { "SET_BOMB_RULES", "Regla de Inicio" },
+        { "SET_BOMB_MIN_TIME", "Tiempo Mín." },
+        { "SET_BOMB_MAX_TIME", "Tiempo Máx." },
+        { "SET_BOMB_PASS", "Pases Permitidos" },
+        { "SET_BOMB_POINT", "Puntuación Objetivo" },
+
+        // pre-round
+        { "BTN_START", "INICIAR" },
+        { "TXT_STARTER", "EQUIPO INICIAL" },
+        { "PH_TEAM_A", "Equipo A" },
+        { "PH_TEAM_B", "Equipo B" },
+
+        // game rules
+        { "RULE_SEQ_NAME", "Inicio Secuencial" },
+        { "RULE_SEQ_DESC", "<color=#FFE100>Inicio Secuencial:</color> Cada ronda comienza un equipo diferente. (A-B-A-B)\nEl Equipo A empieza la primera ronda." },
+        { "RULE_RAND_NAME", "Aleatorio" },
+        { "RULE_RAND_DESC", "<color=#FFE100>Aleatorio:</color> El equipo inicial de cada ronda se decide completamente al azar." },
+        { "RULE_LOSER_NAME", "Empieza el Perdedor" },
+        { "RULE_LOSER_DESC", "<color=#FFE100>Empieza el Perdedor:</color> El equipo donde explota la bomba comienza la siguiente ronda.\nLa primera ronda se determina al azar." },
+        { "RULE_COMP_NAME", "Competitivo" },
+        { "RULE_COMP_DESC", "<color=#FFE100>Competitivo:</color> Empieza el equipo con menos puntos. En caso de empate, se decide al azar." },
+
+        // info text
+        {"TXT_INFO", "Disfruta la experiencia clásica de tabú con el Modo Estándar.\\r\\n\\r\\n\\r\\nEl Modo Bomba está construido sobre la mecánica original de tabú y agrega una nueva emoción al juego.\\r\\n\\r\\n\\r\\n<color=#FFE100>Reglas del Modo Bomba:</color>\\r\\n- El tiempo exacto restante es desconocido.\\r\\n\\r\\n- Cuando una palabra se adivina correctamente, el turno pasa al equipo rival.\\r\\n\\r\\n- Si el tiempo se acaba, el equipo que está explicando o el que comete tabú pierde la ronda y el rival gana 1 punto.\\r\\n\\r\\n- El primer equipo que alcance la puntuación objetivo gana la partida.\\r\\n\\r\\n\\r\\nNo olvides personalizar la partida desde la configuración.\\r\\n" },
+
+        // dynamic texts
+        { "TXT_TEAM_A", "Equipo A" },
+        { "TXT_TEAM_B", "Equipo B" },
+        { "UI_EXTRA_TIME", "¡TIEMPO EXTRA!\nNuevo Objetivo: " },
+        { "UI_MUST_PASS", " Puntos para Ganar)" },
+        { "UI_LAST_CHANCE", "<color=#FFE100>¡ÚLTIMA OPORTUNIDAD!</color>" },
+        { "UI_NEXT_TEAM", "SIGUIENTE EQUIPO" },
+        { "TXT_INTERANSWER_NEXTTEAM", "Siguiente Equipo" },
+        { "TXT_TIME_IS_UP", "LA BOMBA EXPLOTÓ" },
+        { "TXT_WINNER", "GANADOR" },
+        { "UI_SKIPS_ALLOWED", "Pases Permitidos" },
+        { "TXT_PAUSED", "PAUSADO" }
+    };
+
     void Awake()
     {
         if (Instance == null) { Instance = this; DontDestroyOnLoad(gameObject); }
@@ -180,8 +242,21 @@ public class LocalizationManager : MonoBehaviour
     public void SetLanguage(string langCode)
     {
         string normalized = string.IsNullOrWhiteSpace(langCode) ? "en" : langCode.Trim().ToLowerInvariant();
-        CurrentLanguageCode = (normalized == "tr") ? "tr" : "en";
-        currentDictionary = (CurrentLanguageCode == "tr") ? dictTR : dictEN;
+        switch (normalized)
+        {
+            case "tr":
+                CurrentLanguageCode = "tr";
+                currentDictionary = dictTR;
+                break;
+            case "es":
+                CurrentLanguageCode = "es";
+                currentDictionary = dictES;
+                break;
+            default:
+                CurrentLanguageCode = "en";
+                currentDictionary = dictEN;
+                break;
+        }
         PlayerPrefs.SetString("SelectedLanguage", CurrentLanguageCode);
         PlayerPrefs.Save();
         OnLanguageChanged?.Invoke();

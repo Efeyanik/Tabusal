@@ -8,7 +8,7 @@ public class DataManager : MonoBehaviour
 
     void Awake()
     {
-        currentLanguage = PlayerPrefs.GetString("SelectedLanguage", "en");
+        currentLanguage = NormalizeLanguageCode(PlayerPrefs.GetString("SelectedLanguage", "en"));
         LoadCards(currentLanguage);
     }
 
@@ -42,9 +42,20 @@ public class DataManager : MonoBehaviour
 
     public void ChangeLanguage(string newLang)
     {
-        currentLanguage = newLang;
-        PlayerPrefs.SetString("SelectedLanguage", newLang);
-        LoadCards(newLang);
+        currentLanguage = NormalizeLanguageCode(newLang);
+        PlayerPrefs.SetString("SelectedLanguage", currentLanguage);
+        LoadCards(currentLanguage);
+    }
+
+    private string NormalizeLanguageCode(string langCode)
+    {
+        if (string.IsNullOrWhiteSpace(langCode)) return "en";
+
+        string code = langCode.Trim().ToLowerInvariant();
+        if (code == "tr" || code == "en" || code == "es")
+            return code;
+
+        return "en";
     }
 }
 
