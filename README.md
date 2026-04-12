@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Efeyanik/Tabusal/blob/main/NEWLOGO.jpg)" alt="Burn Art Games Logo" width="150"/>
+  <img src="https://github.com/Efeyanik/Tabusal/blob/main/NEWLOGO.jpg" alt="Burn Art Games Logo" width="150"/>
 
   # TABUSAL
   **A Neo-Noir Mobile Party Game Experience**
