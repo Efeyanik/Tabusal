@@ -27,17 +27,17 @@ Developed entirely in **Unity / C#**, this repository showcases the core archite
 
 ## 🛠️ Technical Architecture & Core Systems
 This project was engineered with a modular, manager-based architecture — a pattern commonly used in production-grade Unity titles. Every major system is decoupled into its own manager, communicating through clean data pipelines rather than direct dependencies.
-1. LocalizationManager.cs & LanguageToggler.cs & LocalizedText.cs
+### 1. LocalizationManager.cs & LanguageToggler.cs & LocalizedText.cs
 A fully custom-built, runtime localization pipeline supporting English, Turkish, Spanish, and French. Rather than relying on third-party localization packages, the system was architected from scratch: LocalizationManager parses encrypted JSON card data per language, LocalizedText components automatically bind UI elements to the active language, and LanguageToggler handles seamless in-game language switching — all without scene reloads.
-2. GameManager.cs & BombModeGameManager.cs
+### 2. GameManager.cs & BombModeGameManager.cs
 Two independent game loop controllers built as state machines — one for Standard Mode, one for Bomb Mode. They handle team turn logic, score tracking, round transitions, and timer management while keeping the UI thread perfectly in sync. The separation ensures neither mode bleeds logic into the other, making future game mode additions trivial.
-3. UIManager.cs & BombUIManager.cs
+### 3. UIManager.cs & BombUIManager.cs
 A layered UI management system that orchestrates panel transitions, animations, and real-time state feedback across both game modes. Built to handle complex multi-panel flows (main menu → pre-round → gameplay → score screen) without scene switching, keeping load times instant.
-4. DataManager.cs & GameData.cs & GameSettings.cs
+### 4. DataManager.cs & GameData.cs & GameSettings.cs
 A persistent data pipeline that separates runtime game state (GameData) from user preferences (GameSettings), both managed and serialized through DataManager. This ensures settings like target score, round time, and language preference survive across sessions cleanly.
-5. PreRoundManager.cs & PauseManager.cs
+### 5. PreRoundManager.cs & PauseManager.cs
 Lightweight but critical flow controllers. PreRoundManager handles the team handoff sequence between rounds (preventing card peeking), while PauseManager safely suspends and resumes game state — including async timers — without corruption.
-6. CardPanelSwip.cs & CardIdleAnimation.cs
+### 6. CardPanelSwip.cs & CardIdleAnimation.cs
 Custom touch input and animation controllers built specifically for mobile. CardPanelSwip implements swipe gesture detection for card navigation, while CardIdleAnimation adds subtle idle motion to cards — both contributing to the tactile, premium feel of the UI.
 
 
