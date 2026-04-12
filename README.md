@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_TO_YOUR_LOGO_HERE" alt="Burn Art Games Logo" width="150"/>
+  <img src="https://github.com/Efeyanik/Tabusal/blob/main/NEWLOGO.jpg)" alt="Burn Art Games Logo" width="150"/>
 
   # TABUSAL
   **A Neo-Noir Mobile Party Game Experience**
@@ -43,9 +43,9 @@ Developed dynamic UI scaling and magnetic slider controls (value snapping) tailo
 ## 📸 Screenshots & UI Design
 
 <div align="center">
-  <img src="LINK_TO_SCREENSHOT_1" width="250"/>
-  <img src="LINK_TO_SCREENSHOT_2" width="250"/>
-  <img src="LINK_TO_SCREENSHOT_3" width="250"/>
+  <img src="https://github.com/Efeyanik/Tabusal/blob/main/En_StdMode.jpg" width="250"/>
+  <img src="https://github.com/Efeyanik/Tabusal/blob/main/En_bombmode.jpg" width="250"/>
+  <img src="https://github.com/Efeyanik/Tabusal/blob/main/En_Settings.jpg" width="250"/>
 </div>
 
 ---
