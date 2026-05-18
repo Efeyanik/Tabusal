@@ -290,6 +290,76 @@ public class LocalizationManager : MonoBehaviour
         { "TXT_PAUSED", "EN PAUSE" }
     };
 
+    private Dictionary<string, string> dictDE = new Dictionary<string, string>()
+ {   //anamenu
+     { "BTN_PLAY", "SPIELEN" },
+     { "BTN_CONTINUE", "WEITER" },
+     { "BTN_RESTART", "NEUSTART" },
+     { "BTN_TRUE", "RICHTIG" },
+     { "BTN_TABOO", "TABU" },
+     { "BTN_PASS", "PASSEN" },
+     { "TXT_STANDARD_MODE", "Standard-Modus" },
+     { "TXT_BOMB_MODE", "Bomben-Modus" },
+     { "BTN_CHANGELANGUAGE", "SPRACHE ÄNDERN" },
+     
+     //ayarlar
+     { "BTN_SET_STANDARD", "Standard" },
+     { "BTN_SET_BOMB", "Bombe" },
+     { "BTN_BACK", "HAUPTMENÜ" },
+
+     // Standart Mod Ayarları
+     { "SET_TIME", "Rundenzeit" },
+     { "SET_PASS", "Pässe erlaubt" },
+     { "SET_TABU", "Tabu-Strafe" },
+     { "SET_POINT", "Zielpunktzahl" },
+
+     // Bomba Modu Ayarları
+     { "SET_BOMB_RULES", "Startregel" },
+     { "SET_BOMB_MIN_TIME", "Min. Zeit" },
+     { "SET_BOMB_MAX_TIME", "Max. Zeit" },
+     { "SET_BOMB_PASS", "Pässe erlaubt" },
+     { "SET_BOMB_POINT", "Zielpunktzahl" },
+
+     // --- OYUN ÖNCESİ (PreRoundPanel) ---
+     { "BTN_START", "START" },
+     { "TXT_STARTER", "STARTENDES TEAM" },
+     { "PH_TEAM_A", "Team A" },
+     { "PH_TEAM_B", "Team B" },
+
+     //GAMERULES
+     // 1. Sıralı Başlangıç
+     { "RULE_SEQ_NAME", "Abwechselnder Start" },
+     { "RULE_SEQ_DESC", "<color=#FFE100>Abwechselnder Start:</color> In jeder Runde beginnt ein anderes Team. (A-B-A-B)\nTeam A beginnt die erste Runde." },
+        
+     // 2. Rastgele Başlangıç
+     { "RULE_RAND_NAME", "Zufällig" },
+     { "RULE_RAND_DESC", "<color=#FFE100>Zufällig:</color> Welches Team die Runde beginnt, wird komplett zufällig bestimmt." },
+        
+     // 3. Kaybeden Başlar 
+     { "RULE_LOSER_NAME", "Verlierer beginnt" },
+     { "RULE_LOSER_DESC", "<color=#FFE100>Verlierer beginnt:</color> Das Team, bei dem die Bombe explodiert, beginnt die nächste Runde.\nDie erste Runde wird zufällig bestimmt." },
+
+     //4.Rekabetçi
+     { "RULE_COMP_NAME", "Kompetitiv" },
+     { "RULE_COMP_DESC", "<color=#FFE100>Kompetitiv:</color> Das Team mit weniger Punkten beginnt die Runde. Bei einem Unentschieden wird zufällig bestimmt." },
+
+     //İNFO YAZISI
+     {"TXT_INFO", "Erlebe das klassische Tabu-Spielgefühl in Bestform mit dem Standard-Modus.\r\n\r\n\r\nDer Bomben-Modus basiert auf den originalen Tabu-Mechaniken und verleiht dem Spiel eine völlig neue Spannung.\r\n\r\n\r\n<color=#FFE100>Bomben-Modus Regeln :</color>\r\n- Die genaue verbleibende Zeit ist unbekannt.\r\n\r\n- Wenn ein Wort richtig erraten wird, geht der Zug an das gegnerische Team über.\r\n\r\n- Wenn die Zeit abläuft, verliert das Team, das gerade erklärt oder einen Tabu-Fehler macht, die Runde, und das gegnerische Team erhält 1 Punkt.\r\n\r\n- Das erste Team, das die Zielpunktzahl erreicht, gewinnt das Spiel. \r\n\r\n\r\nVergiss nicht, dein Spiel in den Spieleinstellungen anzupassen.\r\n" },
+        
+     // --- DİNAMİK YAZILAR (GameManager'dan gelenler) ---
+     { "TXT_TEAM_A", "Team A" },
+     { "TXT_TEAM_B", "Team B" },
+     { "UI_EXTRA_TIME", "VERLÄNGERUNG!\nNeues Ziel: " },
+     { "UI_MUST_PASS", " Punkte zum Sieg)" },
+     { "UI_LAST_CHANCE", "<color=#FFE100>LETZTE CHANCE!</color>" },
+     { "UI_NEXT_TEAM", "NÄCHSTES TEAM" },
+     { "TXT_INTERANSWER_NEXTTEAM", "Nächstes Team" },
+     { "TXT_TIME_IS_UP", "BOMBE EXPLODIERT" },
+     { "TXT_WINNER", "GEWINNER" },
+     { "UI_SKIPS_ALLOWED", "Pässe erlaubt" },
+     { "TXT_PAUSED", "PAUSIERT" }
+ };
+
     void Awake()
     {
         if (Instance == null) { Instance = this; DontDestroyOnLoad(gameObject); }
@@ -317,6 +387,10 @@ public class LocalizationManager : MonoBehaviour
             case "fr":
                 CurrentLanguageCode = "fr";
                 currentDictionary = dictFR;
+                break;
+            case "de":
+                CurrentLanguageCode = "de";
+                currentDictionary = dictDE;
                 break;
             default:
                 CurrentLanguageCode = "en";
