@@ -53,7 +53,8 @@ Custom touch input and animation controllers built specifically for mobile. Card
 
 ## 🚀 Play The Game
 
-TABUSAL is currently in the Closed Testing phase on the Google Play Console, preparing for its V1.0 Release. 
+TABUSAL is currently in the Closed Testing phase on the Google Play Console, preparing for its V1.0 Release.
+
 Note: Card content files are not included in this repository.
 
 
