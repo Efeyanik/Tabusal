@@ -298,8 +298,8 @@ public class LocalizationManager : MonoBehaviour
      { "BTN_TRUE", "RICHTIG" },
      { "BTN_TABOO", "TABU" },
      { "BTN_PASS", "PASSEN" },
-     { "TXT_STANDARD_MODE", "Standard-Modus" },
-     { "TXT_BOMB_MODE", "Bomben-Modus" },
+     { "TXT_STANDARD_MODE", "Standard Modus" },
+     { "TXT_BOMB_MODE", "Bomben Modus" },
      { "BTN_CHANGELANGUAGE", "SPRACHE ÄNDERN" },
      
      //ayarlar
